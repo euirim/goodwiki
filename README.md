@@ -40,7 +40,7 @@ Requires Python 3.11+.
 pip install goodwiki
 ```
 
-2. Install pandoc. Follow instructions [here](https://pandoc.org/installing.html).
+2. Install pandoc v2.19.2. Follow instructions [here](https://pandoc.org/installing.html).
 
 3. Example usage:
 
@@ -57,7 +57,7 @@ You can find full details on how to use the package in the package-specific [REA
 
 ### Dataset Scripts
 
-To compile the dataset yourself, first ensure that [Poetry](https://python-poetry.org/docs/) and [Pandoc](https://pandoc.org/installing.html) is installed.
+To compile the dataset yourself, first ensure that [Poetry](https://python-poetry.org/docs/) and [Pandoc](https://pandoc.org/installing.html) v2.19.2 is installed.
 
 Then setup your local environment.
 

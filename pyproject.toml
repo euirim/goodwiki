@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "goodwiki"
-version = "1.0.0"
+version = "1.0.1"
 description = "Utility that converts Wikipedia pages into GitHub-flavored Markdown."
 authors = ["Euirim Choi <euirim@gmail.com>"]
 license = "MIT"

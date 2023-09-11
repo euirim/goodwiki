@@ -14,7 +14,7 @@ This package supports Python 3.11+.
 pip install goodwiki
 ```
 
-2. Install pandoc. Follow instructions [here](https://pandoc.org/installing.html).
+2. Install pandoc v2.19.2. Follow instructions [here](https://pandoc.org/installing.html).
 
 ## Usage
 
@@ -80,5 +80,6 @@ Full details are available in this package's [GitHub repo README](https://github
 
 ## External Links
 
+* [Changelog](https://github.com/euirim/goodwiki/releases)
 * [GitHub](https://github.com/euirim/goodwiki)
 * [Dataset](https://huggingface.co/datasets/euirim/goodwiki)
