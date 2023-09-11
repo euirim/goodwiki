@@ -1,0 +1,1260 @@
+{{Short description|Two meanings of "billion" and "trillion"}}
+{{For|the concept related to musical instruments|Scale length (string instruments)}}
+{{Good article}}
+{{Use dmy dates|date=October 2019}}
+
+The '''long and short scales''' are two of several naming systems for integer [[power of 10|powers of ten]] which use some of the same terms for different magnitudes.<ref name="Guitel1">
+{{Cite book
+ |last= Guitel |first= Geneviève
+ |author-link= Geneviève Guitel
+ |title= Histoire comparée des numérations écrites
+ |publisher= [[Groupe Flammarion|Flammarion]]
+ |year= 1975 |location= Paris
+ |pages= 51–52 |language= fr |isbn= 978-2-08-211104-1}}
+</ref><ref name="Guitel2">
+{{Cite book
+ |last= Guitel |first= Geneviève
+ |author-link= Geneviève Guitel
+ |title= Histoire comparée des numérations écrites |publisher= Flammarion
+ |year= 1975 |location= Paris
+ |pages= 566–574
+ |chapter= "Les grands nombres en numération parlée (État actuel de la question)", ''i.e. "The large numbers in oral numeration (Present state of the question)"''
+ |language= fr |isbn= 978-2-08-211104-1}}
+</ref>
+
+Some languages, particularly in [[East Asia]] and [[South Asia]], have large number naming systems that are different from both the long and short scales, such as [[Chinese numerals|Chinese]], [[Japanese numerals#Powers of 10|Japanese]] or [[Korean numerals]], and the [[Indian numbering system]].<ref name="Guitel1" /><ref name="Guitel2" /> 
+
+Much of the remainder of the world adopted either the short scale or the long scale for everyday counting powers of ten. Countries with usage of the long scale include most countries in continental Europe and most that are [[Geographical distribution of French speakers|French-speaking]], [[Geographical distribution of German speakers|German-speaking]], [[Hispanophone|Spanish-speaking]]<ref>{{Cite web |url=http://lema.rae.es/drae/ |title=Authoritative Real Academia Española (RAE) dictionary: billón |access-date=12 March 2015 |archive-url=https://web.archive.org/web/20151104145435/http://lema.rae.es/drae/ |archive-date=4 November 2015 |url-status=dead }}</ref> and [[Lusophone|Portuguese-speaking countries]] (except [[Brazil]]). Usage of the short scale is found in most [[Anglophone|English-speaking]] countries and most [[Arabic]]-speaking countries.
+
+For whole numbers smaller than 1,000,000,000 (10<sup>9</sup>), such as one thousand or one million, the two scales are identical. For larger numbers, starting with 10<sup>9</sup>, the two systems differ. For identical names, the long scale proceeds by powers of one million, whereas the short scale proceeds by powers of  one thousand. For example, in the short scale, "one billion" means one thousand millions (1,000,000,000), whereas in the long scale, it means one million millions (1,000,000,000,000). For interleaved values, the long scale system employs additional terms, typically substituting the word ending -ion for -iard. 
+
+To avoid confusion resulting from the coexistence of the two terms, the [[International System of Units]] (SI) recommends using the [[metric prefix]] to indicate orders of magnitude, associated with [[physical quantity|physical quantities]].
+
+==Scales==
+In both short and long scale naming, names are given each multiplication step for increments of the base-10 exponent of three, i.e. for each integer ''n'' in the sequence of multipliers 10<sup>3n</sup>. For certain multipliers, including those for all numbers smaller than 10<sup>9</sup>, both systems use the same names. The differences arise from the assignment of identical names to specific values of ''n'', for numbers starting with 10<sup>9</sup>, for which ''n''=3. In the short scale system, the identical names are for ''n''=3, 4, 5, ..., while the long scale places them at ''n''=4, 6, 8, etc.
+
+===Short scale===
+In the short scale, a ''[[billion]]'' means a thousand millions (''1,000,000,000'' which is 10<sup>9</sup>), a ''[[trillion]]'' means one thousand (short scale) billions (10<sup>12</sup>), and so on. Thus, a short scale  ''n''-illion equals 10<sup>3''n''+3</sup>.<ref name="pilatol1" />
+
+===Long scale===
+In the long scale, a  ''billion'' means one million millions (10<sup>12</sup>) and a ''trillion'' means one million (long scale) billions (10<sup>18</sup>), and so on.  Therefore, a long scale ''n''-illion equals 10<sup>6''n''</sup>.<ref name="Guitel1" /><ref name="Guitel2" /> In some languages, the long scale uses additional names for the intermediate multipliers, replacing the ending ''-ion'' with ''-iard''; for example, the next multiplier after ''million'' is ''milliard'' (10<sup>9</sup>); after a (long scale) ''billion'' it is ''billiard'' (10<sup>15</sup>). Hence, a (long scale) ''n''-iard equals 10<sup>6''n''+3</sup>.
+
+==Comparison==
+The relationship between the numeric values and the corresponding names in the two scales can be described as:
+
+{| class="wikitable"
+|- style="text-align:left;"
+! rowspan=2 style=" text-align:center;"|&nbsp;Value in [[positional notation]]&nbsp;
+! rowspan=2 style=" text-align:center;"|&nbsp;Value in<br>[[scientific notation]]&nbsp;
+! colspan=2 style=" text-align:center;"|&nbsp;[[Metric prefix]]&nbsp;
+! colspan="2" |&nbsp;Short&nbsp;scale&nbsp;
+! colspan="3" |&nbsp;Long scale&nbsp;
+|-
+! style="text-align:center; "|Prefix
+! style="text-align:center; "|Symbol
+! style="text-align:center; "|Name
+!Logic
+! style="text-align:center; "|Name
+! style="text-align:center; "|Alternative name
+!Logic
+|-
+| style="text-align:right;"| 1
+| style="text-align:center;"| 10<sup>0</sup> 
+| style="text-align:center;"| &nbsp;
+| style="text-align:center;"| &nbsp;
+| one
+|
+| one
+|
+| style="text-align:right;"|
+|-
+| style="text-align:right;"| 10
+| style="text-align:center;"| 10<sup>1</sup>
+| style="text-align:center;"| deca 
+| style="text-align:center;"| da
+| ten
+|
+| ten
+|
+| style="text-align:right;"|
+|-
+| style="text-align:right;"| 100
+| style="text-align:center;"| 10<sup>2</sup>
+| style="text-align:center;"| hecto
+| style="text-align:center;"| h
+| hundred
+|
+| hundred
+|
+| style="text-align:right;"|
+|-
+| style="text-align:right;"| 1,000
+| style="text-align:center;"| 10<sup>3</sup>
+| style="text-align:center;"| kilo
+| style="text-align:center;"| k
+| thousand
+| style="text-align:right;"|
+| thousand
+|
+| style="text-align:right;"|
+|-
+| style="text-align:right;"| 1,000,000
+| style="text-align:center;"| 10<sup>6</sup>
+| style="text-align:center;"| mega
+| style="text-align:center;"| M
+| million
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>1</sup>
+| million
+|
+| style="text-align:right;"| 1,000,000<sup>1</sup>
+|-
+| style="text-align:right;"| 1,000,000,000
+| style="text-align:center;"| 10<sup>9</sup>
+| style="text-align:center;"| giga
+| style="text-align:center;"| G
+| billion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>2</sup>
+| thousand million
+| milliard
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000,000<sup>1</sup>
+|-
+| style="text-align:right;"| 1,000,000,000,000
+| style="text-align:center;"| 10<sup>12</sup>
+| style="text-align:center;"| tera
+| style="text-align:center;"| T
+| trillion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>3</sup>
+| billion
+|
+| style="text-align:right;"| 1,000,000<sup>2</sup>
+|-
+| style="text-align:right;"| 1,000,000,000,000,000
+| style="text-align:center;"| 10<sup>15</sup>
+| style="text-align:center;"| peta
+| style="text-align:center;"| P
+| quadrillion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>4</sup>
+| thousand billion
+| billiard
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000,000<sup>2</sup>
+|-
+| style="text-align:right;"| 1,000,000,000,000,000,000
+| style="text-align:center;"| 10<sup>18</sup>
+| style="text-align:center;"| exa
+| style="text-align:center;"| E
+| quintillion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>5</sup>
+| trillion
+|
+| style="text-align:right;"| 1,000,000<sup>3</sup>
+|-
+| style="text-align:right;"| 1,000,000,000,000,000,000,000
+| style="text-align:center;"| 10<sup>21</sup>
+| style="text-align:center;"| zetta
+| style="text-align:center;"| Z
+| sextillion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>6</sup>
+| thousand trillion
+| trilliard
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000,000<sup>3</sup>
+|-
+| style="text-align:right;"| 1,000,000,000,000,000,000,000,000
+| style="text-align:center;"| 10<sup>24</sup>
+| style="text-align:center;"| yotta
+| style="text-align:center;"| Y
+| septillion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>7</sup>
+| quadrillion
+|
+| style="text-align:right;"| 1,000,000<sup>4</sup>
+|-
+| style="text-align:right;"| 1,000,000,000,000,000,000,000,000,000
+| style="text-align:center;"| 10<sup>27</sup>
+| style="text-align:center;"| ronna
+| style="text-align:center;"| R
+| octillion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>8</sup>
+| thousand quadrillion
+| quadrilliard
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000,000<sup>4</sup>
+|-
+| style="text-align:right;"| 1,000,000,000,000,000,000,000,000,000,000
+| style="text-align:center;"| 10<sup>30</sup>
+| style="text-align:center;"| quetta
+| style="text-align:center;"| Q
+| nonillion
+| style="text-align:right;"| 1,000&nbsp;×&nbsp;1,000<sup>9</sup>
+| quintillion
+|
+| style="text-align:right;"| 1,000,000<sup>5</sup>
+|}
+
+The relationship between the names and the corresponding numeric values in the two scales can be described as:
+
+{| class="wikitable" "
+|- style="text-align:left;"
+! rowspan=3 |&nbsp;Name&nbsp;
+! colspan=4|&nbsp;Short scale&nbsp;
+! colspan=4|&nbsp;Long scale&nbsp;
+|-
+! rowspan=2 style=" text-align:center;"|&nbsp;Value in<br>scientific notation&nbsp;
+! colspan=2 style=" text-align:center;"|&nbsp;Metric prefix
+! rowspan=2 style=" text-align:center;"|&nbsp;Logic&nbsp;
+! rowspan=2 style=" text-align:center;"|&nbsp;Value in<br>scientific notation&nbsp;
+! colspan=2 style=" text-align:center;"|&nbsp;Metric prefix
+! rowspan=2 style=" text-align:center;"|&nbsp;Logic&nbsp;
+|-
+! style=" text-align:center;"|&nbsp;Prefix
+! style="text-align:center;"|&nbsp;Symbol
+! style=" text-align:center;"|&nbsp;Prefix
+! style="text-align:center;"|&nbsp;Symbol
+|-
+| million|| style="text-align:center;"|10<sup>6</sup> || style="text-align:center;"|mega|| style="text-align:center;"|M|| style="text-align:center;"| 1,000&nbsp;×&nbsp;1,000<sup>1</sup> || style="text-align:center;"|10<sup>6</sup> || style="text-align:center;"|mega|| style="text-align:center;"|M|| style="text-align:center;"| 1,000,000<sup>1</sup>
+|-
+| billion|| style="text-align:center;"|10<sup>9</sup> || style="text-align:center;"|giga|| style="text-align:center;"|G|| style="text-align:center;"| 1,000&nbsp;×&nbsp;1,000<sup>2</sup> || style="text-align:center;"|10<sup>12</sup> || style="text-align:center;"|tera|| style="text-align:center;"|T|| style="text-align:center;"|1,000,000<sup>2</sup>
+|-
+| trillion|| style="text-align:center;"|10<sup>12</sup> || style="text-align:center;"|tera|| style="text-align:center;"|T|| style="text-align:center;"| 1,000&nbsp;×&nbsp;1,000<sup>3</sup> || style="text-align:center;"|10<sup>18</sup> || style="text-align:center;"|exa|| style="text-align:center;"|E|| style="text-align:center;"| 1,000,000<sup>3</sup> 
+|-
+| quadrillion|| style="text-align:center;"|10<sup>15</sup> || style="text-align:center;"|peta|| style="text-align:center;"|P|| style="text-align:center;"| 1,000&nbsp;×&nbsp;1,000<sup>4</sup> || style="text-align:center;"|10<sup>24</sup>|| style="text-align:center;"|yotta||style="text-align:center;"|Y|| style="text-align:center;"| 1,000,000<sup>4</sup> 
+|-
+| quintillion|| style="text-align:center;"|10<sup>18</sup> || style="text-align:center;"|exa|| style="text-align:center;"|E|| style="text-align:center;"| 1,000&nbsp;×&nbsp;1,000<sup>5</sup> || style="text-align:center;"|10<sup>30</sup>|| style="text-align:center;"|quetta||style="text-align:center;"|Q|| style="text-align:center;"| 1,000,000<sup>5</sup> 
+|- valign="top"
+| etc. || colspan=4 style="text-align:center;" | For the next [[order of magnitude]], multiply by 1,000|| colspan=4 style="text-align:center;" | For the next [[order of magnitude]], multiply by 1,000,000
+|}
+
+The root ''mil'' in ''million'' does not refer to the numeral, ''1''. The word, ''million'', derives from the Old French, ''milion'', from the earlier Old Italian, ''milione'', an intensification of the Latin word, ''mille'', a thousand. That is, a ''million'' is a ''big thousand'', much as a ''[[great gross]]'' is a dozen gross or 12 × 144 = [[1728 (number)|1728]].<ref name="Smith">
+{{Cite book
+ |last= Smith
+ |first= David Eugene
+ |author-link= David Eugene Smith
+ |title= History of Mathematics
+ |publisher= [[Dover Publications|Courier Dover Publications]]
+ |volume= II
+ |orig-year= first published 1925
+ |date= 1953
+ |pages= 81
+ |url= https://books.google.com/books?id=uTytJGnTf1kC&pg=PA81
+ |isbn= 978-0-486-20430-7
+ }}</ref>
+
+The word ''milliard'', or its translation, is found in many European languages and is used in those languages for 10<sup>9</sup>. However, it is not found in American English, which uses ''billion'', and not used in British English, which preferred to use ''thousand million'' before the current usage of ''billion''. The financial term ''yard'', which derives from ''milliard'', is used on financial markets, as, unlike the term ''billion'', it is internationally unambiguous and phonetically distinct from ''million''. Likewise, many long scale countries use the word ''billiard'' (or similar) for one thousand long scale billions (i.e., 10<sup>15</sup>), and the word ''trilliard'' (or similar) for one thousand long scale trillions (i.e., 10<sup>21</sup>), etc.<ref name="wortschatz_milliarde">
+{{cite web|title=Wortschatz-Lexikon: Milliarde|publisher=[[Universität Leipzig]]: Wortschatz-Lexikon|language=de|url=http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Milliarde|access-date=19 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20110927052529/http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Milliarde|archive-date=27 September 2011}}</ref><ref name="wortschatz_billion">
+{{cite web|title=Wortschatz-Lexikon: Billion|publisher=Universität Leipzig: Wortschatz-Lexikon|language=de|url=http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Billion|access-date=19 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20110807144431/http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Billion|archive-date=7 August 2011}}</ref><ref name="wortschatz_billiarde">
+{{cite web|title=Wortschatz-Lexikon: Billiarde|publisher=Universität Leipzig: Wortschatz-Lexikon|language=de|url=http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Billiarde|access-date=28 July 2011|url-status=dead|archive-url=https://web.archive.org/web/20110927052446/http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Billiarde|archive-date=27 September 2011}}</ref><ref name="wortschatz_trilliarde">
+{{cite web|title=Wortschatz-Lexikon: Trilliarde|publisher=Universität Leipzig: Wortschatz-Lexikon|language=de|url=http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Trilliarde|access-date=28 July 2011|url-status=dead|archive-url=https://web.archive.org/web/20110927052502/http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Trilliarde|archive-date=27 September 2011}}</ref><ref name="it_gov">
+{{cite web
+ |title= Direttiva CEE / CEEA / CE 1994 n. 55, p.12
+ |language= it
+ |publisher= [[Politics of Italy|Italian Government]]
+ |date= 21 November 1994
+ |url= http://www.frareg.com/news/legislazione/ambiente/direttiva_1994_55_CE.pdf
+ |access-date= 24 July 2011}}
+</ref>
+
+==History==
+Although this situation has been developing since the 1200s, the first recorded use of the terms ''short scale'' ({{lang-fr|échelle courte}}) and ''long scale'' ({{lang-fr|échelle longue}}) was by the French mathematician [[Geneviève Guitel]] in 1975.<ref name="Guitel1" /><ref name="Guitel2" />
+
+The short scale was never widespread before its universal adoption in the United States. It has been taught in American schools since the early 1800s.<ref name="Smith" /> It has since become common in other [[English-speaking world|English-speaking]] nations and several other countries. For most of the 19th and 20th centuries, the [[United Kingdom]] largely used the long scale,<ref name="pilatol1">{{cite book
+ |url= https://books.google.com/ngrams/graph?content=billion%2Cthousand+million%2Cmilliard&year_start=1808&year_end=1967&corpus=18&smoothing=3&share=
+ |title= British-English usage of 'Billion vs Thousand million vs Milliard'
+ |via= Google Books ngram viewer
+ |publisher= [[Google]] Inc
+ |access-date= 26 April 2014
+}}</ref><ref name="fowler">
+{{Cite book
+ |last= Fowler
+ |first= H. W.
+ |author-link= Henry Watson Fowler
+ |title= A Dictionary of Modern English Usage
+ |publisher= [[Oxford University Press]]
+ |year= 1926
+ |location= Great Britain
+ |pages= 52–53 <!-- on the actual book it is this page, on the google book it is page 169 -->
+ |url= https://books.google.com/books?id=hrtIDakUpA4C&q=billion&pg=PT169
+ |isbn= 978-0-19-860506-5}}
+</ref> whereas the [[United States]] used the short scale,<ref name="fowler" /> so that the two systems were often referred to as ''British'' and ''American'' in the [[English language]]. After several decades of increasing informal British usage of the short scale, in 1974 the government of the UK adopted it,<ref name="haroldwilson">
+{{cite web
+ |title= "BILLION" (DEFINITION) — HC Deb 20 December 1974 vol 883 cc711W–712W
+ |work= Hansard Written Answers
+ |publisher= [[Hansard]]
+ |date= 20 December 1972
+ |url= http://hansard.millbanksystems.com/written_answers/1974/dec/20/billion-definition#S5CV0883P0_19741220_CWA_439
+ |access-date= 2 April 2009}}
+</ref> and it is used for all official purposes.<ref name="odonnell">
+{{Cite news
+ |last= O'Donnell
+ |first= Frank
+ |title= Britain's £1 trillion debt mountain – How many zeros is that?
+ |newspaper= [[The Scotsman]]
+ |date= 30 July 2004
+ |url= http://news.scotsman.com/latestnews/Britains-1-trillion-debt-mountain.2550147.jp
+ |access-date= 31 January 2008}}
+</ref><ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/programmes/more_or_less/6625545.stm|title=Who wants to be a trillionaire?|date=7 May 2007|work=BBC News|access-date=11 May 2010|language=en-GB}}</ref><ref name="comrie">
+{{Cite mailing list
+ |last= Comrie
+ |first= Bernard
+ |author-link= Bernard Comrie
+ |title= billion:summary
+ |mailing-list= Linguist List
+ |date= 24 March 1996
+ |url= http://www.linguistlist.org/issues/7/7-451.html
+ |access-date= 24 July 2011}}
+</ref><ref name="oxford">
+{{cite web
+ |title= Oxford Dictionaries: How many is a billion?
+ |publisher= Oxford University Press
+ |url= https://en.oxforddictionaries.com/explore/how-many-is-a-billion/
+ |archive-url= https://web.archive.org/web/20170112163426/https://en.oxforddictionaries.com/explore/how-many-is-a-billion
+ |url-status= dead
+ |archive-date= 12 January 2017
+ |access-date= 7 May 2018}}
+</ref><ref name="oxford2">
+{{cite web
+ |title= Oxford Dictionaries: Billion
+ |publisher= Oxford University Press
+ |url= http://oxforddictionaries.com/definition/billion
+ |archive-url= https://web.archive.org/web/20110811080212/http://oxforddictionaries.com/definition/billion
+ |url-status= dead
+ |archive-date= 11 August 2011
+ |access-date= 24 July 2011}}
+</ref><ref name="nielsen">
+{{Cite book
+ |last= Nielsen
+ |first= Ron
+ |title= The Little Green Handbook
+ |publisher= [[Macmillan Publishers]]
+ |year= 2006
+ |page= [https://archive.org/details/littlegreenhandb00ronn/page/290 290]
+ |url= https://archive.org/details/littlegreenhandb00ronn/page/290
+ |isbn= 978-0-312-42581-4
+ |url-access= registration
+ }}</ref> The British usage and American usage are now identical.
+
+The existence of the different scales means that care must be taken when comparing large numbers between languages or countries, or when interpreting old documents in countries where the dominant scale has changed over time. For example, British English, French, and Italian historical documents can refer to either the short or long scale, depending on the date of the document, since each of the three countries has used both systems at various times in its history. Today, the United Kingdom officially uses the short scale, but [[France]] and [[Italy]] use the long scale.
+
+The pre-1974 former British English word ''billion'', post-1961 current French word ''billion'', post-1994 current Italian word ''bilione'', Spanish ''billón'', German ''Billion'', Dutch ''biljoen'', Danish ''billion'', Swedish ''biljon'', Finnish ''biljoona'', Slovenian ''bilijon'', Polish ''bilion'', and European Portuguese word ''bilião'' (with a different spelling to the Brazilian Portuguese variant, but in Brazil referring to short scale) all refer to 10<sup>12</sup>, being long-scale terms. Therefore, each of these words translates to the American English or post-1974 British English word: ''trillion'' (10<sup>12</sup> in the short scale), and '''not''' ''billion'' (10<sup>9</sup> in the short scale).
+
+On the other hand, the pre-1961 former French word ''billion'', pre-1994 former Italian word ''bilione'', Brazilian Portuguese word ''bilhão'', and Welsh word ''biliwn'' all refer to 10<sup>9</sup>, being short scale terms. Each of these words translates to the American English or post-1974 British English word ''billion'' (10<sup>9</sup> in the short scale).
+
+The term ''billion'' originally meant 10<sup>12</sup> when introduced.<ref name="Smith" />
+* In long scale countries, ''milliard'' was defined to its current value of 10<sup>9</sup>, leaving ''billion'' at its original 10<sup>12</sup> value and so on for the larger numbers.<ref name="Smith" /> Some of these countries, but not all, introduced new words ''billiard'', ''trilliard'', etc. as intermediate terms.<ref name="wortschatz_milliarde" /><ref name="wortschatz_billion" /><ref name="wortschatz_billiarde" /><ref name="wortschatz_trilliarde" /><ref name="it_gov" />
+* In some short scale countries, ''milliard'' was defined to 10<sup>9</sup> and ''billion'' dropped altogether, with ''trillion'' redefined down to 10<sup>12</sup> and so on for the larger numbers.<ref name="Smith" />
+* In many short scale countries, ''milliard'' was dropped altogether and ''billion'' was redefined down to 10<sup>9</sup>, adjusting downwards the value of ''trillion'' and all the larger numbers.
+
+;Timeline
+{| class="wikitable" style="width:100%;"
+|-
+! style="width:6%; vertical-align:top;"|&nbsp;Date
+! style="width:94%; vertical-align:top;"|&nbsp;Event
+|-
+|valign="top"| 13th century
+| The word ''million'' was not used in any language before the 13th century. The monk and polymath [[Maximus Planudes]] ({{circa|lk=no|1260}}–1305) was among the first recorded users of the word to document Mediterranean trade between Constantinople and Italian states.<ref name="Smith" /> Over the next two centuries, the term became widely accepted and was adopted by other Italian states, France and other European countries.
+|-
+|valign="top"|Late 14th century
+| [[File:Piers Plowman.jpg|thumb|upright|{{center|''[[Piers Plowman]]'', a 17th-century copy of the original 14th-century allegorical narrative poem by [[William Langland|William&nbsp;Langland]]}}]] The word ''million'' entered the English language. One of the earliest references is [[William Langland]]'s ''[[Piers Plowman]]'' (written {{circa|lk=no|1360}}–1387 in [[Middle English]]),<ref name="Smith" /> with
+{{blockquote|{{lang|enm|Coueyte not his goodes<br>For millions of moneye}}}}
+
+'''Translation''':
+{{blockquote|Covet not his goods<br>for millions of money}}
+|-
+|valign="top"|1475
+|French [[mathematician]] [[Jehan Adam]], writing in [[Middle French]], recorded the words ''bymillion'' and ''trimillion'' as meaning 10<sup>12</sup> and 10<sup>18</sup> respectively in a manuscript ''Traicté en arismetique pour la practique par gectouers'', now held in the [[Bibliothèque Sainte-Geneviève]] in [[Paris]].<ref name="traicte">{{Cite journal
+ |last= Adam
+ |first= Jehan
+ |author-link= Jehan Adam
+ |title= Traicté en arismetique pour la practique par gectouers... (MS 3143)
+ |publisher= [[Bibliothèque Sainte-Geneviève]]
+ |place= Paris
+ |year= 1475
+ |language= frm
+ }}
+</ref><ref name="bsg">{{cite web
+ |url= http://www-bsg.univ-paris1.fr/ExposVirtuelles/exposvirtuellesreserves/sciences/savants2.htm
+ |title= HOMMES DE SCIENCE, LIVRES DE SAVANTS A LA BIBLIOTHÈQUE SAINTE-GENEVIÈVE, Livres de savants II
+ |year= 2005
+ |work= Traicté en arismetique pour la practique par gectouers…
+ |publisher= Bibliothèque Sainte-Geneviève
+ |access-date= 25 October 2014
+ |language= fr
+}}</ref><ref>
+{{Cite journal
+ |last= Thorndike
+ |first= Lynn
+ |author-link= Lynn Thorndike
+ |title= The Arithmetic of Jehan Adam, 1475 A.D
+ |journal= The American Mathematical Monthly
+ |year= 1926
+ |volume= 1926
+ |issue= January
+ |pages= 24–28
+ |publisher= [[Mathematical Association of America]]
+ |doi= 10.2307/2298533
+ |jstor= 2298533
+ }}</ref>
+
+{{blockquote|{{lang|frm|... item noctes que le premier greton dembas vault ung, le second vault dix, le trois vault cent, le quart {{sic|vult}} mille, le Ve vault dix M, le VIe vault cent M, le VIIe vault Milion, Le VIIIe vault dix Million, Le IXe vault cent Millions, Le Xe vault Mil Millions, Le XIe vault dix mil Millions, Le XIIe vault Cent mil Millions, Le XIIIe vault bymillion, Le XIIIIe vault dix bymillions, Le XVe vault {{sic|cent mil}} bymillions, Le XVIe vault mil bymillions, Le XVIIe vault dix Mil bymillions, Le XVIIIe vault cent mil bymillions, Le XIXe vault trimillion, Le XXe vault dix trimillions ...|italic=unset}}}}
+
+'''Translation''':
+{{blockquote|... Likewise, note that the first counter from the bottom is worth one, the 2nd is worth ten, the 3rd is worth one hundred, the 4th is worth one thousand, the 5th is worth ten thousand, the 6th is worth one hundred thousand, the 7th is worth a million, the 8th is worth ten millions, the 9th is worth one hundred millions, the 10th is worth one thousand millions, the 11th is worth ten thousand millions, the 12th is worth one hundred thousand million, the 13th is worth a bymillion, the 14th is worth ten bymillions, the 15th is worth one {{bracket|hundred}} bymillions, the 16th is worth one thousand bymillions, the 17th is worth ten thousand bymillions, the 18th is worth hundred thousand bymillions, the 19th is worth a trimillion, the 20th is worth ten trimillions ...}}
+|-
+| valign="top"|1484
+|[[File:Chuquet.gif|thumb|right|{{center|''Le Triparty en la Science des Nombres par Maistre Nicolas Chuquet Parisien''<br> an extract from Chuquet's original 1484 manuscript}}]] French mathematician [[Nicolas Chuquet]], in his article ''Le Triparty en la Science des Nombres par Maistre Nicolas Chuquet Parisien'',<ref name="Chuquet1">
+{{Cite journal
+ |last= Chuquet
+ |first= Nicolas
+ |author-link= Nicolas Chuquet
+ |title= Le Triparty en la Science des Nombres par Maistre Nicolas Chuquet Parisien
+ |journal= Bulletino di Bibliographia e di Storia delle Scienze Matematische e Fisische
+ |volume= XIII
+ |issue= 1880
+ |pages= 593–594
+ |publisher= [[Aristide Marre]]
+ |location= Bologna
+ |date= 1880
+ |orig-year= written 1484
+ |language= frm
+ |url= http://www.miakinen.net/vrac/nombres#lettres_zillions
+ |issn= 1123-5209
+ |access-date= 17 July 2011
+}}</ref><ref name="Chuquet2">
+{{cite web
+ |last= Chuquet
+ |first= Nicolas
+ |author-link= Nicolas Chuquet
+ |title= Le Triparty en la Science des Nombres par Maistre Nicolas Chuquet Parisien
+ |publisher= miakinen.net
+ |language= frm
+ |url= http://www.miakinen.net/vrac/nombres#lettres_zillions
+ |access-date= 1 March 2008
+ |date= 1880
+ |orig-year= written 1484
+}}</ref><ref name="Flegg">
+{{Cite journal
+ |last= Flegg
+ |first= Graham
+ |title= Tracing the origins of One, Two, Three.
+ |journal= [[New Scientist]]
+ |volume= 72
+ |issue= 1032
+ |page= 747
+ |publisher= [[Reed Business Information]]
+ |date= 23–30 December 1976
+ |url= https://books.google.com/books?id=obHSBCxiJ1YC&pg=PA747
+ |issn= 0262-4079
+ |access-date= 17 July 2011}}
+</ref> used the words ''byllion,'' ''tryllion,'' ''quadrillion,'' ''quyllion,'' ''sixlion,'' ''septyllion,'' ''ottyllion,'' and ''nonyllion'' to refer to 10<sup>12</sup>, 10<sup>18</sup>, ... 10<sup>54</sup>. Most of the work was copied without attribution by [[Estienne de La Roche]] and published in his 1520 book, ''[[L'arismetique]]''.<ref name="Chuquet1" /> Chuquet's original article was rediscovered in the 1870s and then published for the first time in 1880.
+
+{{blockquote|{{lang|frm|...[preder s'] Item l'on doit savoir que ung million vault<br>mille milliers de unitez, et ung byllion vault mille<br>milliers de millions, et [ung] tryllion vault mille milliers<br>de byllions, et ung quadrillion vault mille milliers de<br>tryllions et ainsi des aultres : Et de ce en est pose ung<br>exemple nombre divise et punctoye ainsi que devant est<br>dit, tout lequel nombre monte 745324 tryllions<br>804300 byllions 700023 millions 654321.<br>Exemple : 745324'8043000'700023'654321 ...}} {{sic}}}}
+
+'''Translation''':
+{{blockquote|...likewise, one should know that a million is worth<br>a thousand thousand units, and a byllion is worth a thousand<br>thousand millions, and tryllion is worth a thousand thousand<br>byllions, and a quadrillion is worth a thousand thousand<br>tryllions, and so on for the others. And an example of this follows,<br>a number divided up and punctuated as previously<br>described, the whole number being 745324 tryllions,<br>804300 byllions 700023 millions 654321.<br>Example: 745324'8043000'700023'654321 ...{{sic}}}}
+
+The extract from Chuquet's manuscript, the transcription and translation provided here all contain an original mistake: one too many zeros in the 804300 portion of the fully written out example: 745324'804300'''''0'''''&nbsp;'700023'654321 ...
+|-
+|valign="top"|1516
+| [[File:Guillaume Budé, by Jean Clouet.jpg|thumb|upright|{{center|[[Guillaume Budé|Guilielmus Budaeus or Guillaume Budé]] (1467–1540)}}]] French mathematician Budaeus ([[Guillaume Budé]]), writing in Latin, used the term ''milliart'' to mean "ten myriad myriad" or 10<sup>9</sup> in his book ''De Asse et partibus eius Libri quinque''.<ref name="Bude">
+{{Cite book
+ |last= Budaeus
+ |first= Guilielmus
+ |author-link= Guillaume Budé
+ |title= De Asse et partibus eius Libri quinque
+ |year= 1516
+ |pages= folio 93
+ |language= la
+ }}</ref>
+{{blockquote|{{lang|la|.. hoc est decem myriadum myriadas:quod vno verbo nostrates abaci studiosi Milliartum appellant:quasi millionum millionem}}}}
+
+'''Translation''':
+{{blockquote|.. this is ten [[myriad]] myriads, which in one word our students of numbers call Milliart, as if a million millions}}
+|-
+| valign="top"|1549
+| The influential French mathematician [[Jacques Pelletier du Mans]] used the name ''milliard'' (or ''milliart'') to mean 10<sup>12</sup>, attributing the term to the earlier usage by [[Guillaume Budé]]<ref name="Bude" />
+|-
+| valign="top"| 17th century
+| With the increased usage of large numbers, the traditional punctuation of large numbers into six-digit groups evolved into three-digit group punctuation. In some places, the large number names were then applied to the smaller numbers, following the new punctuation scheme. Thus, in France and Italy, some scientists then began using ''billion'' to mean 10<sup>9</sup>, ''trillion'' to mean 10<sup>12</sup>, etc.<ref>{{cite book |last=Littré |first=Émile |author-link1=Émile Littré |date=1873–1874 |title=Dictionnaire de la langue française |url=http://www.littre.org/definition/billion |location=Paris, France |publisher=L. Hachette |page=347 |quote=Ce n'est qu'au milieu du XVIIe siècle qu'il fut réglé que les tranches, au lieu d'être de six en six chiffres, seraient de trois en trois chiffres; ce qui revint à diviser par 1000 l'ancien billion, l'ancien trillion, etc. [It was only in the middle of the 17th century that it was settled that the slices, instead of being from six to six digits, would be from three to three digits; which resulted in dividing by 1000 the old billion, the old trillion, and so on.]}}</ref> This usage formed the origins of the later short scale. The majority of scientists either continued to say ''thousand million'' or changed the meaning of the Pelletier term, ''milliard'', from "million of millions" down to "thousand million".<ref name="Smith"/> This meaning of ''milliard'' has been occasionally used in England,<ref name="fowler" /> but was widely adopted in France, Germany, Italy and the rest of Europe, for those keeping the original long scale billion from Adam, Chuquet and Pelletier.
+|-
+| valign="top"| 1676
+|The first published use of ''milliard'' as 10<sup>9</sup> occurred in the Netherlands.<ref name="Smith" /><ref name="houck">{{Cite journal
+ |last= Houck
+ |year= 1676
+ |title= Arithmetic
+ |location= Netherlands
+ |page= 2
+ }}</ref>
+{{blockquote|{{lang|nl|.. milliart/ofte duysent millioenen..}}}}
+
+'''Translation''':
+{{blockquote|..milliart / also thousand millions..}}
+|-
+| valign="top"|1729
+|The short-scale meaning of the term ''billion'' had already been brought to the British American colonies. The first American appearance of the short scale value of ''billion'' as 10<sup>9</sup> was published in the ''[[Greenwood Book]]'' of 1729, written anonymously by Prof. [[Isaac Greenwood]] of [[Harvard College]].<ref name="Smith" />
+|-
+| valign="top"|Late 18th century
+|As early as 1762 (and through at least the early 20th century), the dictionary of the ''[[Académie française]]'' defined ''billion'' as a term of arithmetic meaning a thousand millions.<ref>{{cite book |author=<!--Les Académiciens de l'Académie Françoise--> |title=Dictionnaire de l'académie françoise |url=https://books.google.com/books?id=0oM-AAAAcAAJ&q=Dictionnaire+de+l'Académie+Française&pg=PA1 |location=Paris, France |publisher=Institut de France |page=177 |date=1762 |edition= 4th}}</ref><ref>{{cite book |author=<!--Les Académiciens de l'Académie Française--> |title=Dictionnaire de l'Académie française |url=http://portail.atilf.fr/cgi-bin/dico1look.pl?strippedhw=billion&dicoid=ACAD1835&headword=&dicoid=ACAD1835 |location=Paris, France |page=189 |date=1835 | edition= 6th}}</ref><ref>{{cite book |author=<!--Les Académiciens de l'Académie Française--> |title=Dictionnaire de l'Académie française |url=https://books.google.com/books?id=P2whAQAAMAAJ&q=Dictionnaire+de+l'Académie+Française&pg=PR23 |location=Paris, France |publisher=Institut de France |page=182 |date=1877 |edition= 7th}}</ref><ref>{{cite book |author=<!--Les Académiciens de l'Académie Française--> |title=Dictionnaire de l'Académie française |url=http://portail.atilf.fr/cgi-bin/dico1look.pl?strippedhw=billion&headword=&docyear=ALL&dicoid=ACAD1932&articletype=1 |location=Paris, France |publisher=Institut de France |page=144 |date=1932–1935|edition= 8th}}</ref>
+|-
+| valign="top"|Early 19th century
+|France widely converted to the short scale, and was followed by the U.S., which began teaching it in schools. Many French encyclopedias of the 19th century either omitted the long scale system or called it "désormais obsolète", a now obsolete system. Nevertheless, by the mid 20th century France would officially convert back to the long scale.
+|-
+| valign="top"|1926
+|[[File:FowlersModernEnglishUsageFrontispiece.jpg|thumb|upright|{{center|''[[A Dictionary of Modern English Usage]]''<br>by [[Henry Watson Fowler|H. W. Fowler]]}}]] [[Henry Watson Fowler|H. W. Fowler]]'s ''[[A Dictionary of Modern English Usage]]''<ref name="fowler" /> noted
+{{blockquote|It should be remembered that "billion" does not mean in American use (which follows the French) what it means in British. For to us it means the second power of a million, i.e. a million millions ([[1000000000000 (number)|1,000,000,000,000]]); for Americans it means a thousand multiplied by itself twice, or a thousand millions ([[1000000000 (number)|1,000,000,000]]), what we call a ''milliard.'' Since ''billion'' in our sense is useless except to astronomers, it is a pity that we do not conform.}}
+
+Although American English usage did not change, within the next 50 years French usage changed from short scale to long and British English usage changed from long scale to short.
+|-
+| valign="top"|1948
+|The 9th [[General Conference on Weights and Measures]] received requests to establish an International System of Units. One such request was accompanied by a draft French Government discussion paper, which included a suggestion of universal use of the long scale, inviting the short-scale countries to return or convert.<ref name="si1948">
+{{cite web
+ |title= Resolution 6 of the 9th meeting of the CGPM (1948)
+ |publisher= [[BIPM]]
+ |url= http://www.bipm.org/en/CGPM/db/9/6/
+ |access-date= 7 August 2011
+}}</ref> This paper was widely distributed as the basis for further discussion. The matter of the International System of Units was eventually resolved at the 11th General Conference in 1960. The question of long scale versus short scale was not resolved and does not appear in the list of any conference resolutions.<ref name="si1948" /><ref name="si1954">
+{{cite web
+ |title= Resolution 6 of the 10th meeting of the CGPM (1954)
+ |publisher= BIPM
+ |url= http://www.bipm.org/en/CGPM/db/10/6/
+ |access-date= 23 June 2012
+}}</ref>
+|-
+| valign="top"|1960
+|The 11th [[General Conference on Weights and Measures]] adopted the [[International System of Units]] (SI), with its own set of numeric prefixes.<ref name="si">
+{{cite web
+ |title= Resolution 12 of the 11th meeting of the CGPM (1960)
+ |publisher= BIPM
+ |url= http://www.bipm.org/jsp/en/ViewCGPMResolution.jsp?CGPM=11&RES=12
+ |access-date= 28 July 2011
+}}</ref> SI is therefore independent of the number scale being used. SI also notes the language-dependence of some larger-number names and advises against using ambiguous terms such as billion, trillion, etc.<ref>{{Cite book
+ |title= The International System of Units (SI)
+ |publisher= BIPM
+ |edition= 8
+ |date= May 2006
+ |pages= 134 / 5.3.7 Stating values of dimensionless quantities, or quantities of dimension one
+ |url= http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf
+ |isbn= 92-822-2213-6
+ |archive-url= https://web.archive.org/web/20110725080532/http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf
+ |archive-date= 25 July 2011
+ |access-date= 24 July 2011
+ |url-status= dead
+ }}</ref> The [[National Institute of Standards and Technology]] within the US also considers that it is best that they be avoided entirely.<ref>{{cite journal |last1= Thompson |first1= Ambler |last2= Taylor |first2= Barry N. |date= 30 March 2008 |title= Guide for the Use of the International System of Units (SI), NIST SP – 811 |journal= NIST |url= https://www.nist.gov/manuscript-publication-search.cfm?pub_id=200349 |location= US |publisher= National Institute of Standards and Technology |page= 21 |access-date= 13 September 2014
+|archive-date=8 March 2021
+|archive-url=https://web.archive.org/web/20210308121012/https://www.nist.gov/publications/guide-use-international-system-units-si?pub_id=200349
+|url-status=live
+}}</ref>
+|-
+| valign="top"|1961
+|The [[Cabinet of France|French Government]] confirmed their official usage of the long scale in the ''[[Journal officiel]]'' (the official French Government gazette).<ref name="fr_gov">
+{{Cite journal|title=Décret 61-501|journal=Journal Officiel|pages=4587 note 3a, and erratum on page 7572|publisher=[[Cabinet of France|French Government]]|date=11 August 1961|language=fr|url=http://www.ensmp.net/pdf/1961/decr-61-0501.pdf|access-date=31 January 2008|orig-year=commissioned 3 May 1961 published 20 May 1961|url-status=dead|archive-url=https://web.archive.org/web/20100120005624/http://www.ensmp.net/pdf/1961/decr-61-0501.pdf|archive-date=20 January 2010}}</ref>
+|-
+| valign="top"|1974
+|[[File:Lord Harold Wilson Allan Warren.jpg|thumb|upright|{{center|[[Prime Minister of the United Kingdom|British prime minister]] [[Harold Wilson]]<br>(1916–1995)}}]] [[British prime minister]] [[Harold Wilson]] explained in a written answer to the [[House of Commons of the United Kingdom|House of Commons]] that UK government [[statistics]] would from then on use the short scale.<ref name="odonnell" /> [[Hansard]],<ref name="haroldwilson" /> for 20 December 1974, reported it
+
+{{blockquote|[[Robin Maxwell-Hyslop|Mr. Maxwell-Hyslop]] asked the Prime Minister whether he would make it the practice of his administration that when Ministers employ the word 'billion' in any official speeches, documents, or answers to [[UK Parliamentary questions#Parliamentary Questions|Parliamentary Questions]], they will, to avoid confusion, only do so in its British meaning of 1 million million and not in the sense in which it is used in the United States of America, which uses the term 'billion' to mean 1,000 million.<br>
+The Prime Minister: No. The word 'billion' is now used internationally to mean 1,000 million and it would be confusing if British Ministers were to use it in any other sense. I accept that it could still be interpreted in this country as 1 million million and I shall ask my colleagues to ensure that, if they do use it, there should be no ambiguity as to its meaning.}}
+
+The [[BBC]] and other UK mass media quickly followed the government's lead within the UK.
+
+During the last quarter of the 20th century, most other English-speaking countries (Ireland, Australia, New Zealand, South Africa, Zimbabwe, etc.) either also followed this lead or independently switched to the short scale use. However, in most of these countries, some limited long scale use persists and the official status of the short scale use is not clear.
+|-
+| valign="top"|1975
+|French mathematician [[Geneviève Guitel]] introduced the terms ''long scale'' ({{lang-fr|échelle longue}}) and ''short scale'' ({{lang-fr|échelle courte}}) to refer to the two numbering systems.<ref name="Guitel1" /><ref name="Guitel2" />
+|-
+| valign="top"|1994
+|The [[Italian Government]] confirmed their official usage of the long scale.<ref name="it_gov" />
+|}
+
+As large numbers in natural sciences are usually represented by metric prefixes, scientific notation or otherwise, the most commonplace occurrence of large numbers represented by long or short scale terms is in finance. The following table includes some historic examples related to hyper-inflation and other financial incidents.
+
+;Timeline
+{| class="wikitable" style="width:100%;"
+|-
+! style="width:6%; vertical-align:top;"|&nbsp;Date
+! style="width:94%; vertical-align:top;"|&nbsp;Event
+
+|-
+| valign="top"|1923
+| {{multiple image
+| caption_align = center
+| image1 = 1923 Deutsches Reich 10milliardenMk Mi328.jpg
+| width1 = 150
+| alt1 = 10 Milliarden [[German Papiermark|Mark]] (10<sup>10</sup> mark) stamp
+| caption1 = 10 Milliarden [[German Papiermark|Mark]] (10<sup>10</sup> mark) stamp
+| image2 = Billionmarks.jpg
+| width2 = 250
+| alt2 = 1000 [[German Papiermark|Mark]] German banknote, over-stamped in red with "Eine Milliarde Mark" (10<sup>9</sup> mark)
+| caption2 = 1000 [[German Papiermark|Mark]] German banknote, over-stamped in red with "Eine Milliarde Mark" (10<sup>9</sup> mark)
+| image3 = Bundesarchiv Bild 102-00104, Inflation, Tapezieren mit Geldscheinen.jpg
+| width3 = 170
+| alt3 = Using German banknotes as wallpaper following the 1923 hyperinflation
+| caption3 = Using German banknotes as wallpaper following the 1923 [[hyperinflation]]
+}}
+
+[[Hyperinflation in the Weimar Republic|German hyperinflation in the 1920s]] [[Weimar Republic]] caused 'Eintausend Mark' (1000 [[German Papiermark|Mark]] = 10<sup>3</sup> Mark) German banknotes to be over-stamped as 'Eine Milliarde Mark' (10<sup>9</sup> Mark). This introduced large-number names to the German populace.
+
+The Mark or Papiermark was replaced at the end of 1923 by the [[German Rentenmark|Rentenmark]] at an exchange rate of
+
+1 Rentenmark = 1 billion (long scale) Papiermark = 10<sup>12</sup> Papiermark = 1 trillion (short scale) Papiermark
+|-
+| valign="top"|1946
+| {{multiple image
+ | caption_align= center
+ | image1= HUP 100MB 1946 obverse.jpg
+ | width1= 250
+ | alt1= 10<sup>20</sup> [[Hungarian pengő]] banknote issued in 1946
+ | caption1= 10<sup>20</sup> [[Hungarian pengő]] banknote issued in 1946
+ | image2=
+ | width2= 170
+ | alt2= Sweeping up pengő banknotes in the street, following the 1946 introduction of the forint
+ | caption2= Sweeping up pengő banknotes in the street, following the 1946 introduction of the forint
+}}
+
+[[Hungarian pengő hyperinflation|Hyperinflation in Hungary]] in 1946 led to the introduction of the 10<sup>20</sup> [[Hungarian pengő|pengő]] banknote.
+
+100 million b-pengő (long scale) = 100 trillion (long scale) pengő = 10<sup>20</sup> pengő = 100 quintillion (short scale) pengő.
+
+On 1 August 1946, the [[Hungarian forint|forint]] was introduced at a rate of
+
+1 forint = 400 quadrilliard (long scale) pengő = 4 × 10<sup>29</sup> pengő = 400 octillion (short scale) pengő.
+|-
+| valign="top"|1993
+|[[File:500000000000 dinars.jpg|thumb|right|{{center|5 × 10<sup>11</sup> [[Yugoslav dinar]] banknotes from 1993}}]]
+[[Hyperinflation in the Federal Republic of Yugoslavia|Hyperinflation in Yugoslavia]] led to the introduction of 5 × 10<sup>11</sup> [[Yugoslav dinar|dinar]] banknotes.
+
+500 thousand million (long scale) dinars = 5 × 10<sup>11</sup> [[Yugoslav dinar|dinar]] banknotes = 500 billion (short scale) dinars.
+
+The later introduction of the new dinar came at an exchange rate of
+
+1 new dinar = 1 × 10<sup>27</sup> dinars = ~1.3 × 10<sup>27</sup> pre 1990 dinars.
+|-
+| valign="top"|2009
+|[[File:Zimbabwe $100 trillion 2009 Obverse.jpg|thumb|right|{{center|10<sup>14</sup> [[Zimbabwean dollar]]s banknote from 2009}}]]
+[[Hyperinflation in Zimbabwe]] led to banknotes of 10<sup>14</sup> [[Zimbabwean dollar]]s, marked "One Hundred Trillion Dollars" (short scale), being issued in 2009, shortly ahead of the currency being abandoned<ref name="zimbabwe1">
+{{cite news
+ |title= BBC News: Zimbabweans play the zero game
+ |work= BBC
+ |date= 23 July 2008
+ |url= http://news.bbc.co.uk/1/hi/world/africa/7516874.stm
+ |access-date= 13 July 2012}}
+</ref><ref name="zimbabwe2">
+{{cite news
+ |title= BBC News: Zimbabwe rolls out Z$100tr note
+ |work= BBC
+ |date= 16 January 2009
+ |url= http://news.bbc.co.uk/1/hi/7832601.stm
+ |access-date= 24 July 2010}}
+</ref><ref name="zimbabwe3">
+{{cite news
+ |title= BBC News: Zimbabwe abandons its currency
+ |work= BBC
+ |date= 29 January 2009
+ |url= http://news.bbc.co.uk/1/hi/7859033.stm
+ |access-date= 13 July 2012}}</ref> after a final [[redenomination]] to the 'fourth dollar'. From 2013 to 2019 when the [[RTGS Dollar]] entered use, no new currency was announced, and so foreign currencies were used instead.
+
+100 trillion (short scale) Zimbabwean dollars = 10<sup>14</sup> Zimbabwean dollars = 100 billion (long scale) Zimbabwean dollars = 10<sup>27</sup> pre-2006 Zimbabwean dollars = 1 quadrilliard (long scale) pre-2006 Zimbabwean dollars.
+|-
+| valign="top"|2022
+| {{As of|2022|11|24}}, the [[National debt of the United States|combined total public debt]] of the [[United States]] stood at [[United States dollar|$]]31.299 trillion.<ref name=DebtToThePenny>{{cite web |url= https://usdebtclock.org/ |title= US National Debt Clock |access-date = 24 Nov 2022}}</ref>
+
+31 trillion (short scale) US Dollars = 3.1 × 10<sup>13</sup> US Dollars = 31 billion (long scale) US Dollars
+|}
+
+==Current usage==
+[[File:EScalas corta y larga.svg|thumb|center|650px|Short and long scale usage throughout the world{{refbegin|3}}
+{{Legend|#bee6a0|Long scale}}
+{{Legend|#3b4e93|Short scale}}
+{{Legend|#0088ab|Short scale with milliard instead of billion}}
+{{Legend|#30bead|Both scales}}
+{{Legend|#fc8d62|Other naming system}}
+{{Legend|#E0E0E0|No data}}
+{{refend}}]]
+
+===Short scale users===
+====English-speaking====
+{{block indent|''10<sup>6</sup>, one million; 10<sup>9</sup>, one billion; 10<sup>12</sup>, one trillion; etc.''}}
+
+Most English-language countries and regions use the short scale with 10<sup>9</sup> being ''billion''. For example:{{#tag:ref|'''English language countries''': Apart from the United States, the long scale was used for centuries in many English language countries before being superseded in recent times by short scale usage. Because of this history, some long scale use persists<ref name="nielsen" /> and the official status of the short scale in anglophone countries other than the UK and US is sometimes obscure.<ref name="Smith" /> |group="shortscale note"}}
+
+{{div col|colwidth=18em}}
+*{{ASM}}
+*{{AIA}}
+*{{ATG}}
+*{{AUS}} {{#tag:ref|'''Australian usage''': In Australia, education, media outlets, and literature all use the short scale in line with other English-speaking countries. The current recommendation by the Australian Government Department of Finance and Deregulation (formerly known as AusInfo), and the legal definition, is the short scale.<ref name="rba">
+{{cite web
+ |title= RBA: Definition of billion
+ |publisher= [[Reserve Bank of Australia]]
+ |url= http://www.rba.gov.au/glossary/index.html?search=billion
+ |access-date= 22 August 2011}}
+</ref> As recently as 1999, the same department did not consider short scale to be standard, but only used it occasionally. Some documents use the term ''thousand million'' for 10<sup>9</sup> in cases where two amounts are being compared using a common unit of one 'million'. |group="shortscale note"}}<ref name="rba" />
+*{{BHS}}
+*{{BRB}}
+*{{BLZ}} (English-speaking)
+*{{BMU}}
+*{{BWA}} (English-speaking)
+*{{VGB}}
+*{{CMR}} (English-speaking)
+*{{CAN}} (English-speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{CYM}}
+*{{COK}}
+*{{DMA}}
+*{{ERI}}
+*{{SWZ}} <!-- Eswatini -->(formerly ''Swaziland'')
+*{{ETH}}
+*{{FLK}}
+*{{FJI}}
+*{{GMB}}
+*{{GHA}} (English-speaking)
+*{{GIB}}
+*{{GRD}}
+*{{GUM}}
+*{{flag|Bailiwick of Guernsey|name=Guernsey}}
+*{{GUY}} (English-speaking)
+*{{HKG}} (English-speaking)
+*{{IRL}} (English-speaking, {{lang-ga|billiún}}, ''trilliún'')
+*{{IMN}}
+*{{JAM}}
+*{{JEY}}
+*{{KEN}} (English-speaking)
+*{{KIR}}
+*{{LSO}}
+*{{LBR}}
+*{{MWI}} (English-speaking)
+*{{MYS}} (English-speaking; {{lang-ms|bilion}} billion, {{lang|ms|trilion}} trillion)
+*{{MLT}} (English-speaking; {{lang-mt|biljun}}, {{lang|mt|triljun}}
+*{{MHL}}
+*{{MUS}} (English speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{FSM}}
+*{{MSR}}
+*{{NRU}}
+*{{NZ}}
+*{{NGA}} (English-speaking)
+*{{NIU}}
+*{{NFK}}
+*{{MNP}}
+*{{PLW}}
+*{{PNG}} (English-speaking)
+*{{PHI}} (English-speaking) {{#tag:ref|'''Filipino usage''': Some short-scale words have been adopted into [[Filipino language|Filipino]]. |group="shortscale note"}}
+*{{PCN}}
+*{{RWA}}
+*{{SHN}}
+*{{KNA}}
+*{{LCA}}
+*{{VCT}}
+*{{WSM}}
+*{{SYC}} (English speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{SLE}}
+*{{SGP}} (English-speaking)
+*{{SLB}}
+*{{SGS}}
+*{{SSD}} (English-speaking)
+*{{TZA}} (English-speaking)
+*{{TKL}}
+*{{TON}}
+*{{TTO}}
+*{{TCA}}
+*{{TUV}}
+*{{UGA}} (English-speaking)
+*{{UK}} (''see also'' Wales ''below'') {{#tag:ref|'''British usage''': ''Billion'' has meant 10<sup>9</sup> in most sectors of official published writing for many years now. The [[UK government]], the [[BBC]], and most other broadcast or published [[mass media]], have used the short scale in all contexts since the mid-1970s.<ref name="haroldwilson" /><ref name="odonnell" /><ref name="blastland">{{Cite news
+ |work= BBC
+ |title= BBC News: Who wants to be a trillionaire?
+ |date= 7 May 2007
+ |url= http://news.bbc.co.uk/1/hi/programmes/more_or_less/6625545.stm
+ |access-date= 11 May 2010
+}}</ref><ref name="comrie" />{{paragraph break}} Before the widespread use of ''billion'' for 10<sup>9</sup>, UK usage generally referred to ''thousand million'' rather than milliard.<ref name="oxford" /> The long scale term ''milliard'', for 10<sup>9</sup>, is obsolete in British English, though its derivative, ''yard'', is still used as slang in the London money, foreign exchange, and bond markets. |group="shortscale note"}}<ref name="haroldwilson" /><ref name="odonnell" /><ref name="blastland" /><ref name="comrie" /><ref name="oxford" />
+*{{USA}}{{#tag:ref|'''American usage''': In the United States, the short scale has been taught in school since the early 19th century. It is therefore used exclusively.<ref name="cambridge-billion">{{cite dictionary
+ |title= billion
+ |work= Cambridge Dictionaries Online
+ |publisher= [[Cambridge University Press]]
+ |url= http://dictionaries.cambridge.org/define.asp?key=billion*1+0&amp;dict=A
+ |access-date= 21 August 2011}}</ref><ref name="cambridge-trillion">{{cite web
+ |title= trillion
+ |work= Cambridge Dictionaries Online
+ |publisher= Cambridge University Press
+ |url= http://dictionaries.cambridge.org/define.asp?key=trillion*1+0&amp;dict=A
+ |access-date= 21 August 2011}}</ref> |group="shortscale note"}}<ref name="cambridge-billion" /><ref name="cambridge-trillion" />
+*{{VIR}}
+*{{VUT}} (English speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{ZMB}} (English-speaking)
+*{{ZIM}} (English-speaking)<ref name="zimbabwe1" /><ref name="zimbabwe2" /><ref name="zimbabwe3" />
+{{div col end}}
+
+====Arabic-speaking====
+{{block indent|''10<sup>6</sup>, {{lang|ar|[[:ar:مليون|مَلْيُوْن]]|rtl=yes}} {{lang|ar-Latn|malyoon}}; 10<sup>9</sup>, {{lang|ar|[[:ar:مليار|مِلْيَار]]|rtl=yes}} {{lang|ar-Latn|milyar}}; 10<sup>12</sup>, {{lang|ar|[[:ar:ترليون|تِرِلْيُوْن]]|rtl=yes}} {{lang|ar-Latn|tirilyoon}}; etc.''}}
+
+Most [[Arabic language|Arabic-language]] countries and regions use the short scale with 10<sup>9</sup> being {{lang|ar|مليار|rtl=yes}} {{lang|ar-Latn|milyar}}, except for a few countries like Saudi Arabia and the UAE which use the word بليون {{lang|ar-Latn|billion}} for 10<sup>9</sup>. For example:{{#tag:ref|'''Arabic language countries''': Most Arabic-language countries use: ''10<sup>6</sup>, {{lang|ar|[[:ar:مليون|مليون]]|rtl=yes}} {{lang|ar-Latn|million}}; 10<sup>9</sup>, {{lang|ar|[[:ar:مليار|مليار]]|rtl=yes}} {{lang|ar-Latn|milyar}}; 10<sup>12</sup>, {{lang|ar|[[:ar:ترليون|ترليون]]|rtl=yes}} {{lang|ar-Latn|trilyon}}; etc.''<ref name="Arabic milyar">{{cite web
+ |title= Al Jazem English-Arabic online dictionary: Billion
+ |work= Al Jazem English-Arabic online dictionary
+ |publisher= [[Encyclopædia Britannica]]
+ |url= http://www.aljazem.com/en/billion
+ |access-date= 6 June 2012
+}}</ref><ref name="Arabic trillion">{{cite web
+ |title= Al Jazem English-Arabic online dictionary:Trillion
+ |work= Al Jazem English-Arabic online dictionary
+ |publisher= Encyclopædia Britannica
+ |url= http://www.aljazem.com/en/trillion
+ |access-date= 6 June 2012}}
+</ref> |group="shortscale note"}}<ref name="Arabic milyar" /><ref name="Arabic trillion" />
+
+{{div col|colwidth=18em}}
+*{{DZA}}
+*{{BHR}}
+*{{TCD}}
+*{{COM}}
+*{{DJI}}
+*{{EGY}}
+*{{ERI}}
+*{{IRQ}}
+*{{JOR}}
+*{{KWT}}
+*{{LBN}}
+*{{LBY}}
+*{{MRT}}
+*{{MAR}}
+*{{OMN}}
+*{{flag|Palestine}}
+*{{QAT}}
+*{{SAU}}
+*{{SOM}}
+*{{SDN}}
+*{{SYR}}
+*{{TUN}}
+*{{ARE}}
+*{{ESH}}
+*{{YEM}}
+{{div col end}}
+
+====Other short scale====
+{{block indent|''10<sup>6</sup>, one million; 10<sup>9</sup>, one milliard or one billion; 10<sup>12</sup>, one trillion; etc.''}}
+
+Other countries also use a word similar to ''trillion'' to mean 10<sup>12</sup>, etc. Whilst a few of these countries like English use a word similar to ''billion'' to mean 10<sup>9</sup>, most like Arabic have kept a traditionally long scale word similar to ''milliard'' for 10<sup>9</sup>. Some examples of short scale use, and the words used for 10<sup>9</sup> and 10<sup>12</sup>, are
+
+{{div col|colwidth=30em}}
+*{{AFG}} ([[Dari Persian|Dari]]: {{lang|prs|[[:fa:میلیارد|میلیارد]]}} {{lang|prs-Latn|milyard}} or {{lang|prs|[[:fa:بیلیون|بیلیون]]}} {{lang|prs-Latn|billion}}, {{lang|prs|[[:fa:تریلیون|تریلیون]]}} {{lang|prs-Latn|trillion}}, [[Pashto language|Pashto]]: <!--{{lang|ps|[[:pa:میلیارد|میلیارد]]}} {{lang|ps-Latn|milyard}} or {{lang|ps|[[:pa:بیلیون|بیلیون]]}} {{lang|ps-Latn|billion}}, {{lang|ps|[[:pa:تریلیون|تریلیون]]}} {{lang|ps-Latn|trillion}} -->{{lang|ps|میلیارد}} {{lang|ps-Latn|milyard}}, بیلیون {{lang|ps|billion}}, {{lang|ps|تریلیون}} {{lang|ps-Latn|trillion}})
+*{{ALB}} ({{lang|sq|[[:sq:miliard|miliard]]}}, {{lang|sq|[[:sq:trilion|trilion]]}})<ref>{{cite web
+ |last= Qeli
+ |first= Albi
+ |title= An English-Albanian Dictionary
+ |publisher= Albi Qeli, MD
+ |url= http://www.argjiro.net/fjalor/index.php
+ |access-date= 6 June 2012
+}}</ref>
+*{{ARM}} (<!--{{lang|hy|[[:hy:միլիարդ|միլիարդ]]}}--> {{lang|hy|միլիարդ}} {{lang|hy-Latn|miliard}}, <!--{{lang|hy|[[:hy:տրիլիոն|տրիլիոն]]}}-->{{lang|hy|տրիլիոն}} {{lang|hy-Latn|trilion}})
+*{{AZE}} ({{lang|az|[[:az:milyard|milyard]]}}, ({{lang|az|[[:az:trilyon|trilyon]]}})
+*{{BLR}} (<!--({{lang|be|[[:be:мільярд|мільярд]]}}-->{{lang|be|мільярд}} {{lang|be-Latn|milyard}}, <!--[[:be:трыльён|трыльён]]}}-->{{lang|be|трыльён}} {{lang|be-Latn|trilyon}})
+*{{BRA}} ([[Brazilian Portuguese]]: {{lang|pt|[[:pt:bilhão|bilhão]]}}, {{lang|pt|[[:pt:trilhão|trilhão]]}})
+*{{BRN}} ({{lang-ms|bilion}}, {{lang|ms|trilion}})
+*{{BUL}} ({{lang|bg|[[:bg:Милиард|милиард]]}} {{lang|bg-Latn|miliard}}, {{lang|bg|[[:bg:Имена на числата|трилион]]}} {{lang|bg-Latn|trilion}})
+*{{CYP}} ([[Greek language|Greek]]: <!--{{lang|el|[[:el:δισεκατομμύριο|δισεκατομμύριο]]}}-->{{lang|el|δισεκατομμύριο}} {{lang|el|disekatommyrio}}, <!--{{lang|el|[[:el:τρισεκατομμύριο|τρισεκατομμύριο]]}}-->{{lang|el|τρισεκατομμύριο}} {{lang|el|trisekatommyrio}}, {{lang-tr|[[:tr:Milyar|milyar]]}}, {{lang|tr|[[:tr:Trilyon|trilyon]]}})
+*{{EST}} ({{lang|et|[[:et:Miljard|miljard]]}} or {{lang|et|[[:et:Biljon|biljon]]}}{{#tag:ref|'''Estonian usage''': {{lang|et|[[:et:Biljon|Biljon]]}} is used due to English influences and is less common than {{lang|et|[[:et:Miljard|miljard]]}}.|group="shortscale note" }}, {{lang|et|[[:et:Triljon|triljon]]}})<ref name="Estonian-milliard">{{cite web
+ |title= Eesti õigekeelsussõnaraamat ÕS 2006: miljard
+ |publisher= [[Institute of the Estonian Language|Institute of the Estonian Language (Eesti Keele Instituut)]]
+ |year= 2006
+ |url= http://www.eki.ee/dict/qs/index.cgi?Q=miljard&F=M
+ |language= et
+ |access-date= 13 August 2011}}</ref><ref>{{cite web
+ |title= Eesti õigekeelsussõnaraamat ÕS 2013: biljon
+ |publisher= Institute of the Estonian Language (Eesti Keele Instituut)
+ |year= 2013
+ |url= http://www.eki.ee/dict/qs/index.cgi?Q=biljon&F=M
+ |language= et
+ |access-date= 25 June 2017}}</ref><ref>{{cite web
+ |title= Eesti õigekeelsussõnaraamat ÕS 2006: triljon
+ |publisher= Institute of the Estonian Language (Eesti Keele Instituut)
+ |year= 2006
+ |url= http://www.eki.ee/dict/qs/index.cgi?Q=triljon&F=M
+ |language= et
+ |access-date= 13 August 2011}}</ref>
+*{{GEO}} (<!--{{lang|ka|[[:ka:მილიარდი|მილიარდი]]}}-->{{lang|ka|მილიარდი}} {{lang|ka-Latn|miliardi}}, <!--{{lang|ka|[[:ka:ტრილიონი|ტრილიონი]]}}-->{{lang|ka|ტრილიონი}} {{lang|ka-Latn|trilioni}})
+*{{INA}} ({{lang|id|[[:id:Miliar|miliar]]}}, {{lang|id|[[:id:Triliun|triliun]]}}){{#tag:ref|'''Indonesian usage''': Large numbers are common in Indonesia, in part because its currency ([[Indonesian rupiah|rupiah]]) is generally expressed in large numbers (the lowest common circulating denomination is Rp100 with Rp1000 is considered as base unit). The term {{lang|id|juta}}, equivalent to ''million'' (10<sup>6</sup>), is generally common in daily life. Indonesia officially employs the term {{lang|id|miliar}} (derived from the long scale Dutch word {{lang|nl|miljard}}) for the number 10<sup>9</sup>, with no exception. For 10<sup>12</sup> and greater, Indonesia follows the short scale, thus 10<sup>12</sup> is named {{lang|id|triliun}}. The term {{lang|id|seribu miliar}} (a thousand milliards) or more rarely {{lang|id|sejuta juta}} (a million millions) or {{lang|id|sejuta berkali-kali}} (a millions after a million or a millions over a million) are also used for 10<sup>12</sup> less often. Terms greater than {{lang|id|triliun}} are not very familiar to Indonesians.<ref name="indonesia">Robson S. O. (Stuart O.), Singgih Wibisono, Yacinta Kurniasih. ''Javanese English dictionary'' Tuttle Publishing: 2002, {{ISBN|0-7946-0000-X}}, 821 pages</ref>|group="shortscale note"}}<ref name="indonesia" />
+*{{ISR}} ([[Hebrew language|Hebrew]]: {{lang|he|[[:he:מיליארד|מיליארד]]}} {{lang|he-Latn|milyard}}, {{lang|he|[[:he:טריליון|טריליון]]}} {{lang|he-Latn|trilyon}})
+*{{KAZ}} ([[Kazakh language|Kazakh]]: {{lang|kk|[[:kk:Миллиард|миллиард]]}} {{lang|kk-Latn|milliard}}, {{lang|kk|[[:kk:Триллион|триллион]]}} {{lang|kk-Latn|trillion}})
+*{{KGZ}} ([[Kyrgyz language|Kyrgyz]]: <!--{{lang|ky|[[:ky:миллиард|миллиард]]}} -->{{lang|ky|миллиард}} {{lang|ky-Latn|milliard}}, <!-- {{lang|ky|[[:ky:триллион|триллион]]}} -->{{lang|ky|триллион}} {{lang|ky-Latn|trillion}})
+*{{LVA}} ({{lang|lv|[[:lv:1000000000 (skaitlis)|miljards]]}}, {{lang|lv|[[:lv:1000000000 (skaitlis)|triljons]]}})
+*{{LTU}} ({{lang|lt|[[:lt:milijardas|milijardas]]}}, {{lang|lt|[[:lt:Skaičius#Dideli skaičiai|trilijonas]]}})
+*{{MDA}} ([[Romanian language|Romanian]]:<ref name="romanian">{{citation|title=May We Introduce the Romanian Language to You?|first1=Mioara|last1=Avram|first2=Marius|last2=Sala|publisher=Editura Fundatiei Culturale Române|year=2000|isbn=9789735772246|page=151|quote=the numeral ''miliard'' "billion"}}</ref> {{lang|ro|miliard}}, {{lang|ro|[[:ro:trilion|trilion]]}})
+*{{MYA}}<!--Myanmar--> (formerly ''Burma'') ([[Burmese language|Burmese]]: {{lang|my|ဘီလျံ}}, {{IPA-my|bìljàɰ̃|IPA}}; {{lang|my|ထရီလျံ}}, {{IPA-my|tʰəɹìljàɰ̃|}})<ref name="burmese-billion">{{Cite journal
+ |title= Britain to Reduce $4 billion from Defence
+ |journal= Bi-Weekly Eleven
+ |volume= 3
+ |issue= 30
+ |location= Yangon
+ |date= 15 October 2010
+ |language= my
+ }}
+</ref>
+*{{NAM}} (Afrikaans speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{PRI}} (Spanish speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{RUS}} ({{lang|ru|[[:ru:Миллиард|миллиард]]}} {{lang|ru-Latn|milliard}}, {{lang|ru|[[:ru:Триллион|триллион]]}} {{lang|ru-Latn|trillion}})
+*{{RSA}} (Afrikaans speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{TJK}} ([[Tajik language|Tajik]]: <!--{{lang|tg|[[:tg:миллиард|миллиард]]}}-->{{lang|tg|миллиард}} {{lang|tg|milliard}}, <!-- {{lang|tg|[[:tg:триллион|триллион]]}}-->{{lang|tg|триллион}} {{lang|tg|trillion}})
+*{{TUR}} ({{lang|tr|[[:tr:milyar|milyar]]}}, {{lang|tr|trilyon}})
+*{{TKM}} ([[Turkmen language|Turkmen]]: {{lang|tk|[[:tk:|milliard]]}}, {{lang|tk|[[:tk:|billion]]}};{{citation needed|date=December 2020|reason='milliard' attested in online dictionaries but not 'billion'}} Russian: {{lang|ru|миллиард}} {{lang|ru-Latn|milliard}}, {{lang|ru|триллион}} {{lang|ru-Latn|trillion}})
+*{{UKR}} ({{lang|uk|[[:uk:Мільярд|мільярд]]}} {{lang|uk-Latn|mil'yard}}, {{lang|uk|[[:uk:Трильйон|трильйон]]}} {{lang|uk-Latn|tryl'yon}})
+*{{UZB}} ([[Uzbek language|Uzbek]]: {{lang|uz|[[:uz:|milliard]]}}, {{lang|uz|[[:uz:|trillion]]}}; Russian: {{lang|ru|миллиард}} {{lang|ru-Latn|milliard}}, {{lang|ru|триллион}} {{lang|ru-Latn|trillion}})
+*{{WAL}} ({{lang|cy|[[:cy:biliwn|biliwn]]}}, {{lang|cy|[[:cy:triliwn|triliwn]]}}) <small>(In some contexts a paraphrase is needed to resolve ambiguity, as the [[lenition|lenitive]] of both {{lang|cy|miliwn}} and {{lang|cy|biliwn}} is the same: {{lang|cy|filiwn}}.)</small>
+{{div col end}}
+
+===Long scale users===
+The long scale is used by most [[Continental Europe]]an countries and by most other countries whose languages derive from Continental Europe (with the notable exceptions of Albania, Greece, Romania,<ref name="romanian"/> and Brazil). These countries use a word similar to ''billion'' to mean 10<sup>12</sup>. Some use a word similar to ''milliard'' to mean 10<sup>9</sup>, while others use a word or phrase equivalent to ''thousand millions''.
+
+====Dutch-speaking====
+{{block indent|''10<sup>6</sup>, {{Lang|nl|[[:nl:miljoen|miljoen]]}}; 10<sup>9</sup>, {{Lang|nl|[[:nl:miljard|miljard]]}}; 10<sup>12</sup>, {{Lang|nl|[[:nl:biljoen|biljoen]]}}; etc.''}}
+Most [[Dutch language|Dutch-language]] countries and regions use the long scale with 10<sup>9</sup> =  {{Lang|nl|miljard}}, for example:<ref>{{cite web
+ |title= De Geïntegreerde Taal-Bank: miljard
+ |publisher=  Instituut voor Nederlandse Lexicologie
+ |url= http://www.wnt.inl.nl/iWDB/search?actie=article&wdb=WFT&id=63043&lemmodern=miljard
+ |language= nl
+ |access-date= 19 August 2011
+}}</ref><ref>{{cite web
+ |title= De Geïntegreerde Taal-Bank: biljoen
+ |publisher= Instituut voor Nederlandse Lexicologie
+ |url= http://gtb.inl.nl/iWDB/search?actie=article&wdb=WFT&id=8253&lemmodern=biljoen
+ |language= nl
+ |access-date= 19 August 2011
+}}</ref>
+
+{{div col|colwidth=18em}}
+*{{ABW}}
+*{{BEL}}
+*{{CUW}}
+*{{NLD}}
+*{{SXM}}
+*{{SUR}}
+{{div col end}}
+
+====French-speaking====
+{{block indent|''10<sup>6</sup>, {{lang|fr|[[:fr:million|million]]}}; 10<sup>9</sup>, {{lang|fr|[[:fr:milliard|milliard]]}}; 10<sup>12</sup>, {{lang|fr|[[:fr:billion|billion]]}}; etc.''}}
+
+Most [[French language|French-language]] countries and regions use the long scale with 10<sup>9</sup> = {{lang|fr|milliard}}, for example:{{#TAG:REF|'''French usage''': France, with Italy, was one of two European countries which converted from the long scale to the short scale during the 19th century, but returned to the original long scale during the 20th century. In 1961, the French Government confirmed their long scale status.<ref name="fr_gov" /><ref name="larousse-milliard">{{cite web|title=French Larousse: milliard|publisher=[[Éditions Larousse]]|url=http://www.larousse.com/en/dictionaries/french/milliard|language=fr|access-date=19 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20120318130447/http://www.larousse.com/en/dictionaries/french/milliard|archive-date=18 March 2012}}</ref><ref name="larousse-billion">{{cite web|title=French Larousse: billion|publisher=Éditions Larousse|url=http://www.larousse.com/en/dictionaries/french/billion|language=fr|access-date=19 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20120318130500/http://www.larousse.com/en/dictionaries/french/billion|archive-date=18 March 2012}}</ref> However the 9th edition of the dictionary of the {{lang|fr|italic=no|[[Académie française]]}} describes {{lang|fr|billion}} as an outdated synonym of {{lang|fr|milliard}}, and says that the new meaning of 10<sup>12</sup> was decreed in 1961, but never caught on.<ref name=AF9-billion>{{cite dictionary
+ |title= billion
+ |edition= 9th
+ |work=Dictionnaire de l'Académie française
+ |language=fr
+ |publisher= [[Académie française]]
+ |year= 1992
+ |url= http://atilf.atilf.fr/dendien/scripts/generic/cherche.exe?15;s=802200930;;
+ |access-date= 17 January 2016
+ |quote= BILLION (les deux l se prononcent sans mouillure) n. m. XVe siècle, byllion, « un million de millions »; XVIe siècle, « mille millions ». Altération arbitraire de l'initiale de million, d'après la particule latine bi-, « deux fois ». <br>Rare. Mille millions. Syn. vieilli de Milliard. Selon un décret de 1961, le mot Billion a reçu une nouvelle valeur, à savoir un million de millions (10<sup>12</sup>), qui n'est pas entrée dans l'usage.|trans-quote=BILLION (the two Ls are pronounced without palatalisation) masculine noun. Spelled ''byllion'' in the 15th century when it meant ''a million millions''; in the 16th century it meant ''a thousand millions''. It is an arbitrary alteration of the start of ''million'' by inserting the Latin prefix ''bi-'', meaning ''twice''. Now rarely used. It means ''a thousand millions''. It is an outdated synonym of ''Milliard''. According to a decree of 1961, the word ''Billion'' received a new value, to wit a million millions (10<sup>12</sup>), which has not come into common usage.
+ }}{{Dead link|date=March 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> |group="longscale note"}}<ref name="larousse-milliard" /><ref name="larousse-billion" />
+
+{{div col|colwidth=18em}}
+*{{BEL}}
+*{{BEN}}
+*{{BFA}}
+*{{CAN}} ([[Canadian French]])  ''see'' [[#Using both|Using both]] ''below''
+*{{CAF}}
+*{{COD}}
+*{{COG}}
+*{{FRA}}
+*{{PYF}}
+*{{ATF}}
+*{{GAB}}
+*{{GIN}}
+*{{HTI}}
+*{{CIV}} (Côte d'Ivoire)
+*{{MLI}}
+*{{MON}} <!--; [[Monégasque language|Monégasque]]; [[Occitan language|Occitan]];-->
+*{{NCL}}
+*{{NER}}
+*{{BLM}}
+*{{MAF}} (French portion of St. Martin Island)
+*{{SEN}}
+*{{TGO}}
+*{{WLF}}
+{{div col end}}
+
+====German-speaking====
+{{block indent|''10<sup>6</sup>, {{lang|de|Million}}; 10<sup>9</sup>, {{lang|de|Milliarde}}; 10<sup>12</sup>, {{lang|de|Billion}}; etc.''}}
+German-language countries and regions use the long scale with 10<sup>9</sup> = {{lang|de|Milliarde}}, for example:
+
+*{{AUT}}
+*{{BEL}}
+*{{DEU}}<ref name="wortschatz_milliarde" /><ref name="wortschatz_billion" />
+*{{LIE}}
+
+====Portuguese-speaking====
+{{block indent|''10<sup>6</sup>, {{lang|pt|[[:pt:milhão|milhão]]}}; 10<sup>9</sup>, {{lang|pt|[[:pt:mil milhões|mil milhões]]}} ''or'' {{lang|pt|milhar de milhões}}; 10<sup>12</sup>, {{lang|pt|[[:pt:bilião|bilião]]}}''}}
+
+With the notable exception of Brazil, a short scale country, most [[Portuguese language|Portuguese-language]] countries and regions use the long scale with 10<sup>9</sup> = {{lang|pt|mil milhões}} ''or'' {{lang|pt|milhar de milhões}}, for example:
+{{div col|colwidth=18em}}
+*{{AGO}}
+*{{CPV}}
+*{{ETM}}
+*{{GNB}}
+*{{MAC}}
+*{{MOZ}}
+*{{POR}}
+*{{STP}}
+{{div col end}}
+
+====Spanish-speaking====
+{{block indent|''10<sup>6</sup>, {{lang|es|[[:es:millón|millón]]}}; 10<sup>9</sup>, {{lang|es|[[:es:mil millones|mil millones]]}} or {{lang|es|[[:es:millardo|millardo]]}}; 10<sup>12</sup>, {{lang|es|[[:es:billón|billón]]}}; etc.''}}
+
+Most [[Spanish language|Spanish-language]] countries and regions use the long scale, for example:{{#tag:ref|'''Spanish language countries''': Spanish-speaking countries sometimes use {{lang|es|millardo}} (milliard)<ref name="dudas-millardo">
+{{cite web
+ |title= Diccionario Panhispánico de Dudas: millardo
+ |publisher= [[Real Academia Española]]
+ |language= es
+ |url= http://buscon.rae.es/dpdI/SrvltConsulta?lema=millardo
+ |access-date= 19 August 2011
+}}</ref> for 10<sup>9</sup>, but {{lang|es|mil millones}} (thousand millions) is used more frequently. The word {{lang|es|billón}} is sometimes used in the short scale sense in those countries more influenced by the United States, where "billion" means "one thousand millions". The usage of {{lang|es|billón}} to mean "one thousand millions", controversial from the start, was denounced by the Royal Spanish Academy as recently as 2010,<ref name="real1">
+{{cite web
+ |title= Diccionario Panhispánico de Dudas: billon
+ |publisher= Real Academia Española
+ |language= es
+ |url= http://buscon.rae.es/dpdI/SrvltConsulta?lema=billon
+ |access-date= 24 July 2010}}
+</ref> but was finally accepted in a later version of the official dictionary as standard usage among educated Spanish speakers in the United States (including Puerto Rico).<ref name="real2">
+{{cite web
+ |title= Diccionario de la lengua española
+ |publisher= Real Academia Española
+ |language= es
+ |url= http://dle.rae.es/?id=5WQzD1r
+ |access-date= 2 July 2018}}
+</ref>|group="longscale note"}}<ref name="dudas-millardo" /><ref name="real1" />
+
+{{div col|colwidth=18em}}
+*{{ARG}}
+*{{BOL}}
+*{{CHI}}
+*{{COL}}
+*{{CRC}}
+*{{CUB}}
+*{{DOM}}
+*{{ECU}}
+*{{SLV}}
+*{{GNQ}}
+*{{GUA}} ({{lang|es|millardo}})
+*{{HON}} ({{lang|es|millardo}})
+*{{MEX}} ({{lang|es|mil millones}} or {{lang|es|millardo}})
+*{{NIC}} ({{lang|es|mil millones}} or {{lang|es|millardo}})
+*{{PAN}} ({{lang|es|mil millones}} or {{lang|es|millardo}})
+*{{PRY}}
+*{{PER}} ({{lang|es|mil millones}})
+*{{PRI}} ''see'' [[#Using both|Using both]] ''below''
+*{{ESP}} ({{lang|es|millardo}} or typ. {{lang|es|mil millones}})
+*{{URU}}
+*{{VEN}}
+{{div col end}}
+
+====Other long scale====
+{{block indent|''10<sup>6</sup>, one million; 10<sup>9</sup>, one milliard or one thousand million; 10<sup>12</sup>, one billion; etc.''}}
+
+Some examples of long scale use, and the words used for 10<sup>9</sup> and 10<sup>12</sup>, are
+
+{{div col|colwidth=35em}}
+*{{AND}} ({{lang-ca|[[:ca:miliard|miliard]]}} or typ. {{lang|ca|mil milions}}, {{lang|ca|[[:ca:bilió|bilió]]}})
+*{{BIH}} ({{lang-bs|[[:bs:milijarda|milijarda]]}}, {{lang|bs|[[:bs:bilion|bilion]]}}; {{lang-hr|[[:hr:milijarda|milijarda]]}}, {{lang|hr|[[:hr:bilijun|bilijun]]}}, {{lang-sr|[[:sr:милијарда|милијарда]]}} {{lang|sr-Latn|milijarda}}, {{lang|sr|[[:sr:Билион|билион]]}} {{lang|sr-Latn|bilion}})
+*{{CRO}} ({{lang|hr|milijarda}}, {{lang|hr|bilijun}})
+*{{CZE}} ({{lang|cs|[[:cs:miliarda|miliarda]]}}, {{lang|cs|[[:cs:bilion|bilion]]}})
+*{{DEN}} ({{lang|da|[[:da:milliard|milliard]]}}, {{lang|da|[[:da:billion|billion]]}})
+*{{flagicon image|Flag of Esperanto.svg}} [[Esperanto]] ({{lang|eo|[[:eo:miliardo|miliardo]]}}, {{lang|eo|[[:eo:duiliono|duiliono]]}}) {{#TAG:REF|'''Esperanto language usage''': The Esperanto language words {{lang|eo|biliono}}, {{lang|eo|triliono}} etc. used to be ambiguous, and both long and short scale were used and presented in dictionaries. The current edition of the main Esperanto dictionary [[Plena Ilustrita Vortaro de Esperanto|PIV]] however recommends the long scale meanings, as does the grammar PMEG.<ref name="esperanto">{{cite web
+ |last= Wennergren
+ |first= Bertilo
+ |author-link= Bertilo Wennergren
+ |title= Plena Manlibro de Esperanta Gramatiko
+ |language= eo
+ |date= 8 March 2008
+ |url= http://bertilow.com/pmeg/
+ |access-date= 15 September 2010
+}}</ref> Ambiguity may be avoided by the use of the unofficial but generally recognised suffix {{lang|eo|-iliono}}, whose function is analogous to the long scale, i.e. it is appended to a (single) numeral indicating the power of a million, e.g. {{lang|eo|duiliono}} (from {{lang|eo|du}} meaning "two") = {{lang|eo|biliono}} = 10<sup>12</sup>, {{lang|eo|triiliono}} = {{lang|eo|triliono}} = 10<sup>18</sup>, etc. following the 1{{E|6X}} long scale convention. {{lang|eo|Miliardo}} is an unambiguous term for 10<sup>9</sup>, and generally the suffix {{lang|eo|-iliardo}}, for values 1{{E|6X+3}}, for example {{lang|eo|triliardo}} = 10<sup>21</sup> and so forth. |group="longscale note"}}<ref name="esperanto" />
+*{{FRO}} ({{lang|fo|milliard}}, {{lang|fo|billión}})
+*{{FIN}} ({{lang-fi|[[:fi:miljardi|miljardi]]}}, {{lang|fi|[[:fi:biljoona|biljoona]]}}; [[Finland Swedish|Swedish:]] {{lang|sv|[[:sv:miljard|miljard]]}}, {{lang|sv|[[:sv:biljon|biljon]]}})
+*{{GRL}} ({{lang|kl|[[:kl:milliardi|milliardi]]}}, {{lang|kl|[[:kl:billioni|billioni]]}})
+*{{HUN}} ({{lang|hu|[[:hu:milliárd|milliárd]]}}, {{lang|hu|[[:hu:billió|billió]]}} or {{lang|hu|ezermilliárd}})
+*{{ISL}} ({{lang|is|[[:is:milljarður|milljarður]]}}, {{lang|is|[[:is:billjón|billjón]]}})
+*{{IRN}} ([[Persian language|Persian]]: [[:fa:میلیارد|میلیارد]] {{lang|fa|milyard}}, [[:fa:بیلیون|بیلیون]] {{lang|fa|billion}}, [[:fa:تریلیون|تریلیون]] {{lang|fa|trillion}}) {{citation needed|date=November 2013}}
+*{{ITA}} ({{lang|it|[[:it:miliardo|miliardo]]}}, {{lang|it|[[:it:bilione|bilione]]}}) {{#tag:ref|'''Italian usage''': Italy, with France, was one of the two European countries which partially converted from the long scale to the short scale during the 19th century, but returned to the original long scale in the 20th century. In 1994, the Italian Government confirmed its long scale status.<ref name="it_gov" /> In Italian, the word {{lang|it|bilione}} officially means 10<sup>12</sup>, {{lang|it|trilione}} means 10<sup>18</sup>, etc.. Colloquially, {{lang|it|bilione}}<ref name="larousse-billione">{{cite web|title=Italian-English Larousse: bilione|publisher=Éditions Larousse|url=http://www.larousse.com/en/dictionaries/italian-english/bilione/5726|access-date=21 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20120318130613/http://www.larousse.com/en/dictionaries/italian-english/bilione/5726|archive-date=18 March 2012}}</ref> can mean both 10<sup>9</sup> and 10<sup>12</sup>; {{lang|it|trilione}} {{citation needed|date=July 2011}} can mean both 10<sup>12</sup> and (rarer) 10<sup>18</sup> and so on. Therefore, in order to avoid ambiguity, they are seldom used. Forms such as {{lang|it|miliardo}} (milliard) for 10<sup>9</sup>, {{lang|it|mille miliardi}} (a thousand milliards) for 10<sup>12</sup>, {{lang|it|un milione di miliardi}} (a million milliards) for 10<sup>15</sup>, {{lang|it|un miliardo di miliardi}} (a milliard of milliards) for 10<sup>18</sup>, {{lang|it|mille miliardi di miliardi}} (a thousand milliard of milliards) for 10<sup>21</sup> are more common.<ref name="it_gov" /> |group="longscale note"}}<ref name="it_gov" /><ref name="larousse-billione" />
+*{{LUX}} (French: {{lang|fr|milliard}}, {{lang|fr|billion}}; German: {{lang|de|Milliarde}}, {{lang|de|Billion}}; {{lang-lb|[[:lb:milliard|Milliard]]}}, {{lang|lb|[[:lb:billioun|Billioun]]}})
+*{{MDG}} (French: {{lang|fr|milliard}}, {{lang|fr|billion}}; {{lang-mg|miliara}}, {{lang|mg|arivo miliara}})
+*{{MUS}} (English speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{MNE}} ([[Montenegrin language|Montenegrin]]: {{lang|sh|[[:sh:Milijarda|milijarda]]}}, {{lang|sh|bilion}})
+*{{NAM}} (Afrikaans speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{NMK}} ({{lang|mk|[[:mk:милијарда|милијарда]]}} {{lang|mk-Latn|milijarda}}, {{lang|mk|[[:mk:Билион|билион]]}} {{lang|mk-Latn|bilion}})
+*{{NOR}} ([[Bokmål]]: {{lang|nb|[[:nb:milliard|milliard]]}}, {{lang|nb|[[:nb:billion|billion]]}}; [[Nynorsk]]: {{lang|nn|[[:nn:milliard|milliard]]}}, {{lang|nn|[[:nn:billion|billion]]}})
+*{{POL}} ({{lang|pl|[[:pl:miliard|miliard]]}}, {{lang|pl|[[:pl:bilion|bilion]]}})
+*{{ROM}}<ref name="romanian2012">{{citation|title=Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)|last=Institutul de Lingvistică „Iorgu Iordan – Alexandru Rosetti" al Academiei Române|publisher=Editura Univers Enciclopedic Gold|year=2012}}</ref> ({{lang|ro|miliard}}, {{lang|ro|bilion}}). There are ambiguities for numbers above 10<sup>12</sup>.<ref>{{cite web |title=Scara numerică |trans-title= numerical scale |language=ro |url=http://dexonline.ro/articol/Scara_numeric%C4%83 |work=[[Dicționarul explicativ al limbii române|dexonline.ro]] |date=2016 |access-date=3 May 2016}}</ref>
+*{{SMR}} (Italian: {{lang|it|miliardo}}, {{lang|it|bilione}})
+*{{SRB}} ({{lang|sr|милијарда}} {{lang|sr|milijarda}}, {{lang|sr|билион}} {{lang|sr|bilion}})
+*{{SYC}} (English speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{SVK}} ({{lang|sk|[[:sk:miliarda|miliarda]]}}, {{lang|sk|[[:sk:bilión|bilión]]}})
+*{{SLO}} ({{lang|sl|[[:sl:milijarda|milijarda]]}}, {{lang|sl|[[:sl:bilijon|bilijon]]}})
+*{{RSA}} (Afrikaans speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{SWE}} ({{lang|sv|miljard}}, {{lang|sv|biljon}})
+*{{CHE}} (French: {{lang|fr|milliard}}, {{lang|fr|billion}}; [[Swiss Standard German|German]]: {{lang|de|Milliarde}}, {{lang|de|Billion}}; Italian: {{lang|it|miliardo}}, {{lang|it|bilione}}; [[Romansh language|Romansh]]: {{lang|rm|milliarda}}, {{lang|rm|billiun}}<ref>{{cite web
+ |title= Switzerland: Words and Phrases
+ |publisher= TRAMsoft Gmbh
+ |date= 29 August 2009
+ |url= http://www.about.ch/culture/languages/words_n_phrases.html#numbers
+ |access-date= 15 August 2011}}</ref>)
+*{{VUT}} (English speaking) ''see'' [[#Using both|Using both]] ''below''
+*{{VAT}} (Italian: {{lang|it|miliardo}}, {{lang|it|bilione}})
+{{div col end}}
+
+===Using both===
+Some countries use either the short or long scales, depending on the internal language being used or the context.
+
+{{block indent|''10<sup>6</sup>, one million; 10<sup>9</sup>, '''either''' one billion (short scale) '''or''' one milliard / thousand million (long scale); 10<sup>12</sup>, '''either''' one trillion (short scale) '''or''' one billion (long scale), etc.''}}
+
+{| class="wikitable" 
+|-
+! Country or territory
+! Short scale usage
+! Long scale usage
+|-
+|{{CAN}}{{#tag:ref|'''Canadian usage''': Both scales are in use currently in Canada. English-speaking regions use the short scale exclusively, while French-speaking regions use the long scale, though the Canadian government standards website recommends that in French {{lang|fr|billion}} and {{lang|fr|trillion}} be avoided, recommending {{lang|fr|milliard}} for 10<sup>9</sup>, and {{lang|fr|mille milliards}} (a thousand milliards) for 10<sup>12</sup>.<ref>
+{{cite web
+ |title= Canadian government standards website
+ |publisher= [[Canadian Government]]
+ |year= 2010
+ |url= http://btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&i=&index=frt&__index=frt&srchtxt=billion&comencsrch.x=12&comencsrch.y=10
+ |access-date= 15 September 2010}}
+</ref> |group="shortscale longscale note"}}
+|[[Canadian English]] (10<sup>9</sup> = ''billion'', 10<sup>12</sup> = ''trillion'')
+|[[Canadian French]] (10<sup>9</sup> = {{lang|fr|[[:fr:milliard|milliard]]}}, 10<sup>12</sup> = {{lang|fr|[[:fr:billion|billion]]}}<ref>{{cite web|url=http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=8872290 |title=billion |publisher=Granddictionnaire.com |date=13 May 2013 |access-date=24 April 2018}}</ref> or {{lang|fr|[[:fr:mille milliards|mille milliards]]}}).
+|-
+|{{unbulleted list|{{MUS}}|{{SYC}}|{{VUT}}}}
+|English (10<sup>9</sup> = ''billion'', 10<sup>12</sup> = ''trillion'')
+|French (10<sup>9</sup> = {{lang|fr|milliard}}, 10<sup>12</sup> = {{lang|fr|billion}})
+|-
+|{{unbulleted list|{{NAM}}|{{RSA}} {{#tag:ref|'''South African usage''': South Africa uses both the long scale (in Afrikaans and sometimes English) and the short scale (in English). Unlike the 1974 UK switch, the switch from long scale to short scale took time. {{As of|2011}} most English language publications use the short scale. Some Afrikaans publications briefly attempted usage of the "American System" but that has led to comment in the papers<ref>{{cite web |url= http://152.111.1.88/argief/berigte/beeld/2008/02/20/B1/14/01milbiltril.html |title= Taalkommissie se reaksie op biljoen, triljoen |language= af |publisher= [[Naspers]]: [[Media24]] |access-date= 16 July 2014 |url-status= dead |archive-url= https://web.archive.org/web/20140714224334/http://152.111.1.88/argief/berigte/beeld/2008/02/20/B1/14/01milbiltril.html |archive-date= 14 July 2014 |df= dmy-all }}</ref> and has been disparaged by the {{lang|af|"[[Die Taalkommissie|Taalkommissie]]"}} (The Afrikaans Language Commission of the South African Academy of Science and Art)<ref>{{cite web |url=http://152.111.1.87/argief/berigte/dieburger/2009/07/13/SK/9/BBfpistorAWS.html |title='Groen boek': mooiste, beste, gebruikersvriendelikste |language=af |publisher=Naspers:Media24 |access-date=16 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140714134302/http://152.111.1.87/argief/berigte/dieburger/2009/07/13/SK/9/BBfpistorAWS.html |archive-date=14 July 2014  }}</ref> and has thus, to most appearances, been abandoned. |group="shortscale longscale note"}}}}
+|[[South African English]] (10<sup>9</sup> = ''billion'', 10<sup>12</sup> = ''trillion'')
+|[[Afrikaans]] (10<sup>9</sup> = {{lang|af|[[:af:miljard|miljard]]}}, 10<sup>12</sup> = {{lang|af|[[:af:biljoen|biljoen]]}})
+|-
+|{{PRI}}<!--<br>a Spanish-speaking [[Commonwealth (United States insular area)|US Commonwealth]] territory-->
+|Economic and technical (10<sup>9</sup> = {{lang|es|billón}}, 10<sup>12</sup> = {{lang|es|trillón}})
+|Latin American export publications (10<sup>9</sup> = {{lang|es|millardo}} or {{lang|es|mil millones}}, 10<sup>12</sup> = {{lang|es|billón}})
+|}
+
+===Using neither===
+The following countries use naming systems for large numbers that are not etymologically related to the short and long scales:
+
+{| class="wikitable" 
+! Country
+! Number system
+! Naming of large numbers
+|-
+|{{BGD}}, {{IND}}, {{MDV}}, {{NPL}}, {{PAK}}||[[Indian numbering system]]||Traditional system for everyday use, but short or long scale may also be in use {{#tag:ref|'''Indian, Pakistani and Bangladeshi usage''': Outside of financial media, the use of ''billion'' by Bangladeshi, Indian and Pakistani English speakers highly depends on their educational background. Some may continue to use the traditional British long scale. In everyday life, Bangladeshis, Indians and Pakistanis largely use their own common number system, commonly referred to as the [[Indian numbering system]] – for instance, Bangladeshi, Pakistani, and [[Indian English]] commonly use the words ''[[lakh]]'' to denote ''100 thousand'', ''[[crore]]'' to denote ''ten million'' (i.e. 100 lakhs) and ''[[arab (number)|arab]]'' to denote ''thousand million''.<ref>{{Cite book
+ |last= Gupta
+ |first= S.V.
+ |title= Units of measurement: past, present and future: international system of units
+ |publisher= [[Springer Science+Business Media|Springer]]
+ |year= 2010
+ |pages= 12 (Section 1.2.8 Numeration)
+ |url= https://books.google.com/books?id=pHiKycrLmEQC&q=crore%20lakh%20arab&pg=PA12
+ |isbn= 978-3642007385
+ |access-date= 22 August 2011}}
+</ref> <!-- no blogs here, please --> |group="other scale note"}}
+|-
+|{{BTN}} || [[Dzongkha numerals]] || Traditional system
+|-
+|{{KHM}} || [[Khmer numbers|Khmer numerals]] || Traditional system
+|-
+|{{unbulleted list|{{PRC}}|{{ROC}}|{{KOR}}|{{PRK}}|{{JPN}}}} || East Asian numbering system: {{unbulleted list|[[Chinese numerals#Large numbers|Chinese numerals]]|[[Korean numerals]]|[[Japanese numerals#Powers of 10|Japanese numerals]]}} || Traditional [[myriad]] system for the larger numbers; special words and symbols up to 10<sup>68</sup>
+|-
+|{{GRE}} || Calque of the short scale || Names of the short scale have not been loaned but [[calque]]d into [[Greek language|Greek]], based on the native Greek word for million, <!--[[:el:εκατομμύριο|εκατομμύριο]]-->{{lang|el|εκατομμύριο}} {{lang|el-Latn|ekatommyrio}} ("hundred-[[myriad]]", i.e. 100&nbsp;×&nbsp;10,000):
+*<!--[[:el:δισεκατομμύριο|δισεκατομμύριο]]-->{{lang|el|δισεκατομμύριο}} {{lang|el-Latn|disekatommyrio}} "bi+hundred-myriad" = 10<sup>9</sup> (short scale billion)
+*<!--[[:el:τρισεκατομμύριο|τρισεκατομμύριο]]-->{{lang|el|τρισεκατομμύριο}} {{lang|el-Latn|trisekatommyrio}} "tri+hundred-myriad" = 10<sup>12</sup> (short scale trillion)
+*{{lang|el|[[:el:τετράκις εκατομμύριο|τετράκις εκατομμύριο]]}} {{lang|el|tetrakis ekatommyrio}} "quadri+hundred-myriad" = 10<sup>15</sup> (short scale quadrillion), and so on.<ref name="Foundalis">{{cite web
+ |last= Foundalis
+ |first= Harry
+ |title= Greek Numbers and Numerals (Ancient and Modern)
+ |url= http://www.foundalis.com/lan/grknum.htm
+ |access-date= 20 May 2007}}
+</ref>
+|-
+|{{LAO}} || [[Lao numerals]] || Traditional system
+|-
+|{{MNG}} || [[Mongolian numerals]] || Traditional [[myriad]] system for the larger numbers; special words up to 10<sup>67</sup>
+|-
+|{{LKA}}<!--Sri Lanka--> || {{unbulleted list|[[Sinhala numerals]]|[[Tamil numerals]]}} || Traditional systems
+|-
+|{{THA}} || [[Thai numerals]] || Traditional system based on millions
+|-
+|{{VNM}} || [[Vietnamese numerals]] || Traditional system(s) based on thousands
+|}
+
+=== By continent ===
+The long and short scales are both present on most continents, with usage dependent on the language used. Examples include:
+
+{| class="wikitable" style="width:100%;"
+|-
+!style="width:10%; text-align:center;"|Continent
+!style="width:40%; text-align:center;"|Short scale usage
+!style="width:40%; text-align:center;"|Long scale usage
+|-
+|'''[[Africa]]'''
+|Arabic (Egypt, Libya, Tunisia), English (South Sudan), South African English
+|Afrikaans, French (Benin, Central African Republic, Gabon, Guinea), Portuguese (Angola, Mozambique)
+|-
+|'''[[North America]]'''
+|American English, Canadian English
+|[[Canadian French]], [[Mexican Spanish]], [[Spanish language in the United States|U.S. Spanish]]
+|-
+|'''[[South America]]'''
+|Brazilian Portuguese, English ([[Guyana]])
+|[[Spanish language in the Americas|American Spanish]], Dutch ([[Suriname]]), French ([[French Guiana]])
+|-
+|'''[[Antarctica#Territorial claims|Antarctica]]'''
+|[[Australian English]], British English, [[New Zealand English]], Russian
+|American Spanish (Argentina, Chile), French (France), Norwegian (Norway)
+|-
+|'''[[Asia]]'''
+|[[Burmese language|Burmese]] (Myanmar), Hebrew (Israel), [[Indonesian language|Indonesian]], Kazakh, Kyrgyz, [[Malaysian English]], [[Philippine English]], Uzbek
+|[[Persian language|Persian]] (Iran), [[Portuguese language|Portuguese]] (East Timor, Macau)
+|-
+|'''[[Europe]]'''
+|British English, Estonian, Greek, Latvian, Lithuanian, Russian, Turkish, Ukrainian, Welsh
+|Danish, Dutch, Finnish, French, German, Icelandic, Italian, Norwegian, Polish, Portuguese, Romanian, Spanish, Swedish and most other languages of continental Europe
+|-
+|'''[[Oceania]]'''
+|Australian English, New Zealand English
+|French ([[French Polynesia]], [[New Caledonia]])
+|}
+
+===Notes on current usage===
+====Short scale====
+{{reflist|group=shortscale note}}
+
+====Long scale====
+{{reflist|group=longscale note}}
+
+====Both long and short scale====
+{{reflist|group=shortscale longscale note}}
+
+====Neither long nor short scale====
+{{reflist|group=other scale note}}
+
+==Alternative approaches==
+* In written communications, the simplest solution for moderately large numbers is to write the full amount, for example 1,000,000,000,000 rather than 1 trillion (short scale) or 1 billion (long scale).
+* Combinations of the unambiguous word ''million'', for example: 10<sup>9</sup> = "one thousand million"; 10<sup>12</sup> = "one million million".<ref>
+{{cite web
+ |title= BBC: GCSE Bitesize – The origins of the universe
+ |work= BBC
+ |url= http://www.bbc.co.uk/schools/gcsebitesize/science/edexcel/space/theoriginsoftheuniverserev1.shtml
+ |access-date= 28 July 2011
+}}</ref>
+* [[Scientific notation]] (also known as standard form or exponential notation, for example 1{{E|9}}, 1{{E|10}}, 1{{E|11}}, 1{{E|12}}, etc.), or its [[engineering notation]] variant (for example 1{{E|9}}, 10{{E|9}}, 100{{E|9}}, 1{{E|12}}, etc.), or the computing variant [[E notation]] (for example <code>1e9</code>, <code>1e10</code>, <code>1e11</code>, <code>1e12</code>, etc.). This is the most common practice among scientists and mathematicians, and is both unambiguous and convenient.
+* [[SI prefix]]es in combination with [[SI unit]]s, for example, '''[[Giga-|giga]]''' for 10<sup>9</sup> and '''[[Tera-|tera]]''' for 10<sup>12</sup> can give [[gigawatt]] (=10<sup>9</sup> W) and [[terawatt]] (=10<sup>12</sup> W). The [[International System of Units]] (SI) is independent of whichever scale is being used.<ref name="si" /> Use with non-SI units (e.g. "giga-dollars", [[megabucks (disambiguation)|"megabucks"]]) is possible. k€ and M€ is frequently encountered.
+
+==See also==
+{{div col|colwidth=25em}}
+* [[Googol]] (number)
+* [[Googolplex]] (number)
+* [[Names of large numbers]]
+* [[Names of small numbers]]
+* [[Orders of magnitude (numbers)]]
+* [[Hindu units of time]] which displays some similar issues
+* [[Indian numbering system]]
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [https://www.bbc.co.uk/news/magazine-15478580 BBC News article: "Is trillion the new billion?"]
+* [http://www.live-counter.com/large-numbers/ Live-Counter.com: How to visualize large numbers:"]
+
+{{Large numbers}}
+
+{{DEFAULTSORT:Long And Short Scales}}
+[[Category:Numerals]]
+[[Category:Numeral systems]]

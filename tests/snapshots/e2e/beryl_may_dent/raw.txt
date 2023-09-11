@@ -1,0 +1,1051 @@
+{{Short description|English mathematical physicist (1900–1977)}}
+{{Bots|deny=OAbot}}
+{{Good article}}
+{{Use British English|date=November 2020}}
+{{Use dmy dates|date=August 2023}}
+{{Infobox scientist
+| name              = Beryl May Dent
+| honorific_suffix  = {{Post-nominals|country=GBR|size=100%|MIEE}}
+| image             = Beryl May Dent.jpg
+| caption           = Dent in 1928
+| alt               = Black and white picture of Beryl May Dent, taken in 1928, seated front row, from a group photograph of the other staff (not shown) at the Physics Department, University of Bristol
+| birth_date        = {{Birth date|1900|5|10|df=y}}
+| birth_place       = [[Chippenham]], Wiltshire, England
+| death_date        = {{Death date and age|df=y|1977|8|9|1900|5|10}}
+| death_place       = [[Worthing]], West Sussex, England
+| resting_place     = [[Worthing Crematorium]] (ashes interred)
+| fields            = {{Plainlist|
+* [[Computer-aided engineering]]
+* [[Molecular physics]]
+* [[Regression analysis]]
+}}
+{{Collapsible list
+ | framestyle = border: none; padding: 0;
+ | title = Other fields
+ | 1 = [[Intermolecular force]]s
+ | 2 = [[Semiconductor]] materials
+ | 3 = [[Special library|Technical library services]]
+ | 4 = [[Thin film]]s
+ | 5 = [[Valence (chemistry)|Valency]]
+}}
+| alma_mater        = {{Plainlist|
+* {{Nowrap|[[University of Bristol]] ([[Master of Science|MSc]], 1927)}}
+* [[Newnham College, Cambridge]]
+}}
+| workplaces        = {{Indented plainlist|
+* University of Bristol Physics Department
+* [[Metropolitan-Vickers]] Electrical Company Ltd
+}}
+| academic_advisors = [[John Lennard-Jones]]
+| awards            = [[Lilias Ashworth Hallett|Ashworth Hallett]] scholarship (1923)
+| thesis_title      = Some theoretical determinations of crystal structure
+| thesis_year       = 1927
+| thesis_url        = https://bris.on.worldcat.org/v2/oclc/931574568
+}}
+'''Beryl May Dent''' {{Post-nominals|country=GBR|size=100%|MIEE}} (10 May 1900{{Spaced ndash}}9 August 1977) was an English [[Mathematical physics|mathematical physicist]], technical librarian, and a programmer of early analogue and digital computers to solve electrical engineering problems. She was born in [[Chippenham]], Wiltshire, the eldest daughter of schoolteachers. The family left Chippenham in 1901, after her father became head teacher of the then recently established [[Warminster]] County School. In 1923, she graduated from the [[University of Bristol]] with [[British undergraduate degree classification#First Class Honours|First Class Honours]] in [[applied mathematics]]. She was awarded the [[Lilias Ashworth Hallett|Ashworth Hallett]] scholarship by the university and was accepted as a postgraduate student at [[Newnham College, Cambridge]].
+
+She returned to [[Bristol]] in 1925, after being appointed a researcher in the Physics Department at the University of Bristol, with her salary being paid by the [[Department of Scientific and Industrial Research (United Kingdom)|Department of Scientific and Industrial Research]]. In 1927, [[John Lennard-Jones]] was appointed Professor of [[Theoretical physics]], a chair being created for him, with Dent becoming his research assistant in theoretical physics. Lennard{{Nbh}}Jones pioneered the theory of interatomic and intermolecular forces at Bristol and she became one of his first collaborators. They published six papers together from 1926 to 1928, dealing with the forces between atoms and ions, that were to become the foundation of her master's thesis. Later work has shown that the results they obtained had direct application to [[atomic force microscopy]] by predicting that non{{Hyphen}}contact imaging is possible only at small tip{{Hyphen}}sample separations.
+
+In 1930, she joined [[Metropolitan-Vickers]] Electrical Company Ltd, Manchester, as a technical librarian for the scientific and technical staff of the research department. She became active in the [[ASLIB|Association of Special Libraries and Information Bureaux]] (ASLIB) and was honorary secretary to the founding committee for the Lancashire and Cheshire branch of the association. She served on various ASLIB committees and made conference presentations detailing different aspects of the company's library and information service. She continued to publish scientific papers, contributing [[Numerical analysis|numerical methods]] for solving [[differential equation]]s by the use of the [[differential analyser]] that was built for the [[University of Manchester]] and [[Douglas Hartree]]. She was the first to develop a detailed [[Total least squares#Scale invariant methods|reduced major axis]] method for the [[line fitting|best fit]] of a series of data points.
+
+Later in her career she became leader of the computation section at Metropolitan{{Hyphen}}Vickers, and then a supervisor in the research department for the section that was investigating [[Semiconductor|semiconducting]] materials. She joined the [[Women's Engineering Society]] and published papers on the application of digital computers to electrical design. She retired in 1960, with [[Isabel Hardwich]], later a fellow and president of the Women's Engineering Society, replacing her as section leader for the women in the research department. In 1962, she moved with her mother and sister to [[Sompting]], West Sussex, and died there in 1977.
+{{TOC limit|2}}
+
+==Early life==
+[[File:Eustace Edward Dent in 1926.jpg|thumb|alt=Monochrome photograph of Eustace Edward Dent wearing his teaching gown|Dent's father, Eustace Edward, photographed at Warminster County School in 1926]]
+[[File:22 Portway Warminster.jpg|thumb|alt=Picture of 22 Portway, Warminster, situated close to the County School and the Athenaeum theatre|The family lived at Boreham Road before moving in 1907 to 22{{Nbsp}}Portway, Warminster]]
+Beryl May was born on {{Birth date|1900|5|10|df=yes}}, at Penley Villa, Park Lane, [[Chippenham]], [[Wiltshire]], the eldest daughter of Agnes Dent ({{Dash year|1869|1967}}), {{Nee|Thornley}}, and Eustace Edward ({{Dash year|1868|1954}}).{{R|"Department of Physics 2003"}} She was baptised at St{{Nbsp}}Paul's, Chippenham, on 8 June 1900.{{R|"Ranger 2014"|p=1}} They had married at [[St Mary's Church, Goosnargh]], near [[City of Preston, Lancashire|Preston]], [[Lancashire]], on 27{{Nbsp}}July 1898.{{R|"Lancashire Online Parish Clerks 1898"}} Her mother was educated at the [[University of Central Lancashire|Harris Institute]], Preston, passing examinations in science and art.{{R|"Preston Chronicle 2 February 1889"}} She was a teacher at [[Attercliffe]] School, in northeast [[Sheffield]], before moving to [[Goosnargh]] School, near her hometown of Preston, where her elder brother and sister, John William and Mary Ann Thornley, were the head teachers.{{R|"Preston Herald 27 January 1894"|"Preston Herald 26 July 1899"}} In March 1894, she had applied for the headship at Fairfield School, [[Cockermouth]], making the shortlist, but the board decided to appoint a local candidate.{{R|"West Cumberland Times 17 March 1894"}}
+
+On 18{{Nbsp}}March 1889, Dent's father was appointed to a teaching assistant position at Portland Road School, in [[Halifax, West Yorkshire|Halifax]], [[West Yorkshire]], after completing a teaching apprenticeship with the school board.{{R|"Halifax Courier 23 March 1889"|"Bull 2020"}} In the same year, Florence Emily Dent, his elder sister, was appointed head teacher at West Vale girls' school, Stainland Road, [[Greetland]], moving from the Higher Board School at Halifax.{{R|"Halifax Courier 12 January 1889"}} In August 1889, he obtained a first class pass in mathematics from the [[Calderdale College|Halifax Mechanics' Institute]].{{R|"Halifax Courier 31 August 1889"}}{{Efn|His siblings took the mathematics examination at the same time.{{R|"Halifax Courier 31 August 1889"}}}} He enrolled on a degree course at [[Aberystwyth University|University College]], [[Aberystwyth]], in the Education Day Training College.{{Efn|See ''The Day Training College: a Victorian innovation in teacher training''.{{R|"Thomas 1978"}}}} In January 1894, he was awarded a first by Aberystwyth, and a first in the external [[University of London]] examinations.{{R|"The Welshman 28 July 1893"|"Carnarvon and Denbigh Herald 19 January 1894"}}{{Efn|Aberystwyth originated as a college teaching external degrees of the University of London. See [[University of London Worldwide]] history of the external examination system.}} His first teaching post was at [[Coopers' Company and Coborn School|Coopers' Company Grammar School]], [[Bow, London|Bow]], London,{{R|"Year Book Press 1916"}} before moving to Chippenham, where he was a senior assistant teacher at the [[Hardenhuish School|Chippenham County School]].{{R|"Wiltshire Times 1 May 1897"}}
+
+In October 1901, Dent's father left Chippenham to become head teacher of the then recently established [[Warminster]] County School, that adjoined the [[Warminster Athenaeum|Athenaeum Theatre]] in Warminster.{{R|"Salisbury Journal 26 October 1901"|"The Salisbury Times 22 November 1901"}}{{Efn|In 1897, the Government Education Inspectors insisted the Athenaeum must expand if it was to continue as a centre of learning. An initial plan to add a floor to the building was rejected in favour of adding a new adjoining building at a cost of £3,000. The new school also made use of the first floor classrooms in the Athenaeum.{{R|1="Warminster Athenaeum Centre 2020"|2="Kelly's Directory 1911"|p2=263}}}} The family moved to Boreham Road, Warminster, where houses were built in the early 19th century.{{R|"Warminster and Westbury Journal 11 July 1903"|"Wiltshire Times 9 August 2007"}}{{Efn|A Warminster town guide of 1924 described Boreham Road as a modern residential quarter of semi{{Hyphen}}detached villas, pretty gardens, with a tree lined footpath blending the rural with the urban.{{R|"Wiltshire Times 9 August 2007"}}}} In April 1907, they moved to 22{{Nbsp}}Portway, Warminster, situated a short distance from the County School and the Athenaeum.{{R|1="Kelly's Directory 1911"|p1=264|2="Wiltshire Times 13 April 1907"}} He was elected [[Chairperson|chair]] of the Warminster Urban District Council from 1920 to 1922,{{R|"Wiltshire Times 25 May 1935"}}{{Efn|There is a portrait photograph of Eustace, as chair of the council, in the café area of the Civic Centre in Sambourne Road, Warminster.{{R|"Wiltshire Times 25 May 1935"}}}} and remained as head teacher of the County School until his retirement in August 1929.{{R|"Wiltshire Times 10 August 1929"}}{{Efn|The school closed at the end of the summer term on 29{{Nbsp}}July 1931, after the [[Wiltshire Council]] Education Authority built a new secondary school for Warminster.{{R|"Wiltshire Times 27 December 1930"}} The building was used as the town library until 1958, and then by Warminster Youth Centre, but is now owned and managed by the Athenaeum Trust.{{R|"Murray 2016"}}}}
+
+Dent's father was also a regular cast member of the Warminster Operatic Society at the Athenaeum and other venues. Dent and her younger sister, Florence Mary, would often appear with him on stage in such [[operetta]]s as [[Clara Louise Burnham|''Snow White and the seven dwarfs'']] and the ''Princess Ju{{Nbh}}Ju'' ([[Omamori|''The Golden Amulet'']]), a Japanese operetta in [[Three-act structure|three acts]] by Clementine Ward.{{R|"Warminster and Westbury Journal 29 February 1908"|"Wiltshire Times 28 November 1914"|"Howell 1987"}} In ''Princess Ju{{Nbh}}Ju'', she played ''La La'', one of the three maidens attendant on the princess, and sang the first act solo, ''She must be demure''.{{R|"Library of Congress 1902"|"Guide to Musical Theatre 2020"}} In act two of the same musical, she performed in the [[fan dance]], ''Spirits of the Night''.{{R|"Wiltshire Times 28 November 1914"|"Guide to Musical Theatre 2020"}}{{Efn|[[File:Warminster- some town-centre shops (geograph 2025490).jpg|95px|right|alt=Picture of the Market Place in Warminster|Market Place in Warminster]]At the end of the musical, the [[Kimigayo|national anthem of Japan]] was sung, followed by the British national anthem, and the flags of the [[Allies of World War I|Allies]] were waved from the stage.{{R|"Wiltshire Times 28 November 1914"}} The [[Flag of Belgium|Belgian flag]] was held by a young refugee, Alphonse Cambier, who, with three others, were attending the County School.{{R|"Wiltshire Times 28 November 1914"}} [[German invasion of Belgium (1914)|Germany had invaded Belgium]] on 4{{Nbsp}}August 1914, forcing Belgians to flee, with the United Kingdom home to 250,000 Belgian refugees during [[World War I]]. [[Thomas Thynne, 5th Marquess of Bath|Lord Bath]] placed his vacant houses in the district at their disposal. Amongst others, two large houses in Warminster were made available, one in the Market Place, and one in Silver Street.{{R|"Wiltshire Times 5 September 1914"|"Winterman 2014"}}}} She also acted in a scene from [[Alfred, Lord Tennyson|Tennyson's]] ''[[The Princess (Tennyson poem)|Princess]]'' at the County School's prize giving day on 16{{Nbsp}}December 1913.{{R|"Wiltshire Times 20 December 1913"}}{{Efn|A scene from ''[[Princess Ida]]'', the comic opera adaptation by [[Gilbert and Sullivan]].{{R|"Gilbert Sullivan 1984"}}}}
+
+==Education==
+===Warminster County School (1909–1917)===
+[[File:Warminster - The Atheneum Centre - geograph.org.uk - 1168802.jpg|thumb|alt=Picture of the former Warminster County School situated next to the Atheneum theatre in Warminster|Former Warminster County School, where Dent's father was head teacher]]
+From 1909, Dent was educated at Warminster County School, where her father was head teacher.{{R|"Barnsley High School 1924"}} At school, she was close friends with her neighbour at Portway, Evelyn Mary Day, the eldest daughter of Henry George Day, a former butler to Colonel Charles Gathorne Gathorne{{Nbh}}Hardy, son of [[Gathorne Gathorne-Hardy, 1st Earl of Cranbrook]].{{R|"Wiltshire Times 12 June 1926"|"The Weald 1891"}}{{Efn|Dent was a bridesmaid at Evelyn's wedding to Maurice Philip Young, a pharmacist, at the Minster Church of St{{Nbsp}}Denys, Warminster, on 7{{Nbsp}}June 1926. At the time of her marriage, Evelyn was an assistant mistress at the Central County School, Church Road, [[Bexleyheath]]. Dent wore printed silk, with a shaded hat to match, and pink pearls, the gift of the bridegroom. She was known to friends and family as ''May Dent''.{{R|"Wiltshire Times 12 June 1926"}}}} In August 1914, she passed the [[Oxford, Cambridge and RSA Examinations|University of Oxford Junior Local Examination]] with First Class Honours, and on the strength of her examination result, she was awarded a scholarship by the school.{{R|"Wiltshire Times 29 August 1914"|"Wiltshire Times 11 December 1915"}} In 1915, she passed the senior examination with second class honours and a distinction in French, and subsequently, her scholarship was renewed.{{R|"Wiltshire Times 11 December 1915"|"Wiltshire Times 7 August 1915"}} She then joined the [[sixth form]] and won the school prize for French in December 1916.{{R|"Wiltshire Times 16 December 1916"}}{{Efn|Dent's sister, Florence Mary, won the same prize for the year below.{{R|"Wiltshire Times 16 December 1916"}}}} In March 1918, she applied for a scholarship in mathematics from [[Somerville College, Oxford|Somerville College]], one of the first two women's colleges in the [[University of Oxford]]. She was highly commended but was not awarded a scholarship nor an [[Exhibition (scholarship)|exhibition]].{{R|"The Times 29 March 1918"}}
+
+===University of Bristol (1919–1923)===
+[[File:Paul Dirac, 1933.jpg|thumb|alt=Picture of Paul Dirac taken in 1933|[[Paul Dirac]], Dent's fellow student on the honours course in mathematics at Bristol]]
+In 1918, Dent joined the [[Royal Aircraft Establishment]] (RAE) at [[Farnborough, Hampshire|Farnborough]], Hampshire.{{R|"Barnsley High School 1924"}} The [[World War I|First World War]] opened new employment opportunities for women, and RAE was one of the first military establishments to recruit women into engineering, and mathematical and computational research.{{R|1="Barrow‑Green 2014"|p1=116|2="Horrocks 2019"|p2=10}} In the same period that Dent was at RAE, [[Lorna Swain]], then mathematics tutor at [[Newnham College, Cambridge|Newnham College]] in the [[University of Cambridge]], worked at the establishment on the problem of aircraft propeller vibration.{{R|"Barrow‑Green 2014"|p=84}} The [[Treasury#Treasury|Treasury]] reduced RAE's funding after the end of the war, and consequently, the number of resources and staff available to support research fell significantly.{{R|"Rood 2020"|p=58}} In 1919, she left RAE after being accepted on to the general [[Bachelor of Arts]] (BA) degree course at the [[University of Bristol]].{{R|"Barnsley High School 1924"}}{{Efn|The University of Bristol was the first higher education institute in England to admit women on an equal basis to men.{{R|"University of Bristol 2019"}}}} In June 1920, she passed her intermediate examination in French with supplementary courses in Latin, history, and mathematics.{{R|1="Western Daily Press 24 June 1920"|2="Staveley Barry 1921"|p2=1|q2=1919}}
+
+In the following academic year, Dent joined the honours course in mathematics and took an intermediate examination in physics.{{R|1="Mehra Rechenberg 1982"|2="Staveley Barry 1921"|p2=1|q2=1919}} After spending the summer of 1921 at her parents' home in Warminster,{{R|"Wiltshire Times 30 July 1921"}} she returned for the start of the 1921 to 1922 academic year to find that [[Paul Dirac]] had joined the mathematics course.{{R|"Mehra Rechenberg 1982"}} The course of mathematics at Bristol University normally lasted three years, but because of Dirac's previous training, the Department of Mathematics had allowed him to join in the second year.{{R|"Mehra Rechenberg 1982"}} They were taught [[applied mathematics]] by Henry Ronald Hassé, the then head of the Mathematics Department, and [[pure mathematics]] by Peter Fraser. Both of them had come from Cambridge;{{R|"Mehra Rechenberg 1982"}} Fraser had been appointed in 1906 to the staff of the [[University College, Bristol|Bristol University College]], soon to become the University of Bristol, and Hassé joined him in 1919 as professor of mathematics.{{R|"Hodge 1959"||p=111}} Fraser introduced them to [[Rigour#Mathematical proof|mathematical rigour]], [[projective geometry]], and rigorous [[Mathematical proof|proofs]] in [[Calculus|differential and integral calculus]].{{R|"Mehra 2001"}} Dirac would later say that Peter Fraser was "the best teacher he had ever had."{{R|"Mehra Rechenberg 1982"}}
+
+Dent studied four courses in pure mathematics:{{R|"Farmelo 2009"}}
+
+{{Bulleted list
+| [[Conic section|Geometry of conics]]; [[Differential geometry]] of [[plane curve]]s
+| [[Algebra]] and [[trigonometry]]; Differential and integral calculus
+| [[Algebraic geometry and analytic geometry|Analytical]] projective geometry of conics
+| [[Differential equation]]s; [[Solid geometry]]
+}}
+
+There was a choice of specialisation in the final year; applied or pure mathematics. As the only official, registered fee{{Hyphen}}paying student, Dent had the right to choose, and she settled on applied mathematics for the final year. The department could offer only one set of lectures so Dirac also had to follow the same course.{{R|"Dalitz 1990"}}{{Efn|Her relations with Dirac were strictly formal; they seldom spoke to each other.{{R|"Farmelo 2009"}}}} Dent studied four courses in applied mathematics:{{R|"Farmelo 2009"}}
+
+[[File:Newnham College, Cambridge, March 2008.jpg|thumb|alt=Picture of the front and grounds of Newnham College, Cambridge|In 1923, Dent was accepted as a postgraduate research student by at [[Newnham College, Cambridge|Newnham College]], [[University of Cambridge]]]]
+{{Bulleted list
+| Elementary [[Dynamics (mechanics)|dynamics]] of a particle and of [[Rigid body|rigid bodies]]
+| Graphical and analytical [[statics]]; [[Hydrostatics]]
+| Dynamics of a particle and of rigid bodies
+| [[Elementary theory]] of [[Voltage|potential]] with applications to [[Electromagnetism|electricity and magnetism]]
+}}
+
+===Newnham College, University of Cambridge (1923–1924)===
+In June 1923, Dent graduated with Dirac, gaining a [[Bachelor of Science]] (BSc) degree in applied mathematics with [[British undergraduate degree classification#First Class Honours|First Class Honours]].{{R|"Western Daily Press 28 June 1923"|"Mehra Rechenberg 1982"}}{{Efn|Dent's sister, Florence Mary, graduated at the same time with a Bachelor of Arts degree, that included supplementary courses in French, Italian, Latin, and logic.{{R|1="Western Daily Press 28 June 1923"|2="Staveley Barry 1921"|p2=1|q2=1920}}}} On 7{{Nbsp}}July 1923, she was awarded the Ashworth Hallett scholarship by the University of Bristol and was accepted as a postgraduate student at Newnham College in the University of Cambridge.{{R|"Dalitz 1990"|"The Times 9 July 1923"|"Newnham College 1979"}} On her death in 1922, [[Lilias Ashworth Hallett|Lilias Sophia Ashworth Hallett]] left one thousand pounds each to the University of Bristol and [[Girton College, Cambridge|Girton College]], University of Cambridge, to found scholarships for women.{{R|"Crawford 1999"|pp=259, 261}} The University of Bristol scholarship was open to women graduates of a recognised college or university, and worth £45 at the time ({{Inflation|UK|45|1923|fmt=eq|r=-2|cursign=£}}).{{R|"Institute of International Education 1929"}} She spent a year at Cambridge, leaving in 1924 without further academic qualification.{{R|"Newnham College 1979"}} Before 1948, the University of Cambridge denied women graduates a degree, although in the same year as she left Cambridge, [[Katharine Margaret Wilson]] was the first woman to be awarded a [[Doctor of Philosophy|PhD]] by the university.{{R|"Rowe 2019"}}{{Efn|Wilson later became a successful writer and poet. Wilson's dissertation, ''Music and English Poetry'', featured at ''The Rising Tide: Women at Cambridge'' exhibition from October 2019.{{R|"Rowe 2019"|"The Times 6 June 1924"}}}}
+
+==Career==
+===High School for Girls, Barnsley (1924–1925)===
+[[File:College Fields - geograph.org.uk - 174664.jpg|thumb|alt=Picture of the former High School for Girls, Barnsley.|The former High School for Girls, [[Barnsley]], where Dent taught mathematics after leaving Newnham College]]
+Dent spent the summer of 1924 at her parents' home in Warminster, playing [[mixed doubles]] tennis in a tournament organised by the local [[Conservative and Unionist Women's Franchise Association|Women's Unionist Association]].{{R|"Wiltshire Times 30 August 1924"}} In September of the same year, she was appointed an assistant teacher in mathematics at the High School for Girls, in [[Barnsley]], Huddersfield Road, on an annual salary of £250 ({{Inflation|UK|250|1924|fmt=eq|r=-2|cursign=£}}).{{R|"Newnham College 1979"|"Barnsley High School 1924"}} Annie Rose Nuttall, the school's head teacher,{{R|"Sheffield Daily Telegraph 25 June 1913"}} was a former student at Newnham College.{{R|"MacKenzie 1905"}}{{Efn|Nuttall had travelled to Dublin in July 1905, along with ninety{{Hyphen}}two other women from Oxford and Cambridge, to be awarded a bachelor's and master's degree by [[Trinity College Dublin]].{{R|"Weekly Irish Times 15 July 1905"}} The college had an arrangement where women, who had qualified for arts degrees at Oxford and Cambridge, could obtain the actual degrees on payment of a fee.{{R|"Evening Mail 7 July 1905"}}}} In the early 1920s, women who had studied university level mathematics faced limited employment prospects, as mathematics and engineering professions, other than perhaps school teaching, were dominated by men.{{R|"Royle 2020"}} Dent resigned her position on 31{{Nbsp}}August 1925 after being appointed a demonstrator (research assistant) in the Department of Physics at the University of Bristol,{{R|"Newnham College 1979"|"Barnsley High School 1924"}} with her salary being paid by the Department of Scientific and Industrial Research, the forerunner of the [[Science and Engineering Research Council]] (SERC).{{R|"Thompson 1992"|p=107}}{{Efn|Paul Dirac was also in receipt of a Research Council grant at this point with his research interests listed under Dent's entry in the Research Council's report for the year 1925 to 1926.{{R|"Research Council 1927"}}}}
+
+===Department of Physics, University of Bristol (1925–1929)===
+{{Hatnote|See {{Section link||Publications|Legacy}} for details of Dent's academic papers}}
+[[File:Lennard-jones.jpg|thumb|alt=Black and white portrait photograph of John Edward Lennard‑Jones|[[John Lennard-Jones|John Edward Lennard{{Nbh}}Jones]], Dent's advisor and co{{Hyphen}}author at Bristol in the 1920s]]
+In 1924, the University of Bristol Council had set aside a portion of a bequest from [[Henry Herbert Wills]] for the Department of Physics where [[Arthur Mannering Tyndall]] was building up a staff for teaching and research in the H. H. Wills Physics Laboratory, [[Royal Fort House]] Gardens.{{R|"Mott 1955"}}{{Efn|Tyndall became the "father" of the School of Physics. A lecturer and then professor who researched the [[Ion mobility spectrometry|mobility of ions]] in gases, Tyndall persuaded the Bristol industrialist Henry Herbert Wills to endow a purpose{{Hyphen}}built physics laboratory.{{R|"University of Bristol 2018"}}}} From August 1925, [[John Lennard-Jones]], of [[Trinity College, Cambridge|Trinity College]], University of Cambridge, was elected [[Reader (academic rank)|reader]] in [[mathematical physics]].{{R|"Nature 1925"|"Mott 1955"}} In March 1927, Lennard{{Nbh}}Jones was appointed Professor of Theoretical physics, a chair being created for him, with Dent becoming his research assistant in theoretical physics.{{R|1="Western Daily Press 31 March 1927"|2="Tyndall 1956"|p2=24|3="Western Daily Press 30 September 1927"}}{{Efn|This was the first appointment of a professor of theoretical physics in the United Kingdom.{{R|"University of Bristol 2018"}}}} Lennard{{Nbh}}Jones pioneered the theory of interatomic and intermolecular forces at Bristol and Dent became one of his first collaborators.{{R|"Mott 1955"|"Mehra Rechenberg 1982"}}
+
+Lennard{{Nbh}}Jones and Dent published six papers together from 1926 to 1928, dealing with the forces between atoms and ions, with the objective of calculating theoretically the properties of carbonate and nitrate crystals.{{R|"Mehra Rechenberg 1982"|"Mellor 1935"}} Dent's thesis for her master's degree, ''{{Citeref|Dent|1927|Some theoretical determinations of crystal structure|style=plain}}'' (1927), was the basis of the three papers that followed in 1927; with Lennard{{Nbh}}Jones, "{{Citeref|Lennard‑Jones|Dent|1927|Some theoretical determinations of crystal parameters. CXVI|style=plain}}", and with Lennard{{Nbh}}Jones and [[Sydney Chapman (mathematician)|Sydney Chapman]], "{{Citeref|Lennard‑Jones|Dent|Chapman|1927a|Structure of carbonate crystals|style=plain}}" and "{{Citeref|Lennard‑Jones|Dent|Chapman|1927b|Part II. Structure of carbonate crystals|style=plain}}".{{Efn|Sydney Chapman was Lennard{{Nbh}}Jones' PhD thesis advisor at Trinity College, Cambridge.{{R|"Mott 1955"}}}} On 28{{Nbsp}}June 1927, she was awarded a MSc degree for her thesis and research work.{{R|"Western Daily Press 28 June 1927"}} In 1927, the physics laboratory at Bristol had a surplus of funds, and so it was decided that the funds would be used to provide more technical help.{{Efn|Despite the fact that the department had acquired a second professor and two research fellows.{{R|"Tyndall 1956"|p=26}}}} Consequently, Dent was asked to combine her research duties with the post of part{{Hyphen}}time departmental librarian, the first appointment of librarian in the Department of Physics.{{R|1="Tyndall 1956"|p1=26|2="Department of Physics 2003"}}{{Efn|The library had been named after Maria Mercer, the last surviving daughter of [[John Mercer (scientist)|John Mercer]], a Lancashire weaver who taught himself sufficient chemistry to be elected to a [[Fellow of the Royal Society|Fellowship of the Royal Society]] in 1852.{{R|"Thompson 1992"|p=3}} Mercer was the inventor of the process of treating cotton known as [[Mercerised cotton|mercerisation]], and had amassed a considerable fortune. When Maria died, on 22{{Nbsp}}February 1913 at [[Clayton-le-Moors]], aged 93, her trustees offered "not less than £5,000" to the University of Bristol, towards the endowment of a Chair of Chemistry.{{R|"Thompson 1992"|p=3}}}}
+
+[[File:H.-H.-Wills-Physics-Laboratory-tower.jpg|thumb|alt=Photograph of the original H. H. Wills Physics Laboratory at the University of Bristol|H. H. Wills Physics Laboratory, University of Bristol, where Dent worked as a researcher]]
+In 1928, Lennard{{Nbh}}Jones and Dent published two papers, "{{Citeref|Lennard‑Jones|Dent|1928|Cohesion at a crystal surface|style=plain}}", and with Sydney Chapman, "{{Citeref|Lennard‑Jones|Dent|Chapman|1928|The change in lattice spacing at a crystal boundary|style=plain}}", that studied the [[Force field (chemistry)|force fields]] on a thin crystal [[Cleavage (crystal)|cleavage]].{{R|"Weaver 1960"|"Davey 1934"}} Around this time, [[quantum mechanics]] was developed to become the standard formulation for [[atomic physics]].{{Efn|See the [[Solvay Conference#Fifth Conference|Fifth Solvay Conference]] in 1927.{{R|"Beenakker 2009"}}}} Lennard{{Nbh}}Jones left Bristol in 1929 to study the subject for a year as a [[Rockefeller Foundation|Rockefeller Fellow]] at the [[University of Göttingen]].{{R|"Lennard‑Jones 1929"}} She wrote one last paper before leaving the physics department at Bristol: "{{Citeref|Dent|1929|The effect of boundary distortion on the surface energy of a crystal|style=plain}}" (1929) examined the effect of the [[Polarization density|polarisation]] of surface ions in decreasing the [[Surface charge|surface energy]] of [[Alkali metal halide|alkali halide]]s.{{R|"Clark 1934"}} In November 1929, she was appointed to the position of technical librarian for the scientific and technical staff in the research department at [[Metropolitan-Vickers]], [[Trafford Park]], Manchester.{{Listref|iii|p=14{{Ndash}}15}}{{R|"Black Muddiman Plant 2007"|p2=193}}
+
+In December 1929, Dent resigned her position at Bristol and it was accepted with regret by the [[university council]].{{R|"Western Daily Press 19 December 1929"}} Marjorie Josephine Littleton, the daughter of a local Bristol councillor and a graduate of Girton College, University of Cambridge, was appointed as her replacement on the 1{{Nbsp}}February 1930. Littleton was later Sir [[Nevill Francis Mott|Neville Mott's]] co{{Hyphen}}author and research assistant in the physics department.{{R|1="Davis 2004"|2="Mott 1989"|p2=517}} In 1930, Lennard{{Nbh}}Jones returned to Bristol, as Dean of the Faculty of Science, and introduced the new quantum theories to the Bristol group.{{R|"Lennard‑Jones 1929"|"Mott 1955"}}{{Efn|In 1932, Lennard{{Nbh}}Jones was elected to the [[John Humphrey Plummer Professor|Plummer Chair of Theoretical Chemistry]] in the University of Cambridge: The first person to hold a Chair of Theoretical Chemistry anywhere in the world.{{R|"Mott 1955"}} [[John Murrell (chemist)|John Murrell]] has stated that Lennard{{Nbh}}Jones played an early and very important role in developing the [[linear combination of atomic orbitals]] method for describing [[molecular orbital theory]] (known as MO theory).{{R|"Murrell 2012"|p=2876}}}}
+
+===Metropolitan-Vickers, Trafford Park (1930–1960)===
+Metropolitan{{Hyphen}}Vickers was a British heavy industrial firm, well{{Hyphen}}known for industrial electrical equipment and generators, street lighting, electronics, [[steam turbine]]s, and diesel locomotives. They built the [[Metrovick 950]], the first commercial [[transistor computer|transistorised computer]].{{R|"Grace's Guide 2020"}} In 1917, a Research and Education Department was established at the Trafford Park site, when the care of the library came within the remit of James George Pearce. He made the library the centre of a new "technical intelligence" section.{{R|"Black Muddiman Plant 2007"|p=193}}{{Efn|Pearce was later appointed director and secretary of the British Cast Iron Research Association.{{R|"Black Muddiman Plant 2007"|p=226}}}} In the 1920s, the post of librarian was held by Lucy Stubbs, a former assistant librarian at the [[University of Birmingham]],{{R|"Thompson 2000"}} and past member of the first [[Committee#Standing committee|standing committee]] of [[ASLIB]].{{R|"Black Muddiman Plant 2007"|p=228}} Stubbs did not possess scientific qualifications, maintaining that a librarian, if assisted by other technical staff, did not need to understand science or engineering.{{R|"Black Muddiman Plant 2007"|p=193}} In 1929, James Steele Park Paton reorganised and expanded the section with Dent succeeding Stubbs as technical librarian on 6{{Nbsp}}January 1930.{{Listref|iii|p=15}}{{R|"Black Muddiman Plant 2007"|p2=193}} She joined the scientific and technical staff as was one of only two senior women in the research department,{{R|"Plant 2005"|p=314}} and in contrast to Stubbs, was employed principally for her technical skills.{{R|"Black Muddiman Plant 2007"|p=193}}
+
+Dent was honorary secretary to the founding committee for the ASLIB Lancashire and Cheshire branch from 1931 to 1936.{{R|"Brightman 1956"|pp=204{{Ndash}}205}} In 1932, the branch had twenty{{Hyphen}}six members and had organised four meetings, including one addressed by Sir [[Henry Tizard]], the then President of ASLIB. After the war, it formed the basis for the Northern Branch of the association.{{R|"Muddiman 2005"|p=412}} Technical librarianship emerged as a new scientific career in [[interwar Britain]] and rapidly became one of the few types of professional industrial employment that was routinely open to both women and men.{{R|"Plant 2005"|p=301}} By 1933, Dent reported that the Metropolitan{{Hyphen}}Vickers library had three thousand engineering volumes and around the same number in pamphlets and patent specifications.{{R|"Philip 1933"}} Besides covering electrical subjects, the library covered accountancy, employment questions, and subjects of interest to the sales department. It also issued a weekly bulletin, scrutinised patents, handled patents taken out by research staff, and exchanged information with associated companies.{{R|"Barnard Roberts 1936"}}
+
+[[File:Analyseur différentiel de Douglas Hartree.JPG|thumb|alt=Picture of the differential analyser at the Museum of Science and Industry in Manchester, that was designed by Douglas Hartree|[[Differential analyser]] designed by [[Douglas Hartree]], at the [[Science and Industry Museum]] in Manchester]]
+Dent continued to publish papers in applied mathematics and contribute to papers on emerging computational technologies. In "{{Citeref|Dent|1935|On observations of points connected by a linear relation|style=plain}}" (1935), she developed a detailed [[Total least squares#Scale invariant methods|reduced major axis]] method for line fitting that built on the work of Robert Adcock and Charles Kummell.{{R|"Smith 2009"|"Choudhary Nagaraja 2017"}} In 1937, David Myers, then at the [[Department of Engineering Science, University of Oxford#Buildings|Engineering Laboratory]] at the University of Oxford, asked [[Douglas Hartree]] and [[Arthur Porter (engineer)|Arthur Porter]] to calculate the [[space charge]] limitation of [[Current transformer|secondary current]] in a [[triode]].{{R|1="Porter 2003"|p1=91|2="Froese Fischer 2003"|p2=96}} The calculations relied on some initial numerical integrations that were carried out by Dent on a [[differential analyser]]. The results corresponded closely to those obtained experimentally by Myers at Oxford.{{R|1="Porter 2003"|p1=91|2="Froese Fischer 2003"|p2=97}} Her knowledge of higher mathematics meant that she was asked to check the mathematics in papers for publication by engineers at Metropolitan{{Hyphen}}Vickers. For example, Cyril Frederick Gradwell, a graduate of Trinity College, Cambridge, asked her to scrutinise the algebraic part of his work in "{{Citeref|Gradwell|1950|The Solution of a problem in disk bending occurring in connexion with gas turbines|style=plain}}" (1950).{{Sfn|Gradwell|1950|p=212}}{{Efn|Along with Dent, Cyril Gradwell was one of the first programmers of the Ferranti Mark 1 computer. He wrote system software [[Function (computer programming)|subroutines]] (for example ''Input G'' and ''Reciprocal G'') that had advantages over the original versions written by [[Alan Turing]]. He wrote Mark I programs for Ferranti's [[Missile#Guidance systems|guided missile]] work for the [[Royal Aircraft Establishment]] (RAE) at [[Farnborough, Hampshire|Farnborough]], and on cotton spinning applications for the British Cotton Industry Research Association's [[Shirley Institute]] at [[Didsbury]].{{R|"Lavington 2019"}}}} She would later analyse the problem of stress distribution in a thick disk based on a method devised by Philip Pollock,{{Sfn|Bailey|1952|p=31}} for [[Richard William Bailey]], the former director of the mechanical, [[Metallurgy|metallurgical]], and chemical sections of the research department at Metropolitan{{Hyphen}}Vickers.{{R|"Smith 1958"|p=16}}{{Efn|See Pollock's commentary in "{{Citeref|Pollock|1955|Discussion on 'The Design of High‑Speed Salient‑Pole A.C. Generators for Water Power Plants'|style=plain}}" (1952, published 1955) for an explanation of [[Richard V. Southwell|Richard Southwell]]'s [[Relaxation (iterative method)|relaxation method]] that was used to calculate the stress distribution.}}
+
+Dent was a delegate at the fourteenth International Conference on Documentation and was invited to the Government's conference dinner on 22{{Nbsp}}September 1938 at the Great Dining Hall of [[Christ Church, Oxford]].{{R|"The Times 23 September 1938"}}{{Efn|[[James Stanhope, 7th Earl Stanhope|Earl Stanhope]], [[Secretary of State for Education|President of the Board of Education]], was in the chair at the dinner.{{R|"The Times 23 September 1938"}}}} In 1939, she was elected to the editing committee of the ASLIB book list.{{R|"ASLIB 1939"}} In 1944, she was put in charge of the women working in the research department laboratory at Metropolitan{{Hyphen}}Vickers, and in 1946, she was promoted to section leader of the new computation section.{{R|"Newnham College 1979"}} Her role would bring her into contact with [[Audrey Stuckes]], a [[materials science]] researcher in the department, and a graduate of Newnham College, who would later head the physics department at the [[University of Salford]].{{R|"The Daily Telegraph 10 October 2006"}} In 1953, they collaborated on an investigation into the heating effects that occur when a current is passed through a semiconductor that has no [[Diffusion barrier|barrier layer]].{{Sfn|Stuckes|1953|p=570}} Dent suggested methods to solve the equations and computed the numerical integrations.{{Sfn|Stuckes|1953|p=587}} In the following year, she developed the [[Fourier analysis]] in "{{Citeref|Barden|1954|Regenerative Deflection as a Parametrically Excited Resonance Phenomenon|style=plain}}" (1954), that calculated the optimal radial oscillations to maintain [[cyclotron resonance]] in a [[synchrocyclotron]]. The causes of axial spreading of the [[charged particle]] beam during extraction were also analysed.{{R|"Hoffman Whitehead 1954"}}
+
+Dent joined the [[Women's Engineering Society]] and published papers on the application of digital computers to electrical design.{{R|"The Woman Engineer Summer 1948"}}{{Sfn|Dent|1957}} With Brian Birtwistle, she wrote programs for the [[Ferranti Mark 1]] (Mark 1) computer at the [[University of Manchester]], that demonstrated that high speed digital computers could provide considerable assistance to the electrical design engineer.{{Sfn|Birtwistle|Dent|1956a|pp=52{{Ndash}}53}} Birtwistle would later have an extensive career in the computer industry, working at, amongst others, [[Honeywell#Honeywell Information Systems|Honeywell Information Systems]] and [[ADP, Inc.|ADP Network Services]].{{R|"Peltu 1977"}} In 1958, she carried out computer calculations for the mechanical engineering team at the Nuclear Power Group, [[Radbroke Hall]]. Their paper outlined a procedure for calculating the theoretical deflection (bending) of a circular grid of support girders for a graphite [[neutron moderator]] in a [[gas-cooled reactor]].{{Sfn|Edwards|Gill|Perkins|1958|p=1402}} A general expression was derived from the central deflection of the grid and the maximum [[bending moment]] on the central cross{{Hyphen}}beam for a range of grid diameters.{{R|"Building Research Station 1959"}}
+
+In 1959, and a year from retirement, Dent modelled a proposed [[Switched-mode power supply#Non-isolated topologies|Zeta circuit]] on the Mark 1 computer, for Eric Hartill's paper on constructing a high{{Hyphen}}power pulse transformer and circuit.{{Sfn|Hartill|1959|pp=66, 73}} The cost of the computation was about two thousand pounds ({{Inflation|UK|2000|1959|fmt=eq|r=-3|cursign=£}}), corresponding to around eighty hours of machine time.{{Sfn|Hartill|1959|p=68}} She retired from Metropolitan{{Hyphen}}Vickers in May 1960, with [[Isabel Hardwich]], later a fellow and president of the Women's Engineering Society, replacing her as section leader for the women in the research department.{{R|1="Black Muddiman Plant 2007"|p1=232|2="Jackson 2016"|p2=243}}
+
+==Personal life==
+[[File:CliftonHillHouse.JPG|thumb|alt=Image of Hill House in Clifton, a former hall of residence for women at the University of Bristol, showing the front of the Palladian architecture.|[[Clifton Hill House]] where Dent was resident in the 1920s]]
+In the 1920s, Dent was living at [[Clifton Hill House]], the university [[Dormitory|hall of residence]] for women in [[Clifton, Bristol|Clifton]].{{R|"Western Daily Press 11 December 1926"}} [[May Staveley|May Christophera Staveley]] was her [[Warden (college)|warden]] and tutor at Clifton Hill House, and Dent returned to Bristol on 22{{Nbsp}}December 1934 for Staveley's funeral.{{R|"Western Daily Press 24 December 1934"}} Dent was a member of the Clifton Hill House Old Students Association, and secretary and treasurer of the group of former Clifton Hill House students.{{Listref|iii|p=1, 9}} She would later write "I was very sorry indeed to leave Bristol and have many happy memories of my time there. I shall miss living at the [Clifton Hill House] Hall very much."{{Listref|iii|p=15}}
+
+In 1926, Dent was elected [[treasurer]] of the University of Bristol's [[Convocation#University use|Convocation]], the university's [[alumni association]].{{R|"University of Bristol 1926"}} In 1927, she was one of eleven people elected to the standing committee of the Convocation{{R|1="Western Daily Press 1 November 1927"|2="University of Bristol 1928"|p2=62}} She later represented the [[Manchester]] branch of the association.{{R|"Western Daily Press 24 December 1934"}} Around 1926, Dent was appointed honorary secretary of the Bristol Cheeloo Association.{{R|"Western Daily Press 5 March 1927"}} The association's aim was to raise sufficient funds to support a chair of chemistry at [[Cheeloo University]].{{R|"Western Daily Press 11 December 1926"}} In an effort to publicise the cause and raise money, she presented to the local branch of the [[Women's International League for Peace and Freedom|Women's International League]] in October 1928.{{R|"Western Daily Press 1 November 1928"}}
+
+[[File:Manchester Ice Palace, Cheetham Hill (geograph 5954573 by Peter McDermott).jpg|thumb|alt=Image of the former ice skating rink in Cheetham Hill, Manchester. The building is made of red brick and the name remains embossed on the front of the building.|The Ice Palace [[ice rink|skating rink]] in [[Cheetham, Manchester|Cheetham Hill]] where Dent learnt to [[Figure skating|figure skate]] in the early 1930s]]
+In July 1929, in Dent's last year at Bristol, she went on holiday to [[North Devon]] with friends that included Gertrude Roxbee, known as "Rox", who had graduated with Dent in 1923 with a BSc in [[botany]].{{Listref|iii|p=12{{Ndash}}13}}{{R|"University of Bristol 1928"|pp2=85, 319}} After moving to Manchester in January 1930, Dent found shared lodgings at 10{{Nbsp}}Montrose Avenue, [[Didsbury|West Didsbury]], in the same house as Roxbee who, at that time, was a teacher at [[Whalley Range High School]].{{Listref|iii|p=15, 50}} At weekends, she would [[The Ramblers|ramble]] to [[Hebden Bridge]], and with Roxbee, learnt to [[Figure skating|figure skate]] at the Ice Palace, a former [[ice rink]] on Derby Street in [[Cheetham, Manchester|Cheetham Hill]].{{Listref|iii|p=54}}{{R|"Manchester Evening News 18 November 2017"}}
+
+In September 1930, she returned to Bristol for the ninety{{Hyphen}}eighth conference of the [[British Science Association|British Association for the Advancement of Science]] (British Association), meeting her friends at an alumnae association lunch.{{Listref|iii|p=93}} In the afternoon of the 4{{Nbsp}}September 1930, she toured [[Avonmouth Docks]] as a conference member,{{Listref|iii|p=94}}{{R|"Western Daily Press 5 September 1930"}} and in the evening, was invited to a reception held by Walter Bryant, the then [[lord mayor]] of Bristol, at the [[Bristol Museum & Art Gallery]].{{Listref|iii|p=94}}{{R|"Western Daily Press 4 September 1930"}}. On the following day, she visited an aircraft manufacturer at [[Bristol (Whitchurch) Airport|Whitchurch Airport]] and attended a garden party at [[Wills Hall]].{{Listref|iii|p=94}}{{R|"Western Daily Press 5 September 1930"}}
+
+On the Monday of the conference, Dent was in the audience to see Paul Dirac present his paper on the [[proton]] and the structure of matter.{{Listref|iii|p=94}}{{R|"British Association 1930"}} She would later comment:{{Listref|iii|p=94}}
+
+{{Blockquote
+| text = I heard a striking paper by Dirac, who was a student with me, who is now a very famous person, as I always knew he would be{{Nbsp}}... I now go about boasting that I was in the same class!
+}}
+
+Dent's father died on {{Death date|df=y|1954|6|24}}, at their shared home, 529{{Nbsp}}King's Road, Stretford, with the funeral service taking place at St{{Nbsp}}Matthew's Church, Stretford.{{R|"The Guardian 25 June 1954"}} She had close links to St{{Nbsp}}Matthew's; from 1956 to 1962, she served as a [[School governor|school manager]] for St{{Nbsp}}Matthew's Church of England Primary School at Poplar Road, Stretford.{{R|"Newnham College 1979"}}
+
+==Later life and death==
+{{Multiple image
+| direction        = horizontal
+| perrow           = 2 / 2
+| total_width      = 400
+| img_gap          = 0
+| background color = AliceBlue
+| image_style      = border:none
+| image1           = The bishop's chair at Sompting parish church.jpg
+| alt1             = Image of the Bishop's chair, near the altar, formerly situated in the Hospitallers' Room, in the Church of St Mary the Blessed Virgin, Sompting. Constructed of oak with a red leather seat.
+| image2           = St Mary the Blessed Virgin Church, Sompting (from Geograph 1194036 39eae17f).jpg
+| alt2             = Image of St{{Nbsp}}Mary the Blessed Virgin Church, Sompting.
+| image3           = Inscription to Beryl May Dent (1900-1977) on the Bishop's Chair in Sompting parish church.jpg
+| alt3             = A brass plaque on the bishop's chair, situated close to the altar in the Church of St Mary the Blessed Virgin, Sompting, bearing a memorial to Dent with the following inscription: "In loving memory of BERYL DENT 1900 – 1977".
+| image4           = Worthing Crematorium in Findon, Worthing, England.jpg
+| alt4             = Image of Worthing Crematorium.
+| footer           = Dent's funeral was held at [[Church of St Mary the Blessed Virgin, Sompting|Sompting parish church]] and a memorial to her is inscribed on a brass plaque affixed to the [[Cathedra|bishop's chair]] at the church. Her ashes are interred at Worthing Crematorium.
+}}
+In 1962, Dent and her mother moved from Stretford to 1{{Nbsp}}Cokeham Road, [[Sompting]], a village in the coastal [[Adur District]] of [[West Sussex]], between [[Lancing, West Sussex|Lancing]] and [[Worthing]].{{R|"General Post Office 1961"|"General Post Office 1963"}} Her mother died on {{Death date|df=y|1967|4|5}} and was cremated at the [[Cemeteries and crematoria in Brighton and Hove#Downs Crematorium|Downs Crematorium]] on 10{{Nbsp}}April 1967.{{R|"The Guardian 7 April 1967"}} Dent's sister, Florence Mary, also lived in the house until her death on {{Death date and age|df=y|1986|9|13|1901|9|24}}.{{R|"The Daily Telegraph 17 September 1986"}} After a brief period as a teacher at a [[Preparatory school (United Kingdom)|prep school]] in [[Malmesbury]], Wiltshire, Florence worked as a secretary for a [[marine insurance]] firm attached to [[Lloyd's of London]] at 12 [[Leadenhall Street]], commuting into London from [[Harrow, London|Harrow]] each day.{{Listref|iii|p=57{{Ndash}}59}}
+
+Beryl May Dent died at [[Worthing Hospital]] on {{Death date and age|df=y|1977|8|9|1900|5|10}} after a long period of disablement. The funeral service was held on 12{{Nbsp}}August 1977 at [[Church of St Mary the Blessed Virgin, Sompting|St Mary's Church]], Sompting, followed by cremation.{{R|"The Daily Telegraph 11 August 1977"|"Will 1975"}} Her ashes were interred at [[Muntham Court#Crematorium|Worthing Crematorium]], in the Gardens of Rest, towards the Spring Glades, and her entry in the [[book of remembrance]] at the crematorium states:{{R|"Worthing Crematorium 1977"|"Worthing Crematorium 2020"}}{{Efn|Dent is interred in row 11, plot 32, on a mowed lawn area, where the markers are in the form of small brass plaques set into the lawn, approximately {{Convert|6|by|4|in|cm|0|abbr=on|order=flip}} in size. Dent's sister, Florence Mary, is also interred at the crematorium.{{R|"Worthing Crematorium 2020"}}}}
+
+{{Blockquote
+| quote = Beryl May Dent 1900{{Spaced ndash}}A real Christian loved by all{{Spaced ndash}}1977
+}}
+
+There is also a memorial to her at the Church of St{{Nbsp}}Mary the Blessed Virgin, Sompting. The [[Cathedra|bishop's chair]], situated close to the [[altar]], bears a brass plaque with the following inscription:{{R|"Sussex Family History Group 2003"}}{{Efn|Similarly, Dent's mother, Agnes, is remembered on a brass plaque at the east end of the choir stall.{{R|"Sussex Family History Group 2003"}}}}
+
+{{Blockquote
+| text = In loving memory of BERYL DENT 1900{{Spaced ndash}}1977
+}}
+
+Her Christian faith is perhaps not unexpected, given her father's work for the church in Warminster, and the era she grew up in, where religion pervaded social and political life. However, it is notable that she remained a committed Christian while pursuing a scientific career.{{R|"Warminster and Westbury Journal 6 May 1905"|"Evans 2011"}}
+
+==Legacy==
+An archive of Dent's papers, that relate to her life and work in the 1920s in the physics department at the University of Bristol, is held in the Special Collections of the University of Bristol Arts and Social Sciences Library, in Tyndall Avenue, Bristol.{{R|"Department of Physics 2003"}} Included in that archive is a series of {{Linktext|letterbook}}s, written in the 1930s by members of the Clifton Hill House Old Students' Association, that include news and photographs of Dent, her family, and friends.{{Listref|iii}}{{Listref|iv}}
+
+===Atomic force microscopy===
+[[File:Atomic force microscope by Zureks.jpg|thumb|alt=Picture of an atomic force microscope on the left with controlling computer on the right|An atomic force microscope on the left with controlling computer on the right. Dent's work had direct application to the development of [[atomic force microscopy]]]]
+In 1928, Lennard{{Nbh}}Jones and Dent published two papers, "{{Citeref|Lennard‑Jones|Dent|1928|Cohesion at a crystal surface|style=plain}}" and "{{Citeref|Lennard‑Jones|Dent|Chapman|1928|The change in lattice spacing at a crystal boundary|style=plain}}", that for the first time, outlined a calculation of the [[Electric potential|potential of the electric field]] in a vacuum, produced by a thin sodium chloride crystal surface.{{R|"Weaver 1960"|"Davey 1934"}} They gave an expression for the electric potential produced by a system of [[Point particle#Point charge|point charges]] in vacuum (although not a real cubic sodium chloride ionic lattice).{{R|"Dorofeev Vinogradov 2012"|pp=796{{Ndash}}797}} The expression for the potential in vacuum, <math>\varphi_{0}\left(r\right)</math>, at the point r = {x, y, z}, ''near'' the cubic lattice of point ions with different signs, the charge <math>e_{k}</math>, and the period ''a'' (a crystalline solid is distinguished by the fact that the atoms making up the crystal are arranged in a periodic fashion), can be represented in the form:{{R|"Dorofeev Vinogradov 2012"|p=797}}
+
+{{NumBlk|:|
+<math>
+ \varphi_{0}\left(r\right)=
+ \frac{2\pi}{a^{2}}
+ \sum_{l,m}\sum_{s}
+ \frac{\left(-1\right)^{s}
+ \exp
+ \left[
+ -\left(\frac{2\pi}{a}\right)
+ \sqrt{l^{2}+m^{2}}
+ \left(z+z_{s}\right)
+ \right]}
+ {\left|k_{l,m}\right|}
+ \times
+ \sum_{k}e_{k}\cos
+ \left[k_{l,m}\left(r_{\parallel}-r_{k}\right)\right]
+</math>
+|{{EquationRef|1}}}}
+
+:<math>r_{\parallel}=\left\{x,y\right\}</math> is the lateral vector that fixes the observation point coordinates in the sample plane.
+:<math>k_{l,m}</math> is the [[reciprocal lattice]] vector.
+:''s'' is the number of planes to be calculated inside the crystal; ''s'' set to zero would calculate the surface plane.
+
+The expression sums the set of potential static charges for the surface and lower planes of the crystal lattice. Lennard{{Nbh}}Jones and Dent showed that this expression forms a rapidly convergent [[Fourier series]].{{R|"Dorofeev Vinogradov 2012"|p=797}} Harold Eugene Buckley, a crystallographic researcher at the University of Manchester until his death in 1959,{{R|"Deer 1961"|p=481}} had suggested that their results should be treated with caution. For example, the contraction a crystal plane would suffer under the conditions prescribed would not be the same as that of a similar plane with a solid mass of crystal behind it. Another difficulty arises because calculation of crystal surface field force fields are so great that simplifying assumptions have to be made to render them capable of a solution.{{R|"Buckley 1951"}}
+
+Michael Jaycock and Geoffrey Parfitt, then respectively senior lecturer in [[Surface science|surface and colloid chemistry]] at [[Loughborough University|Loughborough University of Technology]] and professor of [[chemical engineering]] at [[Carnegie Mellon University]], concurred with Buckley, noting that "an ideal crystal, in which the ionic positions at the surface were identical to those achieved in the bulk crystal{{Nbsp}}... is obviously extremely improbable." However, they acknowledged that the Lennard{{Nbh}}Jones and Dent model was singularly elegant, and like most researchers working before the advent of modern computers, they were limited in what could be attempted computationally.{{R|"Jaycock Parfitt 1981"}} Nonetheless, Lennard{{Nbh}}Jones and Dent demonstrated that the force exerted on a single ion, by a surface with evenly distributed positive and negative ions, decreases very rapidly with increasing distance.{{R|"Jensen Lannung 1943"|p=14}} Later work by Jason Cleveland, Manfred Radmacher, and [[Paul K. Hansma|Paul Hansma]], has shown that this result has direct application to [[atomic force microscopy]] by predicting that non{{Hyphen}}contact imaging is possible only at small tip{{Hyphen}}sample separations.{{R|"Cleveland Radmacher Hansma 1995"|p=543}}
+
+===Reduced major axis regression===
+[[File:linear regression.svg|thumb|alt=Graph with x and y axes showing scattered points with a line of best fit|[[Linear regression]] attempts to model the relationship between two variables by fitting a linear equation (straight line) to observed data]]
+The theoretical underpinnings of standard [[linear regression|least squares regression]] analysis are based on the assumption that the independent variable (often labelled as ''x'') is measured without error as a design variable. The dependent variable (labeled ''y'') is modeled as having uncertainty or error. Both independent and dependent measurements may have multiple sources of error. Therefore, the underlying least squares regression assumptions can be violated. Reduced major axis (RMA) regression is specifically formulated to handle errors in both the ''x'' and ''y'' variables.{{R|"Harper 2014"|p=1}} If the estimate of the ratio of the error variance of ''y'' to the error variance of ''x'' is denoted by ''{{Lambda}}'', then the reduced major axis method assumes that ''{{Lambda}}'' can be approximated by the ratio of the total variances of ''x'' and ''y''.{{R|"Mark 1984"}} RMA minimizes both vertical and horizontal distances of the data points from the predicted line (by summing areas) rather than the least squares sum of squared vertical (''y''{{Hyphen}}axis) distances.{{R|"Harper 2014"|p=2}}
+
+In Dent's 1935 paper on linear regression, entitled "{{Citeref|Dent|1935|On observations of points connected by a linear relation|style=plain}}", she admitted that when the variances in the ''x'' and ''y'' variables are unknown, "we cannot hope to find the true positions of the observed points, but only their most probable positions."{{Sfn|Dent|1935|p=93|loc=Footnote}} However, by treating the probability of the errors in terms of [[Error function|Gaussian error function]]s, she contended that this expression may be regarded as "a function of the unknown quantities", or the [[likelihood function]] of the data distribution.{{R|"Burt 1949"|p=106|q=Note 1}} Furthermore, she argued that [[Arg max|maximising]] this function to obtain the [[maximum likelihood estimation]],{{R|"Fienberg 2006"|p=5}} subject to the condition that the points are [[Collinearity|collinear]], will give the parameters for the line of best fit. She then deduced formulae for the errors in estimating the [[centroid]] and the line inclination when the data consists of a single (unrepeated) observation.{{R|"Burt 1949"|p=106|q=Note 1}}
+
+[[Maurice Kendall]] and Alan Stuart showed that the maximum likelihood estimator of a likelihood function, depending on a parameter <math>\theta</math>, satisfies the following [[quadratic equation]]:{{R|"Kendall Stuart 1967"}}
+
+{{NumBlk|:|
+<math>\theta^{2}x^{T}y+\left[\lambda x^{T}x-y^{T}y\right]\theta-\lambda x^{T}y=0</math>
+|{{EquationRef|2}}}}
+
+:where ''x'' and ''y'' are the <math>\mathbf{X}</math> and <math>\mathbf{Y}</math> [[Euclidean vector|vectors]] in a [[covariance matrix]] giving the [[covariance]] between each pair of ''x'' and ''y'' variables.
+
+Using the [[quadratic formula]] to solve for the positive [[Zero of a function|root (or zero)]] of ({{EquationNote|2}}):{{R|"Diewert Fox 2008"|p=183|q=Note 34}}
+{{NumBlk|:|
+<math>\theta_{ML}\equiv\frac{y^{T}y-\lambda x^{T}x+\sqrt{(y^{T}y-\lambda x^{T}x)^{2} + 4\lambda (x^{T}y)^{2}}}{2x^{T}y}</math>
+|{{EquationRef|3}}}}
+
+Inspection of ({{EquationNote|3}}) shows that as ''{{Lambda}}'' tends to plus infinity, the positive root tends to:{{R|"Diewert Fox 2008"|p=183}}
+{{NumBlk|:|
+<math>\theta_{x}</math>, equal to <math>\frac{x^{T}y}{x^{T}x}</math>
+|{{EquationRef|4}}}}
+
+Correspondingly, as ''{{Lambda}}'' tends to zero, the root tends to:{{R|"Diewert Fox 2008"|p=183}}
+{{NumBlk|:|
+<math>\theta_{y}</math>, equal to <math>\frac{y^{T}y}{x^{T}y}</math>
+|{{EquationRef|5}}}}
+
+Dent had solved the maximum likelihood estimator in the case where the covariance matrix is not known.{{R|"Villegas 1961"|p=1049}} Dent's maximum likelihood estimator is the [[geometric mean]] of <math>\theta_{x}</math> and <math>\theta_{y}</math>, equivalent to:{{R|"Diewert Fox 2008"|p=184|q=Note 37}}
+
+{{NumBlk|:|
+<math>\theta_{ML}\equiv\sqrt{\frac{x^{T}y}{x^{T}x}\times{\frac{y^{T}y}{x^{T}y}}}\equiv\sqrt{\frac{{y^{T}y}}{{x^{T}x}}}</math>, where <math>x^{T}y</math> is positive.
+|{{EquationRef|6}}}}
+
+[[Dennis Lindley]] repeated Dent's analysis and stated that Dent's geometric mean estimator is not a consistent estimator for the likelihood function,{{R|"Lindley 1947"|pp=235{{Ndash}}236, 241}} and that the gradient of the estimate will have a bias, and this remains true even if the number of observations tends to infinity.{{R|"Jansen Barrett 1978"|p=15}} Subsequently, [[Theodore Wilbur Anderson|Theodore Anderson]] pointed out that the likelihood function has no maximum in this case, and therefore, there is no maximum likelihood estimator.{{R|"Anderson 1976"|p=3}} Kenneth Alva Norton, a former consulting engineer with the then [[National Institute of Standards and Technology|National Bureau of Standards]], responded to Lindley, stating Lindley's own methods and assumptions lead to a biased prediction.{{R|"Norton 1957"}} Furthermore, Albert Madansky, now H. G. B. Alexander professor emeritus of business administration at [[University of Chicago Booth School of Business]],{{R|"Chicago Booth 2022"}} noted that Lindley took the wrong root for the quadratic in ({{EquationNote|2}}) for the case where <math>x^{T}y</math> is negative.{{R|"Madansky 1959"|pp=201{{Ndash}}203}}
+
+[[Richard J. Smith]] has stated that Dent was the first to develop a RMA regression method for line fitting that built on the work of Robert Adcock in "{{Citeref|Adcock|1878|A Problem in Least Squares|style=plain}}" (1878) and Charles Kummell in "{{Citeref|Kummell|1879|Reduction of observation equations which contain more than one observed quantity|style=plain}}" (1879).{{R|"Smith 2009"|"Choudhary Nagaraja 2017"}} It is now believed that she was the first to propose what is often called the geometric mean functional relationship estimator of slope,{{R|"Barker 1989"|"Sprent 1990"}} and that her essential arguments can be generalised to any number of variables.{{R|"Burt 1949"|p=106|q=Note 1}} Moreover, although her solution has its theoretical limitations, it is of practical importance, as it likely represents the best [[a priori estimate]] if nothing is known about the true error distribution in the model. It is generally much less reasonable to assume that all the error, or residual scatter, is attributable to one of the variables.{{R|1="Mark 1984"|2="Jansen Barrett 1978"|p2=3}}
+
+===Electrical design using digital computers ===
+[[File:Transformer-hightolow smaller.jpg|thumb|alt=Illustration of transformer showing copper windings|Illustration of [[Transformer#Windings|transformer windings]]]]
+In the 1950s, British electrical engineers would rarely use a digital computer, and if they did, it would be to solve some complicated equation outside the scope of [[analog computer|analogue computers]]. To a certain extent, engineers were deterred by the difficulty and the time taken to program a particular problem. Furthermore, the varied and often unique problems that arise in electrical design practice, together with the degree of uncertainty of the numerical data of many problems, accentuated this tendency.{{Sfn|Birtwistle|Dent|1956a|p=47}} On 10 April 1956, Dent and Brian Birtwistle presented their paper, "{{Citeref|Birtwistle|Dent|1956a|The digital computer as an aid to the electrical design engineer|style=plain}}", to the Convention on Digital Computer Techniques at the [[Institution of Electrical Engineers]].{{Sfn|Birtwistle|Dent|1956a|p=47}} The paper was intended to show, by describing three relatively simple applications, that the digital computer could be a useful aid to the electrical design engineer. The three example problems were:{{Sfn|Birtwistle|Dent|1956a|pp=47{{Ndash}}48}}
+
+{{Ordered list
+| [[Overvoltage|Impulse voltage]] distribution on transformer windings.
+| Supply frequency [[Ripple (electrical)|ripple]] on [[transductor]] performance.
+| Starting [[torque]] of a [[Electric motor#Synchronous motor|synchronous motor]].
+}}
+
+The Ferranti Mark 1 computer at the University of Manchester was used for the calculations in the three problems. Dent was allowed to use the university's [[Library (computing)|library]] of [[Function (computer programming)|subroutines]], from which the following were taken and incorporated into the programs:{{Sfn|Birtwistle|Dent|1956a|p=48}}
+
+{{Col-begin|width=60%}}
+{{Col-2}}
+{{Bulleted list
+| Input of instructions.
+| Input of numerical data in decimal form.
+| Output of results in decimal digits and tabular form.
+}}
+{{Col-break|width=30%}}
+{{Hidden begin|title={{Bulleted|{{Nobold|''Mathematical functions''.}}}}}}
+{{Tree list}}
+** [[Exponentiation|Exponential]].
+** [[Sine and cosine]].
+** [[Square root]].
+** Solution of [[System of differential equations|simultaneous equations]].
+** [[Invertible matrix|Inversion of matrices]].
+** {{Tree list/final branch}}Integration of differential equations by [[Runge–Kutta methods]].
+{{Tree list/end}}
+{{Hidden end}}
+{{Col-end}}
+
+The first problem of calculating the impulse voltage distribution on transformer windings took about five hours of machine time. Conversely, a hand calculation, using a method described by Thomas John Lewis in "{{Citeref|Lewis|1954|The Transient Behaviour of Ladder Networks of the Type Representing Transformer and Machine Windings|style=plain}}" (1954), took around three months.{{R|"Journal of the Institution of Electrical Engineer 1956"|p=486}} The use of a computer in the second problem allowed for a more accurate solution as it was possible to include [[Magnetic hysteresis|nonlinear magnetic]] characteristics in the calculation. In the last problem, the torque and speed curves for the synchronous motors were calculated in around fifteen minutes.{{R|"Journal of the Institution of Electrical Engineer 1956"|p=486}} Their paper was one of the first to recognise that high speed digital computers could provide considerable assistance to the electrical design engineer by carrying out automatically the optimum design of products.{{Sfn|Birtwistle|Dent|1956a|pp=52{{Ndash}}53}}
+
+Significant research had been devoted to determining a transformer's internal [[Surge protector#Transient voltage suppressor|transient voltage]] distribution. Early attempts were hampered by computational limitations encountered when solving large numbers of coupled differential equations with analogue computers.{{R|"Degeneff 2004"}} It was not until Dent, with Hartill and Miles, in "{{Citeref|Dent|Hartill|Miles|1958b|A method of analysis of transformer impulse voltage distribution using a digital computer|style=plain}}" (1958), recognised the limitations of the analogue models and developed a digital computer model, and associated program, where non{{Hyphen}}uniformity in the [[Transformer#Windings|transformer windings]] could be introduced and any input voltage applied.{{Sfn|Dent|Hartill|Miles|1958b|p=259}}
+
+==Publications==
+===Selected papers and academic articles===
+{| class="wikitable plainrowheaders sortable mw-collapsible" style="margin-right: 0; background-color: White"
+|+ style="background-color: White; text-align: left" | {{Nowrap|Table of selected papers and academic articles}}
+|- style="vertical-align: top"
+! scope="col" style="text-align: left; background-color: AliceBlue" | Year
+! scope="col" style="text-align: left; background-color: AliceBlue; width: 25%" | Title
+! scope="col" style="text-align: left; background-color: AliceBlue; width: 15%" | Co{{Hyphen}}author(s)
+! scope="col" style="text-align: left; background-color: AliceBlue" class="unsortable" | Notes
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1926|August|3}} {{Anchor|bmd010}} || {{Sort|Forces between atoms and ions. II|{{Citeref|Lennard‑Jones|Dent|1926|The forces between atoms and ions. II|style=plain}}}}
+| {{Sort|Lennard‑Jones bmd010|John Edward Lennard{{Nbh}}Jones}}
+| Extends earlier results to provide a complete table of forces between the [[Valence (chemistry)|monovalent and divalent ions]] of the [[inert gas]]es.{{Sfn|Lennard‑Jones|Dent|1926|p=230}} The paper was presented to the [[Royal Society of Chemistry]] on 24{{Nbsp}}June 1926 at [[Burlington House]], the society's headquarters in [[Piccadilly]], London.{{R|"Nature 1926"|p=880}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1927|January|1}} {{Anchor|bmd020}} || {{Citeref|Dent|1927|Some theoretical determinations of crystal structure|style=plain}}
+| {{Sort|Dent bmd020|Dent {{Color|Teal|(sole{{Nbsp}}author)}}}}
+| Dent's MSc thesis. It formed the basis of the three papers published in 1927.{{Sfn|Dent|1927|p=4}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1927|January|1}} {{Anchor|bmd030}} || {{Citeref|Lennard‑Jones|Dent|Chapman|1927a|Some theoretical determinations of the structure of carbonate crystals. I|style=plain}}
+| {{Sort|Lennard‑Jones bmd030|John Edward Lennard{{Nbh}}Jones and Sydney Chapman}}
+| [[File:Uhličitan železitý.PNG|150px|right|alt=Picture of a test tube with a sample of brown{{Hyphen}}red ferrous carbonate|Test tube with a sample of brown{{Hyphen}}red Ferrous carbonate]]Discusses the structure of the carbonate [[Ion#Anions and cations|anion]] {{Chem|C|O|3|2−}}, a [[polyatomic ion]], in [[iron(II) carbonate]] {{Chem|Fe|C|O|3}}, or ferrous carbonate.{{R|"Mellor 1935"}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1927|January|1}} {{Anchor|bmd040}} || {{Citeref|Lennard‑Jones|Dent|Chapman|1927b|Some theoretical determinations of the structure of carbonate crystals. II|style=plain}}
+| {{Sort|Lennard‑Jones bmd040|John Edward Lennard{{Nbh}}Jones and Sydney Chapman}}
+| Discusses the work required to separate iron(II) carbonate into its constituent iron(II) [[Ion#Anions and cations|cations]] {{Chem|Fe|2+}} and carbonate anion.{{R|"Mellor 1935"}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1927|May|1}} {{Anchor|bmd050}} || {{Citeref|Lennard‑Jones|Dent|1927|Some theoretical determinations of crystal parameters. CXVI |style=plain}}
+| {{Sort|Lennard‑Jones bmd050|John Edward Lennard{{Nbh}}Jones}}
+| {{Multiple image
+| align=right
+| direction=horizontal
+| img_gap=0
+| total_width=200
+| background color=AliceBlue
+| image_style=border:none;
+| image1=Lattic_simple_cubic.svg
+| alt1=Simple cubic
+| caption1=Simple cubic
+| image2=Lattice_body_centered_cubic.svg
+| alt2=Body{{Hyphen}}centred cubic
+| caption2=Body{{Hyphen}}centred cubic
+| image3=Lattice_face_centered_cubic.svg
+| alt3=Face{{Hyphen}}centred cubic
+| caption3=Face{{Hyphen}}centred cubic
+| footer=Comparison of [[Cubic crystal system#Bravais lattices|crystal cubic lattice structures]]
+}}
+The surface plane of a [[Cubic crystal system|face{{Hyphen}}centred cubic lattice]] was derived by Lennard{{Nbh}}Jones and Dent and this result has been used extensively in [[physisorption]] studies. They simplified the calculation of the [[Lennard-Jones potential]] by noting that the ions under study were [[Isoelectronicity|isoelectronic]] with [[inert gas]] atoms, and thus, there was no need to introduce additional [[Empirical research|empirical]] ''L{{Nbh}}J'' parameters into the equation.
+In rock{{Hyphen}}salt or [[sodium chloride]] ([[halite]]) structure, each of the two atom types forms a separate face{{Hyphen}}centred cubic lattice. Examples of compounds with this structure include sodium chloride itself, along with the other alkali halides, and [[Valence (chemistry)|divalent]] metal oxides, [[sulfide|sulphide]]s, [[selenide]]s, and [[Telluride (chemistry)|tellurides]].{{R|1="Sammis 1972"|p1=16|2="Seitz 1940"|3="Ben‑Ephraim Folman 1984"|p3=682{{Ndash}}683}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1928}} {{Anchor|bmd060}} || {{Citeref|Lennard‑Jones|Dent|1928|Cohesion at a crystal surface|style=plain}}
+| {{Sort|Lennard‑Jones bmd060|John Edward Lennard{{Nbh}}Jones}}
+| Calculation of the surface energy of solids. Shows that for an [[Ionic compound|ionic substrate]] a [[charged particle]] would be most strongly adsorbed, but that the [[Coulomb's law|electrostatic forces]] were very short range, and for greater distances, were smaller than the [[Van der Waals force|van der Waals' forces]]. A [[Electric dipole moment|dipole]] would be adsorbed in the same manner as a charged particle but much less strongly.{{R|"Weaver 1960"}} They conclude that the Van der Waals attraction between the atoms arises because each is [[Polarizability|polarised]] in the presence of others, and the temporary distortion of the [[electron shell]]s gives rise to an attraction.{{R|"Masson 1928"|p=169}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1928|November|1}} {{Anchor|bmd070}} || {{Sort|Change in lattice spacing at a crystal boundary|{{Citeref|Lennard‑Jones|Dent|Chapman|1928|The change in lattice spacing at a crystal boundary|style=plain}}}}
+| {{Sort|Lennard‑Jones bmd070|John Edward Lennard{{Nbh}}Jones and Sydney Chapman}}
+| Shows that when alkali metal halide crystals are put under tension along their length, they suffer a [[Stress (mechanics)|lateral contraction]] of the order of 6 per cent.{{R|"Davey 1934"}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1929|October|1}} {{Anchor|bmd080}} || {{Sort|Effect of boundary distortion on the surface energy of a crystal. LV |{{Citeref|Dent|1929|The effect of boundary distortion on the surface energy of a crystal. LV|style=plain}}}}
+| {{Sort|Dent bmd080|Dent {{Color|Teal|(sole{{Nbsp}}author)}}}}
+| The effect of [[Polarization density|polarisation of surface ions]] in decreasing [[Surface charge|surface energy]] of the alkali halide crystals is studied. It is shown that for a series of alkali halide crystals, it is the [[Deformation mechanism|deformability]] of the surface ions which largely controls the distortion at the surface. In general, [[Close-packing of equal spheres|close{{Hyphen}}packing]] and wide inter{{Hyphen}}planar spacing tend to lower the free surface energy in crystals.{{R|"Clark 1934"|"Bickle 1960"}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1933}} {{Anchor|bmd090}} || {{Sort|Technical news bulletin and house journal of the Metropolitan‑Vickers Electrical Company|{{Citeref|Dent|1933|The technical news bulletin and house journal of the Metropolitan{{Hyphen}}Vickers Electrical Company|style=plain}}}}
+| {{Sort|Dent bmd090|Dent {{Color|Teal|(sole{{Nbsp}}author)}}}}
+| [[File:Wills Hall Quad, 0908.jpg|150px|right|alt=Picture of Wills Hall at the University of Bristol|The conference was held at the Wills Hall, University of Bristol]]There were eight contributors to the subject "the preparation and production of information bulletins, house journals and reports", which was presented at the general session of the tenth annual conference of the ASLIB on the morning of the 23{{Nbsp}}June 1933 in the [[Wills Hall]], University of Bristol. James George Pearce, Dent's former technical director at Metropolitan{{Hyphen}}Vickers, was in the chair. Dent described the technical news bulletin and the house journal of Metropolitan{{Hyphen}}Vickers. The bulletins and journals contained references to current literature, [[Abstract (summary)|abstracts]], news of current interest, and select bibliographies. They were often [[Duplicating machines|duplicated]] owing to the prohibitive cost of printing: "Don't press the printers" was the advice of Dent.{{R|"Western Daily Press 25 September 1933"|"Thornton 1940"}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1935|January|1}} {{Anchor|bmd100}} || {{Citeref|Dent|1935|On observations of points connected by a linear relation|style=plain}}
+| {{Sort|Dent bmd100|Dent {{Color|Teal|(sole{{Nbsp}}author)}}}}
+| Dent was the first to describe and develop a detailed reduced major axis method for line fitting. The paper was sent to the [[Physical Society of London|Physical Society]] by Henry Ronald Hassé, Dent's former professor of applied mathematics at Bristol, on 10{{Nbsp}}July 1934. The paper was [[Scholarly peer review|refereed]] by [[Alexander Aitken]],{{R|"European Mathematical Society 2021"}} and at the time of publication, commented on by [[W. Edwards Deming|William Edwards Deming]].{{R|"Smith 2009"}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1941|September|1}} {{Anchor|bmd105}} || {{Citeref|Dent|1941|Works libraries and the war effort|style=plain}}
+| {{Sort|Dent bmd105|Dent {{Color|Teal|(sole{{Nbsp}}author)}}}}
+| Dent wrote on the importance of providing facilities to distribute technical literature during a war.{{Sfn|Dent|1941|p=26}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1946}} {{Anchor|bmd110}} || {{Sort|Library and information service of the Metropolitan‑Vickers Co. Ltd.|{{Citeref|Dent|Paton|1946|The library and information service of the Metropolitan{{Hyphen}}Vickers Co. Ltd|style=plain}}}}
+| {{Sort|Paton bmd110|James Steele Park Paton}}
+| Describes the information service developed during the last thirty years to meet the needs of the research department at the Metropolitan{{Hyphen}}Vickers Electrical Company. In response to a request from the senior staff, a weekly "Industrial Digest" was produced from 1945. The digest contained about fifty brief abstracts on factory processes and workshop practice.{{Sfn|Dent|Paton|1946|p=236}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1946|September}} {{Anchor|bmd120}} || {{Citeref|Fleming|Dent|1946a|What the industrialist expects of an information service|style=plain}}
+| {{Sort|Fleming bmd120|Sir [[Arthur Fleming (electrical engineer)|Arthur Fleming]]}}
+| [[File:University of Westminster Foyer.jpg|150px|right|alt=Picture of the Polytechnic (now the University of Westminster) on Regent Street, showing the inside of the lobby with a staircase leading to the next floor|The Polytechnic (now the University of Westminster) on Regent Street, where Dent and Fleming presented at the twenty{{Hyphen}}first annual conference of ASLIB]] On 14{{Nbsp}}September 1946, Dent and Fleming presented at the twenty{{Hyphen}}first annual conference of ASLIB in the Fyvie Hall at the [[University of Westminster|Polytechnic]], [[Regent Street]]. They stressed the importance of new knowledge and ideas in industry as a condition of progress, and that industry required rapid, accurate, and comprehensive information.{{Sfn|Fleming|Dent|1946b|pp=490, 491{{Ndash}}492}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1956|April}} {{Anchor|bmd130}} || {{Sort|Digital computer as an aid to the electrical design engineer|{{Citeref|Birtwistle|Dent|1956a|The digital computer as an aid to the electrical design engineer|style=plain}}}}
+| {{Sort|Birtwistle bmd130|Brian Birtwistle}}
+| The value of the digital computer as an aid to the electrical design engineer is discussed in the light of the authors' extensive use of the Ferranti Mark 1 computer.{{Efn|See also the history of the [[transistor computer]].}} Three examples are described:{{Sfn|Birtwistle|Dent|1956a|p=47}}
+{{Ordered list
+| [[Overvoltage|Impulse voltage]] distribution on [[Transformer#Windings|transformer windings]].{{Efn|See the 1958 paper, "{{Citeref|Dent|Hartill|Miles|1958b|A method of analysis of transformer impulse voltage distribution using a digital computer|style=plain}}".}}
+| Supply frequency [[Ripple (electrical)|ripple]] on [[transductor]] performance.
+| Starting [[torque]] of a [[Electric motor#Synchronous motor|synchronous motor]].
+}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1956|April}} {{Anchor|bmd140}} || {{Sort|Authors' replies to the discussion on Engineering and scientific applications of digital computers|{{Citeref|Birtwistle|Dent|1956b|The authors' replies to the discussion on 'Engineering and scientific applications of digital computers'|style=plain}}}}
+| {{Sort|Birtwistle bmd140|Brian Birtwistle}}
+| Replies to questions on "{{Citeref|Birtwistle|Dent|1956a|The digital computer as an aid to the electrical design engineer|style=plain}}" (1956). Douglas Hartree suggests using an extension of [[Numerov's method]] to reduce the time taken to solve the [[Differential equation#Equation order|second{{Hyphen}}order differential equations]]. Dent and Robinson also support Robert Kenneth Livesley's recommendation that engineering courses should take into account modern developments with regard to the application of digital computers to engineering practice.{{Sfn|Birtwistle|Dent|1956b|pp=82{{Ndash}}83}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1957}} {{Anchor|bmd095}} || {{Sort|Opportunities in the Metropolitan‑Vickers Electrical Company's research department|{{Citeref|Dent|1957|Opportunities in the Metropolitan‑Vickers Electrical Company's research department for girls of good scientific education|style=plain}}}}
+| {{Sort|Dent bmd095|Dent {{Color|Teal|(sole{{Nbsp}}author)}}}}
+| Dent advertises work for girls in the Metropolitan{{Hyphen}}Vickers research laboratories. She concedes that the applicant might resign before arguing that it is nevertheless a good idea to apply.{{Sfn|Dent|1957|p=12}} The article was first published in ''{{Citeref|Dent|1955|Careers: A memorandum on openings and trainings for girls and women|style=plain}}'' (1955) by the Women's Employment Federation.
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1958|May|1}} {{Anchor|bmd150}} || {{Citeref|Dent|Hartill|Miles|1958a|Analysis of transformer impulse voltages by digital computer|style=plain}}
+| {{Sort|Hartill bmd150|Eric Raymond Hartill and James George Miles}}
+| A review of "{{Citeref|Dent|Hartill|Miles|1958b|A method of analysis of transformer impulse voltage distribution using a digital computer|style=plain}}" (1958) after it was published as an individual paper in December 1957 and republished in Part A, Power Engineering, Proceedings of the Institution of Electrical Engineers. Hartill and Miles also worked at Metropolitan{{Hyphen}}Vickers.{{Sfn|Dent|Hartill|Miles|1958a|p=259}}{{Efn|James George Miles served in the electrical branch of the [[Royal Naval Reserve]], before studying at [[Brighton MET College|Brighton Technical College]], graduating in 1948. After a college apprenticeship with Metropolitan{{Hyphen}}Vickers, he joined their staff at Manchester. He was awarded an [[Associated Electrical Industries]] Fellowship in 1950, and spent one year studying [[Power-flow study|power‑system analysis]] with [[British Thomson-Houston]], before returning to Manchester.{{R|"Miles 1954"}}}}
+|- style="vertical-align: top"
+| style="background-color: AliceBlue" | {{Dts|format=y|1958|October}} {{Anchor|bmd160}} || {{Sort|Method of analysis of transformer impulse voltage distribution using a digital computer|{{Citeref|Dent|Hartill|Miles|1958b|A method of analysis of transformer impulse voltage distribution using a digital computer|style=plain}}}}
+| {{Sort|Hartill bmd160|Eric Raymond Hartill and James George Miles}}
+| The paper presents a method of impulse voltage calculation in which non{{Hyphen}}uniformity in the transformer windings could be introduced and input voltage applied. The derivation of the [[Transformer types#Constant voltage transformer|transformer circuit]] is discussed, together with a digital computer program for the solution of the resulting differential equations.{{Sfn|Dent|Hartill|Miles|1958b|p=259}}{{R|"Degeneff 2004"}}
+|}
+
+===Publications detail===
+{{Refbegin|30em}}
+
+====Dent====
+* {{Cite thesis|last1=Dent |first1=Beryl May |year=1927 |title=Some theoretical determinations of crystal structure |type=[[Master of Science|MSc]] |publisher=[[University of Bristol]] Physics Library |location=Bristol |pages=25, 13 leaves |language=en |oclc=931574568 |id=DM1961 |url=https://bris.on.worldcat.org/v2/oclc/931574568 |access-date=4 October 2021}}
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |date=1 October 1929 |title=The effect of boundary distortion on the surface energy of a crystal. LV. |journal=<!-- Deny citation bot, removes journal link-->[[Philosophical Magazine|Philosophical Magazine and Journal of Science]] |publisher=[[Taylor & Francis]] |volume=8 |issue=51 |series=7th |pages=530{{Ndash}}539 |location=London |language=en |issn=1941-5982 |doi=10.1080/14786441008564909 |url=https://archive.org/details/dli.ernet.27209/page/530 |access-date=8 August 2021 |quote=Communicated by J. E. Lennard‑Jones.}}
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |date=January 1933 |title=The technical news bulletin and house journal of the Metropolitan‑Vickers Electrical Company |journal=Report of Proceedings |publisher=[[ASLIB]] |volume=10 |series=10th Conference |pages=56{{Ndash}}58 |location=London |language=en |oclc=756380193}}
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |date=1 January 1935 |title=On observations of points connected by a linear relation |journal=[[Proceedings of the Physical Society]] |publisher=[[Physical Society of London]] |volume=47 |number=1 |pages=92{{Ndash}}108 |location=London |language=en |issn=0959-5309 |doi=10.1088/0959-5309/47/1/307 |bibcode=1935PPS....47...92D |url=https://archive.org/details/in.ernet.dli.2015.25807/page/n117 |access-date=15 July 2020 |quote=Communicated by Henry Ronald Hassé on 10 July 1934. Includes discussion by William Edwards Deming.}}
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |date=September 1941 |title=Works libraries and the war effort |journal=Industry Illustrated |publisher=Management Journals |volume=9 |number=9 |pages=26, 28 |location=London |language=en |oclc=33433094 |quote=Includes ''Works Management'', then the official journal of the Works Management Association.}}
+* {{Cite book|last1=Dent |first1=Beryl May |author1-mask=1 |year=1955 |title=Careers: A memorandum on openings and trainings for girls and women |publisher=Women's Employment Federation |edition=17th |location=London |language=en |id={{BLCAT|sys=013988952}} |oclc=30187377}}
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |editor1-last=Cowper-Coles |editor1-first=Constance Hamilton |year=1957 |title=Opportunities in the Metropolitan‑Vickers Electrical Company's research repartment for girls of good scientific education |journal=[[Women's Engineering Society#Work and campaigns|The Woman Engineer]] |publisher=[[Women's Engineering Society]] |series=Autumn 1957 |volume=8 |number=6 |pages=9{{Ndash}}12 |location=London |language=en |issn=0043-7298 |url=https://twej.theiet.org/twej/WES_Vol_8a.html#page=151 |via=[[Institution of Engineering and Technology]] |access-date=21 November 2022 |url-status=live |archive-url=https://web.archive.org/web/20221121083719/https://twej.theiet.org/twej/docs/WES_Vol_8a.pdf_151.jpg |archive-date=21 November 2022 |quote=Pages 151 to 154 in volume.}}
+
+====Birtwistle====
+* {{Cite journal|last1=Birtwistle |first1=Brian |last2=Dent |first2=Beryl May |author2-mask=1 |date=April 1956 |title=The digital computer as an aid to the electrical design engineer |journal=[[Proceedings of the Institution of Electrical Engineers]] |publisher=[[Institution of Electrical Engineers]] |series=Part B. Radio and Electronic Engineering |volume=103 |issue=1S |pages=47{{Ndash}}53 |location=London |language=en |id=Paper No. 2092 M |issn=2054-0434 |doi=10.1049/pi-b-1.1956.0008 |quote=The paper was first received 30 January 1956, and in revised form, 5 March 1956. It was published in March 1956 and was read at the ''Convention on Digital‑Computer Techniques'' on 10 April 1956. |ref={{SfnRef|Birtwistle|Dent|1956a}}}}
+* {{Cite journal|last1=Birtwistle |first1=Brian |author1-mask=1 |last2=Dent |first2=Beryl May |author2-mask=1 |date=April 1956 |title=The authors' replies to the discussion on 'Engineering and scientific applications of digital computers' |journal=Proceedings of the Institution of Electrical Engineers |publisher=[[Institution of Electrical Engineers]] |series=Part B. Radio and Electronic Engineering |volume=103 |issue=1S |pages=82{{Ndash}}83 |location=London |language=en |issn=2054-0434 |doi=10.1049/pi-b-1.1956.0013 |doi-access=free |url=https://digital-library.theiet.org/deliver/fulltext/pi-b-1/103/1S/19560013.pdf?itemId=/content/journals/10.1049/pi-b-1.1956.0013&mimeType=pdf&isFastTrackArticle= |via=[[Institution of Engineering and Technology]] |access-date=13 August 2021 |ref={{SfnRef|Birtwistle|Dent|1956b}}}}
+
+====Fleming====
+* {{Cite journal|last1=Fleming |first1=Arthur |author1-link=Arthur Fleming (electrical engineer) |last2=Dent |first2=Beryl May |author2-mask=1 |editor1-last=Sanger |editor1-first=Margaret |date=September 1946 |title=What the industrialist expects of an information service |journal=Report of Proceedings |publisher=[[ASLIB]] |volume=21 |series=21st Conference |pages=47{{Ndash}}56 |location=London |language=en |oclc=652436848 |quote=Held at Fyrie Hall, the Polytechnic, London, 14 to 15 September 1946.|ref={{SfnRef|Fleming|Dent|1946a}}}}
+* {{Cite journal|last1=Fleming |first1=Arthur |author1-mask=1 |last2=Dent |first2=Beryl May |author2-mask=1 |editor1-last=Gale |editor1-first=Arthur James Victor |date=5 October 1946 |title=Association of Special Libraries and Information Bureaux. Annual Conference |journal=[[Nature (journal)|Nature]] |publisher=[[Nature Portfolio]] |volume=158 |issue=4014 |pages=491{{Ndash}}492 |location=London |language=en |issn=1476-4687 |doi=10.1038/158490b0 |doi-access=free |s2cid=4099552 |url=https://www.nature.com/articles/158490b0.pdf#page=2 |access-date=21 September 2021 |ref={{SfnRef|Fleming|Dent|1946b}}}}
+
+====Hartill and Miles====
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |last2=Hartill |first2=Eric Raymond |last3=Miles |first3=James George |date=1 May 1958 |title=Analysis of transformer impulse voltages by digital computer |journal=[[Proceedings of the Institution of Electrical Engineers]] |publisher=[[Institution of Electrical Engineers]] |volume=4 |issue=41 |pages=259{{Ndash}}261 |location=London |language=en |issn=2054-0612 |doi=10.1049/jiee-3.1958.0116 |ref={{SfnRef|Dent|Hartill|Miles|1958a}}}}
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |last2=Hartill |first2=Eric Raymond |author2-mask=1 |last3=Miles |first3=James George |author3-mask=1 |date=October 1958 |orig-year=First published December 1957 |title=A method of analysis of transformer impulse voltage distribution using a digital computer |journal=[[Proceedings of the Institution of Electrical Engineers]] |publisher=[[Institution of Electrical Engineers]] |series=Part A. Power Engineering |volume=105 |issue=23 |pages=445{{Ndash}}459 |location=London |language=en |issn=2054-040X |doi=10.1049/pi-a.1958.0080 |ref={{SfnRef|Dent|Hartill|Miles|1958b}}}}
+
+====Lennard‑Jones====
+* {{Cite journal|last1=Lennard‑Jones |first1=John Edward |author1-link=John Lennard-Jones |last2=Dent |first2=Beryl May |author2-mask=1 |date=3 August 1926 |title=The forces between atoms and ions. II |journal=[[Proceedings of the Royal Society]] |publisher=[[Royal Society]] |series=Series A. Containing Papers of a Mathematical and Physical Character |quote=Communicated by Sydney Chapman. Received 8 June 1926. |volume=112 |issue=760 |pages=230{{Ndash}}234 |location=London |language=en |issn=0950-1207 |jstor=94629 |doi=10.1098/rspa.1926.0107 |bibcode=1926RSPSA.112..230L |url=https://archive.org/details/in.ernet.dli.2015.27083/page/n250 |access-date=15 July 2020 |doi-access=free}}
+* {{Cite journal|last1=Lennard‑Jones |first1=John Edward |author1-mask=1 |last2=Dent |first2=Beryl May |author2-mask=1 |date=1 May 1927 |title=Some theoretical determinations of crystal parameters. CXVI |journal=<!-- Deny citation bot, removes journal link-->[[Philosophical Magazine|Philosophical Magazine and Journal of Science]] |publisher=[[Taylor & Francis]] |volume=3 |issue=18 |pages=1204{{Ndash}}1227 |location=London |language=en |issn=1941-5982 |doi=10.1080/14786440508564290}}
+* {{Cite journal|last1=Lennard‑Jones |first1=John Edward |author1-mask=1 |last2=Dent |first2=Beryl May |author2-mask=1 |year=1928 |title=Cohesion at a crystal surface |journal=[[Journal of the Chemical Society, Faraday Transactions|Transactions of the Faraday Society]] |publisher=[[Faraday Society]] |volume=24 |pages=92{{Ndash}}108 |location=London |language=en |issn=0014-7672 |doi=10.1039/tf9282400092 |url=https://archive.org/details/in.ernet.dli.2015.229301/page/n125 |access-date=15 July 2020 |quote=Received 10 November 1927.}}
+
+====Lennard‑Jones and Chapman====
+* {{Cite journal|last1=Lennard‑Jones |first1=John Edward |author1-link=John Lennard-Jones |last2=Dent |first2=Beryl May |author2-mask=1 |last3=Chapman |first3=Sydney |author3-link=Sydney Chapman (mathematician) |date=1 January 1927 |title=Some theoretical determinations of the structure of carbonate crystals. I |journal=[[Proceedings of the Royal Society]] |publisher=[[Royal Society]] |series=Series A. Containing Papers of a Mathematical and Physical Character |volume=113 |issue=765 |pages=673{{Ndash}}689 |location=London |language=en |issn=0950-1207 |jstor=94649 |doi=10.1098/rspa.1927.0015 |bibcode=1927RSPSA.113..673L |quote=Received 3 November 1926. Chapman provided the calculation of the [[Electric potential energy|electrostatic potential energy]] of an infinite array of [[Electric charge|electrical charge]]s distributed according to the scheme determined by [[X-ray crystallography|X‑ray analysis]]. |doi-access=free |ref={{SfnRef|Lennard‑Jones|Dent|Chapman|1927a}}}}
+* {{Cite journal|last1=Lennard‑Jones |first1=John Edward |author1-mask=1 |last2=Dent |first2=Beryl May |author2-mask=1 |last3=Chapman |first3=Sydney |author3-mask=1 |date=1 January 1927 |title=Some theoretical determinations of the structure of carbonate crystals. II |journal=[[Proceedings of the Royal Society]] |publisher=[[Royal Society]] |series=Series A. Containing Papers of a Mathematical and Physical Character |volume=113 |issue=765 |pages=690{{Ndash}}696 |location=London |language=en |issn=2053-9150 |jstor=94650 |doi=10.1098/rspa.1927.0016 |bibcode=1927RSPSA.113..690L |quote=Received 17 November 1926. |doi-access=free |ref={{SfnRef|Lennard‑Jones|Dent|Chapman|1927b}}}}
+* {{Cite journal|last1=Lennard‑Jones |first1=John Edward |author1-mask=1 |last2=Dent |first2=Beryl May |author2-mask=1 |last3=Chapman |first3=Sydney |author3-mask=1 |date=1 November 1928 |title=The change in lattice spacing at a crystal boundary |journal=[[Proceedings of the Royal Society]] |publisher=[[Royal Society]] |series=Series A. Containing Papers of a Mathematical and Physical Character |volume=121 |issue=787 |pages=247{{Ndash}}259 |location=London |language=en |issn=2053-9150 |jstor=95072 |doi=10.1098/rspa.1928.0194 |bibcode=1928RSPSA.121..247L |url=https://archive.org/details/in.ernet.dli.2015.240253/page/n261 |access-date=23 August 2020 |doi-access=free}}
+
+====Paton====
+* {{Cite journal|last1=Dent |first1=Beryl May |author1-mask=1 |last2=Paton |first2=James Steele Park |others=Libraries Committee, City Council |year=1946 |title=The library and information service of the Metropolitan‑Vickers Co. Ltd. |journal=Manchester Review |publisher=[[Manchester Library & Information Service|Manchester Public Libraries]] |series=Public Library Review Autumn |volume=4 |pages=236{{Ndash}}238 |location=Manchester |language=en |issn=0025-2026 |oclc=1014381852}}
+
+====As contributing mathematician and programmer====
+* {{Cite book|last1=Bailey |first1=Richard William |author1-link=Richard William Bailey |year=1952 |title=A Symposium on High‑temperature Steels and Alloys for Gas Turbines |section=II. Stresses in Gas‑Turbine Discs and Rotors |publisher=[[Iron and Steel Institute]] |series=Special Report No. 43 |pages=30{{Ndash}}35 |location=London |language=en |oclc=911840680 |quote=Held in the [[One Great George Street|Great Hall]] of the [[Institution of Civil Engineers]], London, 21 to 22 February 1951.}}
+* {{Cite journal|last1=Barden |first1=Stanley Edgar |date=June 1954 |title=Regenerative Deflection as a Parametrically Excited Resonance Phenomenon |journal=[[Review of Scientific Instruments]] |publisher=[[American Institute of Physics]] |volume=25 |number=6 |pages=587{{Ndash}}593 |location=Melville |language=en |osti=4412345 |doi=10.1063/1.1771137 |bibcode=1954RScI...25..587B |issn=0034-6748 |quote=Received 17 June 1952.}}
+* {{Cite journal|last1=Edwards |first1=John Charles Manson |last2=Gill |first2=Samuel Sidney |last3=Perkins |first3=Stanley |date=December 1958 |title=A Method of Calculating the Deflection of the Graphite Support Grid for a Gas Cooled Reactor |journal=Civil Engineering and Public Works Review |publisher=Lomax, Erskine & Company |volume=53 |number=630 |pages=1400{{Ndash}}1402 |location=London |language=en |issn=0009-7861 |oclc=220831595}}
+* {{Cite journal|last1=Gradwell |first1=Cyril Frederick |date=1 July 1950 |title=Asymmetrical Bending of Tapered Disks: The Solution of a problem in disk bending occurring in connexion with gas turbines |journal=Aircraft Engineering and Aerospace Technology |publisher=[[Emerald Group Publishing]] |volume=22 |issue=7 |pages=209{{Ndash}}212 |location=Bradford |language=en |issn=0002-2667 |doi=10.1108/eb031926}}
+* {{Cite journal|last1=Hartill |first1=Eric Raymond |date=April 1959 |title=The Zeta Transformer and Auxiliary Circuit Equipment |journal=[[Proceedings of the Institution of Electrical Engineers|Journal of the Institution of Electrical Engineers]] |publisher=[[Institution of Electrical Engineers]] |series=Part A: Power Engineering |volume=106 |issue=2S |pages=66{{Ndash}}73 |location=London |language=en |issn=0369-8882|doi=10.1049/pi-a.1959.0010 |quote=Paper No. 2876. The paper was received 7 January 1959. It was presented at the Convention on Thermonuclear Process on 29 April 1959}}
+* {{Cite journal|last1=Myers |first1=David Milton |last2=Hartree |first2=Douglas Rayner |author2-link=Douglas Hartree |last3=Porter |first3=Arthur |author3-link=Arthur Porter (engineer) |year=1937 |title=The Effect of Space‑Charge on the Secondary Current in a Triode |journal=[[Proceedings of the Royal Society]] |publisher=[[Royal Society]] |series=A, Mathematical and Physical Sciences |doi=10.1098/rspa.1937.0002 |volume=158 |issue=893 |pages=23{{Ndash}}37 |location=London |language=en |issn=0080-4630 |jstor=96742 |bibcode=1937RSPSA.158...23M |doi-access=free |ref=none}}
+* {{Cite journal|last1=Stuckes |first1=Audrey Doris |author1-link=Audrey Stuckes |date=July 1953 |title=Electro‑Thermal Behaviour of Point Contacts to Semiconductors |journal=[[Proceedings of the Physical Society]] |publisher=[[Physical Society of London]] |volume=66 |series=Section B |number=7 |pages=570{{Ndash}}587 |location=London |language=en |issn=0370-1301 |doi=10.1088/0370-1301/66/7/306 |bibcode=1953PPSB...66..570S |quote=Communicated by Brian Andrew Graham Churcher. Manuscript received 9 January 1953, and in final form, 9 April 1953.}}
+{{Refend}}
+
+==See also==
+{{Div col|colwidth=30em}}
+{{Bulleted list
+| [[Arthur Fleming (electrical engineer)|Arthur Fleming]]
+| [[Ferranti Mark 1]]
+| [[Isabel Hardwich]]
+| [[Metropolitan-Vickers]]
+| [[C. F. Powell|Cecil Frank Powell]] and [[Herbert Wakefield Banks Skinner]]{{Spaced ndash}}colleagues of Dent at the Wills Physical Laboratory, Bristol, in the late 1920s
+| [[University of Bristol]]
+}}
+{{Div col end}}
+
+==Footnotes==
+{{Notelist}}
+
+==References==
+{{Reflist|refs=
+<!--Books-->
+<!--In author alphabetical order, or reference name order where no author is identified-->
+{{Refn|name="Barnard Roberts 1936"|
+{{Cite book|last1=Barnard |first1=Cyril Cuthbert |last2=Roberts |first2=Arthur Denis |editor1-last=Esdaile |editor1-first=Arundell James Kennedy |editor1-link=Arundell Esdaile |editor2-last=Pafford |editor2-first=John Henry Pyle |editor2-link=John Henry Pyle Pafford |year=1936 |title=The Years Work in Librarianship |publisher=[[Chartered Institute of Library and Information Professionals|The Library Association]] |volume=9 |page=40 |location=London |language=en |oclc=1463596 |url=https://archive.org/details/in.ernet.dli.2015.198117/page/n48 |access-date=15 July 2020}}}}
+
+{{Refn|name="Barrow‑Green 2014"|
+{{Cite book|last1=Barrow‑Green |first1=June |author1-link=June Barrow-Green |editor1-last=Aubin |editor1-first=David |editor2-last=Goldstein |editor2-first=Catherine |editor2-link=Catherine Goldstein |year=2014 |title=The War of Guns and Mathematics: Mathematical Practices and Communities in France and Its Western Allies around World War I |chapter=Part 1 Starting Up. Cambridge Mathematicians' Responses to the First World War |publisher=[[American Mathematical Society]] |series=History of Mathematics |location=Providence |language=en |lccn=2014012563 |isbn=978-1-4704-1469-6 |oclc=875404250}}}}
+
+{{Refn|name="Bickle 1960"|
+{{Cite book|last1=Bickle |first1=William Henry |year=1960 |title=Crushing and Grinding a Bibliography |chapter=Surface Phenomena: Surface Energy |publisher=Chemical Publishing Co |page=111 |location=New York |language=en |oclc=299895083 |chapter-url=https://archive.org/details/crushingandgrind006664mbp/page/n128 |access-date=15 July 2020}}}}
+
+{{Refn|name="Black Muddiman Plant 2007"|
+{{Cite book|last1=Black |first1=Alistair |last2=Muddiman |first2=Dave |last3=Plant |first3=Helen |year=2007 |title=The Early Information Society: Information Management in Britain before the Computer |publisher=[[Ashgate Publishing]] |pages=1{{Ndash}}302 |location=Aldershot |language=en |isbn=978-0-7546-4279-4 |oclc=255622593 |url={{Google books|A-zOCwAAQBAJ|page=PA193|plainurl=y}} |access-date=15 July 2020}}}}
+
+{{Refn|name="British Association 1930"|
+{{Cite book|author=<!--Staff writer(s); no by-line.--> |year=1930 |title=Report of the Ninety‑Eighth Meeting at Bristol from 3 to 10 September |section=A. Mathematics. 8 September1930. Dr. P. A. M. Dirac. The Proton |publisher=[[British Science Association|British Association for the Advancement of Science]] |page=303 |location=London |language=en |oclc=1052539344 |section-url=https://archive.org/details/reportofbritisha31adva/page/303 |access-date=14 September 2021}}}}
+
+{{Refn|name="Buckley 1951"|
+{{Cite book|last1=Buckley |first1=Harold Eugene |year=1951 |title=Crystal Growth |chapter=6 Recent Theories of Crystal Growth |publisher=[[Wiley (publisher)|Wiley]] |page=178 |location=New York |language=en |oclc=574492499 |chapter-url=https://archive.org/details/dli.ernet.425322/page/178 |chapter-url-access=registration |access-date=19 August 2020}}}}
+
+{{Refn|name="Choudhary Nagaraja 2017"|
+{{Cite book|last1=Choudhary |first1=Pankaj Kumar |last2=Nagaraja |first2=Haikady Navada |year=2017 |title=Measuring agreement: models, methods, and applications |publisher=[[Wiley (publisher)|John Wiley & Sons, Inc]] |chapter=1. Introduction |page=41 |location=Hoboken |language=en |isbn=978-1-118-55324-4 |oclc=1031484921}}}}
+
+{{Refn|name="Clark 1934"|
+{{Cite book|last1=Clark |first1=Cecil Henry Douglas |year=1934 |title=The electronic structure and properties of matter; an introductory study of certain properties of matter in the light of atomic numbers |publisher=[[Chapman & Hall]] |page=326 |location=London |language=en |oclc=8102373 |hdl=2027/wu.89100400514?urlappend=%3Bseq=358}}}}
+
+{{Refn|name="Cleveland Radmacher Hansma 1995"|
+{{Cite book|last1=Cleveland |first1=Jason Paul |last2=Radmacher |first2=Manfred |last3=Hansma |first3=Paul Kenneth |author3-link=Paul K. Hansma |editor1-last=Güntherodt |editor1-first=Hans-Joachim |editor2-last=Anselmetti |editor2-first=Dario |editor3-last=Meyer |editor3-first=Ernst |others=NATO Scientific Affairs Division |year=1995 |title=Forces in scanning probe methods |chapter=Atomic Scale Force Mapping with the Atomic Force Microscope |publisher=[[Springer Science+Business Media|Kluwer Academic]] |pages=543{{Ndash}}550 |location=Dordrecht |language=en |doi=10.1007/978-94-011-0049-6_52 |isbn=978-0-7923-3406-4 |oclc=92497589 |quote=Proceedings of the NATO Advanced Study Institute on Forces in Scanning Probe Methods, Schluchsee, Germany, 7 to 18 March 1994. First published in ''{{Citeref|Cleveland|Radmacher|Hansma|1994|Applied Sciences|style=plain}}'' (1994).}}}}
+
+{{Refn|name="Crawford 1999"|
+{{Cite book |last1=Crawford |first1=Elizabeth |year=1999 |title=The Women's Suffrage Movement: A Reference Guide 1866–1928 |section=Hallett, Lilias Sophia Ashworth |publisher=[[University College London#Publishing and commercialisation|University College London Press]] |pages=259{{Ndash}}262 |location=London |language=en |isbn=978-1-84142-031-8 |oclc=925268802 |url=https://books.google.com/books?id=a2EK9P7-ZMsC&pg=PA261 |access-date=13 August 2021}}}}
+
+{{Refn|name="Dalitz 1990"|
+{{Cite book|last1=Dalitz |first1=Richard Henry |author1-link=Richard Dalitz |editor1-last=Kurşunoğlu |editor1-first=Behram Nazim |editor1-link=Behram Kurşunoğlu |editor2-last=Wigner |editor2-first=Eugene Paul |editor2-link=Eugene Wigner |year=1990 |title=Reminiscences about a great physicist: Paul Adrien Maurice Dirac |chapter=10. Another side to Paul Dirac. Dirac's engineering training |publisher=[[Cambridge University Press]] |page=72 |location=Cambridge |language=en |isbn=978-0-521-34013-7 |oclc=1106876593 |chapter-url=https://archive.org/details/pauladrienmauric0000unse/page/72 |access-date=15 July 2020 |chapter-url-access=registration}}}}
+
+{{Refn|name="Davey 1934"|
+{{Cite book|last1=Davey |first1=Wheeler Pedlar |year=1934 |title=A study of crystal structure and its applications |chapter=XII The Mechanism of Crystal Growth and its Consequences |publisher=[[McGraw Hill Education|McGraw‑Hill Book Company, Inc]] |page=383 |location=London |language=en |oclc=1087607482 |chapter-url=https://archive.org/details/in.ernet.dli.2015.551/page/n395 |access-date=15 July 2020}}}}
+
+{{Refn|name="Degeneff 2004"|
+{{Cite book|last1=Degeneff |first1=Robert Charles |editor1-last=Harlow |editor1-first=James Hayward |editor1-link=James Hayward Harlow |year=2004 |title=Electric power transformer engineering |chapter=3.10 Transient‑Voltage Response |publisher=[[CRC Press]] |page=396 |location=Boca Raton |language=en |isbn=978-0-8493-1704-0 |oclc=928296389 |chapter-url=https://archive.org/details/ElectricPowerTransformerEngineering/page/n396 |access-date=15 July 2020}}}}
+
+{{Refn|name="Farmelo 2009"|
+{{Cite book|last1=Farmelo |first1=Graham |author1-link=Graham Farmelo |date=4 August 2009 |title=The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius |chapter=4. September 1921{{Spaced ndash}}September 1923 |publisher=[[Faber and Faber]] |pages=49{{Ndash}}50 |location=London |language=en |isbn=978-0-465-01827-7 |oclc=1052113037 |quote=See [[The Strangest Man]].}}}}
+
+{{Refn|name="Gilbert Sullivan 1984"|
+{{Cite book|last1=Gilbert |first1=William Schwenck |author1-link=W. S. Gilbert |last2=Sullivan |first2=Arthur Seymour |author2-link=Arthur Sullivan |editor1-last=Bradley |editor1-first=Ian |editor1-link=Ian Bradley |year=1984 |title=The Annotated Gilbert and Sullivan |chapter=Princess Ida |publisher=[[Penguin Books]] |volume=2 |page=209 |isbn=978-0-14-070848-6 |oclc=12875269 |location=Harmondsworth |language=en |chapter-url=https://archive.org/details/annotatedgilbert00sull/page/211 |access-date=27 May 2021 |chapter-url-access=registration}}}}
+
+{{Refn|name="Froese Fischer 2003"|
+{{Cite book|last1=Froese Fischer |first1=Charlotte |author1-link=Charlotte Froese Fischer |year=2003 |title=Douglas Rayner Hartree: his life in science and computing |chapter=8. The differential analyzer |publisher=[[World Scientific]] |pages=96{{Ndash}}97 |location=London |language=en |isbn=978-981-279-501-4 |oclc=666958945 |chapter-url={{Google books|AIhpDQAAQBAJ|page=PA96|plainurl=y}} |access-date=1 September 2021}}}}
+
+{{Refn|name="Harper 2014"|
+{{Cite book|last1=Harper |first1=William Victor |date=15 July 2014 |title=Proceedings of the International Conference on the Teaching of Statistics |chapter=Reduced Major Axis Regression: Teaching Alternatives to Least Squares |publisher=[[International Association for Statistical Education]] |series= ICOTS 9 2014 |pages=1{{Ndash}}4 |location=Ohio |language=en |isbn=978-1-118-44511-2 |chapter-url=https://digitalcommons.otterbein.edu/math_fac/24 |access-date=27 October 2020}}}}
+
+{{Refn|name="Jackson 2016"|
+{{Cite thesis|last1=Jackson |first1=Veronica Mary |year=2016 |title=Metropolitan‑Vickers: Arthur Fleming's influence on the origins and evolution of apprentice training and technical education, with particular reference to female college and student apprentices between 1945-1967 |section=Part Three: Isabel Hardwich a WES stalwart at Metrovicks |publisher=Department of history, politics and philosophy, [[Manchester Metropolitan University]] |pages=240{{Ndash}}250 |location=Manchester |language=en |type=PhD |oclc=1064617499 |section-url=https://e-space.mmu.ac.uk/615896/1/Veronica%20Jackson%20-%20Thesis%202016.pdf#page=252 |access-date=5 September 2021 |url-status=live |archive-url=https://web.archive.org/web/20211020133628/https://e-space.mmu.ac.uk/615896/1/Veronica%20Jackson%20-%20Thesis%202016.pdf |archive-date=20 October 2021}}}}
+
+{{Refn|name="Jansen Barrett 1978"|
+{{Cite book|last1=Jansen |first1=Jacques |last2=Barrett |first2=John Frederick |date=1 January 1978 |title=EUT Report, Eindhoven University of Technology, Faculty of Electrical Engineering |chapter=On the Theory of Maximum Likelihood Estimation of Structural Relations. Part 1: One Dimensional Case |publisher=Group Measurement and Control, [[Eindhoven University of Technology]] |volume=78 |pages=3, 15{{Ndash}}16 |location=Eindhoven |language=en |isbn=978-90-6144-078-9 |issn=0929-8533 |oclc=471610518 |chapter-url=https://pure.tue.nl/ws/portalfiles/portal/4259628/7802107.pdf#page=6 |access-date=21 September 2021 |url-status=live |archive-url=https://web.archive.org/web/20200613043507/https://pure.tue.nl/ws/portalfiles/portal/4259628/7802107.pdf |archive-date=13 June 2020}}}}
+
+{{Refn|name="Jaycock Parfitt 1981"|
+{{Cite book|last1=Jaycock |first1=Michael James |last2=Parfitt|first2=Geoffrey Derek |year=1981 |title=Chemistry of Interfaces |chapter=4. The Description of Solid Surfaces. The surface energy of a solid. Calculated surface energy values |publisher=[[Simon & Schuster|Ellis Horwood]] |edition=1st |pages=title page, 141 |location=Chichester |language=en |oclc=6487821 |isbn=978-0-470-27096-7 |chapter-url=https://archive.org/details/chemistryofinter0000jayc_e5k4/page/141 |access-date=12 September 2021}}}}
+
+{{Refn|name="Kelly's Directory 1911"|
+{{Cite book|author=<!--Staff writer(s); no by-line.--> |year=1911 |title=Kelly's Directory of Wiltshire |publisher=[[Kelly's Directory|Kelly and Co]] |pages=263{{Ndash}}264 |location=London |language=en |oclc=936206264 |url=http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/70875 |access-date=20 February 2021}}}}
+
+{{Refn|name="Kendall Stuart 1967"|
+{{Cite book|last1=Kendall |first1=Sir Maurice George |author1-link=Maurice Kendall |last2=Stuart |first2=Alan |year=1967 |title=Inference and Relationship |publisher=Hafner Publishing Company |series=The Advanced Theory of Statistics |volume=2 |edition=2nd |page=387 |location=New York |language=en |oclc=922075818}} Cited in "{{Citeref|Diewert|Fox|2008|On the estimation of returns to scale, technical progress and monopolistic markups|style=plain}}" (2008), p. 183.}}
+
+{{Refn|name="Lavington 2019"|
+{{Cite book|last1=Lavington |first1=Simon |year=2019 |title=Early computing in Britain: Ferranti Ltd. and government funding, 1948 to 1958 |chapter=17.2 Ferranti Programmers |publisher=[[Springer Nature]] |page=355 |location=Colchester |language=en |isbn=978-3-030-15103-4 |oclc=1107699799}}}}
+
+{{Refn|name="Library of Congress 1902"|
+{{Cite book|last1=Library of Congress |author1-link=Library of Congress |last2=Copyright Office |author2-link=United States Copyright Office |date=April 1902 |title=Catalog of copyright entries |publisher=[[United States Government Publishing Office|United States Government Printing Office]] |page=1043 |volume=32 |number=22 |location=Washington |language=en |oclc=847960278 |url=https://archive.org/details/catalogoftitlee1902libr/page/1043 |access-date=5 September 2020 |quote=Class C. Musical Compositions. April to June Second Quarter 1902}}}}
+
+{{Refn|name="Mark 1984"|
+{{Cite book|last1=Mark |first1=David Michael |author1-link=David Mark (scientist) |editor1-last=Gaile |editor1-first=Gary Lee |editor2-last=Willmott |editor2-first=Cort James |year=1984 |title=Spatial Statistics and Models |chapter=Some Problems With the Use of Regression Analysis in Geography |publisher=[[D. Reidel]] |pages=195{{Ndash}}196 |location=Dordrecht |language=en |isbn=978-94-017-3048-8 |oclc=883391388 |chapter-url=https://archive.org/details/spatialstatistic0040unse/page/195 |chapter-url-access=registration |access-date=26 October 2020}}}}
+
+{{Refn|name="Mehra Rechenberg 1982"|
+{{Cite book|last1=Mehra |first1=Jagdish |author1-link=Jagdish Mehra |last2=Rechenberg |first2=Helmut |author2-link=Helmut Rechenberg |date=1 December 1982 |title=Part 1: The fundamental equations of quantum mechanics |chapter=I Paul Dirac's Intellectual Development. I.3 Studying Applied Mathematics |volume=4 |publisher=[[Springer Science+Business Media|Springer‑Verlag]] |pages=13{{Ndash}}14 |location=New York |language=en |isbn=978-0-387-90680-5 |oclc=1149230386 |chapter-url=https://archive.org/details/fundamentalequat0004mehr/page/12 |access-date=15 July 2020 |chapter-url-access=registration}}}}
+
+{{Refn|name="Mehra 2001"|
+{{Cite book|last1=Mehra |first1=Jagdish |year=2001 |title=The Golden Age of Theoretical Physics |publisher=World Scientific Publishing Company |volume=1 |page=671 |location=Singapore |language=en |isbn=978-981-281-058-8 |oclc=8603715103 |url={{Google books|o1XVCgAAQBAJ|page=PA671|plainurl=y}} |access-date=15 July 2020}}}}
+
+{{Refn|name="Mellor 1935"|
+{{Cite book|last1=Mellor |first1=Joseph William |author1-link=Joseph Mellor |date=July 1935 |title=A Comprehensive Treatise on Inorganic and Theoretical Chemistry |publisher=[[Longman]]s, Green & Co |volume=14 |pages=359{{Ndash}}3361 |location=London |language=en |oclc=704414607 |url=https://archive.org/details/in.ernet.dli.2015.7914/page/n369 |access-date=16 November 2020}}}}
+
+{{Refn|name="Newnham College 1979"|
+{{Cite book|author=<!--Staff writer(s); no by-line.--> |year=1979 |title=Newnham College Register |publisher=[[Newnham College, Cambridge|Newnham College]] |volume=1 |series=1871 to 1923 |edition=2nd |pages=341{{Ndash}}342 |location=Cambridge |language=en |oclc=14716878}}}}
+
+{{Refn|name="Norton 1957"|
+{{Cite book|last1=Norton |first1=Kenneth Alva |year=1957 |title=Fitting an arbitrary functional relationship by least squares with all of the variables subject to error |publisher=[[National Institute of Standards and Technology|National Bureau of Standards]] |pages=1.8{{Ndash}}1.10 |id=NBS Report 5068 |location=Gaithersburg |language=en |oclc=897982844 |url=https://archive.org/details/fittingarbitrary5068nort/page/n13 |access-date=23 August 2020}}}}
+
+{{Refn|name="Research Council 1927"|
+{{Cite book|author=Research Council |author1-link=Department of Scientific and Industrial Research (United Kingdom) |date=1927 |title=Report of the Committee of the Privy Council for Scientific and Industrial Research for the Year 1925 to 1926 |chapter=Appendix VII List of Publications by Individuals in Receipt of Grants, Brought to the Notice of the Department During the Year |publisher=[[Office of Public Sector Information|Her Majesty's Stationery Office]] (HMSO) |series=Reports of Commissioners |page=146 |location=London |language=en |oclc=784035420 |hdl=2027/uiug.30112045124630?urlappend=%3Bseq=608 |quote=Page 608 in volume.}}}}
+
+{{Refn|name="Royle 2020"|
+{{Cite book|last1=Royle |first1=Tony |year=2020 |title=The Flying Mathematicians of World War I |publisher=[[McGill–Queen's University Press]] |chapter=Industrialisation and the Admiralty. The Environment for Women |page=152 |location=Montreal |language=en |oclc=1240790871 |isbn=978-0-2280-0373-1}}}}
+
+{{Refn|name="Seitz 1940"|
+{{Cite book|last1=Seitz |first1=Frederick |author1-link=Frederick Seitz |editor1-last=DuBridge |editor1-first=Lee Alvin |editor1-link=Lee Alvin DuBridge |year=1940 |title=The Modern theory of solids |publisher=[[McGraw Hill Education|McGraw‑Hill Book Company, Inc]] |series=International series in physics |edition=First |page=49 |location=New York |language=en |oclc=1164096117 |url=https://archive.org/details/in.ernet.dli.2015.37097/page/n69 |access-date=3 September 2020}}}}
+
+{{Refn|name="Sprent 1990"|
+{{Cite book|last1=Sprent |first1=Peter |editor1-last=Brown |editor1-first=Philip J. |editor2-last=Fuller |editor2-first=Wayne Arthur |editor2-link=Wayne Fuller |others=[[National Science Foundation]], [[United States Army Research Laboratory]] |year=1990 |title=Statistical Analysis of Measurement Error Models and Applications |chapter=General Problems. Some History of Functional and Structural Relationships |publisher=[[American Mathematical Society]] |volume=112 |series=Contemporary Mathematics |page=4 |location=Providence |language=en |oclc=757209017 |isbn=978-0-8218-5117-3 |mr=1087095 |issn=0271-4132 |doi=10.1090/conm/112 |quote=Proceedings of the AMS-IMS-SIAM Joint Summer Research Conference in the Mathematical Sciences held 10 to 16 June 1989 |chapter-url={{Google books|TRkcCAAAQBAJ|page=PA4|plainurl=y}} |access-date=14 September 2021}}}}
+
+{{Refn|name="Staveley Barry 1921"|
+{{Cite book|last1=Staveley |first1=May Christophera |author1-link=May Staveley |last2=Barry |first2=Rhoda Thurburn |year=1921 |title=Register of Women Students from 1907 |publisher=[[University of Bristol]] Special Collections |section=Index D |location=Bristol |language=en |id=DM2200/3/1 |oclc=1259039690 |section-url=https://archives.bristol.ac.uk/Record.aspx?src=CalmView.Catalog&id=DM2200%2f3%2f1 |access-date=10 September 2021}}}}
+
+{{Refn|name="Thompson 1992"|
+{{Cite book|last1=Thompson |first1=Norman |date=October 1992 |title=The History of the Department of Physics in Bristol: 1948 to 1988 |publisher=[[University of Bristol]] |location=Bristol |language=en |oclc=1259040866 |url=http://www.bristol.ac.uk/physics/media/histories/07-thompson.pdf |access-date=21 September 2021 |url-status=live |archive-url=https://web.archive.org/web/20200722045744/http://www.bristol.ac.uk/physics/media/histories/07-thompson.pdf |archive-date=22 July 2020}}}}
+
+{{Refn|name="Thompson 2000"|
+{{Cite book|last1=Thompson |first1=James |year=2000 |title=A Centennial History of the Library of the University of Birmingham: 1880 to 1995 |publisher=[[University of Birmingham]] |pages=51{{Ndash}}52 |location=Birmingham |language=en |oclc=247399513 |isbn=978-0-7044-2096-0}}}}
+
+{{Refn|name="Thornton 1940"|
+{{Cite book|last1=Thornton |first1=John Leonard |year=1940 |title=Special Library Methods: An introduction to special librarianship |publisher=[[Grafton (publisher)|Grafton & Co]] |page=103 |location=London |language=en |oclc=500012467 |url=https://archive.org/details/in.ernet.dli.2015.105445/page/n131 |access-date=15 September 2020}}}}
+
+{{Refn|name="Tyndall 1956"|
+{{Cite book|last1=Tyndall |first1=Arthur Mannering |author1-link=Arthur Mannering Tyndall |date=August 1956 |title=A History of the Department of Physics in Bristol 1876 to 1948. With personal reminiscences |publisher=[[University of Bristol]] |location=Bristol |language=en |oclc=1259038904 |url=http://www.bristol.ac.uk/physics/media/histories/06-tyndall1.pdf |access-date=16 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20180118182203/http://www.bristol.ac.uk/physics/media/histories/06-tyndall1.pdf |archive-date=18 January 2018}}}}
+
+{{Refn|name="Weaver 1960"|
+{{Cite book|last1=Weaver |first1=Clark |editor1-last=Thomas |editor1-first=Émile |year=1960 |title=Proceedings of the First International Congress on Vacuum Techniques 10 to 13 June 1958 |series=Advances in vacuum science and technology |chapter=Adhesion of Thin Films |publisher=Pergamon Press |volume=2 |page=734 |location=Oxford |language=en |oclc=1145776896 |chapter-url=https://archive.org/details/advancesinvacuum0000inte/page/734 |access-date=15 July 2020 |chapter-url-access=registration}}}}
+
+{{Refn|name="Year Book Press 1916"|
+{{Cite book|author=<!--Staff writer(s); no by-line.--> |year=1916 |title=The Schoolmasters' Yearbook and Educational Directory: A Reference Book of Secondary and University Education in England and Wales |section=Part II: Educational Directory of Masters in Secondary and Technical Schools, University Professors, Lecturers, and Others Connected with Education |publisher=Year Book Press |page=158 |location=London |language=en |issue=14 |oclc=7974973}}}}
+
+<!--Other documents-->
+<!--In reference name order-->
+{{Refn|name="Sussex Family History Group 2003"|
+{{Cite report|author=Sompting and Lancing Pastfinders |date=May 2003 |title=Sompting St Mary Transcriptions |publisher=[[Sussex Family History Group]] |page=31 |id=Church15 and Church37 |location=Brighton |language=en |quote=Credit: Eileen Colwell, Secretary, Lancing and Sompting Pastfinders, who researched Dent's memorial. See also '{{Citeref|Excell|Excell|1979|Monumental Inscriptions at Sompting Parish Church|style=plain}}' in ''Sussex Family Historian''}}}}
+
+{{Refn|name="Will 1975"|
+{{Cite report|author=Gates and Moloney Solicitors |others=Edward Victor Kemp, Florence Mary Dent |date=31 October 1975 |title=Beryl May Dent |publisher=[[His Majesty's Courts and Tribunals Service|Probate Service]] |type=[[Will and testament]] |page=1 |location=Lancing |language=en |id=770511267B}}}}
+
+{{Refn|name="Worthing Crematorium 2020"|
+{{Cite report|author=Worthing Crematorium |date=2 September 2020 |title=Extract from Cremation Register |publisher=[[Worthing Borough Council]] |location=Worthing |language=en |quote=Dent, Beryl May, Gardens of Rest, Spring Glades, row 11, plot 32.}}}}
+
+<!--Journals-->
+<!--In author alphabetical order, or reference name order where no author is identified-->
+{{Refn|name="Anderson 1976"|
+{{Cite journal |last1=Anderson |first1=Theodore Wilbur |author1-link=Theodore Wilbur Anderson |year=1976 |title=Estimation of Linear Functional Relationships: Approximate Distributions and Connections with Simultaneous Equations in Econometrics |journal=[[Journal of the Royal Statistical Society]] |publisher=[[Wiley-Blackwell]] |series=B (Methodological) |volume=38 |issue=1 |pages=1{{Ndash}}36 |location=London |language=en |oclc=18305542 |jstor=2984825 |issn=0035-9246 |doi=10.1111/j.2517-6161.1976.tb01562.x |doi-access=free}}}}
+
+{{Refn|name="ASLIB 1939"|
+{{Cite journal|author=<!--Staff writer(s); no by-line.--> |year=1939 |title=A Brief Survey |journal=Report of Proceedings |publisher=[[ASLIB]] |volume=16 |series=16th Conference |page=8 |location=London |language=en |oclc=706048068 |quote=The annual conference was to be held at the [[University of Nottingham|University College]], Nottingham, from 15 to 18 September 1939. However, the meeting did not take place due to the outbreak of the Second World War.}}}}
+
+{{Refn|name="Barker 1989"|
+{{Cite journal|last1=Barker |first1=Frank |others=Computing and Control Division. Professional Group C9 (Control Techniques and Applications) |date=December 1989 |title=The Estimation of Range Rate |journal=Colloquium on State Estimation in Aerospace and Tracking Applications |publisher=[[Institution of Engineering and Technology]] |series=Digest number 1989/152 |pages=Part 3 1{{Ndash}}9 |location=Piscataway |language=en |oclc=52609562 |url=https://ieeexplore.ieee.org/document/199173 |access-date=8 September 2021 |quote=Date of Conference 14 December 1989.}}}}
+
+{{Refn|name="Ben‑Ephraim Folman 1984"|
+{{Cite journal|last1=Ben‑Ephraim |first1=Ari |last2=Folman |first2=Mordechai |date=1 January 1984 |title=Electrostatic potential above the (100) surface plane of a face‑centred cubic ionic crystal with a continuous three‑dimensional electron charge density distribution |journal=[[Journal of the Chemical Society, Faraday Transactions]] |publisher=[[Royal Society of Chemistry]] |series=2 Molecular and Chemical Physics |volume=80 |issue=6 |pages=681{{Ndash}}693 |location=London |language=en |doi=10.1039/F29848000681 |issn=0300-9238 |url=https://pubs.rsc.org/en/content/articlelanding/1984/f2/f29848000681 |url-access=subscription |access-date=15 July 2020}}}}
+
+{{Refn|name="Brightman 1956"|
+{{Cite journal|last1=Brightman |first1=Rainald |date=1 March 1956 |title=The Northern Branch: Retrospect and Prospect |journal=Report of Proceedings of the Association of Special Libraries and Information Bureaux |publisher=[[ASLIB]] |volume=8 |issue=3 |pages=204{{Ndash}}211 |location=Bingley |language=en |doi=10.1108/eb049598 |issn=0001-253X}}}}
+
+{{Refn|name="Building Research Station 1959"|
+{{Cite journal|author=Building Research Station |author1-link=Building Research Establishment |others=[[Department of Scientific and Industrial Research (United Kingdom)|Department of Scientific and Industrial Research]] |date=May 1959 |title=Theory and Performance of Structures |journal=Building Science Abstracts |publisher=[[Office of Public Sector Information|Her Majesty's Stationery Office]] (HMSO) |volume=32 |series=695 to 868 |number=5 |page=139 |location=Garston |language=en |id=747. UDC: 539.1 |issn=0007-3636 |oclc=969454527 |hdl=2027/uiug.30112057110048?urlappend=%3Bseq=165 |quote=A method of calculating the deflection of the graphite‑support‑grid for a gas{{Hyphen}}cooled reactor.}}}}
+
+{{Refn|name="Burt 1949"|
+{{Cite journal|last1=Burt |first1=Cyril |author1-link=Cyril Burt |editor1-last=Burt |editor1-first=Cyril |editor1-mask=1 |editor2-last=Thomson |editor2-first=Godfrey |editor2-link=Godfrey Thomson |others=[[British Psychological Society]] |date=July 1949 |title=Alternative Methods of Factor Analysis. II Highest Common Factors |journal=[[British Journal of Mathematical and Statistical Psychology|British Journal of Statistical Psychology]] |publisher=[[Hazell, Watson and Viney]] |volume=2 |series=Statistical Section |issue=2 |pages=98{{Ndash}}121 |location=London |language=en |doi=10.1111/j.2044-8317.1949.tb00271.x |issn=2044-8317 |url=https://archive.org/details/dli.ernet.4200/page/98 |access-date=28 August 2021}}}}
+
+{{Refn|name="Deer 1961"|
+{{Cite journal|last1=Deer |first1=William Alexander |author1-link=William Alexander Deer |year=1961 |title=Memorial of Harold Eugene Buckley |journal=[[American Mineralogist]] |publisher=[[Mineralogical Society of America]] |series=March to April 1961. Part 2 |volume=46 |number=6 |pages=481{{Ndash}}484 |location=Chantilly |language=en |issn=1945-3027 |oclc=01480430 |url=http://www.minsocam.org/ammin/AM46/AM46_481.pdf |access-date=27 May 2021 |url-status=live |archive-url=https://web.archive.org/web/20201116095555/http://www.minsocam.org/ammin/AM46/AM46_481.pdf |archive-date=16 November 2020}}}}
+
+{{Refn|name="Diewert Fox 2008"|
+{{Cite journal|last1=Diewert |first1=Walter Erwin |author1-link=Walter Erwin Diewert |last2=Fox |first2=Kevin John |date=1 July 2008 |title=On the estimation of returns to scale, technical progress and monopolistic markups |journal=[[Journal of Econometrics]] |publisher=[[Elsevier]] BV |series=The use of econometrics in informing public policy makers |location=North Holland |language=en |volume=145 |issue=1 |pages=174{{Ndash}}193 |doi=10.1016/j.jeconom.2008.05.002 |issn=0304-4076}}}}
+
+{{Refn|name="Dorofeev Vinogradov 2012"|
+{{Cite journal|last1=Dorofeev |first1=Illarion Anatol'evich |last2=Vinogradov |first2=Evgeny Andreyevich |date=1 September 2012 |title=Structure of Electromagnetic Fields near the Surface of an Ionic Crystal |journal=Journal of Surface Investigation |publisher=Pleiades Publishing |series=X-ray, Synchrotron and Neutron Techniques |location=Moscow |language=en |volume=6 |issue=5 |pages=796{{Ndash}}804 |doi=10.1134/S1027451012100059 |s2cid=95542444 |issn=1819-7094}}}}
+
+{{Refn|name="Fienberg 2006"|
+{{Cite journal|last1=Fienberg |first1=Stephen Elliott |author1-link=Stephen Fienberg |date=March 2006 |title=When did Bayesian inference become 'Bayesian'? |journal=[[Bayesian Analysis (journal)|Bayesian Analysis]] |publisher=[[International Society for Bayesian Analysis]] |via=[[Project Euclid]] |volume=1 |issue=1 |location=Durham |language=en |issn=1936-0975 |doi=10.1214/06-BA101|doi-access=free}}}}
+
+{{Refn|name="General Post Office 1961"|
+{{Cite journal|author=General Post Office |author1-link=General Post Office |date=September 1961 |title=Manchester and Stoke‑On‑Trent |journal=[[Telephone directory]] |publisher=[[BT Archives]] |series=British Phone Books 1880 to 1984 |volume=11 |page=207 |oclc=631276559 |type=[[Online database]] |location=London |language=en}}}}
+
+{{Refn|name="General Post Office 1963"|
+{{Cite journal|author=General Post Office |author1-link=General Post Office |date=May 1963 |title=Brighton, Canterbury and Tunbridge Wells |journal=[[Telephone directory]] |publisher=[[BT Archives]] |series=British Phone Books 1880 to 1984 |volume=4 |page=105 |oclc=631291081 |type=[[Online database]] |location=London |language=en}}}}
+
+{{Refn|name="Hodge 1959"|
+{{Cite journal|last1=Hodge |first1=William Vallance Douglas |author1-link=W. V. D. Hodge |date=January 1959 |title=Peter Fraser |journal=[[London Mathematical Society#Publications|Journal of the London Mathematical Society]] |publisher=[[London Mathematical Society]] |volume=34 |series=1 |issue=1 |pages=111{{Ndash}}112 |location=London |language=en |issn=1469-7750 |doi=10.1112/jlms/s1-34.1.111}}}}
+
+{{Refn|name="Hoffman Whitehead 1954"|
+{{Cite journal|editor1-last=Hoffman |editor1-first=Everett J. |editor2-last=Whitehead |editor2-first=Lawrence T. |date=15 August 1954 |title=Physics. Particle Accelerators. Regenerative Deflection as a Parametrically Excited Resonance Phenomenon |journal=[[Energy Science and Technology Database|Nuclear Science Abstracts]] |publisher=[[United States Atomic Energy Commission|USAEC]] Technical Information Service |volume=8 |number=15 |page=565 |location=Oak Ridge |language=en |id=Abstract 4734 |issn=0029-5612 |oclc=1352868 |hdl=2027/pst.000047758049?urlappend=%3Bseq=571%3Bownerid=77798995-570}}}}
+
+{{Refn|name="Horrocks 2019"|
+{{Cite magazine |last1=Horrocks |first1=Sally |date=February 2019 |title=In Defence of Britain: Women in 20th-century Military Engineering |magazine=Viewpoint |publisher=[[British Society for the History of Science]] |number=118 |pages=10{{Ndash}}11 |location=London |language=en |issn=1751-8261 |oclc=649235406 |url=https://www.bshs.org.uk/wp-content/uploads/Viewpoint_118_Web.pdf#page=10 |access-date=21 September 2021 |url-status=live |archive-url=https://web.archive.org/web/20210820121713/https://www.bshs.org.uk/wp-content/uploads/Viewpoint_118_Web.pdf |archive-date=20 August 2021}}}}
+
+{{Refn|name="Institute of International Education 1929"|
+{{Cite journal|last1=Duggan |first1=Stephen Pierce Hayden |author1-link=Stephen P. Duggan |date=1 July 1929 |title=Great Britain. Catherine Winkworth Scholarship and Ashworth Hallett Scholarship |journal=Bulletin of Fellowships and Scholarships Open to American Students for Study in Foreign Countries |series=10 |volume=3 |number=1 |publisher=[[Institute of International Education]] |page=46 |location=New York |language=en |oclc=4560230 |hdl=2027/mdp.39015035852824?urlappend=%3Bseq=50}}}}
+
+{{Refn|name="Jensen Lannung 1943"|
+{{Cite journal|last1=Jensen |first1=Aksel Tovborg |last2=Lannung |first2=Axel |year=1943 |title=Untersuchungen über Calciumchlorid und dessen Moonhydrat. II. Gitterdynamische Klarlegung des Energieüberschusses des feinteiligen Calciumchlorids |trans-title=Investigations on Calcium Chloride and its Monohydrate. II. Lattice dynamics explanation of the excess energy of finely divided calcium chloride |trans-section= |journal=Matematisk-Fysiske Meddelelser |trans-journal=Mathematical-Physical Notices |publisher=[[Royal Danish Academy of Sciences and Letters]] |volume=20 |number=15 |pages=13{{Ndash}}16 |location=Copenhagen |language=de |oclc=930339949 |url=http://publ.royalacademy.dk/backend/web/uploads/2019-07-23/AFL%202/M_20_00_00_1942-1943_6345/M_20_15_00_1943_1031.pdf#page=13 |access-date=21 September 2021 |url-status=live |archive-url=https://web.archive.org/web/20210815070220/http://publ.royalacademy.dk/backend/web/uploads/2019-07-23/AFL%202/M_20_00_00_1942-1943_6345/M_20_15_00_1943_1031.pdf |archive-date=15 August 2021}}}}
+
+{{Refn|name="Journal of the Institution of Electrical Engineer 1956"|
+{{Cite journal|author=<!--Staff writer(s); no by-line.--> |date=August 1956 |title=Design Problems |journal=[[Proceedings of the Institution of Electrical Engineers|Journal of the Institution of Electrical Engineers]] |publisher=[[Institution of Electrical Engineers]] |volume=2 |issue=20 |pages=485{{Ndash}}486 |location=London |language=en |issn=0368-2692 |doi=10.1049/jiee-3.1956.0206 |quote=Synoposis of Paper No. 2092 entitled 'The Digital Computer as an Aid to the Electrical Design Engineer', by Birtwistle and Dent.}}}}
+
+{{Refn|name="Lindley 1947"|
+{{Cite journal|last1=Lindley |first1=Dennis Victor |author1-link=Dennis Lindley |year=1947 |title=Regression Lines and the Linear Functional Relationship |journal=[[Journal of the Royal Statistical Society]] |publisher=[[Royal Statistical Society]] |series=Supplement Series B (Methodological) |volume=9 |issue=2 |pages=218{{Ndash}}244 |location=London |language=en |doi=10.2307/2984115 |jstor=2984115 |issn=1466-6162 |doi-access=free}}}}
+
+{{Refn|name="MacKenzie 1905"|
+{{Cite journal|editor1-last=MacKenzie |editor1-first=Antoinette Mary |date=16 October 1905 |title=University Intelligence |journal=[[The Englishwoman's Review]] |publisher=[[Williams and Norgate]] |series=New Series |volume=36 |number=4 |pages=251{{Ndash}}252 |location=London |language=English |oclc=225646215 |hdl=2027/umn.31951002443042e?urlappend=%3Bseq=295 |quote={{Citeref|Murray|Stark|1985|Republished in 1985|style=plain}} by [[Garland Science|Garland Publishing]]}}}}
+
+{{Refn|name="Madansky 1959"|
+{{Cite journal|last1=Madansky |first1=Albert |date=1 March 1959 |title=The Fitting of Straight Lines when Both Variables are Subject to Error |journal=[[Journal of the American Statistical Association]] |publisher=[[American Statistical Association]] |volume=54 |issue=285 |pages=173{{Ndash}}205 |location=Alexandria |language=en |issn=0162-1459 |oclc=1480864 |jstor=2282145 |doi=10.1080/01621459.1959.10501505 |doi-access=free |url=https://archive.org/details/sim_journal-of-the-american-statistical-association_1959-03_54_285/page/173 |access-date=25 September 2022}}}}
+
+{{Refn|name="Masson 1928"|
+{{Cite journal|last1=Masson |first1=Irvine |author1-link=Irvine Masson |others=B. P. Haigh, H. J. Gough, N. K. Adam, William Bragg, et al. |year=1928 |title=Cohesion and Related Problems. General Discussion |journal=[[Journal of the Chemical Society, Faraday Transactions|Transactions of the Faraday Society]] |publisher=[[Faraday Society]] |volume=24 |pages=165{{Ndash}}179 |location=London |language=en |issn=0014-7672 |doi=10.1039/TF9282400165 |url=https://archive.org/details/in.ernet.dli.2015.229301/page/n207 |access-date=20 August 2021 |quote=On papers presented to the society on 23 November 1927.}}}}
+
+{{Refn|name="Miles 1954"|
+{{Cite journal|last1=Miles |first1=James George |date=June 1954 |title=Analogue methods in the solution of engineering problems |journal=Students' Quarterly Journal |publisher=[[Institution of Electrical Engineers]] |volume=24 |issue=96 |pages=195{{Ndash}}198 |location=London |language=en |doi=10.1049/sqj.1954.0032 |issn=0039-2871}}}}
+
+{{Refn|name="Mott 1955"|
+{{Cite journal|last1=Mott |first1=Nevill Francis |author1-link=Nevill Francis Mott |date=1 November 1955 |title=John Edward Lennard‑Jones, 1894 to 1954 |journal=[[Biographical Memoirs of Fellows of the Royal Society]] |publisher=[[Royal Society]] |volume=1 |pages=175{{Ndash}}177 |location=London |language=en |doi=10.1098/rsbm.1955.0013 |doi-access=free}}}}
+
+{{Refn|name="Mott 1989"|
+{{Cite journal|last1=Mott |first1=Nevill Francis |date=1 January 1989 |title=Defect physics and chemistry: some problems awaiting a solution |journal=[[Journal of the Chemical Society, Faraday Transactions]] |publisher=[[Royal Society of Chemistry]] |series=2. Molecular and Chemical Physics |volume=85 |issue=5 |pages=517{{Ndash}}520 |issn=0300-9238 |location=London |language=en |doi=10.1039/F29898500517}}}}
+
+{{Refn|name="Muddiman 2005"|
+{{Cite journal|last1=Muddiman |first1=Dave |date=14 February 2005 |title=A new history of ASLIB, 1924 to 1950 |journal=[[Journal of Documentation]] |publisher=Emerald Group Publishing |volume=61 |issue=3 |pages=402{{Ndash}}428 |location=Leeds |language=en |doi=10.1108/00220410510598553 |issn=0022-0418 |quote=Accepted 17 November 2004.}}}}
+
+{{Refn|name="Murrell 2012"|
+{{Cite journal|last1=Murrell |first1=John Norman |author1-link=John Murrell (chemist) |date=5 September 2012 |title=The Origins and Later Developments of Molecular Orbital Theory |journal=[[International Journal of Quantum Chemistry]] |publisher=[[Wiley (publisher)|John Wiley & Sons, LLC]] |volume=112 |issue=17 |pages=2875{{Ndash}}2879 |location=Hoboken |language=en |doi=10.1002/qua.23293}}}}
+
+{{Refn|name="Nature 1925"|
+{{Cite journal|author=<!--Staff writer(s); no by-line.--> |date=1 February 1925 |title=University and Educational Intelligence |journal=[[Nature (journal)|Nature]] |publisher=[[Nature Portfolio]] |volume=115 |issue=2887 |pages=320{{Ndash}}320 |location=London |language=en |doi=10.1038/115320a0 |doi-access=free |bibcode=1925Natur.115..320. |issn=1476-4687}}}}
+
+{{Refn|name="Nature 1926"|
+{{Cite journal|author=<!--Staff writer(s); no by-line.--> |date=19 June 1926 |title=Societies and Academies. Diary of Societies |journal=[[Nature (journal)|Nature]] |publisher=[[Nature Portfolio]] |volume=117 |issue=2955 |pages=877{{Ndash}}880 |location=London |language=en |doi=10.1038/117877b0 |doi-access=free |bibcode=1926Natur.117R.877. |issn=1476-4687}}}}
+
+{{Refn|name="Peltu 1977"|
+{{Cite magazine |editor1-last=Peltu |editor1-first=Malcolm |date=29 September 1977 |title=Two board appointments at IBM (UK) |magazine=[[Computer Weekly]] |publisher=[[TI Media|IPC Electrical Electronic Press]] |volume=23 |number=569 |page=10 |location=London |language=en |issn=0010-4787 |oclc=1039292399 |url=https://archive.org/details/ComputerWeeklySupplement1977UKEnglish/Sep%2029%201977%2C%20Computer%20Weekly%20Supplement%2C%20%23569%2C%20UK%20%28en%29/page/n5 |access-date=10 October 2020}}}}
+
+{{Refn|name="Philip 1933"|
+{{Cite journal|editor1-last=Philip |editor1-first=Alex John |year=1933 |title=Libraries, Museums and Art Galleries in the British Isles |journal=The Libraries, Museums and Art Galleries Year Book |publisher=Simpkin, Marshall, & Co |page=131 |location=London |language=en |issn=0075-899X |oclc=1009021168 |url=https://archive.org/details/in.ernet.dli.2015.283455/page/n138 |access-date=16 November 2020}}}}
+
+{{Refn|name="Smith 1958"|
+{{Cite journal|last1=Smith |first1=David Macleish |title=Richard William Bailey 1885 – 1957 |date=November 1958 |journal=[[Biographical Memoirs of Fellows of the Royal Society]] |publisher=[[Royal Society]] |location=London |language=en |volume=4 |pages=15{{Ndash}}25 |issn=0080-4606 |jstor=769496 |doi=10.1098/rsbm.1958.0002 |doi-access=free |quote=Continuation of Obituary Notices of Fellows of the Royal Society Volumes 1 to 9 (1932–1954).}}}}
+
+{{Refn|name="Plant 2005"|
+{{Cite journal|last1=Plant |first1=Helen |date=1 June 2005 |title=Women scientists in British industry: technical library and information workers, circa 1918 to 1960 |journal=[[Women's History Review]] |publisher=[[Routledge]] |volume=14 |issue=2 |pages=301{{Ndash}}322 |location=New York |language=en |s2cid=143781423 |issn=0961-2025 |doi=10.1080/09612020500200424}}}}
+
+{{Refn|name="Porter 2003"|
+{{Cite journal|last1=Porter |first1=Arthur |author1-link=Arthur Porter (engineer) |editor1-last=Haigh |editor1-first=Thomas |date=5 June 2003 |title=Biographies. Building the Manchester differential analyzers: A personal reflection |journal=[[IEEE Annals of the History of Computing]] |publisher=[[Institute of Electrical and Electronics Engineers|IEEE Computer Society]] |volume=25 |issue=2 |pages=86{{Ndash}}92 |location=Los Alamitos |language=en |doi=10.1109/MAHC.2003.1203065 |issn=1058-6180}}}}
+
+{{Refn|name="Rood 2020"|
+{{Cite journal|last1=Rood |first1=Graham Martin |editor1-last=Hopkins |editor1-first=Robert |others=Aeronautical Heritage Group |date=7 May 2020 |title=The Royal Aircraft Establishment Farnborough. 100 years of Innovative Research, Development and Application |journal=Journal of Aeronautical History |publisher=[[Royal Aeronautical Society]] |volume=10 |pages=53{{Ndash}}113 |location=London |id=Paper 2020/04 Library Catalogue No. C113920 |language=en |url=https://www.aerosociety.com/media/13851/paper-2020-03-rood-rae-100.pdf |access-date=11 August 2021 |url-status=live |archive-url=https://web.archive.org/web/20210711002916/https://www.aerosociety.com/media/13851/paper-2020-03-rood-rae-100.pdf |archive-date=11 July 2021 |quote=1.2 Post‑war financial cut-backs.}}}}
+
+{{Refn|name="Rowe 2019"|
+{{Cite magazine|last1=Rowe |first1=Jenny |year=2019 |title=The fight for rights: The history of women at Cambridge University. 150 years since women were first admitted to the University of Cambridge, how have things changed? |magazine=Britain |publisher=Chelsea Magazine Company |location=London |language=en |url=https://www.britain-magazine.com/features/history-of-women-at-cambridge-university/ |access-date=20 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20200920083823/https://www.britain-magazine.com/features/history-of-women-at-cambridge-university/ |archive-date=20 September 2020 |quote=The official magazine of [[VisitBritain]].}}}}
+
+{{Refn|name="Sammis 1972"|
+{{Cite journal|last1=Sammis |first1=Charles |date=1 August 1972 |title=Lattice Dynamics of {{Chem|Mg|O}}, {{Chem|Al|2|Mg|O|4}} and {{Chem|Mg|2|Si|O|4}} Spinel |journal=[[Geophysical Journal International]] |publisher=[[Oxford University Press]] |volume=29 |issue=1 |pages=15{{Ndash}}42 |location=Oxford |language=en |doi=10.1111/j.1365-246X.1972.tb06148.x |bibcode=1972GeoJ...29...15S |issn=0956-540X |doi-access=free}}}}
+
+{{Refn|name="Smith 2009"|
+{{Cite journal|last1=Smith |first1=Richard Jay |author1-link=Richard J. Smith |year=2009 |title=Use and misuse of the reduced major axis for line‑fitting |journal=[[American Journal of Biological Anthropology|American Journal of Physical Anthropology]] |publisher=[[American Association of Biological Anthropologists|American Association of Physical Anthropologists]] |volume=140 |issue=3 |page=477 |location=Washington |language=en |doi=10.1002/ajpa.21090 |pmid=19425097 |issn=1096-8644}}}}
+
+{{Refn|name="Thomas 1978"|
+{{Cite journal|last1=Thomas |first1=John Bernard |date=1 October 1978 |title=The Day Training College: a Victorian innovation in teacher training |journal=British Journal of Teacher Education |publisher=[[Methuen Publishing|Methuen & Co]] |volume=4 |issue=3 |pages=249{{Ndash}}261 |location=London |language=en |doi=10.1080/0260747780040309 |issn=0305-8913}}}}
+
+{{Refn|name="University of Bristol 1926"|
+{{Cite journal|author=University of Bristol |author1-link=University of Bristol |year=1926 |title=Societies and Clubs. Alumni Association |journal=Calendar of the University of Bristol |publisher=[[J. W. Arrowsmith Ltd]] |page=384 |location=Bristol |language=en |issn=0305-3334 |oclc=924741357}}}}
+
+{{Refn|name="University of Bristol 1928"|
+{{Cite journal|author=University of Bristol |author1-link=University of Bristol |year=1928 |title=Convocation Elections |journal=Calendar of the University of Bristol |publisher=[[J. W. Arrowsmith Ltd]] |pages=62, 85, 319 |location=Bristol |language=en |issn=0305-3334 |oclc=924741357}}}}
+
+{{Refn|name="Villegas 1961"|
+{{Cite journal|last1=Villegas |first1=Cesáreo |date=December 1961 |title=Maximum Likelihood Estimation of a Linear Functional Relationship |journal=[[Annals of Mathematical Statistics]] |publisher=[[Institute of Mathematical Statistics]] |volume=32 |issue=4 |pages=1048{{Ndash}}1062 |location=Uruguay |language=en |issn=0003-4851 |doi=10.1214/aoms/1177704845 |doi-access=free}}}}
+
+{{Refn|name="The Woman Engineer Summer 1948"|
+{{Cite journal|editor1-last=Cooper |editor1-first=Joan Frances |year=1948 |title=Manchester Branch Report, 1947 to 1948 |journal=[[Women's Engineering Society#Work and campaigns|The Woman Engineer]] |publisher=[[Women's Engineering Society]] |series=Summer 1948 (page 264 in the volume) |volume=6 |number=12 |page=216 |location=London |language=en |issn=0043-7298 |url=https://twej.theiet.org/twej/WES_Vol_6.html#page=264 |via=[[Institution of Engineering and Technology]] |access-date=13 August 2021}}}}
+
+<!--Websites-->
+<!--In author alphabetical order, or reference name order where no author is identified-->
+{{Refn|name="Beenakker 2009"|
+{{Cite web|last1=Beenakker |first1=Carlo |author1-link=Carlo Beenakker |year=2009 |title=Lorentz & the Solvay conferences |website=www.lorentz.leidenuniv.nl |publisher=Leiden Institute of Physics of the [[Leiden University]] |location=Leiden |language=en |url=https://www.lorentz.leidenuniv.nl/history/Solvay/solvay.html |access-date=18 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20191225055141/https://www.lorentz.leidenuniv.nl/history/Solvay/solvay.html |archive-date=25 December 2019}}}}
+
+{{Refn|name="Chicago Booth 2022"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |year=2022 |title=Albert Madansky. H. G. B. Alexander Professor of Business Administration Emeritus |website=www.chicagobooth.edu |publisher=[[University of Chicago Booth School of Business]] |location=Chicago |language=en |url=https://www.chicagobooth.edu/faculty/emeriti/albert-madansky |access-date=25 September 2022 |url-status=live |archive-url=https://web.archive.org/web/20220617173606/https://www.chicagobooth.edu/faculty/emeriti/albert-madansky |archive-date=17 June 2022}}}}
+
+{{Refn|name="Bull 2020"|
+{{Cite web|last1=Bull |first1=Malcolm |date=22 October 2020 |title=Schools & Sunday Schools. Portland Road Board School, Claremount |website=www.calderdalecompanion.co.uk |publisher=Calderdale Companion |location=Halifax |language=en |id=Ref 18–136 |url=http://www.calderdalecompanion.co.uk/s70_p.html |access-date=25 October 2020 |url-status=live |archive-url=https://web.archive.org/web/20200130160734/http://www.calderdalecompanion.co.uk/s70_p.html |archive-date=30 January 2020}}}}
+
+{{Refn|name="Davis 2004"|
+{{Cite web|last1=Davis |first1=Ann Elizabeth Leighton |date=May 2004 |title=Davis Archive: Mathematical Women in the British Isles, 1878 to 1940. Marjorie Josephine Littleton |website=mathshistory.st-andrews.ac.uk |publisher=[[MacTutor History of Mathematics Archive|Maths History St Andrews]] |location=St Andrews |language=en |id=ESRC: Reference Number 3654 |url=https://mathshistory.st-andrews.ac.uk/Davis/Names/Littleton_Marjorie.html |access-date=7 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20200907142530/https://mathshistory.st-andrews.ac.uk/Davis/Names/Littleton_Marjorie.html |archive-date=7 September 2020 |quote=The Data Archive, University of Essex, Wivenhoe Park, Colchester, CO4 3SQ.}}}}
+
+{{Refn|name="European Mathematical Society 2021"|
+{{Cite web|editor=European Mathematical Society |editor1-link=European Mathematical Society |year=2021 |title=B. M. Dent, On observations of points connected by a linear relation |website=zbmath.org |publisher=[[ZbMATH Open|zbMATH]] |location=Helsinki |language=en |id=JFM 61.1301.04 |url=https://zbmath.org/?q=an%3A61.1301.04 |access-date=19 October 2021 |url-status=live |archive-url=https://web.archive.org/web/20211019035013/https://zbmath.org/?q=an%3A61.1301.04 |archive-date=19 October 2021 |quote=Referee Alexander Craig Aitken, Edinburgh}}}}
+
+{{Refn|name="Evans 2011"|
+{{Cite web|last1=Evans |first1=Richard John |author1-link=Richard J. Evans |date=14 March 2011 |title=The Victorians: Religion and Science |website=www.gresham.ac.uk |publisher=[[Gresham College]] |location=London |language=en |url=https://www.gresham.ac.uk/lectures-and-events/the-victorians-religion-and-science |access-date=7 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20191207175657/https://www.gresham.ac.uk/lectures-and-events/the-victorians-religion-and-science |archive-date=7 December 2019}}}}
+
+{{Refn|name="Grace's Guide 2020"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |year=2020 |title=Metropolitan‑Vickers |website=www.gracesguide.co.uk |publisher=Grace's Guide to British Industrial History |location=Exeter |language=en |url=https://www.gracesguide.co.uk/Metropolitan-Vickers |access-date=18 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20200103034515/https://www.gracesguide.co.uk/Metropolitan-Vickers |archive-date=3 January 2020}}}}
+
+{{Refn|name="Guide to Musical Theatre 2020"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |year=2020 |title=Princess Ju‑Ju or The Golden Amulet (O Mamori) |website=www.guidetomusicaltheatre.com |publisher=The Guide to Musical Theatre |language=en |url=https://www.guidetomusicaltheatre.com/shows_p/princess_ju-ju.htm |access-date=5 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20200131120749/https://www.guidetomusicaltheatre.com/shows_p/princess_ju-ju.htm |archive-date=31 January 2020}}}}
+
+{{Refn|name="Howell 1987"|
+{{Cite web|last1=Howell |first1=Danny |date=March 1987 |title=Yesterday's Warminster: The Warminster Operatic Society |website=dannyhowell.net |location=Warminster |language=en |oclc=17674330 |url=http://www.dannyhowell.net/1987/03/warminster-operatic-society.html |url-access=registration |access-date=19 August 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200718173502/http://www.dannyhowell.net/1987/03/warminster-operatic-society.html |archive-date=18 July 2020}}}}
+
+{{Refn|name="Lancashire Online Parish Clerks 1898"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |year=1898 |title=Marriages at St Mary the Virgin in the Parish of Goosnargh 1837 to 1915 |website=www.lan-opc.org.uk |publisher=Lancashire Online Parish Clerks |location=Goosnargh |language=en |url=http://www.lan-opc.org.uk/Goosnargh/stmary/marriages_1837-1915.html#395 |access-date=16 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20140129234313/http://www.lan-opc.org.uk/Goosnargh/stmary/marriages_1837-1915.html |archive-date=29 January 2014}}}}
+
+{{Refn|name="Murray 2016"|
+{{Cite web|last1=Murray |first1=Robin |date=8 July 2016 |title=Big plans for Warminster Athenaeum after funding approved |website=www.wiltshiretimes.co.uk |publisher=[[Wiltshire Times]] |location=Warminster |language=en |url=https://www.wiltshiretimes.co.uk/news/14605316.big-plans-for-warminster-athenaeum-after-funding-approved/ |access-date=26 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20200726060155/https://www.wiltshiretimes.co.uk/news/14605316.big-plans-for-warminster-athenaeum-after-funding-approved/ |archive-date=26 July 2020}}}}
+
+{{Refn|name="Ranger 2014"|
+{{Cite web|last1=Ranger |first1=Ruth |year=2014 |title=St Paul's Baptisms 1900 to 1905 |website=www.wiltshire-opc.org.uk |publisher=Wiltshire Online Parish Clerks |location=Chippenham |language=en |url=http://www.wiltshire-opc.org.uk/Items/Chippenham/Chippenham%20-%20St.%20Paul%20Baptisms%201900-1905.pdf |access-date=16 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20140904122827/http://www.wiltshire-opc.org.uk/Items/Chippenham/Chippenham%20-%20St.%20Paul%20Baptisms%201900-1905.pdf |archive-date=4 September 2014}}}}
+
+{{Refn|name="University of Bristol 2018"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |year=2018 |title=History of the School of Physics |website=www.bristol.ac.uk |publisher=[[University of Bristol]] |location=Bristol |language=en |url=http://www.bristol.ac.uk/physics/about/history.html |access-date=16 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20180118181941/http://www.bristol.ac.uk/physics/about/history.html/ |archive-date=18 January 2018}}}}
+
+{{Refn|name="University of Bristol 2019"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |year=2019 |title=Women: Our history |website=www.bristol.ac.uk |publisher=[[University of Bristol]] |location=Bristol |language=en |url=https://www.bristol.ac.uk/women/our-history/ |access-date=16 July 2020 |url-status=live |archive-url=https://web.archive.org/web/20191229051009/https://www.bristol.ac.uk/women/our-history/ |archive-date=29 December 2019}}}}
+
+{{Refn|name="Warminster Athenaeum Centre 2020"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |year=2020 |title=A brief history of the Warminster Athenaeum site |website=www.theath.org.uk |publisher=[[Warminster Athenaeum]] Centre |location=Warminster |language=en |url=https://www.theath.org.uk/history/ |access-date=25 August 2020 |url-status=live |archive-url=https://web.archive.org/web/20200825064519/https://www.theath.org.uk/history/ |archive-date=25 August 2020}}}}
+
+{{Refn|name="The Weald 1891"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |date=5 April 1891 |title=Thornhill (also known as Fowle Farm) Ashurstwood, East Grinstead |website=theweald.org |publisher=The Weald |id=Database version 13.6, EG.Thrnhl |location=Weald |language=en |url=http://theweald.org/P2.asp?PId=EG.Thrnhl |access-date=8 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20170317232353/http://theweald.org/P2.asp?PId=EG.Thrnhl |archive-date=17 March 2017}}}}
+
+{{Refn|name="Winterman 2014"|
+{{Cite web|last1=Winterman |first1=Denise |date=15 September 2014 |title=World War One: How 250,000 Belgian refugees didn't leave a trace |website=www.bbc.co.uk |publisher=[[BBC News Online]] |location=London |language=en |url=https://www.bbc.co.uk/news/magazine-28857769 |access-date=5 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20200808100435/https://www.bbc.co.uk/news/magazine-28857769 |archive-date=8 August 2020}}}}
+
+{{Refn|name="Worthing Crematorium 1977"|
+{{Cite web|author=<!--Staff writer(s); no by-line.--> |date=9 August 1977 |title=Worthing Crematorium Online Book of Remembrance, Volume 1 |website=www.remembrance-books.com |publisher=[[Worthing Borough Council]] |page=444 |location=Worthing |language=en |url=https://www.remembrance-books.com/worthing/book-of-remembrance.html#page/444 |access-date=2 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20200902094822if_/https://www.remembrance-books.com/worthing/book-of-remembrance.html#page/444 |archive-date=2 September 2020}}}}
+
+<!--Archives-->
+<!--In reference name order-->
+{{Refn|name="Barnsley High School 1924"|
+{{Cite archive|last1=Nuttall |first1=Annie Rose |date=September 1924 |item=Barnsley Girls' High School Staff Registers. Dent, Beryl May |institution=[[Barnsley Archives and Local Studies|Barnsley Museums]] |collection=Katherine Taylor Collection |page=144 |location=Barnsley |language=en |item-id=A/72/E/1 |item-url=http://www.calmhosting01.com/Barnsley/CalmView/Record.aspx?src=CalmView.Catalog&id=A-72-E |access-date=9 August 2021}} Credit Stacey Mackenzie, Barnsley Archives.}}
+
+{{Refn|name="Department of Physics 2003"|
+{{Cite archive|author=<!--Staff writer(s); no by-line.--> |date=2003 |item=Beryl Dent biographical material |institution=[[University of Bristol]] Physics Library |collection=Beryl Dent at the University of Bristol Department of Physics |location=Bristol |language=en |item-id=DM1961/2 |oclc=1259040647 |item-url=https://archives.bristol.ac.uk/Record.aspx?src=CalmView.Catalog&id=DM1961%2f2&pos=1 |access-date=27 May 2021 |quote=Includes copy of Beryl May Dent's birth certificate.}}}}
+
+{{Refn|name="Lennard‑Jones 1929"|
+{{Cite archive|last1=Lennard-Jones |first1=John Edward |author-link1=John Lennard-Jones |date=1929 |item=The Papers of Sir John Edward Lennard-Jones 1906 to 1955 |institution=[[Churchill Archives Centre]], [[Cambridge University Library]] |collection=Churchill |type=4 archive boxes |location=Cambridge |language=en |item-id=GBR/0014/LEJO |item-url=https://archivesearch.lib.cam.ac.uk/repositories/9/resources/1687 |access-date=27 May 2021 |url-status=live |archive-url=https://web.archive.org/web/20210819120107/https://archivesearch.lib.cam.ac.uk/repositories/9/resources/1687 |archive-date=19 August 2021}}}}
+
+<!--Newspapers-->
+<!--Organised by newspaper title and date-->
+<!--Carnarvon and Denbigh Herald-->
+{{Refn|name="Carnarvon and Denbigh Herald 19 January 1894"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University College, Aberystwyth. Day Training Department |date=19 January 1894 |page=3 |work=[[Carnarvon and Denbigh Herald]] |oclc=57965341 |url=https://newspapers.library.wales/view/3601860/3601863 |access-date=27 May 2021 |url-status=live |archive-url=https://web.archive.org/web/20201117010319/https://newspapers.library.wales/view/3601860/3601863 |archive-date=17 November 2020}}}}
+
+<!--The Daily Telegraph-->
+{{Refn|name="The Daily Telegraph 11 August 1977"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Deaths |date=11 August 1977 |page=32 |work=[[The Daily Telegraph]] |issn=0307-1235 |oclc=1081089956 |url=https://www.newspapers.com/image/750602741 |access-date=27 October 2022 |url-access=subscription |via=[[Ancestry.com#Newspapers.com|Newspapers.com]] |quote=Dent.-On Aug. 9, 1977, peacefully at Worthing Hospital after a long period of disablement borne with great courage and patience. BERYL MAY of 1, Cokeham Road, Sompting, dear sister of Florence Mary. Funeral service at St Mary's Church, Sompting, Friday, Aug. 12, at 2.15. Family flowers only.}}}}
+
+{{Refn|name="The Daily Telegraph 17 September 1986"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Deaths |date=17 September 1986 |page=17 |work=[[The Daily Telegraph]] |issn=0307-1235 |oclc=1081089956 |url=https://www.newspapers.com/image/751085645 |access-date=27 October 2022 |url-access=subscription |via=[[Ancestry.com#Newspapers.com|Newspapers.com]] |quote=Dent.-On Sept 13, 1986, suddenly in a Worthing nursing home, Florence Mary, aged 84 years, late of 1 Cokeham Lane, Sompting. Service at the Worthing Crematorium on Monday Sept. 22, at 2 pm. Sprays of flowers may be sent to S. A. Dunford Funeral Service, 147 South Street, Lancing, W. Sussex.}}}}
+
+{{Refn|name="The Daily Telegraph 10 October 2006"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |date=10 October 2006 |title=Deaths. Jones |work=[[The Daily Telegraph]] |issn=0307-1235 |id=16347876 |url=http://announcements.telegraph.co.uk/deaths/4391/jones |access-date=26 August 2021 |url-status=live |archive-url=https://web.archive.org/web/20210826145034/http://announcements.telegraph.co.uk/deaths/4391/jones |archive-date=26 August 2021}}}}
+
+<!--Evening Mail-->
+{{Refn|name="Evening Mail 7 July 1905"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University Intelligence. Cambridge, July 6 |date=7 July 1905 |page=5 |work=Evening Mail |oclc=11990615 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/19050707/059/0005 |access-date=9 August 2021 |url-access=subscription}}}}
+
+<!--The Guardian-->
+{{Refn|name="The Guardian 25 June 1954"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Deaths |date=25 June 1954 |page=12 |work=[[The Guardian]] |issn=0261-3077 |oclc=60623878 |url=https://www.newspapers.com/image/259439312 |access-date=19 August 2020 |url-access=subscription |via=[[Ancestry.com#Newspapers.com|Newspapers.com]] |quote=DENT On June 24, at 529 Kings Road, Stretford, EUSTACE EDWARD, aged 85 years the dearly loved husband of Agnes Dent. Service at St Matthew's Church on Tuesday, June 29, at 10 50 a.m., prior to committal at Manchester Crematorium at 11 20 a.m.}}}}
+
+{{Refn|name="The Guardian 7 April 1967"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Deaths |date=7 April 1967 |page=2 |work=[[The Guardian]] |issn=0261-3077 |oclc=60623878 |url=https://www.newspapers.com/image/259720964 |access-date=17 July 2020 |url-access=subscription |via=[[Ancestry.com#Newspapers.com|Newspapers.com]] |quote=DENT On April 5, peacefully, at home 1 Cokeham Road Sompting, Lancing, AGNES aged 97 years widow of Eustace Edward DENT and beloved mother of Beryl May and Florence Mary. Service at St Mary's Church Sompting, on Monday, April 10, at 2:15 pm followed by cremation at the Downs Crematorium, Brighton.}}}}
+
+<!--Halifax Courier-->
+{{Refn|name="Halifax Courier 12 January 1889"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=West Vale. Appointment of Mistress |date=12 January 1889 |page=5 |work=[[Halifax, West Yorkshire#Media|Halifax Courier]] |oclc=18562459 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001093/18890112/095/0005 |access-date=25 October 2020 |url-access=subscription}}}}
+
+{{Refn|name="Halifax Courier 23 March 1889"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=School Board Meetings. Halifax |date=23 March 1889 |page=6 |work=[[Halifax, West Yorkshire#Media|Halifax Courier]] |oclc=18562459 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001093/18890323/097/0006 |access-date=25 October 2020 |url-access=subscription}}}}
+
+{{Refn|name="Halifax Courier 31 August 1889"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Halifax Mechanics' Institution |date=31 August 1889 |page=3 |work=[[Halifax, West Yorkshire#Media|Halifax Courier]] |oclc=18562459 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001093/18890831/060/0003 |access-date=17 July 2020 |url-access=subscription}}}}
+
+<!--Manchester Evening News-->
+{{Refn|name="Manchester Evening News 18 November 2017"|
+{{Cite news|last1=Keeling |first1=Neal |title=When Cheetham Hill was home to one of the finest ice rinks in the world |date=18 November 2017 |work=[[Manchester Evening News]] |oclc=500150526 |issn=0962-2276 |url=https://www.manchestereveningnews.co.uk/news/nostalgia/cheetham-hill-home-one-finest-13921173 |access-date=11 September 2021 |url-status=live |archive-url=https://web.archive.org/web/20210124140126/https://www.manchestereveningnews.co.uk/news/nostalgia/cheetham-hill-home-one-finest-13921173 |archive-date=24 January 2021}}}}
+
+<!--Preston Chronicle-->
+{{Refn|name="Preston Chronicle 2 February 1889"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=The Harris Institute. Distribution of Prizes and Speech by the Earl of Derby |date=2 February 1889 |page=5 |work=Preston Chronicle |oclc=1098850069 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000099/18890202/019/0005 |access-date=17 July 2020 |url-access=subscription}}}}
+
+<!--Preston Herald-->
+{{Refn|name="Preston Herald 27 January 1894"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Goosnargh. Annual Parish Tea-Party |date=27 January 1894 |page=2 |work=Preston Herald |oclc=751660068 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001667/18940127/044/0002 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Preston Herald 26 July 1899"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Concert and Presentations at Goosnargh |date=26 July 1899 |page=5 |work=Preston Herald |oclc=751660068 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001667/18990726/077/0005 |access-date=17 July 2020 |url-access=subscription}}}}
+
+<!--Salisbury and Winchester Journal-->
+{{Refn|name="Salisbury Journal 26 October 1901"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Warminster. Technical Education |date=26 October 1901 |page=8 |work=[[Salisbury Journal|Salisbury and Winchester Journal]] |oclc=12116464 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/19011026/147/0008 |access-date=17 July 2020 |url-access=subscription}}}}
+
+<!--The Salisbury Times-->
+{{Refn|name="The Salisbury Times 22 November 1901"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Technical Education in Wilts |date=22 November 1901 |page=6 |work=The Salisbury Times |oclc=20135569 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001603/19011122/109/0006 |access-date=17 July 2020 |url-access=subscription}}}}
+
+<!--Sheffield Daily Telegraph-->
+{{Refn|name="Sheffield Daily Telegraph 25 June 1913"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Teachers' Salaries. New Scheme for the West Riding. Askern School |date=25 June 1913 |page=9 |work=[[Sheffield Telegraph|Sheffield Daily Telegraph]] |oclc=17991386 |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/19130625/269/0009 |access-date=9 August 2021 |url-access=subscription}}}}
+
+<!--The Times-->
+{{Refn|name="The Times 29 March 1918"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Somerville College Awards |date=29 March 1918 |page=7 |work=[[The Times]] |issn=0140-0460 |issue=41750 |id={{Gale|CS120261245}} |url=https://www.thetimes.co.uk/archive/article/1918-03-29/7/21.html |access-date=4 June 2021 |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20210527041611/https://www.thetimes.co.uk/tto/archive/frame/article/1918-03-29/7/21.html |archive-date=27 May 2021}}}}
+
+{{Refn|name="The Times 9 July 1923"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University News. Bristol July 7 |date=9 July 1923 |page=19 |work=[[The Times]] |issn=0140-0460 |issue=43388 |id={{Gale|CS320148713}} |url=https://www.thetimes.co.uk/archive/article/1923-07-09/19/10.html |access-date=4 June 2021 |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20210527041858/https://www.thetimes.co.uk/tto/archive/frame/article/1923-07-09/19/10.html |archive-date=27 May 2021}}}}
+
+{{Refn|name="The Times 6 June 1924"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University News. Vice-Chancellorship of Cambridge. Cambridge, June 5 |date=6 June 1924 |page=16 |work=[[The Times]] |issn=0140-0460 |issue=43671 |id={{Gale|CS269031110}} |url=https://www.thetimes.co.uk/archive/article/1924-06-06/16/4.html |access-date=4 June 2021 |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20210527042056/https://www.thetimes.co.uk/tto/archive/frame/article/1924-06-06/16/4.html |archive-date=27 May 2021}}}}
+
+{{Refn|name="The Times 23 September 1938"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Court Circular. Dinner. H. M. Government |date=23 September 1938 |page=15 |work=[[The Times]] |issn=0140-0460 |issue=41750 |id={{Gale|CS252261175}} |url=https://www.thetimes.co.uk/archive/article/1938-09-23/15/4.html |access-date=4 June 2021 |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20210527042423/https://www.thetimes.co.uk/tto/archive/frame/article/1938-09-23/15/4.html |archive-date=27 May 2021}}}}
+
+<!--Warminster and Westbury Journal-->
+{{Refn|name="Warminster and Westbury Journal 11 July 1903"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Local News. Fire |date=11 July 1903 |page=4 |work=Warminster and Westbury Journal, and Wilts County Advertiser |oclc=751039353 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001558/19030711/095/0004 |access-date=5 September 2020 |url-access=subscription}}}}
+
+{{Refn|name="Warminster and Westbury Journal 6 May 1905"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Christ Church. Congregational & Vestry Meetings |date=6 May 1905 |page=4 |work=Warminster and Westbury Journal, and Wilts County Advertiser |oclc=751039353 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001558/19050506/075/0004 |access-date=7 September 2020 |url-access=subscription}}}}
+
+{{Refn|name="Warminster and Westbury Journal 29 February 1908"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Operetta at St John's |date=29 February 1908 |page=5 |work=Warminster and Westbury Journal, and Wilts County Advertiser |oclc=751039353 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001558/19080229/135/0005 |access-date=17 July 2020 |url-access=subscription}}}}
+
+<!--Weekly Irish Times-->
+{{Refn|name="Weekly Irish Times 15 July 1905"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University of Dublin. Conferring of Degrees |date=15 July 1905 |page=18 |work=Weekly Irish Times |oclc=18389728 |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001684/19050715/130/0018 |access-date=9 August 2021 |url-access=subscription}}}}
+
+<!--The Welshman-->
+{{Refn|name="The Welshman 28 July 1893"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University of London. Matriculation Examination |date=28 July 1893 |page=6 |work=[[The Welshman (newspaper)|The Welshman]] |oclc=52194901 |url=https://newspapers.library.wales/view/4356475/4356481 |access-date=27 May 2021 |url-status=live |archive-url=https://web.archive.org/web/20200719123435/https://newspapers.library.wales/view/4356475/4356481 |archive-date=19 July 2020}}}}
+
+<!--West Cumberland Times-->
+{{Refn|name="West Cumberland Times 17 March 1894"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Cockermouth and Papcastle School Board |date=17 March 1894 |page=3 |work=West Cumberland Times |oclc=1016277450 |access-date=17 July 2020 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0002305/18940317/028/0003 |url-access=subscription}}}}
+
+<!--Western Daily Press-->
+{{Refn|name="Western Daily Press 24 June 1920"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University of Bristol |date=24 June 1920 |page=5 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19200624/029/0005 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 28 June 1923"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University of Bristol. Results of Examinations for Degrees |date=28 June 1923 |page=7 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19230628/042/0007 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 11 December 1926"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=The Bristol Cheeloo Association |date=11 December 1926 |page=4 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19261211/009/0004 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 5 March 1927"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Letters to the Editor. Bristol Cheeloo Association |date=5 March 1927 |page=5 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19270305/018/0005 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 31 March 1927"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University of Bristol. Department of Physics |date=31 March 1927 |page=9 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19270331/067/0009 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 28 June 1927"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Bristol University. Degree Pass Lists. Degree of M.Sc. |date=28 June 1927 |page=8 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19270628/062/0008 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 30 September 1927"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Bristol University. New Physics Laboratory. Description of the Building |date=30 September 1927 |page=9 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19270930/077/0009 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 1 November 1927"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=University Of Bristol. Association of Alumni Annual Dinner |date=1 November 1927 |page=3 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19271101/002/0003 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 1 November 1928"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Women's International League |date=1 November 1928 |page=7 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19281101/051/0007 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 19 December 1929"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Anonymous Gift of £5,000 to Bristol University |date=19 December 1929 |page=7 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19291219/074/0007 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 4 September 1930"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=British Association Welcomed. Notable Gathering of World's Scientists |date=4 September 1930 |page=7 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000264/19300904/051/0007 |access-date=17 September 2021 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 5 September 1930"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=What World's Scientists Tell Man in the Street. Bristol Debates World Riddles |date=5 September 1930 |page=5 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/BL/0000264/19300905/024/0005 |access-date=17 September 2021 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 25 September 1933"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Modern Farmers Do Not Buy 'Solid' Books. 'Robust Country Life' Of The Past And Good Reading. Bristol and its libraries. Technical Matters |date=25 September 1933 |page=10 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000513/19330925/109/0010 |access-date=27 August 2020 |url-access=subscription}}}}
+
+{{Refn|name="Western Daily Press 24 December 1934"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Friends' Tribute at Funeral of Miss M. C. Staveley |date=24 December 1934 |page=10 |work=[[Western Daily Press]] |oclc=949912923 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0000513/19341224/114/0010 |access-date=17 July 2020 |url-access=subscription}}}}
+
+<!--Wiltshire Times and Trowbridge Advertiser-->
+{{Refn|name="Wiltshire Times 1 May 1897"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Chippenham District County School |date=1 May 1897 |page=4 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/18970501/074/0004 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 13 April 1907"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Christ Church Vestry Meeting |date=13 April 1907 |page=6 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19070413/102/0006 |access-date=26 August 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 20 December 1913"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Secondary School Prize Distribution. The Admission of New Pupils |date=20 December 1913 |page=12 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19131220/188/0012 |access-date=26 August 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 29 August 1914"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Oxford Local Examinations. Trowbridge Centre. Juniors |date=29 August 1914 |page=5 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19140829/078/0005 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 5 September 1914"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Belgian Refugees Expected. Lord Bath Getting Houses Ready. |date=5 September 1914 |page=5 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19140905/072/0005 |access-date=5 September 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 28 November 1914"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Princess Ju Ju. Good Performance by Secondary School |date=28 November 1914 |page=6 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19141128/128/0006 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 7 August 1915"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Education in Wilts. Award of Scholarships |date=7 August 1915 |page=11 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19150807/172/0011 |access-date=22 August 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 11 December 1915"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Warminster Secondary School Prize Distribution |date=11 December 1915 |page=3 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19151211/050/0003 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 16 December 1916"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Secondary School Prize Distribution |date=16 December 1916 |page=10 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19161216/153/0010 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 30 July 1921"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Wiltshire County School Sports |date=30 July 1921 |page=8 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19210730/195/0008 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 30 August 1924"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Warminster. Women's Unionist Sports Club |date=30 August 1924 |page=7 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19240830/176/0007 |access-date=21 August 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 12 June 1926"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Wedding at the Minster |date=12 June 1926 |page=4 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19260612/096/0004 |access-date=17 July 2020 |url-access=subscription |quote=May Dent, a Warminster County School fellow scholar and daughter of Mr. E. E. Dent (headmaster).}}}}
+
+{{Refn|name="Wiltshire Times 10 August 1929"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Headmastership of the County School |date=10 August 1929 |page=2 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19290810/054/0002 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 27 December 1930"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=County School: Prize Distribution. The School's Impending Closure |date=27 December 1930 |page=9 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19301227/112/0009 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 25 May 1935"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Chairmen's Portrait Collection. Forty Years of Council Service Perpetuated. Unveiling by Lord Bath |date=25 May 1935 |page=4 |work=[[Wiltshire Times]] and Trowbridge Advertiser |oclc=750854211 |via=[[British Newspaper Archive]] |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0001557/19350525/085/0004 |access-date=17 July 2020 |url-access=subscription}}}}
+
+{{Refn|name="Wiltshire Times 9 August 2007"|
+{{Cite news|author=<!--Staff writer(s); no by-line.--> |title=Then & Now: Boreham Road, Warminster |date=9 August 2007 |work=[[Wiltshire Times]] |oclc=750854211 |url=https://www.wiltshiretimes.co.uk/news/1606688.then-now-boreham-road-warminster/ |access-date=5 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20200905122424/https://www.wiltshiretimes.co.uk/news/1606688.then-now-boreham-road-warminster/ |archive-date=5 September 2020}}}}
+}}
+
+===Bibliography===
+{{Listref/reflist|colwidth=30em|liststyle=disc
+|id1=i |ref1={{Cite journal|last1=Adcock |first1=Robert James |editor1-last=Hendricks |editor1-first=Joel Evans |year=1878 |title=A Problem in Least Squares |journal=The Analyst |publisher=[[Annals of Mathematics]] |volume=5 |issue=2 |pages=53{{Ndash}}54 |location=London |language=en |issn=0741-7918 |oclc=277641453 |doi=10.2307/2635758 |jstor=2635758 |url=https://archive.org/details/jstor-2635758 |access-date=15 July 2020}}
+|id2=ii |ref2={{Cite journal<!--Deny Citation Bot-->|last1=Cleveland |first1=Jason Paul |last2=Radmacher |first2=Manfred |last3=Hansma |first3=Paul Kenneth |author3-link=Paul K. Hansma |date=September 1994 |others=Office of Naval Research |title=Atomic Scale Force Mapping with the Atomic Force Microscope |journal=Applied Sciences |publisher=[[UCSB Physics Department|University of California, Department of Physics]] |volume=286 |series=NATO Advanced Study Institute: Series E |pages=1{{Ndash}}7 |location=Santa Barbara |language=en |id=Technical Report No. 13. Defense Technical Information Center ADA284940 |url=https://archive.org/details/DTIC_ADA284940/page/n1 |access-date=23 August 2021}}
+|id3=iii |ref3={{Cite book|editor1-last=Dent |editor1-first=Beryl May |last1=Dent |first1=Florence Mary |last2=Wiltshire |first2=Marion Olive Phipps |last3=Roxbee |first3=Gertrude |last4=Tutty |first4=Gladys Annie |display-authors=etal |others=Clifton Hill House Old Students' Association |date=January 1930 |title=Circular Letters |publisher=[[University of Bristol]] Special Collections |volume=1 |series=Group D |type=Letterbook |location=Bristol |language=en |id=DM2227/5/3 |oclc=1259040871 |url=https://archives.bristol.ac.uk/Record.aspx?src=CalmView.Catalog&id=DM2227%2f5%2f3&pos=4 |access-date=9 September 2021 |ref=none}}
+|id4=iv |ref4={{Cite book|editor1-last=Dent |editor1-first=Beryl May |last1=Dent |first1=Florence Mary |last2=Wiltshire |first2=Marion Olive Phipps |last3=Roxbee |first3=Gertrude |last4=Tutty |first4=Gladys Annie |display-authors=etal |others=Clifton Hill House Old Students' Association |date=March 1932 |title=Circular Letters |publisher=[[University of Bristol]] Special Collections |volume=2 |series=Group D |type=Letterbook |location=Bristol |language=en |id=DM2227/5/3 |oclc=1259040871 |url=https://archives.bristol.ac.uk/Record.aspx?src=CalmView.Catalog&id=DM2227%2f5%2f3&pos=4 |access-date=10 September 2021 |ref=none}}
+|id5=v |ref5={{Cite magazine|last1=Excell |first1=Phyl |last2=Excell |first2=Stanley |title=Monumental Inscriptions at Sompting Parish Church |magazine=Sussex Family Historian |date=September 1979|publisher=[[Sussex Family History Group]] |volume=4 |number=3 |series=September 1979 to December 1981 |pages=84{{Ndash}}85 |location=Brighton |language=en |issn=0260-4175 |oclc=3114152}}
+|id6=vi |ref6={{Cite journal|last1=Kummell |first1=Charles Hugo |year=1879 |title=Reduction of observation equations which contain more than one observed quantity |journal=The Analyst |publisher=[[Annals of Mathematics]] |volume=6 |issue=4 |pages=97{{Ndash}}105 |location=London |language=en |issn=0741-7918 |oclc=277641453 |doi=10.2307/2635646 |jstor=2635646 |url=https://archive.org/details/jstor-2635646 |access-date=15 July 2020}}
+|id7=vii |ref7={{Cite journal|last1=Lewis |first1=Thomas John |date=October 1954 |title=The Transient Behaviour of Ladder Networks of the Type Representing Transformer and Machine Windings |journal=[[Proceedings of the Institution of Electrical Engineers]] |publisher=[[Institution of Electrical Engineers]] |series=Part II: Power Engineering |volume=101 |issue=83 |pages=541{{Ndash}}553 |location=London |language=en |id=Paper No. 1691 Supply Section M |doi=10.1049/pi-2.1954.0114 |issn=0369-8939 |quote=The paper was first received 24 February 1954, and in revised form 21 April 1954.}}
+|id8=viii |ref8={{Cite book<!--Deny Citation Bot-->|editor1-last=Murray |editor1-first=Janet Horowitz |editor2-last=Stark |editor2-first=Myra |year=1985 |title=The Englishwoman's Review of Social and Industrial Questions. The complete run reproduced in facsimile in 41 volumes |publisher=[[Garland Science|Garland Publishing]] |volume=36 |series=January to October 1905 |pages=251{{Ndash}}252 |location=New York |language=English |isbn=978-0-8240-3761-1 |oclc=13062569 |hdl=2027/umn.31951002443042e?urlappend=%3Bseq=295}}
+|id9=ix |ref9={{Cite journal|last1=Pollock |first1=Philip John |date=August 1955 |title=Discussion on 'The Design of High‑Speed Salient‑Pole A.C. Generators for Water Power Plants' |journal=[[Proceedings of the Institution of Electrical Engineers]] |publisher=[[Institution of Electrical Engineers]] |series=Part A: Power Engineering |volume=102 |issue=4 |pages= 476{{Ndash}}482 |location=London |language=en |doi=10.1049/pi-2.1954.0114 |issn=0369-8882 |url=https://archive.org/details/dli.ernet.199684/page/476 |access-date=29 August 2021 |quote=North‑Western Centre, at Manchester, 6 May 1952.}}
+}}
+
+==Further reading==
+* {{Cite book|last1=Byers |first1=Nina |author1-link=Nina Byers |last2=Williams |first2=Gary |year=2006 |title=Out of the shadows: contributions of twentieth-century women to physics |publisher=[[Cambridge University Press]] |location=Cambridge |language=en |isbn=978-0-521-82197-1 |oclc=1050066680 |url=https://archive.org/details/outofshadowscont0000unse/page/n4 |url-access=registration |access-date=10 December 2022 |ref=none}}
+* {{Cite book|last1=Dummelow |first1=John |year=1949 |title=A history of the Metropolitan-Vickers Electrical Company Limited 1899–1949 |publisher=[[Metropolitan-Vickers|Metropolitan-Vickers Electrical Company Limited]] |location=Manchester |language=en |oclc=5381038 |quote=With illustrations. Produced to commemorate the [[golden jubilee]] of the Metropolitan-Vickers Electrical Company Limited. |ref=none}} A [https://sets.org.au/library/jim.lawton1/html/page_000_v.htm digital edition], digitised by Jim Lawton in 2008, is available at the [[Sydney Electric Train Society]] (SETS) website.
+* {{Cite journal|last1=Fleming |first1=Arthur Percy Morris |author1-link=Arthur Fleming (electrical engineer) |last2=Churcher |first2=Brian Andrew Graham |last3=Davies |first3=Leonard John |date=28 February 1952 |title=The research laboratories of Associated Electrical Industries Ltd |journal=[[Proceedings of the Royal Society]] |publisher=[[Royal Society]] |series=B {{Mdash}} Biological Sciences |volume=139 |issue=895 |pages=208{{Ndash}}235 |location=London |language=en |doi=10.1098/rspb.1952.0008 |pmid=14911826 |bibcode=1952RSPSB.139..208F |doi-access=free |ref=none}}
+* {{Cite web|last1=Napper |first1=Brian |year=2003 |title=The Ferranti Mark 1 |website=Computer 50: The University of Manchester Celebrates the Birth of the Modern Computer |publisher=[[University of Manchester]] |location=Manchester |language=en |url=http://curation.cs.manchester.ac.uk/computer50/www.computer50.org/mark1/FM1.html |access-date=4 September 2020 |url-status=live |archive-url=https://web.archive.org/web/20200210114735/http://curation.cs.manchester.ac.uk/computer50/www.computer50.org/mark1/FM1.html |archive-date=10 February 2020 |ref=none}}
+* {{Cite web|last1=Swinton |first1=Jonathan |date=4 March 2019 |title=Women At The Console |website=Alan Turing's Manchester |publisher=Deodands |location=Manchester |language=en |url=https://www.manturing.net/manufacturing-blog/2019/2/12/women-at-the-console |access-date=27 August 2020 |url-status=live |archive-url=https://web.archive.org/web/20200827142510/https://www.manturing.net/manufacturing-blog/2019/2/12/women-at-the-console |archive-date=27 August 2020 |ref=none}}
+
+==External links==
+* [https://archives.bristol.ac.uk/Record.aspx?src=CalmView.Catalog&id=DM1961 Beryl Dent's archive] held in the Special Collections of the University of Bristol Arts and Social Sciences Library, in Tyndall Avenue, Bristol.
+* [https://blog.scienceandindustrymuseum.org.uk/movember/mv-1954/ Photograph of the staff working in the research department of Metropolitan{{Hyphen}}Vickers in 1954] in the collections of the [[Science and Industry Museum]]. Dent (front, fifth left) is one of only two women in the department. [[Arthur Fleming (electrical engineer)|Arthur Fleming]] is also pictured (front, centre).
+* [https://www.computerhistory.org/revolution/digital-logic/12/273/1371 The Manchester transistor computer] at the [[Computer History Museum]].
+* {{ZbMATH|id=dent.beryl-m}}.
+
+{{Libraries and library science|state=collapsed}}
+{{Portal bar|Biography|Computer programming|History of science|Mathematics|Physics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dent, Beryl May}}
+[[Category:1900 births]]
+[[Category:1977 deaths]]
+[[Category:20th-century British physicists]]
+[[Category:20th-century British women scientists]]
+[[Category:20th-century English mathematicians]]
+[[Category:20th-century English women]]
+[[Category:20th-century English people]]
+[[Category:20th-century women engineers]]
+[[Category:Academics of the University of Bristol]]
+[[Category:Alumni of Newnham College, Cambridge]]
+[[Category:Alumni of the University of Bristol]]
+[[Category:British mathematicians]]
+[[Category:British women computer scientists]]
+[[Category:British women engineers]]
+[[Category:British women librarians]]
+[[Category:British women mathematicians]]
+[[Category:Computational chemists]]
+[[Category:English Anglicans]]
+[[Category:English librarians]]
+[[Category:English physicists]]
+[[Category:English women physicists]]
+[[Category:Mathematical physicists]]
+[[Category:Metropolitan-Vickers people]]
+[[Category:People from Clifton, Bristol]]
+[[Category:People from Sompting]]
+[[Category:People from Stretford]]
+[[Category:People from Warminster]]
+[[Category:Theoretical physicists]]
+[[Category:Women's Engineering Society]]
+[[Category:Women mathematicians]]

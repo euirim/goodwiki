@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "Acute pain",
+    "Disorders causing seizures",
+    "Medical emergencies",
+    "Medical triads",
+    "Meningitis",
+    "Wikipedia infectious disease articles ready to translate",
+    "Wikipedia medicine articles ready to translate (full)"
+  ],
+  "description": "Inflammation of the membranes around the brain and spinal cord",
+  "lang": "en",
+  "pageid": 21009963,
+  "revid": 1173922017,
+  "title": "Meningitis",
+  "unsupported_tags": {},
+  "unsupported_templates": {
+    "authority control": 1,
+    "central nervous system disease": 1,
+    "cite book": 12,
+    "cite journal": 70,
+    "cite press release": 1,
+    "cite web": 16,
+    "commons category": 1,
+    "cs1 config": 1,
+    "curlie": 1,
+    "diseases of meninges": 1,
+    "eMedicine2": 2,
+    "featured article": 1,
+    "iCD10": 2,
+    "iCD9": 2,
+    "infobox medical condition (new)": 1,
+    "medical condition classification and resources": 1,
+    "portalbar": 1,
+    "reflist": 1,
+    "see also": 1,
+    "tOC limit": 1,
+    "use dmy dates": 1
+  }
+}

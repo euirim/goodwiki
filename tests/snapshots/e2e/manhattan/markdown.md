@@ -1,0 +1,456 @@
+Manhattan (/mænˈhætən, mən-/) is the most densely populated and geographically smallest of the five boroughs of New York City. The borough is coextensive with New York County of the U.S. state of New York, the smallest county by land area in the contiguous United States. Located near the southern tip of New York State, Manhattan constitutes the geographical and demographic center of the Northeast megalopolis and the urban core of the New York metropolitan area, the largest metropolitan area in the world by urban landmass. Manhattan serves as New York City's economic and administrative center, and has been described as the cultural, financial, media, and entertainment capital of the world.
+
+The area of present-day Manhattan was originally part of Lenape territory. European settlement began with the establishment of a trading post founded by Dutch colonists in 1624 on Lower Manhattan; the post was named New Amsterdam in 1626. The territory and its surroundings came under English control in 1664 and were renamed New York after King Charles II of England granted the lands to his brother, the Duke of York. New York, based in present-day Manhattan, served as the capital of the United States from 1785 until 1790. The Statue of Liberty in New York Harbor greeted millions of arriving immigrants in the late 19th century and is a world symbol of the United States and its ideals. Manhattan became a borough during the consolidation of New York City in 1898, and houses New York City Hall, the seat of the city's government. The Stonewall Inn in Greenwich Village, part of the Stonewall National Monument, is considered the birthplace of the modern gay rights movement, cementing Manhattan's central role in LGBT culture. It was also the site of the World Trade Center, which was destroyed during the September 11 terrorist attacks.
+
+Situated on one of the world's largest natural harbors, the borough consists mostly of Manhattan Island, bounded by the Hudson, East, and Harlem rivers along with several small adjacent islands, including Roosevelt, U Thant, and Randalls and Wards Islands. The Borough of Manhattan also includes the small neighborhood of Marble Hill on the U.S. mainland. Manhattan Island is divided into three informally bounded components, each cutting across the borough's long axis: Lower, Midtown, and Upper Manhattan. Manhattan is one of the most densely populated locations in the world, with a 2020 census population of 1,694,251 living in a land area of 22.83 square miles (59.13 km<sup>2</sup>), or 72,918 residents per square mile (28,154 residents/km<sup>2</sup>), and its residential property has the highest sale price per square foot in the United States. Chinatown incorporates the highest concentration of Chinese people in the Western Hemisphere.
+
+Anchored by Wall Street in the Financial District of Lower Manhattan, New York City has been called both the most economically powerful city and the leading financial and fintech center of the world, and Manhattan is home to the world's two largest stock exchanges by total market capitalization, the New York Stock Exchange and Nasdaq. Many multinational media conglomerates are based in Manhattan, as are numerous colleges and universities, such as Columbia University and New York University; the headquarters of the United Nations is also located in the borough. Manhattan hosts three of the world's most-visited tourist attractions in 2013: Times Square, Central Park, and Grand Central Terminal. Penn Station is the busiest transportation hub in the Western Hemisphere. The borough hosts many prominent bridges and tunnels, and skyscrapers including the Empire State Building, Chrysler Building, and One World Trade Center. It is also home to the NBA's New York Knicks and the NHL's New York Rangers.
+
+## History
+
+### Lenape settlement
+
+Manhattan was historically part of the Lenapehoking territory inhabited by the Munsee Lenape and Wappinger tribes. There were several Lenape settlements in the area including Sapohanikan, Nechtanc, and Konaande Kongh that were interconnected by a series of trails. The primary trail on the island ran from what is now Inwood in the north to Battery Park in the south. There were various sites for fishing and planting established by the Lenape throughout Manhattan. The name Manhattan originated from the Lenapes language, Munsee, manaháhtaan (where manah- means "gather", -aht- means "bow", and -aan is an abstract element used to form verb stems). The Lenape word has been translated as "the place where we get bows" or "place for gathering the (wood to make) bows". According to a Munsee tradition recorded by Albert Seqaqkind Anthony in the 19th century, the island was named so for a grove of hickory trees at its southern end that was considered ideal for the making of bows.
+
+### Colonial era
+
+In 1524, Florentine explorer Giovanni da Verrazzano, sailing in service of Francis I of France, became the first documented European to visit the area that would become New York City. Verrazzano entered the tidal strait now known as The Narrows and named the land around Upper New York Harbor New Angoulême, in reference to the family name of King Francis I; he sailed far enough into the harbor to sight the Hudson River, and he named the Bay of Santa Margarita – what is now Upper New York Bay – after Marguerite de Navarre, the elder sister of the king.
+
+Manhattan was first mapped during a 1609 voyage of Henry Hudson. Hudson came across Manhattan Island and the native people living there, and continued up the river that would later bear his name, the Hudson River. Manhattan was first recorded in writing as Manna-hata, in the logbook of Robert Juet, an officer on the voyage.
+
+A permanent European presence in New Netherland began in 1624, with the founding of a Dutch fur trading settlement on Governors Island. In 1625, construction was started on the citadel of Fort Amsterdam on Manhattan Island, later called New Amsterdam (Nieuw Amsterdam), in what is now Lower Manhattan. The establishment of Fort Amsterdam is recognized as the birth of New York City. In 1647, Peter Stuyvesant was appointed as the last Dutch Director-General of the colony. New Amsterdam was formally incorporated as a city on February 2, 1653. In 1674, the English bought New Netherland, after Holland lost rentable sugar business in Brazil, and renamed it "New York" after the English Duke of York and Albany, the future King James II. The Dutch Republic re-captured the city in August 1673, renaming it "New Orange". New Netherland was ultimately ceded to the English in November 1674 through the Treaty of Westminster.
+
+### American Revolution and the early United States
+
+Manhattan was at the heart of the New York Campaign, a series of major battles in the early stages of the American Revolutionary War. The Continental Army was forced to abandon Manhattan after the Battle of Fort Washington on November 16, 1776. The city, greatly damaged by the Great Fire of New York during the campaign, became the British military and political center of operations in North America for the remainder of the war. British occupation lasted until November 25, 1783, when George Washington returned to Manhattan, as the last British forces left the city.
+
+From January 11, 1785, to the fall of 1788, New York City was the fifth of five capitals of the United States under the Articles of Confederation, with the Continental Congress meeting at New York City Hall (then at Fraunces Tavern). New York was the first capital under the newly enacted Constitution of the United States, from March 4, 1789, to August 12, 1790, at Federal Hall. Federal Hall was where the United States Supreme Court met for the first time, the United States Bill of Rights were drafted and ratified, and where the Northwest Ordinance was adopted, establishing measures for adding new states to the Union.
+
+### 19th century
+
+New York grew as an economic center, first as a result of Alexander Hamilton's policies and practices as the first Secretary of the Treasury and, later, with the opening of the Erie Canal in 1825, which connected the Atlantic port to the vast agricultural markets of the Midwestern United States and Canada. By 1810, New York City, then confined to Manhattan, had surpassed Philadelphia as the largest city in the United States. The Commissioners' Plan of 1811 laid out the island of Manhattan in its familiar grid plan.
+
+Tammany Hall, a Democratic Party political machine, began to grow in influence with the support of many of the immigrant Irish, culminating in the election of the first Tammany mayor, Fernando Wood, in 1854. Central Park, which opened to the public in 1858, became the first landscaped public park in an American city.
+
+New York City played a complex role in the American Civil War. The city had strong commercial ties to the South, but anger around conscription, resentment against Lincoln's war policies and fomenting paranoia about free Blacks taking the poor immigrants' jobs culminated in the three-day-long New York Draft Riots of July 1863, among the worst incidents of civil disorder in American history. The rate of immigration from Europe grew steeply after the Civil War, and Manhattan became the first stop for millions seeking a new life in the United States, a role acknowledged by the dedication of the Statue of Liberty in 1886. This immigration brought further social upheaval. In a city of tenements packed with poorly paid laborers from dozens of nations, the city became a hotbed of revolution (including anarchists and communists among others), syndicalism, racketeering, and unionization.
+
+In 1883, the opening of the Brooklyn Bridge established a road connection to Brooklyn. In 1898 New York City consolidated with three neighboring counties to form "the City of Greater New York", and Manhattan was established as a borough.
+
+### 20th century
+
+The construction of the New York City Subway, which opened in 1904, helped bind the new city together, as did additional bridges to Brooklyn. In the 1920s Manhattan experienced large arrivals of African-Americans as part of the Great Migration from the southern United States, and the Harlem Renaissance, part of a larger boom time in the Prohibition era that included new skyscrapers competing for the skyline. Manhattan's majority white ethnic group declined from 98.7% in 1900 to 58.3% by 1990. On March 25, 1911, the Triangle Shirtwaist Factory fire in Greenwich Village killed 146 garment workers, leading to overhauls of the city's fire department, building codes, and workplace regulations.
+
+Despite the Great Depression, some of the world's tallest skyscrapers were completed in Manhattan during the 1930s, including numerous Art Deco masterpieces that are still part of the city's skyline, most notably the Empire State Building, the Chrysler Building, and the 30 Rockefeller Plaza. Returning World War II veterans created a postwar economic boom, which led to the development of huge housing developments targeted at returning veterans, the largest being Peter Cooper Village-Stuyvesant Town, which opened in 1947. In 1951–1952, the United Nations relocated to a new headquarters the East Side of Manhattan. The Stonewall riots were a series of spontaneous, violent protests by members of the gay community against a police raid that took place in the early morning hours of June 28, 1969, at the Stonewall Inn in the Greenwich Village neighborhood of Lower Manhattan. They are widely considered to constitute the single most important event leading to the gay liberation movement and the modern fight for LGBT rights.
+
+In the 1970s, job losses due to industrial restructuring caused New York City, including Manhattan, to suffer from economic problems and rising crime rates. While a resurgence in the financial industry greatly improved the city's economic health in the 1980s, New York's crime rate continued to increase through the decade and into the beginning of the 1990s. The 1980s saw a rebirth of Wall Street, and Manhattan reclaimed its role at the center of the worldwide financial industry. The 1980s also saw Manhattan at the heart of the AIDS crisis, with Greenwich Village at its epicenter.
+
+By the 1990s, crime rates started to drop dramatically and the city once again became the destination of immigrants from around the world, joining with low interest rates and Wall Street bonuses to fuel the growth of the real estate market. Important new sectors, such as Silicon Alley, emerged in Manhattan's economy.
+
+### 21st century
+
+On September 11, 2001, the Twin Towers of the original World Trade Center were struck by hijacked aircraft and collapsed in the September 11 attacks launched by al-Qaeda terrorists. The collapse caused extensive damage to surrounding buildings and skyscrapers in Lower Manhattan, and resulted in the deaths of 2,606 people, in addition to those on the planes. Since 2001, most of Lower Manhattan has been restored, although there has been controversy surrounding the rebuilding. In 2014, the new One World Trade Center, at 1,776 feet (541 m) and formerly known as the Freedom Tower, became the tallest building in the Western Hemisphere.
+
+The Occupy Wall Street protests in Zuccotti Park in the Financial District of Lower Manhattan began on September 17, 2011, receiving global attention and spawning the Occupy movement against social and economic inequality worldwide.
+
+On October 29 and 30, 2012, Hurricane Sandy caused extensive destruction in the borough, ravaging portions of Lower Manhattan with record-high storm surge from New York Harbor, severe flooding, and high winds, causing power outages for hundreds of thousands of city residents and leading to gasoline shortages and disruption of mass transit systems. The storm and its profound impacts have prompted discussion of constructing seawalls and other coastal barriers around the shorelines of the borough and the metropolitan area to minimize the risk of destructive consequences from another such event in the future.
+
+On October 31, 2017, a terrorist deliberately drove a truck down a bike path alongside the West Side Highway in Lower Manhattan, killing eight.
+
+## Geography
+
+### Components
+
+The borough consists of Manhattan Island, Marble Hill, and several small islands, including Randalls Island and Wards Island, and Roosevelt Island in the East River, and Governors Island and Liberty Island to the south in New York Harbor.
+
+According to the United States Census Bureau, New York County has a total area of 33.6 square miles (87 km<sup>2</sup>), of which 22.8 square miles (59 km<sup>2</sup>) is land and 10.8 square miles (28 km<sup>2</sup>) (32%) is water. The northern segment of Upper Manhattan represents a geographic panhandle. Manhattan Island is 22.7 square miles (59 km<sup>2</sup>) in area, 13.4 miles (21.6 km) long and 2.3 miles (3.7 km) wide, at its widest (near 14th Street).
+
+#### Manhattan Island
+
+Manhattan Island is loosely divided into Downtown (Lower Manhattan), Midtown (Midtown Manhattan), and Uptown (Upper Manhattan), with Fifth Avenue dividing Manhattan lengthwise into its East Side and West Side. Manhattan Island is bounded by the Hudson River to the west and the East River to the east. To the north, the Harlem River divides Manhattan Island from the Bronx and the mainland United States.
+
+Early in the 19th century, landfill was used to expand Lower Manhattan from the natural Hudson shoreline at Greenwich Street to West Street. When building the World Trade Center in 1968, 1.2 million cubic yards (917,000 m<sup>3</sup>) of material was excavated from the site. Rather than being dumped at sea or in landfills, the fill material was used to expand the Manhattan shoreline across West Street, creating Battery Park City. The result was a 700-foot (210 m) extension into the river, running six blocks or 1,484 feet (452 m), covering 92 acres (37 ha), providing a 1.2-mile (1.9 km) riverfront esplanade and over 30 acres (12 ha) of parks; Hudson River Park was subsequently opened in stages beginning in 1998. Little Island opened on the Hudson River in May 2021, connected to the western termini of 13th and 14th Streets by footbridges.
+
+#### Marble Hill
+
+One neighborhood of New York County, Marble Hill, is contiguous with the U.S. mainland. Marble Hill at one time was part of Manhattan Island, but the Harlem River Ship Canal, dug in 1895 to improve navigation on the Harlem River, separated it from the remainder of Manhattan as an island between the Bronx and the remainder of Manhattan. Before World War I, the section of the original Harlem River channel separating Marble Hill from the Bronx was filled in, and Marble Hill became part of the mainland.
+
+Marble Hill is one example of how Manhattan's land has been considerably altered by human intervention. The borough has seen substantial land reclamation along its waterfronts since Dutch colonial times, and much of the natural variation in its topography has been evened out.
+
+#### Smaller islands
+
+Within New York Harbor, there are three smaller islands:
+
+- Ellis Island, shared with New Jersey
+- Governors Island
+- Liberty Island
+
+Other smaller islands, in the East River, include (from north to south):
+
+- Randalls and Wards Islands, joined by landfill
+- Mill Rock
+- Roosevelt Island
+- U Thant Island (legally Belmont Island)
+
+### Geology
+
+The bedrock underlying much of Manhattan is a mica schist known as Manhattan schist of the Manhattan Prong physiographic region. It is a strong, competent metamorphic rock that was produced when Pangaea formed. It is well suited for the foundations of tall buildings. In Central Park, outcrops of Manhattan schist occur; Rat Rock is one rather large example.
+
+Geologically, a predominant feature of the substrata of Manhattan is that the underlying bedrock base of the island rises considerably closer to the surface near Midtown Manhattan, dips down lower between 29th Street and Canal Street, then rises toward the surface again in Lower Manhattan. It has been widely believed that the depth to bedrock was the primary reason for the clustering of skyscrapers in the Midtown and Financial District areas, and their absence over the intervening territory between these two areas. However, research has shown that economic factors played a bigger part in the locations of these skyscrapers.
+
+According to the United States Geological Survey, an updated analysis of seismic hazard in July 2014 revealed a "slightly lower hazard for tall buildings" in Manhattan than previously assessed. Scientists estimated this lessened risk based upon a lower likelihood than previously thought of slow shaking near New York City, which would be more likely to cause damage to taller structures from an earthquake in the vicinity of the city.
+
+### Locations
+
+#### National protected areas
+
+- African Burial Ground National Monument
+- Castle Clinton National Monument
+- Federal Hall National Memorial
+- General Grant National Memorial
+- Governors Island National Monument
+- Hamilton Grange National Memorial
+- Lower East Side Tenement National Historic Site
+- Statue of Liberty National Monument (part)
+- Theodore Roosevelt Birthplace National Historic Site
+
+#### Neighborhoods
+
+Manhattan's many neighborhoods are not named according to any particular convention, nor do they have official boundaries. Some are geographical (the Upper East Side), or ethnically descriptive (Little Italy). Others are acronyms, such as TriBeCa (for "TRIangle BElow CAnal Street") or SoHo ("SOuth of HOuston"), or the far more recent vintages NoLIta ("NOrth of Little ITAly"). and NoMad ("NOrth of MADison Square Park"). Harlem is a name from the Dutch colonial era after Haarlem, a city in the Netherlands. Alphabet City comprises Avenues A, B, C, and D, to which its name refers. Some have simple folkloric names, such as Hell's Kitchen, alongside their more official but lesser used title (in this case, Clinton).
+
+Some neighborhoods, such as SoHo, which is mixed use, are known for upscale shopping as well as residential use. Others, such as Greenwich Village, the Lower East Side, Alphabet City and the East Village, have long been associated with the Bohemian subculture. Chelsea is one of several Manhattan neighborhoods with large gay populations and has become a center of both the international art industry and New York's nightlife. Chinatown has the highest concentration of people of Chinese descent outside of Asia. Koreatown is roughly bounded by 6th and Madison Avenues, between 31st and 33rd Streets, where Hangul signage is ubiquitous. Rose Hill features a growing number of Indian restaurants and spice shops along a stretch of Lexington Avenue between 25th and 30th Streets which has become known as Curry Hill. Washington Heights in Uptown Manhattan is home to the largest Dominican immigrant community in the United States. Harlem, also in Upper Manhattan, is the historical epicenter of African American culture. Since 2010, a Little Australia has emerged and is growing in Nolita, Lower Manhattan.
+
+In Manhattan, uptown means north (more precisely north-northeast, which is the direction the island and its street grid system are oriented) and downtown means south (south-southwest). This usage differs from that of most American cities, where downtown refers to the central business district. Manhattan has two central business districts, the Financial District at the southern tip of the island, and Midtown Manhattan. The term uptown also refers to the northern part of Manhattan above 72nd Street and downtown to the southern portion below 14th Street, with Midtown covering the area in between, though definitions can be fluid.
+
+Fifth Avenue roughly bisects Manhattan Island and acts as the demarcation line for east/west designations (e.g., East 27th Street, West 42nd Street); street addresses start at Fifth Avenue and increase heading away from Fifth Avenue, at a rate of 100 per block on most streets. South of Waverly Place, Fifth Avenue terminates and Broadway becomes the east/west demarcation line. Although the grid does start with 1st Street, just north of Houston Street (the southernmost street divided in west and east portions), the grid does not fully take hold until north of 14th Street, where nearly all east–west streets are numerically identified, which increase from south to north to 220th Street, the highest numbered street on the island. Streets in Midtown are usually one-way, with the few exceptions generally being the busiest cross-town thoroughfares (14th, 23rd, 34th, and 42nd Streets, for example), which are bidirectional across the width of Manhattan Island. Typically odd-numbered streets run west, while even-numbered streets run east.
+
+### Climate
+
+Under the Köppen climate classification, using the 0 °C (32 °F) isotherm, New York City features both a humid subtropical climate (Cfa) and a humid continental climate (Dfa); it is the northernmost major city on the North American continent with a humid subtropical climate. The city averages 234 days with at least some sunshine annually. The city lies in the USDA 7b plant hardiness zone.
+
+Winters are cold and damp, and prevailing wind patterns that blow offshore temper the moderating effects of the Atlantic Ocean; yet the Atlantic and the partial shielding from colder air by the Appalachians keep the city warmer in the winter than inland North American cities at similar or lesser latitudes such as Pittsburgh, Cincinnati, and Indianapolis. The daily mean temperature in January, the area's coldest month, is 32.6 °F (0.3 °C); temperatures usually drop to 10 °F (−12 °C) several times per winter, and reach 60 °F (16 °C) several days in the coldest winter month. Spring and autumn are unpredictable and can range from chilly to warm, although they are usually mild with low humidity. Summers are typically warm to hot and humid, with a daily mean temperature of 76.5 °F (24.7 °C) in July. Nighttime conditions are often exacerbated by the urban heat island phenomenon, which causes heat absorbed during the day to be radiated back at night, raising temperatures by as much as 7 °F (4 °C) when winds are slow. Daytime temperatures exceed 90 °F (32 °C) on average of 17 days each summer and in some years exceed 100 °F (38 °C). Extreme temperatures have ranged from −15 °F (−26 °C), recorded on February 9, 1934, up to 106 °F (41 °C) on July 9, 1936.
+
+Manhattan receives 49.9 inches (1,270 mm) of precipitation annually, which is relatively evenly spread throughout the year. Average winter snowfall between 1981 and 2010 has been 25.8 inches (66 cm); this varies considerably from year to year. Governors Island in New York Harbor is planned to host a US\$1 billion research and education center with the intention of making New York City the global leader in addressing the climate crisis.
+
+### Boroughscape
+
+## Demographics
+
+In 2020, 1,694,251 people lived in Manhattan. At the 2010 U.S. census, there were 1,585,873 people living in Manhattan, an increase of 3.2% since 2000. Since 2010, Manhattan's population was estimated by the U.S. Census Bureau to have increased 2.7% to 1,628,706 as of 2018, representing 19.5% of New York City's population of 8,336,817 and 8.4% of New York State's population of 19,745,289. As of the 2020 census, the population density of New York County was 74,870.7 inhabitants per square mile (28,907.7/km<sup>2</sup>), the highest population density of any county in the United States.
+
+Manhattan is one of the highest-income places in the United States with a population greater than one million. As of 2023, Manhattan's cost of living was the highest in the United States. Manhattan is also the United States county with the highest per capita income, being the sole county whose per capita income exceeded \$100,000 in 2010. However, from 2011–2015 Census data of New York County, the per capita income was recorded in 2015 dollars as \$64,993, with the median household income at \$72,871, and poverty at 17.6%. In 2012, The New York Times reported that inequality was higher than in most developing countries, stating, "The wealthiest fifth of Manhattanites made more than 40 times what the lowest fifth reported, a widening gap (it was 38 times, the year before) surpassed by only a few developing countries".
+
+### Religion
+
+In 2010, the largest organized religious group in Manhattan was the Archdiocese of New York, with 323,325 Catholics worshiping at 109 parishes, followed by 64,000 Orthodox Jews with 77 congregations, an estimated 42,545 Muslims with 21 congregations, 42,502 non-denominational adherents with 54 congregations, 26,178 TEC Episcopalians with 46 congregations, 25,048 ABC-USA Baptists with 41 congregations, 24,536 Reform Jews with 10 congregations, 23,982 Mahayana Buddhists with 35 congregations, 10,503 PC-USA Presbyterians with 30 congregations, and 10,268 RCA Presbyterians with 10 congregations. Altogether, 44.0% of the population was claimed as members by religious congregations, although members of historically African-American denominations were underrepresented due to incomplete information. In 2014, Manhattan had 703 religious organizations, the seventeenth most out of all US counties. There is a large Buddhist temple in Manhattan located at the foot of the Manhattan Bridge in Chinatown.
+
+### Languages
+
+As of 2010, 59.98% (902,267) of Manhattan residents, aged five and older, spoke only English at home, while 23.07% (347,033) spoke Spanish, 5.33% (80,240) Chinese, 2.03% (30,567) French, 0.78% (11,776) Japanese, 0.77% (11,517) Russian, 0.72% (10,788) Korean, 0.70% (10,496) German, 0.66% (9,868) Italian, 0.64% (9,555) Hebrew, and 0.48% (7,158) spoke African languages at home. In total, 40.02% (602,058) of Manhattan's population, aged five and older, spoke a language other than English at home.
+
+As of 2015, 60.0% (927,650) of Manhattan residents, aged five and older, spoke only English at home, while 22.63% (350,112) spoke Spanish, 5.37% (83,013) Chinese, 2.21% (34,246) French, 0.85% (13,138) Korean, 0.72% (11,135) Russian, and 0.70% (10,766) Japanese. In total, 40.0% of Manhattan's population, aged five and older, spoke a language other than English at home.
+
+## Landmarks and architecture
+
+Points of interest on Manhattan Island include the American Museum of Natural History; the Battery; Broadway and the Theater District; Bryant Park; Central Park, Chinatown; the Chrysler Building; The Cloisters; Columbia University; Curry Hill; the Empire State Building; Flatiron Building; the Financial District (including the New York Stock Exchange Building; Wall Street; and the South Street Seaport); Grand Central Terminal; Greenwich Village (including New York University; Washington Square Arch; and Stonewall Inn); Harlem and Spanish Harlem; the High Line; Koreatown; Lincoln Center; Little Australia; Little Italy; Madison Square Garden; Museum Mile on Fifth Avenue (including the Metropolitan Museum of Art); Penn Station, Port Authority Bus Terminal; Rockefeller Center (including Radio City Music Hall); Times Square; and the World Trade Center (including the National September 11 Museum and One World Trade Center).
+
+There are also numerous iconic bridges across rivers that connect to Manhattan Island, as well as an emerging number of supertall skyscrapers. The Statue of Liberty rests on a pedestal on Liberty Island, an exclave of Manhattan, and part of Ellis Island is also an exclave of Manhattan. The borough has many energy-efficient, environmentally friendly office buildings, such as the Hearst Tower, the rebuilt 7 World Trade Center, and the Bank of America Tower—the first skyscraper designed to attain a Platinum LEED Certification.
+
+### Architectural history
+
+The skyscraper, which has shaped Manhattan's distinctive skyline, has been closely associated with New York City's identity since the end of the 19th century. From 1890 to 1973, the title of world's tallest building resided continually in Manhattan (with a gap between 1894 and 1908, when the title was held by Philadelphia City Hall), with eight different buildings holding the title. The New York World Building on Park Row, was the first to take the title in 1890, standing 309 feet (94 m) until 1955, when it was demolished to construct a new ramp to the Brooklyn Bridge. The nearby Park Row Building, with its 29 stories standing 391 feet (119 m) high, became the world's tallest office building when it opened in 1899. The 41-story Singer Building, constructed in 1908 as the headquarters of the eponymous sewing machine manufacturer, stood 612 feet (187 m) high until 1967, when it became the tallest building ever demolished. The Metropolitan Life Insurance Company Tower, standing 700 feet (210 m) at the foot of Madison Avenue, wrested the title in 1909, with a tower reminiscent of St Mark's Campanile in Venice. The Woolworth Building, and its distinctive Gothic architecture, took the title in 1913, topping off at 792 feet (241 m). Structures such as the Equitable Building of 1915, which rises vertically forty stories from the sidewalk, prompted the passage of the 1916 Zoning Resolution, requiring new buildings to contain setbacks withdrawing progressively at a defined angle from the street as they rose, in order to preserve a view of the sky at street level.
+
+The Roaring Twenties saw three separate buildings pursuing the world's tallest title in the span of a year. As the stock market soared in the days before the Wall Street Crash of 1929, two developers publicly competed for the crown. At 927 feet (283 m), 40 Wall Street, completed in May 1930 in only eleven months as the headquarters of the Bank of Manhattan, seemed to have secured the title. At Lexington Avenue and 42nd Street, auto executive Walter Chrysler and his architect William Van Alen developed plans to build the structure's trademark 185-foot (56 m) spire in secret, pushing the Chrysler Building to 1,046 feet (319 m) and making it the tallest in the world when it was completed in 1929. Both buildings were soon surpassed with the May 1931 completion of the 102-story Empire State Building with its Art Deco tower reaching 1,250 feet (380 m) at the top of the building. The 203-foot (62 m) high pinnacle was later added bringing the total height of the building to 1,453 ft (443 m).
+
+The former Twin Towers of the World Trade Center were located in Lower Manhattan. At 1,368 and 1,362 feet (417 and 415 m), the 110-story buildings were the world's tallest from 1972 until they were surpassed by the construction of the Willis Tower in 1974 (formerly known as the Sears Tower, located in Chicago). One World Trade Center, a replacement for the Twin Towers of the World Trade Center, is currently the tallest building in the Western Hemisphere.
+
+In 1961, the Pennsylvania Railroad unveiled plans to tear down the old Penn Station and replace it with a new Madison Square Garden and office building complex. Organized protests were aimed at preserving the McKim, Mead & White-designed structure completed in 1910, widely considered a masterpiece of the Beaux-Arts style and one of the architectural jewels of New York City. Despite these efforts, demolition of the structure began in October 1963. The loss of Penn Station—called "an act of irresponsible public vandalism" by historian Lewis Mumford—led directly to the enactment in 1965 of a local law establishing the New York City Landmarks Preservation Commission, which is responsible for preserving the "city's historic, aesthetic, and cultural heritage". The historic preservation movement triggered by Penn Station's demise has been credited with the retention of some one million structures nationwide, including over 1,000 in New York City. In 2017, a multibillion-dollar rebuilding plan was unveiled to restore the historic grandeur of Penn Station, in the process of upgrading the landmark's status as a critical transportation hub.
+
+### Parkland
+
+Parkland composes 17.8% of the borough, covering a total of 2,686 acres (10.87 km<sup>2</sup>). The 843-acre (3.41 km<sup>2</sup>) Central Park, the largest park comprising 30% of Manhattan's parkland, is bordered on the north by West 110th Street (Central Park North), on the west by Eighth Avenue (Central Park West), on the south by West 59th Street (Central Park South), and on the east by Fifth Avenue. Central Park, designed by Frederick Law Olmsted and Calvert Vaux, offers extensive walking tracks, two ice-skating rinks, a wildlife sanctuary, and several lawns and sporting areas, as well as 21 playgrounds and a 6-mile (9.7 km) road from which automobile traffic is banned. While much of the park looks natural, it is almost entirely landscaped: the construction of Central Park in the 1850s was one of the era's most massive public works projects, with some 20,000 workers crafting the topography to create the English-style pastoral landscape Olmsted and Vaux sought.
+
+The remaining 70% of Manhattan's parkland includes 204 playgrounds, 251 Greenstreets, 371 basketball courts, and many other amenities. The next-largest park in Manhattan, the Hudson River Park, stretches 4.5 miles (7.2 km) on the Hudson River and comprises 550 acres (220 ha). Other major parks include:
+
+- Bowling Green
+- Bryant Park
+- City Hall Park
+- DeWitt Clinton Park
+- East River Greenway
+- Fort Tryon Park
+- Fort Washington Park
+- Harlem River Park
+- Holcombe Rucker Park
+- Imagination Playground
+- Inwood Hill Park
+- Isham Park
+- J. Hood Wright Park
+- Jackie Robinson Park
+- Madison Square Park
+- Marcus Garvey Park
+- Morningside Park
+- Randall's Island Park
+- Riverside Park
+- Sara D. Roosevelt Park
+- Seward Park
+- St. Nicholas Park
+- Stuyvesant Square
+- The Battery
+- The High Line
+- Thomas Jefferson Park
+- Tompkins Square Park
+- Union Square Park
+- Washington Square Park
+
+## Economy
+
+Manhattan is the economic engine of New York City, with its 2.3 million workers in 2007 drawn from the entire New York metropolitan area accounting for almost two-thirds of all jobs in New York City. In the first quarter of 2014, the average weekly wage in Manhattan (New York County) was \$2,749, representing the highest total among large counties in the United States. Manhattan's workforce is overwhelmingly focused on white collar professions, with manufacturing nearly extinct. Manhattan also has the highest per capita income of any county in the United States.
+
+In 2010, Manhattan's daytime population was swelling to 3.94 million, with commuters adding a net 1.48 million people to the population, along with visitors, tourists, and commuting students. The commuter influx of 1.61 million workers coming into Manhattan was the largest of any county or city in the country, and was more than triple the 480,000 commuters who headed into second-ranked Washington, D.C.
+
+### Financial sector
+
+Manhattan's most important economic sector lies in its role as the headquarters for the U.S. financial industry, metonymously known as Wall Street. Manhattan is home to the New York Stock Exchange (NYSE), at 11 Wall Street in Lower Manhattan, and the Nasdaq, now located at 4 Times Square in Midtown Manhattan, representing the world's largest and second-largest stock exchanges, respectively, when measured both by overall share trading value and by total market capitalization of their listed companies in 2013. The NYSE American (formerly the American Stock Exchange, AMEX), New York Board of Trade, and the New York Mercantile Exchange (NYMEX) are also located downtown. Financial technology (fintech) and cryptocurrency have emerged as more recent constituents of the financial sector as well as the tech sector.
+
+### Corporate sector
+
+New York City is home to the most corporate headquarters of any city in the United States, the overwhelming majority based in Manhattan. Manhattan contained over 520 million square feet (48.3 million m<sup>2</sup>) of office space in 2022, making it the largest office market in the United States; while Midtown Manhattan, with over 400 million square feet (37.2 million m<sup>2</sup>) is the largest central business district in the world. New York City's role as the top global center for the advertising industry is metonymously reflected as "Madison Avenue".
+
+### Tech and biotech
+
+Manhattan has driven New York's status as a top-tier global high technology hub. Silicon Alley, once a metonym for the sphere encompassing the metropolitan region's high technology industries, is no longer a relevant moniker as the city's tech environment has expanded dramatically both in location and in its scope. New York City's current tech sphere encompasses a universal array of applications involving artificial intelligence, the internet, new media, financial technology (fintech) and cryptocurrency, biotechnology, game design, and other fields within information technology that are supported by its entrepreneurship ecosystem and venture capital investments.As of 2014, New York City hosted 300,000 employees in the tech sector. In 2015, Silicon Alley generated over US\$7.3 billion in venture capital investment, most based in Manhattan, as well as in Brooklyn, Queens, and elsewhere in the region. High technology startup companies and employment are growing in Manhattan and across New York City, bolstered by the city's emergence as a global node of creativity and entrepreneurship, social tolerance, and environmental sustainability, as well as New York's position as the leading Internet hub and telecommunications center in North America, including its vicinity to several transatlantic fiber optic trunk lines, the city's intellectual capital, and its extensive outdoor wireless connectivity. Verizon Communications, headquartered at 140 West Street in Lower Manhattan, was at the final stages in 2014 of completing a US\$3 billion fiberoptic telecommunications upgrade throughout New York City. As of October 2014, New York City hosted 300,000 employees in the tech sector, with a significant proportion in Manhattan. The technology sector has been expanding across Manhattan since 2010.
+
+The biotechnology sector is also growing in Manhattan based upon the city's strength in academic scientific research and public and commercial financial support. By mid-2014, Accelerator, a biotech investment firm, had raised more than US\$30 million from investors, including Eli Lilly and Company, Pfizer, and Johnson & Johnson, for initial funding to create biotechnology startups at the Alexandria Center for Life Science, which encompasses more than 700,000 square feet (65,000 m<sup>2</sup>) on East 29th Street and promotes collaboration among scientists and entrepreneurs at the center and with nearby academic, medical, and research institutions. The New York City Economic Development Corporation's Early Stage Life Sciences Funding Initiative and venture capital partners, including Celgene, General Electric Ventures, and Eli Lilly, committed a minimum of US\$100 million to help launch 15 to 20 ventures in life sciences and biotechnology. In 2011, Mayor Michael R. Bloomberg had announced his choice of Cornell University and Technion-Israel Institute of Technology to build a US\$2 billion graduate school of applied sciences on Roosevelt Island, Manhattan, with the goal of transforming New York City into the world's premier technology capital.
+
+### Tourism
+
+Tourism is vital to Manhattan's economy, and the landmarks of Manhattan are the focus of New York City's tourists, enumerating an eighth consecutive annual record of approximately 62.8 million visitors in 2017. According to The Broadway League, for the 2018–2019 season (which ended May 26, 2019) total attendance was 14,768,254 and Broadway shows had US\$1,829,312,140 in grosses, with attendance up 9.5%, grosses up 10.3%, and playing weeks up 9.3%.
+
+### Real estate
+
+Real estate is a major force in Manhattan's economy. Manhattan has perennially been home to some of the nation's, as well as the world's, most valuable real estate, including the Time Warner Center, which had the highest-listed market value in the city in 2006 at US\$1.1 billion, to be subsequently surpassed in October 2014 by the Waldorf Astoria New York, which became the most expensive hotel ever sold after being purchased by the Anbang Insurance Group, based in China, for US\$1.95 billion. When 450 Park Avenue was sold on July 2, 2007, for US\$510 million, about US\$1,589 per square foot (US\$17,104/m2), it broke the barely month-old record for an American office building of US\$1,476 per square foot (US\$15,887/m2) based on the sale of 660 Madison Avenue. In 2014, Manhattan was home to six of the top ten zip codes in the United States by median housing price. In 2019, the most expensive home sale ever in the United States occurred in Manhattan, at a selling price of US\$238 million, for a 24,000-square-foot (2,200 m<sup>2</sup>) penthouse apartment overlooking Central Park, while Central Park Tower, topped out at 1,550 feet (472 m) in 2019, is the world's tallest residential building, followed globally in height by 111 West 57th Street and 432 Park Avenue, both also located in Midtown Manhattan.
+
+Manhattan had approximately 520 million square feet (48.1 million m2) of office space in 2013, making it the largest office market in the United States. Midtown Manhattan is the largest central business district in the nation based on office space, while Lower Manhattan is the third-largest (after the Chicago Loop).
+
+As of the fourth quarter of 2021, the median value of homes in Manhattan was \$1,306,208. It ranked second among US counties for highest median home value at the time, second to Nantucket.
+
+### Media
+
+Manhattan has been described as the media capital of the world. A significant array of media outlets and their journalists report about international, American, business, entertainment, and New York metropolitan area-related matters from Manhattan.
+
+#### News
+
+Manhattan is served by the major New York City daily news publications, including The New York Times, which has won the most Pulitzer Prizes for journalism and is considered the U.S. media's "newspaper of record"; the New York Daily News; and the New York Post, which are all headquartered in the borough. The nation's largest newspaper by circulation, The Wall Street Journal, is also based in Manhattan. Other daily newspapers include AM New York and The Villager. The New York Amsterdam News, based in Harlem, is one of the leading Black-owned weekly newspapers in the United States. The Village Voice, historically the largest alternative newspaper in the United States, announced in 2017 that it would cease publication of its print edition and convert to a fully digital venture.
+
+#### Television, radio, film
+
+The television industry developed in Manhattan and is a significant employer in the borough's economy. The four major American broadcast networks, ABC, CBS, NBC, and Fox, as well as Univision, are all headquartered in Manhattan, as are many cable channels, including CNN, MSNBC, MTV, Fox News, HBO, and Comedy Central. In 1971, WLIB became New York City's first Black-owned radio station and began broadcasts geared toward the African-American community in 1949. WQHT, also known as Hot 97, claims to be the premier hip-hop station in the United States. WNYC, comprising an AM and FM signal, has the largest public radio audience in the nation and is the most-listened to commercial or non-commercial radio station in Manhattan. WBAI, with news and information programming, is one of the few socialist radio stations operating in the United States.
+
+The oldest public-access television cable TV channel in the United States is the Manhattan Neighborhood Network, founded in 1971, offers eclectic local programming that ranges from a jazz hour to discussion of labor issues to foreign language and religious programming. NY1, Time Warner Cable's local news channel, is known for its beat coverage of City Hall and state politics.
+
+## Education
+
+Education in Manhattan is provided by a vast number of public and private institutions. Non-charter public schools in the borough are operated by the New York City Department of Education, the largest public school system in the United States. Charter schools include Success Academy Harlem 1 through 5, Success Academy Upper West, and Public Prep.
+
+Several notable New York City public high schools are located in Manhattan, including A. Philip Randolph Campus High School, Beacon High School, Stuyvesant High School, Fiorello H. LaGuardia High School, High School of Fashion Industries, Eleanor Roosevelt High School, NYC Lab School, Manhattan Center for Science and Mathematics, Hunter College High School, and High School for Math, Science and Engineering at City College. Bard High School Early College, a hybrid school created by Bard College, serves students from around the city.
+
+Many private preparatory schools are also situated in Manhattan, including the Upper East Side's Brearley School, Dalton School, Browning School, Spence School, Chapin School, Nightingale-Bamford School, Convent of the Sacred Heart, Hewitt School, Saint David's School, Loyola School, and Regis High School. The Upper West Side is home to the Collegiate School and Trinity School. The borough is also home to Manhattan Country School, Trevor Day School, Xavier High School and the United Nations International School.
+
+Based on data from the 2011–2015 American Community Survey, 59.9% of Manhattan residents over age 25 have a bachelor's degree. As of 2005, about 60% of residents were college graduates and some 25% had earned advanced degrees, giving Manhattan one of the nation's densest concentrations of highly educated people.
+
+Manhattan has various colleges and universities, including Columbia University (and its affiliate Barnard College), Cooper Union, Marymount Manhattan College, New York Institute of Technology, New York University (NYU), The Juilliard School, Pace University, Berkeley College, The New School, Yeshiva University, and a campus of Fordham University. Other schools include Bank Street College of Education, Boricua College, Jewish Theological Seminary of America, Manhattan School of Music, Metropolitan College of New York, Parsons School of Design, School of Visual Arts, Touro College, and Union Theological Seminary. Several other private institutions maintain a Manhattan presence, among them Mercy College, St. John's University, Adelphi University, The King's College, and Pratt Institute. Cornell Tech, part of Cornell University, is developing on Roosevelt Island.
+
+The City University of New York (CUNY), the municipal college system of New York City, is the largest urban university system in the United States, serving more than 226,000 degree students and a roughly equal number of adult, continuing and professional education students. A third of college graduates in New York City graduate from CUNY, with the institution enrolling about half of all college students in New York City. CUNY senior colleges located in Manhattan include: Baruch College, City College of New York, Hunter College, John Jay College of Criminal Justice, and the CUNY Graduate Center (graduate studies and doctorate granting institution). The only CUNY community college located in Manhattan is the Borough of Manhattan Community College. The State University of New York is represented by the Fashion Institute of Technology, State University of New York State College of Optometry, and Stony Brook University – Manhattan.
+
+Manhattan is a world center for training and education in medicine and the life sciences. The city as a whole receives the second-highest amount of annual funding from the National Institutes of Health among all U.S. cities, the bulk of which goes to Manhattan's research institutions, including Memorial Sloan-Kettering Cancer Center, Rockefeller University, Mount Sinai School of Medicine, Columbia University College of Physicians and Surgeons, Weill Cornell Medical College, and New York University School of Medicine.
+
+Manhattan is served by the New York Public Library, which has the largest collection of any public library system in the country. The five units of the Central Library—Mid-Manhattan Library, 53rd Street Library, the New York Public Library for the Performing Arts, Andrew Heiskell Braille and Talking Book Library, and the Science, Industry and Business Library—are all located in Manhattan. More than 35 other branch libraries are located in the borough.
+
+## Culture
+
+Manhattan is the borough most closely associated with New York City by non-residents; regionally, residents within the New York City metropolitan area, including natives of New York City's boroughs outside Manhattan, will often describe a trip to Manhattan as "going to the City". Journalist Walt Whitman characterized the streets of Manhattan as being traversed by "hurrying, feverish, electric crowds".
+
+In 1912, about 20,000 workers, a quarter of them women, marched upon Washington Square Park to commemorate the Triangle Shirtwaist Factory fire, which killed 146 workers on March 25, 1911. Many of the women wore fitted tucked-front blouses like those manufactured by the company, a clothing style that became the working woman's uniform and a symbol of women's liberation, reflecting the alliance of the labor and suffrage movements.
+
+Manhattan has been the scene of many important global and American cultural movements. The Harlem Renaissance in the 1920s established the African-American literary canon in the United States and introduced writers Langston Hughes and Zora Neale Hurston. Manhattan's visual art scene in the 1950s and 1960s was a center of the pop art movement, which gave birth to such giants as Jasper Johns and Roy Lichtenstein. The downtown pop art movement of the late 1970s included artist Andy Warhol and clubs like Serendipity 3 and Studio 54, where he socialized.
+
+Broadway theatre is considered the highest professional form of theatre in the United States. Plays and musicals are staged in one of the 39 larger professional theatres with at least 500 seats, almost all in and around Times Square. Off-Broadway theatres feature productions in venues with 100–500 seats. Lincoln Center for the Performing Arts, anchoring Lincoln Square on the Upper West Side of Manhattan, is home to 12 influential arts organizations, including the Metropolitan Opera, New York Philharmonic, and New York City Ballet, as well as the Vivian Beaumont Theater, the Juilliard School, Jazz at Lincoln Center, and Alice Tully Hall. Performance artists displaying diverse skills are ubiquitous on the streets of Manhattan.
+
+Manhattan is also home to some of the most extensive art collections in the world, both contemporary and classical art, including the Metropolitan Museum of Art, the Museum of Modern Art (MoMA), the Frick Collection, the Whitney Museum of American Art, and the Frank Lloyd Wright-designed Guggenheim Museum. The Upper East Side has many art galleries, and the downtown neighborhood of Chelsea is known for its more than 200 art galleries that are home to modern art from both upcoming and established artists. Many of the world's most lucrative art auctions are held in Manhattan.
+
+Manhattan is the epicenter of LGBT culture and the central node of the LGBTQ+ sociopolitical ecosystem. The borough is widely acclaimed as the cradle of the modern LGBTQ rights movement, with its inception at the June 1969 Stonewall Riots in Greenwich Village, Lower Manhattan – widely considered to constitute the single most important event leading to the gay liberation movement and the modern fight for LGBT rights in the United States. Brian Silverman, the author of Frommer's New York City from \$90 a Day, wrote the city has "one of the world's largest, loudest, and most powerful LGBT communities", and "Gay and lesbian culture is as much a part of New York's basic identity as yellow cabs, high-rise buildings, and Broadway theatre"— radiating from this central hub, as LGBT travel guide Queer in the World states, "The fabulosity of Gay New York is unrivaled on Earth, and queer culture seeps into every corner of its five boroughs". Multiple gay villages have developed, spanning the length of the borough from the Lower East Side, East Village, and Greenwich Village, through Chelsea and Hell's Kitchen, uptown to Morningside Heights.
+
+The annual NYC Pride March (or gay pride parade) traverses southward down Fifth Avenue and ends at Greenwich Village; the Manhattan parade is the largest pride parade in the world, attracting tens of thousands of participants and millions of sidewalk spectators each June. Stonewall 50 – WorldPride NYC 2019 was the largest international Pride celebration in history, produced by Heritage of Pride. The events were in partnership with the I ❤ NY program's LGBT division, commemorating the 50th anniversary of the Stonewall uprising, with 150,000 participants and five million spectators attending in Manhattan.
+
+The borough is represented in several prominent idioms. The phrase New York minute is meant to convey an extremely short time such as an instant, sometimes in hyperbolic form, as in "perhaps faster than you would believe is possible," referring to the rapid pace of life in Manhattan. The expression "melting pot" was first popularly coined to describe the densely populated immigrant neighborhoods on the Lower East Side in Israel Zangwill's play The Melting Pot, which was an adaptation of William Shakespeare's Romeo and Juliet set in New York City in 1908. The iconic Flatiron Building is said to have been the source of the phrase "23 skidoo" or scram, from what cops would shout at men who tried to get glimpses of women's dresses being blown up by the winds created by the triangular building. The "Big Apple" dates back to the 1920s, when a reporter heard the term used by New Orleans stablehands to refer to New York City's horse racetracks and named his racing column "Around The Big Apple". Jazz musicians adopted the term to refer to the city as the world's jazz capital, and a 1970s ad campaign by the New York Convention and Visitors Bureau helped popularize the term. Manhattan, Kansas, a city of 53,000 people, was named by New York investors after the borough and is nicknamed the "little apple".
+
+Manhattan is well known for its street parades, which celebrate a broad array of themes, including holidays, nationalities, human rights, and major league sports team championship victories. The majority of higher profile parades in New York City are held in Manhattan. The primary orientation of the annual street parades is typically from north to south, marching along major avenues. The annual Macy's Thanksgiving Day Parade is the world's largest parade, beginning alongside Central Park and processing southward to the flagship Macy's Herald Square store; the parade is viewed on telecasts worldwide and draws millions of spectators in person. Other notable parades including the annual St. Patrick's Day Parade in March, the New York City Pride Parade in June, the Greenwich Village Halloween Parade in October, and numerous parades commemorating the independence days of many nations. Ticker-tape parades celebrating championships won by sports teams as well as other heroic accomplishments march northward along the Canyon of Heroes on Broadway from Bowling Green to City Hall Park in Lower Manhattan. New York Fashion Week, held at various locations in Manhattan, is a high-profile semiannual event featuring models displaying the latest wardrobes created by prominent fashion designers worldwide in advance of these fashions proceeding to the retail marketplace.
+
+## Sports
+
+Manhattan is home to the NBA's New York Knicks and the NHL's New York Rangers, both of which play their home games at Madison Square Garden, the only major professional sports arena in the borough. The Garden was also home to the WNBA's New York Liberty through the 2017 season, but that team's primary home is now the Barclays Center in Brooklyn. The New York Jets proposed a West Side Stadium for their home field, but the proposal was eventually defeated in June 2005, and they now play at MetLife Stadium in East Rutherford, New Jersey.
+
+While Manhattan does not currently have a professional baseball franchise, three of the four Major League Baseball teams to have played in New York City played in Manhattan. The original New York Giants played in the various incarnations of the Polo Grounds at 155th Street and Eighth Avenue from their inception in 1883—except for 1889, when they split their time between Jersey City, New Jersey and Staten Island, and when they played in Hilltop Park in 1911—until they headed to California with the Brooklyn Dodgers after the 1957 season. The New York Yankees began their franchise as the Highlanders, named for Hilltop Park, where they played from their creation in 1903 until 1912. The team moved to the Polo Grounds with the 1913 season, where they were officially christened the New York Yankees, remaining there until they moved across the Harlem River in 1923 to Yankee Stadium. The New York Mets played in the Polo Grounds in 1962 and 1963, their first two seasons, before Shea Stadium was completed in 1964. After the Mets departed, the Polo Grounds was demolished in April 1964, replaced by public housing.
+
+The first national college-level basketball championship, the National Invitation Tournament, was held in New York in 1938 and remains in the city. The New York Knicks started play in 1946 as one of the National Basketball Association's original teams, playing their first home games at the 69th Regiment Armory, before making Madison Square Garden their permanent home. The New York Liberty of the WNBA shared the Garden with the Knicks from their creation in 1997 as one of the league's original eight teams through the 2017 season, after which the team moved nearly all of its home schedule to White Plains in Westchester County. Rucker Park in Harlem is a playground court, famed for its streetball style of play, where many NBA athletes have played in the summer league.
+
+Although both of New York City's football teams play today across the Hudson River in MetLife Stadium in East Rutherford, New Jersey, both teams started out playing in the Polo Grounds. The New York Giants played side-by-side with their baseball namesakes from the time they entered the National Football League in 1925, until crossing over to Yankee Stadium in 1956. The New York Jets, originally known as the Titans of New York, started out in 1960 at the Polo Grounds, staying there for four seasons before joining the Mets in Queens at Shea Stadium in 1964.
+
+The New York Rangers of the National Hockey League have played in the various locations of Madison Square Garden since the team's founding in the 1926–1927 season. The Rangers were predated by the New York Americans, who started play in the Garden the previous season, lasting until the team folded after the 1941–1942 NHL season, a season it played in the Garden as the Brooklyn Americans.
+
+The New York Cosmos of the North American Soccer League played their home games at Downing Stadium for two seasons, starting in 1974. The playing pitch and facilities at Downing Stadium were in unsatisfactory condition, however, and as the team's popularity grew they too left for Yankee Stadium, and then Giants Stadium. The stadium was demolished in 2002 to make way for the \$45 million, 4,754-seat Icahn Stadium, which includes an Olympic-standard 400-meter running track and, as part of Pelé's and the Cosmos' legacy, includes a FIFA-approved floodlit soccer stadium that hosts matches between the 48 youth teams of a Manhattan soccer club.
+
+## Government
+
+Since New York City's consolidation in 1898, Manhattan has been governed by the New York City Charter, which has provided for a strong mayor–council system since its revision in 1989. The centralized New York City government is responsible for public education, correctional institutions, libraries, public safety, recreational facilities, sanitation, water supply, and welfare services in Manhattan.
+
+The office of Borough President was created in the consolidation of 1898 to balance centralization with local authority. Each borough president had a powerful administrative role derived from having a vote on the New York City Board of Estimate, which was responsible for creating and approving the city's budget and proposals for land use. In 1989, the Supreme Court of the United States declared the Board of Estimate unconstitutional because Brooklyn, the most populous borough, had no greater effective representation on the Board than Staten Island, the least populous borough, a violation of the Fourteenth Amendment's Equal Protection Clause pursuant to the high court's 1964 "one man, one vote" decision. Since 1990, the largely powerless Borough President has acted as an advocate for the borough at the mayoral agencies, the City Council, the New York state government, and corporations. Manhattan's current Borough President is Mark Levine, elected as a Democrat in November 2021. Levine replaced Gale Brewer, who went on to represent the sixth district of the New York City Council.
+
+Alvin Bragg, a Democrat, is the District Attorney of New York County. Manhattan has ten City Council members, the third largest contingent among the five boroughs. It also has twelve administrative districts, each served by a local Community Board. Community Boards are representative bodies that field complaints and serve as advocates for local residents.
+
+As the host of the United Nations, the borough is home to the world's largest international consular corps, comprising 105 consulates, consulates general and honorary consulates. It is also the home of New York City Hall, the seat of New York City government housing the Mayor of New York City and the New York City Council. The mayor's staff and thirteen municipal agencies are located in the nearby Manhattan Municipal Building, completed in 1914, one of the largest governmental buildings in the world.
+
+### Politics
+
+¶ The presidential election results below for the years 1876–1912 are not strictly comparable with the earlier and later ones because New York County included the West Bronx after 1874 and all of what is now the Borough of the Bronx (Bronx County, New York) from 1895 until The Bronx became a separate borough in 1914.
+
+The Democratic Party holds most public offices. Registered Republicans are a minority in the borough, constituting 9.88% of the electorate as of April 2016. Registered Republicans are more than 20% of the electorate only in the neighborhoods of the Upper East Side and the Financial District as of 2016. Democrats accounted for 68.41% of those registered to vote, while 17.94% of voters were unaffiliated.
+
+No Republican has won the presidential election in Manhattan since 1924, when Calvin Coolidge won a plurality of the New York County vote over Democrat John W. Davis, 41.20%–39.55%. Warren G. Harding was the most recent Republican presidential candidate to win a majority of the Manhattan vote, with 59.22% of the 1920 vote. In the 2004 presidential election, Democrat John Kerry received 82.1% of the vote in Manhattan and Republican George W. Bush received 16.7%. The borough is the most important source of funding for presidential campaigns in the United States; in 2004, it was home to six of the top seven ZIP codes in the nation for political contributions. The top ZIP code, 10021 on the Upper East Side, generated the most money for the United States presidential election for all presidential candidates, including both Kerry and Bush during the 2004 election.
+
+#### Representatives in the U.S. Congress
+
+In 2018, four Democrats represented Manhattan in the United States House of Representatives.
+
+- Nydia Velázquez (first elected in 1992) represents New York's 7th congressional district, which includes the Lower East Side and Alphabet City. The district also covers central and western Brooklyn and a small part of Queens.
+- Jerry Nadler (first elected in 1992) represents New York's 10th congressional district, which includes the West Side neighborhoods of Battery Park City, Chelsea, Chinatown, the Financial District, Greenwich Village, Hell's Kitchen, SoHo, Tribeca, and the Upper West Side. The district also covers southwestern Brooklyn.
+- Carolyn Maloney (first elected in 1992) represents New York's 12th congressional district, which includes the East Side neighborhoods of Gramercy Park, Kips Bay, Midtown Manhattan, Murray Hill, Roosevelt Island, Turtle Bay, Upper East Side, and most of the Lower East Side and the East Village. The district also covers western Queens.
+- Adriano Espaillat (first elected in 2016) represents New York's 13th congressional district, which includes the Upper Manhattan neighborhoods of East Harlem, Harlem, Inwood, Marble Hill, Washington Heights, and portions of Morningside Heights, as well as part of the northwest Bronx.
+
+### Federal offices
+
+The United States Postal Service operates post offices in Manhattan. The James Farley Post Office at 421 Eighth Avenue in Midtown Manhattan, between 31st Street and 33rd Street, is New York City's main post office. Both the United States District Court for the Southern District of New York and United States Court of Appeals for the Second Circuit are located in Lower Manhattan's Foley Square, and the U.S. Attorney and other federal offices and agencies maintain locations in that area.
+
+### Crime and public safety
+
+Starting in the mid-19th century, the United States became a magnet for immigrants seeking to escape poverty in their home countries. After arriving in New York, many new arrivals ended up living in squalor in the slums of the Five Points neighborhood, an area between Broadway and the Bowery, northeast of New York City Hall. By the 1820s, the area was home to many gambling dens and brothels, and was known as a dangerous place to go. In 1842, Charles Dickens visited the area and was appalled at the horrendous living conditions he had seen. The area was so notorious that it even caught the attention of Abraham Lincoln, who visited the area before his Cooper Union speech in 1860. The predominantly Irish Five Points Gang was one of the country's first major organized crime entities.
+
+As Italian immigration grew in the early 20th century many joined ethnic gangs, including Al Capone, who got his start in crime with the Five Points Gang. The Mafia (also known as Cosa Nostra) first developed in the mid-19th century in Sicily and spread to the East Coast of the United States during the late 19th century following waves of Sicilian and Southern Italian emigration. Lucky Luciano established Cosa Nostra in Manhattan, forming alliances with other criminal enterprises, including the Jewish mob, led by Meyer Lansky, the leading Jewish gangster of that period. From 1920 to 1933, Prohibition helped create a thriving black market in liquor, upon which the Mafia was quick to capitalize.
+
+New York City as a whole experienced a sharp increase in crime during the post-war period. The murder rate in Manhattan hit an all-time high of 42 murders per 100,000 residents in 1979. Manhattan retained the highest murder rate in the city until 1985 when it was surpassed by the Bronx. Most serious violent crime has been historically concentrated in Upper Manhattan and the Lower East Side, though robbery in particular was a major quality of life concern throughout the borough. Through the 1990s and 2000s, levels of violent crime in Manhattan plummeted to levels not seen since the 1950s.
+
+Today crime rates in most of Lower Manhattan, Midtown, the Upper East Side, and the Upper West Side are consistent with other major city centers in the United States. However, crime rates remain high in the Upper Manhattan neighborhoods of East Harlem, Harlem, Washington Heights, Inwood, and NYCHA developments across the borough despite significant reductions. Since the start of the COVID-19 pandemic in March 2020, there has been an increase in violent crime, particularly in Upper Manhattan.
+
+## Housing
+
+During Manhattan's early history, wood construction and poor access to water supplies left the city vulnerable to fires. In 1776, shortly after the Continental Army evacuated Manhattan and left it to the British, a massive fire broke out destroying one-third of the city and some 500 houses.
+
+The rise of immigration near the turn of the 20th century left major portions of Manhattan, especially the Lower East Side, densely packed with recent arrivals, crammed into unhealthy and unsanitary housing. Tenements were usually five stories high, constructed on the then-typical 25 by 100 feet (7.6 by 30.5 m) lots, with "cockroach landlords" exploiting the new immigrants. By 1929, stricter fire codes and the increased use of elevators in residential buildings, were the impetus behind a new housing code that effectively ended the tenement as a form of new construction, though many tenement buildings survive today on the East Side of the borough. Conversely, there were also areas with luxury apartment developments, the first of which was the Dakota on the Upper West Side.
+
+Manhattan offers a wide array of public (NYCHA) and private housing options. Affordable rental and co-operative housing units throughout the borough were created under the Mitchell–Lama Housing Program. There were 852,575 housing units in 2013 at an average density of 37,345 units per square mile (14,419/km<sup>2</sup>). As of 2003, only 20.3% of Manhattan residents lived in owner-occupied housing, the second-lowest rate of all counties in the nation, behind the Bronx. Although the city of New York has the highest average cost for rent in the United States, it simultaneously hosts a higher average of income per capita. Because of this, rent is a lower percentage of annual income than in several other American cities.
+
+Manhattan's real estate market for luxury housing continues to be among the most expensive in the world, and Manhattan residential property continues to have the highest sale price per square foot in the United States. Manhattan's apartments cost \$1,773 per square foot (\$19,080/m<sup>2</sup>), compared to San Francisco housing at \$1,185 per square foot (\$12,760/m<sup>2</sup>), Boston housing at \$751 per square foot (\$8,080/m<sup>2</sup>), and Los Angeles housing at \$451 per square foot (\$4,850/m<sup>2</sup>).
+
+## Infrastructure
+
+### Transportation
+
+#### Public transportation
+
+Manhattan is unique in the U.S. for intense use of public transportation and lack of private car ownership. While 88% of Americans nationwide drive to their jobs, with only 5% using public transport, mass transit is the dominant form of travel for residents of Manhattan, with 72% of borough residents using public transport to get to work, while only 18% drove. According to the 2000 United States Census, 77.5% of Manhattan households do not own a car. In 2008, Mayor Michael Bloomberg proposed a congestion pricing system to regulate entering Manhattan south of 60th Street, but the state legislature rejected the proposal.
+
+The New York City Subway, the largest subway system in the world by number of stations, is the primary means of travel within the city, linking every borough except Staten Island. There are 151 subway stations in Manhattan, out of the stations. A second subway, the PATH system, connects six stations in Manhattan to northern New Jersey. Passengers pay fares with pay-per-ride MetroCards, which are valid on all city buses and subways, as well as on PATH trains. Commuter rail services operating to and from Manhattan are the Long Island Rail Road (LIRR), which connects Manhattan and other New York City boroughs to Long Island; the Metro-North Railroad, which connects Manhattan to Upstate New York and Southwestern Connecticut; and NJ Transit trains, which run to various points in New Jersey.
+
+The US\$11.1 billion East Side Access project, which brings LIRR trains to Grand Central Terminal, opened in 2023; this project utilized a pre-existing train tunnel beneath the East River, connecting the East Side of Manhattan with Long Island City, Queens. Four multi-billion-dollar projects were completed in the mid-2010s: the \$1.4 billion Fulton Center in November 2014, the \$2.4 billion 7 Subway Extension in September 2015, the \$4 billion World Trade Center Transportation Hub in March 2016, and Phase 1 of the \$4.5 billion Second Avenue Subway in January 2017.
+
+MTA New York City Transit offers a wide variety of local buses within Manhattan under the brand New York City Bus. An extensive network of express bus routes serves commuters and other travelers heading into Manhattan. The bus system served 784 million passengers citywide in 2011, placing the bus system's ridership as the highest in the nation, and more than double the ridership of the second-place Los Angeles system.
+
+The Roosevelt Island Tramway, one of two commuter cable car systems in North America, takes commuters between Roosevelt Island and Manhattan in less than five minutes, and has been serving the island since 1978.
+
+The Staten Island Ferry, which runs 24 hours a day, 365 days a year, annually carries over 21 million passengers on the 5.2-mile (8.4 km) run between Manhattan and Staten Island. Each weekday, five vessels transport about 65,000 passengers on 109 boat trips. The ferry has been fare-free since 1997. In February 2015, Mayor Bill de Blasio announced that the city government would begin NYC Ferry to extend ferry transportation to traditionally underserved communities in the city. The first routes of NYC Ferry opened in 2017. All of the system's routes have termini in Manhattan, and the Lower East Side and Soundview routes also have intermediate stops on the East River.
+
+The metro region's commuter rail lines converge at Penn Station and Grand Central Terminal, on the west and east sides of Midtown Manhattan, respectively. They are the two busiest rail stations in the United States. About one-third of users of mass transit and two-thirds of railway passengers in the country live in New York and its suburbs. Amtrak provides inter-city passenger rail service from Penn Station to Boston, Philadelphia, Baltimore, and Washington, D.C.; Upstate New York and New England; cross-Canadian border service to Toronto and Montreal; and destinations in the Southern and Midwestern United States.
+
+#### Major highways
+
+- I-78
+- I-95
+- I-278
+- I-478
+- I-495
+- US 9
+- NY 9A
+- NY 495
+
+#### Taxis
+
+New York's iconic yellow taxicabs, which number 13,087 citywide and must have a medallion authorizing the pickup of street hails, are ubiquitous in the borough. Various private vehicle for hire companies provide significant competition for taxicab drivers in Manhattan.
+
+#### Bicycles
+
+According to the government of New York City, Manhattan had 19,676 bicycle commuters in 2017, roughly doubling from its total of 9,613 in 2012.
+
+#### Streets and roads
+
+The Commissioners' Plan of 1811 called for twelve numbered avenues running north and south roughly parallel to the shore of the Hudson River, each 100 feet (30 m) wide, with First Avenue on the east side and Twelfth Avenue on the west side. There are several intermittent avenues east of First Avenue, including four additional lettered avenues running from Avenue A eastward to Avenue D in an area now known as Alphabet City in Manhattan's East Village. The numbered streets in Manhattan run east–west, and are generally 60 feet (18 m) wide, with about 200 feet (61 m) between each pair of streets. With each combined street and block adding up to about 260 feet (79 m), there are almost exactly 20 blocks per mile. The typical block in Manhattan is 250 by 600 feet (76 by 183 m). The address algorithm of Manhattan refers to the formulas used to estimate the closest east–west cross street for building numbers on north–south avenues.
+
+According to the original Commissioner's Plan, there were 155 numbered crosstown streets, but later the grid was extended up to the northernmost corner of Manhattan, where the last numbered street is 220th Street. Moreover, the numbering system continues even in the Bronx, north of Manhattan, despite the fact that the grid plan is not as regular in that borough, whose last numbered street is 263rd Street. Fifteen crosstown streets were designated as 100 feet (30 m) wide, including 34th, 42nd, 57th and 125th Streets, which became some of the borough's most significant transportation and shopping venues. Broadway is the most notable of many exceptions to the grid, starting at Bowling Green in Lower Manhattan and continuing north into the Bronx at Manhattan's northern tip. In much of Midtown Manhattan, Broadway runs at a diagonal to the grid, creating major named intersections at Union Square (Park Avenue South/Fourth Avenue and 14th Street), Madison Square (Fifth Avenue and 23rd Street), Herald Square (Sixth Avenue and 34th Street), Times Square (Seventh Avenue and 42nd Street), and Columbus Circle (Eighth Avenue/Central Park West and 59th Street).
+
+"Crosstown traffic" refers primarily to vehicular traffic between Manhattan's East Side and West Side. The trip is notoriously frustrating for drivers because of heavy congestion on narrow local streets laid out by the Commissioners' Plan of 1811, absence of express roads other than the Trans-Manhattan Expressway at the far north end of Manhattan Island; and restricted to very limited crosstown automobile travel within Central Park. Proposals in the mid-1900s to build express roads through the city's densest neighborhoods, namely the Mid-Manhattan Expressway and Lower Manhattan Expressway, did not go forward. Unlike the rest of the United States, New York State prohibits right or left turns on red in cities with a population greater than one million, to reduce traffic collisions and increase pedestrian safety. In New York City, therefore, all turns at red lights are illegal unless a sign permitting such maneuvers is present, significantly shaping traffic patterns in Manhattan.
+
+Another consequence of the strict grid plan of most of Manhattan, and the grid's skew of approximately 28.9 degrees, is a phenomenon sometimes referred to as Manhattanhenge (by analogy with Stonehenge). On separate occasions in late May and early July, the sunset is aligned with the street grid lines, with the result that the sun is visible at or near the western horizon from street level. A similar phenomenon occurs with the sunrise in January and December.
+
+The FDR Drive and Harlem River Drive, both designed by controversial New York master planner Robert Moses, comprise a single, long limited-access parkway skirting the east side of Manhattan along the East River and Harlem River south of Dyckman Street. The Henry Hudson Parkway is the corresponding parkway on the West Side north of 57th Street.
+
+#### River crossings
+
+Being primarily an island, Manhattan is linked to New York City's outer boroughs by numerous bridges, of various sizes. Manhattan has fixed highway connections with New Jersey to its west by way of the George Washington Bridge, the Holland Tunnel, and the Lincoln Tunnel, and to three of the four other New York City boroughs—the Bronx to the northeast, and Brooklyn and Queens (both on Long Island) to the east and south. Its only direct connection with the fifth New York City borough, Staten Island, is the Staten Island Ferry across New York Harbor, which is free of charge. The ferry terminal is located near Battery Park at Manhattan's southern tip. It is also possible to travel on land to Staten Island by way of Brooklyn, via the Verrazzano-Narrows Bridge.
+
+The 14-lane George Washington Bridge, the world's busiest motor vehicle bridge, connects Washington Heights, in Upper Manhattan to Bergen County in New Jersey. There are numerous bridges to the Bronx across the Harlem River, and five (listed north to south)—the Triborough (known officially as the Robert F. Kennedy Bridge), Ed Koch Queensboro (also known as the 59th Street Bridge), Williamsburg, Manhattan, and Brooklyn Bridges—that cross the East River to connect Manhattan to Long Island.
+
+Several tunnels also link Manhattan Island to New York City's outer boroughs and New Jersey. The Lincoln Tunnel, which carries 120,000 vehicles a day under the Hudson River between New Jersey and Midtown Manhattan, is the busiest vehicular tunnel in the world. The tunnel was built instead of a bridge to allow unfettered passage of large passenger and cargo ships that sail through New York Harbor and up the Hudson River to Manhattan's piers. The Holland Tunnel, connecting Lower Manhattan to Jersey City, New Jersey, was the world's first mechanically ventilated vehicular tunnel. The Queens–Midtown Tunnel, built to relieve congestion on the bridges connecting Manhattan with Queens and Brooklyn, was the largest non-federal project in its time when it was completed in 1940; President Franklin D. Roosevelt was the first person to drive through it. The Brooklyn–Battery Tunnel runs underneath Battery Park and connects the Financial District at the southern tip of Manhattan to Red Hook in Brooklyn.
+
+Several ferry services operate between New Jersey and Manhattan. These ferries mainly serve midtown (at W. 39th St.), Battery Park City (WFC at Brookfield Place), and Wall Street (Pier 11).
+
+#### Heliports
+
+Manhattan has three public heliports: the East 34th Street Heliport (also known as the Atlantic Metroport) at East 34th Street, owned by New York City and run by the New York City Economic Development Corporation (NYCEDC); the Port Authority Downtown Manhattan/Wall Street Heliport, owned by the Port Authority of New York and New Jersey and run by the NYCEDC; and the West 30th Street Heliport, a privately owned heliport owned by the Hudson River Park Trust. US Helicopter offered regularly scheduled helicopter service connecting the Downtown Manhattan Heliport with John F. Kennedy International Airport in Queens and Newark Liberty International Airport in New Jersey, before going out of business in 2009.
+
+### Utilities
+
+Gas and electric service is provided by Consolidated Edison to all of Manhattan. Con Edison's electric business traces its roots back to Thomas Edison's Edison Electric Illuminating Company, the first investor-owned electric utility. The company started service on September 4, 1882, using one generator to provide 110 volts direct current (DC) to 59 customers with 800 light bulbs, in a one-square-mile area of Lower Manhattan from his Pearl Street Station. Con Edison operates the world's largest district steam system, which consists of 105 miles (169 km) of steam pipes, providing steam for heating, hot water, and air conditioning by some 1,800 Manhattan customers. Cable service is provided by Time Warner Cable and telephone service is provided by Verizon Communications, although AT&T is available as well.
+
+Manhattan witnessed the doubling of the natural gas supply delivered to the borough when a new gas pipeline opened on November 1, 2013.
+
+The New York City Department of Sanitation is responsible for garbage removal. The bulk of the city's trash ultimately is disposed at mega-dumps in Pennsylvania, Virginia, South Carolina and Ohio (via transfer stations in New Jersey, Brooklyn and Queens) since the 2001 closure of the Fresh Kills Landfill on Staten Island. A small amount of trash processed at transfer sites in New Jersey is sometimes incinerated at waste-to-energy facilities. Like New York City, New Jersey and much of Greater New York relies on exporting its trash.
+
+New York City has the largest clean-air diesel-hybrid and compressed natural gas bus fleet, which also operates in Manhattan, in the country. It also has some of the first hybrid taxis, most of which operate in Manhattan.
+
+### Health care
+
+There are many hospitals in Manhattan, including two of the 25 largest in the United States (as of 2017):
+
+- Bellevue Hospital
+- Lenox Hill Hospital
+- Lower Manhattan Hospital
+- Metropolitan Hospital Center
+- Mount Sinai Beth Israel Hospital
+- Mount Sinai Hospital
+- NewYork–Presbyterian Hospital
+- NYC Health + Hospitals/Harlem
+- NYU Langone Medical Center
+
+### Water purity and availability
+
+New York City is supplied with drinking water by the protected Catskill Mountains watershed. As a result of the watershed's integrity and undisturbed natural water filtration system, New York is one of only four major cities in the United States the majority of whose drinking water is pure enough not to require purification by water treatment plants. The Croton Watershed north of the city is undergoing construction of a US\$3.2 billion water purification plant to augment New York City's water supply by an estimated 290 million gallons daily, representing a greater than 20% addition to the city's current availability of water. Water comes to Manhattan through the tunnels 1 and 2, completed in 1917 and 1935, and in future through Tunnel No. 3, begun in 1970.
+
+## See also
+
+- History of New York City
+- List of Manhattan neighborhoods
+- List of people from Manhattan
+- Manhattanhenge
+- Manhattanization
+- Manhattoe
+- National Register of Historic Places listings in Manhattan
+- Sawing-off of Manhattan Island
+- Timeline of New York City

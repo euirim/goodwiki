@@ -1,0 +1,41 @@
+{
+  "categories": [
+    "2 (number)",
+    "Articles with example pseudocode",
+    "Search algorithms"
+  ],
+  "description": "Search algorithm finding the position of a target value within a sorted array",
+  "lang": "en",
+  "pageid": 4266,
+  "revid": 1170087932,
+  "title": "Binary search algorithm",
+  "unsupported_tags": {},
+  "unsupported_templates": {
+    "about": 1,
+    "academic peer reviewed": 1,
+    "anchor": 1,
+    "annotated link": 2,
+    "citation": 3,
+    "cite book": 13,
+    "cite conference": 7,
+    "cite journal": 19,
+    "cite web": 11,
+    "closed access": 1,
+    "columns-list": 1,
+    "dEFAULTSORT:Binary Search Algorithm": 1,
+    "efn": 9,
+    "featured article": 1,
+    "harvnb": 3,
+    "infobox algorithm": 1,
+    "javadoc:SE": 2,
+    "main": 4,
+    "mathWorld": 1,
+    "notelist": 1,
+    "open access": 1,
+    "reflist": 1,
+    "sfn": 65,
+    "use dmy dates": 1,
+    "webarchive": 1,
+    "wikibooks": 1
+  }
+}

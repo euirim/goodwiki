@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Anti-aging substances",
+    "Cellular respiration",
+    "Coenzymes",
+    "Nucleotides",
+    "Photosynthesis",
+    "Pyridinium compounds"
+  ],
+  "description": "Chemical compound which is reduced and oxidized",
+  "lang": "en",
+  "pageid": 365558,
+  "revid": 1171886065,
+  "title": "Nicotinamide adenine dinucleotide",
+  "unsupported_tags": {},
+  "unsupported_templates": {
+    "cascite": 3,
+    "chembox": 1,
+    "chembox Hazards": 1,
+    "chembox Identifiers": 1,
+    "chembox Properties": 1,
+    "chemspidercite": 1,
+    "cite book": 10,
+    "cite journal": 111,
+    "cite web": 8,
+    "commons category": 1,
+    "drugbankcite": 1,
+    "ebicite": 2,
+    "enzyme cofactors": 1,
+    "fdacite": 3,
+    "featured article": 1,
+    "further": 4,
+    "interPro": 1,
+    "keggcite": 1,
+    "lehninger4th": 1,
+    "pDB": 1,
+    "pp-move-indef": 1,
+    "redirect2": 1,
+    "reflist": 1,
+    "stdinchicite": 2,
+    "use dmy dates": 1
+  }
+}

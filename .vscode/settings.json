@@ -1,0 +1,8 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "[markdown]": {
+    "editor.formatOnSave": false
+  }
+}

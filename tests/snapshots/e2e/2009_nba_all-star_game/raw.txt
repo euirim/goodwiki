@@ -1,0 +1,797 @@
+{{Short description|Basketball game that was played on February 15, 2009}}
+{{Use mdy dates|date=June 2013}}
+{{Good article}}
+{{Infobox NBA All-Star Game
+| name          = 2009 NBA All-Star Game
+| image         = 2009 NBA All-Star logo.svg
+| visitor       = [[Eastern Conference (NBA)|East]]
+| home          = '''[[Western Conference (NBA)|West]]'''
+| visitor_total = 119
+| home_total    = 146
+| visitor_qtr1  = 27
+| visitor_qtr2  = 40
+| visitor_qtr3  = 24
+| visitor_qtr4  = 28
+| home_qtr1     = 34
+| home_qtr2     = 38
+| home_qtr3     = 38
+| home_qtr4     = 59
+| date          = February 15, 2009
+| arena         = [[Talking Stick Resort Arena|US Airways Center]]
+| city          = [[Phoenix, Arizona|Phoenix]]
+| referee       = {{unbulleted list
+  |#25 Tony Brothers
+  |#44 Ron Olesiak
+  |#18 Mark Wunderlich
+  }}
+| attendance    = 16,382
+| odds          =
+| coin_toss     =
+| MVP           = [[Kobe Bryant]] and [[Shaquille O'Neal]]<br>(Co-MVPs)
+| anthem        = [[Tamia]] ([[O Canada|CAN]])<br>[[Jordin Sparks]] ([[The Star-Spangled Banner|USA]])
+| halftime      = [[John Legend]], [[Juanes]]
+| network       = [[NBA on TNT|TNT]] and [[The Sports Network|TSN]]
+| announcers    = [[Marv Albert]], [[Doug Collins (basketball)|Doug Collins]] and [[Reggie Miller]] (All-Star Game)<br>[[Kevin Harlan]], Reggie Miller, [[Mike Fratello]] and [[Kenny Smith]] (All-Star Saturday Night)<br>Kevin Harlan and Kenny Smith (Rookie Challenge)
+| rating        =
+| share         =
+| prev_year     = [[2008 NBA All-Star Game|2008]]
+| next_year     = [[2010 NBA All-Star Game|2010]]
+}}
+The '''2009 NBA All-Star Game''' was an [[Exhibition game|exhibition]] [[basketball]] game that was played on February 15, 2009, during the [[National Basketball Association]]'s (NBA) [[2008–09 NBA season|2008–09 season]]. It was the 58th edition of the [[NBA All-Star Game]], and was played at the [[US Airways Center]] in [[Phoenix, Arizona]], home of the [[Phoenix Suns]]. The [[Western Conference (NBA)|Western Conference]] defeated the [[Eastern Conference (NBA)|Eastern Conference]], 146–119. The West's [[Kobe Bryant]] and [[Shaquille O'Neal]] were named joint winners of the [[NBA All-Star Game Most Valuable Player Award|All-Star Game Most Valuable Player Award]].<ref name="AllStar">{{cite web|url=http://www.nba.com/2009/allstar2009/02/16/main.20090215/index.html |title=Shaq, Kobe lead freestyling West All-Stars past East |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=February 16, 2009 |access-date=June 15, 2009 |author=Garcia, Art |url-status=dead |archive-url=https://web.archive.org/web/20090318105538/http://www.nba.com/2009/allstar2009/02/16/main.20090215/index.html |archive-date=March 18, 2009 }}</ref> This was the third time that Phoenix had hosted the All-Star Game; the city had previously hosted the event in [[1975 NBA All-Star Game|1975]] and [[1995 NBA All-Star Game|1995]]. Phoenix was awarded the All-Star Game in an announcement by commissioner [[David Stern]] on November 8, 2007.<ref name="PhoenixHost">{{cite web|url=http://www.nba.com/news/phoenixallstar_071108.html|title=Phoenix to Host 2009 All-Star|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=November 8, 2007|access-date=June 15, 2009}}</ref> The other reported contenders for the 2009 contest were [[Air Canada Centre]] at [[Toronto]], [[Madison Square Garden]] at New York City, [[Oracle Arena]] at [[Oakland, California|Oakland]] and [[Bradley Center]] at [[Milwaukee]].<ref>{{cite web|url=https://www.usatoday.com/sports/basketball/nba/2007-11-07-phoenix-all-star-game_N.htm|title=Phoenix to host 2009 NBA All-Star Game|work=USA Today|date=November 7, 2007|access-date=June 15, 2009}}</ref>
+
+The [[NBA All-Star Weekend|All-Star Weekend]] began on Friday, February 13, 2009 with the [[NBA All-Star Weekend Celebrity Game|Celebrity Game]] and the [[NBA All-Star Weekend Rookie Challenge|Rookie Challenge]], a game between the league's best rookies and second-year players. On Saturday, the event continued with the All-Star Saturday Night, which featured the [[NBA All-Star Weekend Shooting Stars Competition|Shooting Stars Competition]], [[NBA All-Star Weekend Skills Challenge|Skills Challenge]], [[NBA All-Star Weekend Three-Point Shootout|Three-Point Shootout]] and [[Slam Dunk Contest]].<ref name="PhoenixHost"/> The [[NBA All-Star Weekend H–O–R–S–E Competition|H–O–R–S–E Competition]] was first introduced and was played before the All-Star Saturday Night. The third [[NBA Development League|D-League]] All-Star Game and the second D-League Dream Factory Friday Night, the latter of which was modeled after the NBA All-Star Saturday Night, also took place during the All-Star Weekend. The D-League Dream Factory Friday Night was held on Friday and the D-League All-Star Game was held on Saturday.<ref name="DLeagueRecap">{{cite web|url=http://www.nba.com/dleague/games/20090214/DLBDLR/recap.html|title=Sims And Ahearn Named Co-MVPs As Red Defeats Blue In All-Star Game|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 14, 2009|access-date=June 15, 2009|archive-url=https://web.archive.org/web/20121106024818/http://www.nba.com/dleague/games/20090214/DLBDLR/recap.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref><ref name="Field">{{cite web|url=http://www.nba.com/dleague/news/2009_dream_factory.html|title=Field Set For 2009 Dream Factory Friday Night|publisher=Turner Sports Interactive, Inc|work=NBA.com/DLeague|date=February 5, 2009|access-date=June 30, 2009|archive-url=https://web.archive.org/web/20100411002323/http://www.nba.com/dleague/news/2009_dream_factory.html|archive-date=April 11, 2010|url-status=dead|df=mdy-all}}</ref>
+
+In the Rookie Challenge, the Sophomores defeated the Rookies, with Sophomores' [[Kevin Durant]] named as the game MVP. In the All-Star Saturday Night events, [[Nate Robinson]] won his second Slam Dunk Contest while [[Daequan Cook]] and [[Derrick Rose]] won the Three-Point Shootout and Skills Challenge respectively. Team Detroit won their second Shootings Stars Competition, beating the home team, Team Phoenix in the final round. Kevin Durant also took home another trophy by winning the inaugural H–O–R–S–E Competition.<ref>{{cite web|url=http://sports.espn.go.com/nba/allstar2009/news/story?id=3908104|title=Robinson, Cook, Rose shine in Phoenix|publisher=ESPN Internet Ventures|date=February 16, 2009|access-date=July 2, 2009}}</ref>
+
+==All-Star Game==
+
+===Coaches===
+{{multiple image
+| align = right
+| image1 = Mike Brown NBA cropped.jpg
+| alt1 = 
+| caption1 = 
+| image2 = Phil Jackson 3 cropped.jpg
+| alt2 = 
+| caption2 = 
+| total_width = 300
+| footer = [[Mike Brown (basketball, born 1970)|Mike Brown]] (left) and [[Phil Jackson]] (right) were selected as the East and West head coach, respectively.
+}}
+The coaches for the All-Star game are the head coaches who currently lead the teams with the best winning percentage in their conference through the Sunday two weeks before the All-Star game. The head coaches from the [[2008 NBA All-Star Game|previous year]], [[Doc Rivers]] and [[Byron Scott (basketball)|Byron Scott]] were not eligible for selection.<ref name="WestCoach">{{cite web|url=http://www.nba.com/2009/news/01/22/jackson.allstar.ap/index.html|title=Jackson to coach West All-Stars|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=January 22, 2009|access-date=June 15, 2009|archive-url=https://web.archive.org/web/20121106025230/http://www.nba.com/2009/news/01/22/jackson.allstar.ap/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref>
+
+The coach for the [[Western Conference (NBA)|Western Conference]] team was [[Los Angeles Lakers]] head coach [[Phil Jackson]]. This was the fourth time Jackson was selected to be an All-Star coach, after previously selected in [[1992 NBA All-Star Game|1992]], [[1996 NBA All-Star Game|1996]] and [[2000 NBA All-Star Game|2000]].<ref name="WestCoach"/> The Lakers entered the All-Star break with 42–10 record, the best winning percentage in the Western Conference and in the league.
+
+The coach for the [[Eastern Conference (NBA)|Eastern Conference]] team was [[Cleveland Cavaliers]] head coach [[Mike Brown (basketball, born 1970)|Mike Brown]]. This was the first time Brown was selected to be an All-Star coach. He became only the second Cavaliers coach to lead an All-Star team, after [[Lenny Wilkens]] in [[1989 NBA All-Star Game|1989]].<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/01/30/brown.asg.ap/index.html|title=Cavs' Mike Brown to lead East All-Stars|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=January 30, 2009|access-date=February 1, 2009|archive-url=https://web.archive.org/web/20090131202406/http://www.nba.com/2009/allstar2009/01/30/brown.asg.ap/index.html|archive-date=January 31, 2009|url-status=dead|df=mdy-all}}</ref> The Cavaliers entered the All-Star break with 40–11 record, the second best winning percentage in the Eastern Conference, behind Doc Rivers' [[Boston Celtics]].
+
+===Players===
+[[File:Dwight howard 2009z.jpg|thumb|right|150px|[[Dwight Howard]] broke the record for the most votes received.]]
+The rosters for the All-Star Game is chosen in two ways. The starters were chosen via a fan ballot. Two guards, two forwards and one center who receive the highest vote were named the All-Star starters.<ref name="Starters">{{cite web|url=http://www.nba.com/2009/allstar2009/01/22/allstar_final.allstar09.20090122/index.html |title=Howard tops balloting for 2009 NBA All-Star Game |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=January 22, 2009 |access-date=June 15, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090124223126/http://www.nba.com/2009/allstar2009/01/22/allstar_final.allstar09.20090122/index.html |archive-date=January 24, 2009 }}</ref> The reserves were chosen by votes among the NBA head coaches in their respective conferences. The coaches were not permitted to vote for their own players. The reserves consists of two guards, two forwards, one center and two players regardless of position. If a player is unable to participate due to injury, the commissioner will select a replacement.<ref name="Reserves">{{cite web|url=http://www.nba.com/2009/allstar2009/01/29/reserves_release.allstar09.20090129/index.html |title=Shaq, pair of Magic players highlight All-Star reserves |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=January 29, 2009 |access-date=June 15, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090315174011/http://www.nba.com/2009/allstar2009/01/29/reserves_release.allstar09.20090129/index.html |archive-date=March 15, 2009 }}</ref>
+
+[[Dwight Howard]] of the [[Orlando Magic]] topped the All-Star Ballots with 3,150,181&nbsp;votes, which earned him a starting position in the [[Eastern Conference (NBA)|Eastern Conference]] team. He became the first player to get more than 3&nbsp;million votes from the fans. [[LeBron James]], [[Dwyane Wade]], [[Kevin Garnett]] and [[Allen Iverson]] completed the Eastern Conference starting position.<ref name="Starters"/> The Eastern Conference reserves includes 4&nbsp;first-time selections, [[Danny Granger]], [[Devin Harris]], [[Jameer Nelson]] and [[Mo Williams]], who was named as a replacement for the injured [[Chris Bosh]].<ref name="Reserves"/><ref name="MoWilliams"/> Jameer Nelson was unable to participate due to injury and [[Ray Allen]] was named to replace him.<ref name="Allen"/> Both [[Boston Celtics]] and [[Orlando Magic]] were represented by three players on the roster.
+
+The [[Western Conference (NBA)|Western Conference]] leading vote-getter was [[Kobe Bryant]] with  2,805,397&nbsp;votes. [[Yao Ming]], [[Tim Duncan]], [[Amar'e Stoudemire]] and [[Chris Paul]] completed the Western Conference starting position.<ref name="Starters"/> The Western Conference roster includes five international players in Yao Ming (China), Tim Duncan ([[United States Virgin Islands|U.S. Virgin Islands]]), [[Pau Gasol]] (Spain), [[Dirk Nowitzki]] (Germany) and [[Tony Parker]] (France). [[Shaquille O'Neal]] returned to the All-Star game after one-year absence with his 15th selection, the second most selections in NBA history, behind [[Kareem Abdul-Jabbar]] with 19&nbsp;All-Star selections. This also marked the first time O'Neal and Bryant were in the same team since their much publicized [[Shaq–Kobe feud|feud]]. Bryant and O'Neal also reunited with coach [[Phil Jackson]]. The three of them won three successive NBA championship together with the [[Los Angeles Lakers]] in early 2000s.<ref>{{cite web|url = https://www.nytimes.com/2009/01/31/sports/basketball/31dribble.html|title = For One Night Only, a Reprise of the Shaq-Kobe-Phil Show|work=The New York Times|date=January 30, 2009|access-date=July 1, 2009|author=Beck, Howard}}</ref> Four teams, [[Los Angeles Lakers]], [[Phoenix Suns]], [[New Orleans Pelicans|New Orleans Hornets]], and [[San Antonio Spurs]], had two representations at the All-Star Game with Bryant/Gasol, Stoudemire/O'Neal, Paul/West, and Duncan/Parker.
+
+===Roster===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"
+|+'''Eastern Conference All-Stars'''<ref name="Roster">{{cite web|url=http://www.nba.com/allstar2009/players/|title=2009 All-Star Rosters|publisher=Turner Sports Interactive, Inc|work=NBA.com|access-date=June 15, 2009|archive-url=https://web.archive.org/web/20090527211324/http://www.nba.com/allstar2009/players/|archive-date=May 27, 2009|url-status=dead}}</ref>
+|-
+! Pos. !! width=150|Player !! width=140|Team !! # of selections !! Total votes
+|-
+! colspan="5" | Starters<ref name="Starters"/>
+|-
+! G
+| [[Allen Iverson]] ||  [[Detroit Pistons]] || 10th || 1,804,649
+|-
+! G
+| [[Dwyane Wade]] ||  [[Miami Heat]] || 5th || 2,741,413
+|-
+! F
+| [[LeBron James]] ||  [[Cleveland Cavaliers]] || 5th || 2,940,823
+|-
+! F
+| [[Kevin Garnett]] ||  [[Boston Celtics]] || 12th || 2,066,833
+|-
+! C
+| [[Dwight Howard]] ||  [[Orlando Magic]] || 3rd || 3,150,181
+|-
+! colspan="5" | Reserves<ref name="Reserves"/>
+|-
+! G
+| [[Ray Allen]]{{ref|inj1|1}} || [[Boston Celtics]] || 9th || —
+|-
+! G
+| [[Devin Harris]] || [[New Jersey Nets]] || 1st || —
+|-
+! G
+| [[Joe Johnson (basketball)|Joe Johnson]] || [[Atlanta Hawks]] || 3rd || —
+|-
+! G
+| [[Jameer Nelson]]{{ref|inj|INJ}} || [[Orlando Magic]] || 1st || —
+|-
+! G
+| [[Mo Williams]]{{ref|inj2|2}} || [[Cleveland Cavaliers]] || 1st || —
+|-
+! F
+| [[Danny Granger]] || [[Indiana Pacers]] || 1st || —
+|-
+! F
+| [[Rashard Lewis]] || [[Orlando Magic]] || 2nd || —
+|-
+! F
+| [[Paul Pierce]] || [[Boston Celtics]] || 7th || —
+|-
+! F/C{{ref|pos|3}}
+| [[Chris Bosh]]{{ref|inj|INJ}} || [[Toronto Raptors]] || 4th || —
+|-
+| colspan="5" | '''Head coach''': [[Mike Brown (basketball, born 1970)|Mike Brown]] ([[Cleveland Cavaliers]])
+|}
+{{col-2}}
+{| class="wikitable"
+|+'''Western Conference All-Stars'''<ref name="Roster"/>
+|-
+! Pos. !! width=150|Player !! width=140|Team !! # of selections !! Total votes
+|-
+! colspan="5" | Starters<ref name="Starters"/>
+|-
+! G
+| [[Chris Paul]] || [[New Orleans Hornets]] || 2nd || 2,134,798
+|-
+! G
+| [[Kobe Bryant]] || [[Los Angeles Lakers]] || 11th || 2,805,397
+|-
+! F
+| [[Amar'e Stoudemire]] || [[Phoenix Suns]] || 4th || 1,460,429
+|-
+! F
+| [[Tim Duncan]] || [[San Antonio Spurs]] || 11th || 2,578,168
+|-
+! C
+| [[Yao Ming]] || [[Houston Rockets]] || 7th || 2,532,958
+|-
+! colspan="5" | Reserves<ref name="Reserves"/>
+|-
+! G
+| [[Chauncey Billups]] || [[Denver Nuggets]] || 4th || —
+|-
+! G
+| [[Tony Parker]] || [[San Antonio Spurs]] || 3rd || —
+|-
+! G
+| [[Brandon Roy]] || [[Portland Trail Blazers]] || 2nd || —
+|-
+! F
+| [[Pau Gasol]] || [[Los Angeles Lakers]] || 2nd || —
+|-
+! F
+| [[Dirk Nowitzki]] || [[Dallas Mavericks]] || 8th || —
+|-
+! F
+| [[David West (basketball)|David West]] || [[New Orleans Hornets]] || 2nd || —
+|-
+! C
+| [[Shaquille O'Neal]] || [[Phoenix Suns]] || 15th || —
+|-
+| colspan="5" | '''Head coach''': [[Phil Jackson]] ([[Los Angeles Lakers]])
+|}
+{{col-end}}
+{{refbegin}}
+{{note|inj|INJ}} Jameer Nelson and Chris Bosh were unable to participate due to injury.<ref name="MoWilliams"/><ref name="Allen"/><br>
+{{note|inj1|1}} Ray Allen was named as a replacement for Jameer Nelson.<ref name="Allen">{{cite web|url=http://sports.espn.go.com/nba/allstar2009/news/story?id=3887257|title=Allen becomes third Celtic All-Star|publisher=ESPN|date=February 9, 2009|access-date=June 15, 2009}}</ref><br>
+{{note|inj2|2}} Mo Williams was named as a replacement for Chris Bosh.<ref name="MoWilliams">{{cite web|url=http://www.nba.com/2009/allstar2009/02/10/allstar.williams.ap/index.html|title=Cavs' Williams replaces Bosh in All-Star Game|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 10, 2009|access-date=June 15, 2009|archive-url=https://web.archive.org/web/20121106025145/http://www.nba.com/2009/allstar2009/02/10/allstar.williams.ap/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref><br>
+{{note|pos|3}} Although the NBA listed Chris Bosh as a forward in the All-Star ballot,<ref name="Starters"/> he was selected as a reserve center by the head coaches.<ref name="Reserves"/><br>
+{{refend}}
+
+===Game===
+{{basketballbox|bg=#eee |date=February 15 |time=8:30 p.m. [[Mountain Time Zone|MT]] |place=[[US Airways Center]], [[Phoenix, Arizona]]
+|referee=<br>
+* #25 Tony Brothers
+* #44 Ron Olesiak
+* #18 Mark Wunderlich
+|attendance=16,382
+|TV=[[NBA on TNT|TNT]]
+|team1=[[Eastern Conference (NBA)|Eastern Conference All-Stars]] |score1=119
+|team2='''[[Western Conference (NBA)|Western Conference All-Stars]]''' |score2='''146'''
+|Q1=27–34 |Q2=40–38 |Q3=24–38 |Q4=28–36
+|points1=[[LeBron James]] 20 |points2=[[Kobe Bryant]] 27
+|rebounds1=[[Dwight Howard]] 9 |rebounds2=[[Pau Gasol]] 8
+|assist1=[[Dwyane Wade]] 5 |assist2=[[Chris Paul]] 14
+|report=[http://www.nba.com/games/20090215/ESTWST/recap.html Recap]<br>[http://www.nba.com/games/20090215/ESTWST/boxscore.html Boxscore]
+}}
+[[File:NBA All Star Game 2009 birds eye view.jpg|thumb|right|Players warming up before the game at the [[US Airways Center]].]]
+[[Phoenix Suns]]' [[Shaquille O'Neal]] marked his return to the [[NBA All-Star Game]] after one-year absence with an unusual entry to the game. O'Neal, the last reserve called during the player introduction, came out with a white mask and began dancing with the dance group [[JabbaWockeeZ]] before finally opening his mask and joining the rest of the players on the court. O'Neal and [[2007–08 NBA season|previous year]]'s [[NBA Most Valuable Player Award|regular season MVP]] Kobe Bryant led the West to a 146–119 victory and were named co-MVPs. This was the third [[NBA All-Star Game Most Valuable Player Award|All-Star Game MVP award]] for both players.<ref name="AllStar"/>
+
+The East led 20–10 early in the game before West coach, [[Phil Jackson]] decided to send O'Neal to the court. With O'Neal and Bryant on the court for the first time since [[2004 NBA Finals]], the West embarked on a 19–0 run to take the lead. The West continued to extend the lead in the second half and finally won the game by 27 points. Bryant finished with 27 points while [[Chris Paul]] added a game high 14 assists. [[2008 NBA All-Star Game|Previous year's All-Star Game]] MVP [[LeBron James]] led the East with 20 points, but was unable to prevent the loss.<ref>{{cite web|url=http://www.nba.com/games/20090215/ESTWST/recap.html|title=East All-Stars 119, West All-Stars 146|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 16, 2009|access-date=June 22, 2009|author=Baum, Bob}}</ref><ref>{{cite web|url=http://sports.espn.go.com/nba/recap?gameId=290215032|title=Kobe and Shaq share MVP award in leading West to dominant win over East|publisher=ESPN|date=February 15, 2009|access-date=June 30, 2009}}</ref>
+
+===Guest performances===
+Five-time [[Grammy Award]]-winning singer and songwriter [[John Legend]] and 17-time [[Latin Grammy Awards|Latin Grammy]] winner [[Juanes]] performed during the halftime. Both singers collaborated in the extended version of Legend's song "[[If You're Out There]]", a song about hope and inspiration. The extended version includes Spanish lyrics which was sung by Juanes.<ref name="Halftime">{{cite web|url=http://www.nba.com/2009/allstar2009/01/27/legend.shaq.allstar09.pregame/index.html |title=Legend, Juanes to perform at halftime of All-Star Game |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=January 27, 2009 |access-date=June 15, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090305063203/http://www.nba.com/2009/allstar2009/01/27/legend.shaq.allstar09.pregame/index.html |archive-date=March 5, 2009 }}</ref> A special taped message from the United States President, [[Barack Obama]], also aired during the halftime. In the message, President Obama encouraged people to do more public service for the community.<ref>{{cite web|url=http://sports.espn.go.com/nba/allstar2009/news/story?id=3907423|title=Obama pitches public service|publisher=ESPN Internet Ventures|date=February 14, 2009|access-date=July 2, 2009}}</ref> A ring ceremony to honor the [[gold medal]]ists at the [[Basketball at the 2008 Summer Olympics|2008 Olympics]] was also held during the halftime. Six members of [[USA men's national basketball team]], Chris Bosh, Kobe Bryant, Dwight Howard, LeBron James, Chris Paul and Dwyane Wade, and two members of [[USA women's national basketball team]], [[Lisa Leslie]] and [[Tina Thompson]] were awarded with their ring at the ceremony.<ref name="SportingNews">{{cite web |url=http://www.sportingnews.com/nba/article/2009-02-15/shaq-puts-show-all-star-game |title=Shaq puts on a show at All-Star Game |publisher=American City Business Journals, Inc |work=Sporting News |date=February 16, 2009 |access-date=June 30, 2009 |archive-url=https://web.archive.org/web/20120523180337/http://www.sportingnews.com/nba/article/2009-02-15/shaq-puts-show-all-star-game |archive-date=May 23, 2012 |url-status=dead |df=mdy-all }}</ref>
+
+The national anthem of both the United States and Canada were sung before the game. [[Arizona]] native and ''[[American Idol]]'' winner [[Jordin Sparks]] sang U.S. national anthem, "[[The Star-Spangled Banner]]". The Canadian national anthem, "[[O Canada]]" were sung by [[Tamia]], Canadian singer who is also the wife of [[Phoenix Suns]] player [[Grant Hill]].<ref name="SportingNews"/> The pre-game introduction included a dance performance by the ''[[America's Best Dance Crew]]'' winner, the [[Jabbawockeez]]. Grammy-nominated singer [[Chris Brown (American singer)|Chris Brown]] was originally scheduled to appear during the pre-game introductions. He, however, withdrew from the performance due to an ongoing [[domestic violence]] case against him.<ref>{{cite web|url=https://www.nytimes.com/2009/02/12/arts/music/12arts-MOREEVIDENCE_BRF.html|title=More Evidence Sought in Chris Brown Case|work=The New York Times|date=February 11, 2009|access-date=July 2, 2009|author=Itzkoff, Dave}}</ref>
+
+Other musical guests during the All-Star Weekend were singers [[Corbin Bleu]] and [[Kevin Rudolf]]. Bleu performed "Moments That Matter" at the halftime of the [[NBA All-Star Weekend Rookie Challenge|Rookie Challenge]] on Friday while Rudolf performed "[[Let It Rock (Kevin Rudolf song)|Let It Rock]]" during the NBA All-Star Saturday Night.<ref name="Halftime"/>
+
+==All-Star Weekend==
+
+===Rookie Challenge===
+{{Main|NBA All-Star Weekend Rookie Challenge}}
+[[File:Kevin Durant.jpg|thumb|right|150px|[[Kevin Durant]] led the Sophomores team into victory and was named the T-Mobile Rookie Challenge [[Most Valuable Player|MVP]].]]
+The [[T-Mobile US|T-Mobile]] [[NBA All-Star Weekend Rookie Challenge|Rookie Challenge]] featured a team of standout first-year players ('[[Rookie]]s') against a team of standout second-year players ('Sophomores'). The game was divided into two twenty-minute halves, similar to [[college basketball]]. The participating players were chosen by voting among the league's assistant coaches. The Rookies team includes the first overall draft pick in [[2008 NBA draft]], [[Derrick Rose]]. The rest of the Rookies team consists of five of the top ten pick in the 2008 Draft and three players from the [[2007 NBA draft]] who were in their first NBA season. The three players are the first overall draft pick [[Greg Oden]] and two Spanish players [[Rudy Fernández (basketball)|Rudy Fernández]] and [[Marc Gasol]]. The Sophomores team features four players from [[2008 NBA All-Star Game#T-Mobile Rookie Challenge|the previous Rookie Challenge game]] which are [[Kevin Durant]], [[Jeff Green (basketball)|Jeff Green]], [[Al Horford]] and [[Luis Scola]].<ref name="Rookie">{{cite web|url=http://www.nba.com/2009/allstar2009/01/28/rookie_rosters.allstar09.012809/index.html|title=Durant, Rose among players in 2009 Rookie Challenge|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 5, 2009|access-date=June 22, 2009|archive-url=https://web.archive.org/web/20111212092611/http://www.nba.com/2009/allstar2009/01/28/rookie_rosters.allstar09.012809/index.html|archive-date=December 12, 2011|url-status=dead|df=mdy-all}}</ref>
+
+The head coaches for the Rookies and Sophomores teams were the lead assistants from the 2009 NBA All-Star Game coaching staffs, [[Kurt Rambis]] from the [[Los Angeles Lakers]] and [[John Kuester]] from the [[Cleveland Cavaliers]]. For the first time in the game's history, two active NBA players were selected as leading assistant coach. Two All-Star starters [[Dwyane Wade]] and [[Dwight Howard]] were selected as the assistant coaches for the Rookies and Sophomores team respectively.<ref name="Rookie"/>
+
+This year, the first ever [[EA Sports]] Jersey Creator Contest was held to design the jerseys for both the rookie and the sophomore team. The contest called for the participants to come up with a [[computer graphics|computer-generated]] [[jersey (sports)|jersey]] design that would replace the individual team jerseys worn by the players during the Rookie Challenge. Of 12,000 participants, 18-year-old Tim Ahmed, a freshman at [[Baruch College]], won the contest. Ahmed won a free trip to Phoenix and a chance to meet players. This marks the first time that a fan-designed uniform has ever been worn during an NBA game or NBA event.<ref name="Rookie"/> The Sophomores wore fan-designed white jerseys and the Rookies wore fan-designed purple jerseys in the game.<ref>{{cite web|url = https://www.nytimes.com/2009/01/26/nyregion/26baruch.html|title = Baruch College Student Designs an N.B.A. Jersey and Wins Basketball Stardom|work=The New York Times|date=January 25, 2009|access-date=July 1, 2009|author=Mallozzi, Vincent M.}}</ref><ref>{{cite web|url=http://sports.espn.go.com/nba/news/story?id=3906815|title=Durant's 46 power sophs past rookies|publisher=ESPN |date=February 14, 2009|access-date=June 30, 2009}}</ref>
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"
+|+'''Rookies'''<ref name="Rookie"/>
+|-
+! Pos. !! width=150|Player !! width=140|Team
+|-
+! F
+| [[Michael Beasley]] || [[Miami Heat]]
+|-
+! G/F
+| [[Rudy Fernández (basketball)|Rudy Fernández]] || [[Portland Trail Blazers]]
+|-
+! C
+| [[Marc Gasol]] || [[Memphis Grizzlies]]
+|-
+! G
+| [[Eric Gordon]] || [[Los Angeles Clippers]]
+|-
+! C
+| [[Brook Lopez]] || [[New Jersey Nets]]
+|-
+! G
+| [[O. J. Mayo]] || [[Memphis Grizzlies]]
+|-
+! C
+| [[Greg Oden]]{{ref|rinj|INJ}} || [[Portland Trail Blazers]]
+|-
+! G
+| [[Derrick Rose]] || [[Chicago Bulls]]
+|-
+! G
+| [[Russell Westbrook]] || [[Oklahoma City Thunder]]
+|-
+| colspan="3" | '''Head coach''': [[Kurt Rambis]] ([[Los Angeles Lakers]])
+|-
+| colspan="3" | '''Assistant coach''': [[Dwyane Wade]] ([[Miami Heat]])
+|}
+{{col-2}}
+{| class="wikitable"
+|+'''Sophomores'''<ref name="Rookie"/>
+|-
+! Pos. !! width=150|Player !! width=140|Team
+|-
+! G
+| [[Aaron Brooks (basketball)|Aaron Brooks]] || [[Houston Rockets]]
+|-
+! F
+| [[Wilson Chandler]] || [[New York Knicks]]
+|-
+! G/F
+| [[Kevin Durant]] || [[Oklahoma City Thunder]]
+|-
+! F
+| [[Jeff Green (basketball)|Jeff Green]] || [[Oklahoma City Thunder]]
+|-
+! F/C
+| [[Al Horford]] || [[Atlanta Hawks]]
+|-
+! F/C
+| [[Luis Scola]] || [[Houston Rockets]]
+|-
+! F
+| [[Al Thornton]] || [[Los Angeles Clippers]]
+|-
+! G
+| [[Rodney Stuckey]] || [[Detroit Pistons]]
+|-
+! F
+| [[Thaddeus Young]] || [[Philadelphia 76ers]]
+|-
+| colspan="3" | '''Head coach''': [[John Kuester]] ([[Cleveland Cavaliers]])
+|-
+| colspan="3" | '''Assistant coach''': [[Dwight Howard]] ([[Orlando Magic]])
+|}
+{{col-end}}
+{{refbegin}}
+{{note|rinj|INJ}} Unable to participate due to injury.<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/02/13/oden.out.ap/index.html|title=Sore knee knocks Blazers' Oden out of Rookie Challenge|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 13, 2009|access-date=June 22, 2009|archive-url=https://web.archive.org/web/20090312072933/http://www.nba.com/2009/allstar2009/02/13/oden.out.ap/index.html|archive-date=March 12, 2009|url-status=dead|df=mdy-all}}</ref>
+{{refend}}
+<br>
+{{basketballbox|bg=#eee |date=February 13 |time=9:00 p.m. |place=[[US Airways Center]], [[Phoenix, Arizona]]
+|referee=<br>
+* #56 Mark Ayotte
+* #64 Eli Roe
+* #42 Eric Lewis
+|attendance=16,362
+|TV=[[NBA on TNT|TNT]]
+|team1=Rookies |score1=116
+|team2='''Sophomores |score2=122'''
+|H1=61–58 |H2=55–64
+|points1=[[Michael Beasley]] 29 |points2=[[Kevin Durant]] 46
+|rebounds1=[[Marc Gasol]] 8 |rebounds2=[[Kevin Durant|Durant]], [[Wilson Chandler|Chandler]] 7 each
+|assist1=[[Derrick Rose]] 7 |assist2=[[Rodney Stuckey]] 9
+|report=[http://www.nba.com/2009/allstar2009/01/16/rookie.challenge/index.html Recap]<br>[http://www.nba.com/games/20090213/RKESPH/boxscore.html Boxscore]
+}}
+The Sophomores won the game 122–116 with Sophomore [[Kevin Durant]] named as the Rookie Challenge [[Most Valuable Player|MVP]]. Durant scored a record 46 points in the game, breaking [[Amar'e Stoudemire]]'s 36-point record from [[2004 NBA All-Star Game|2004]]. The Rookies led by 3 at halftime, but then Durant took over, scoring 30 of his 46 points in the second half as the Sophomores outscored the Rookies by 6 points to win the game.<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/01/16/rookie.challenge/index.html |title=Durant goes for 46 as Sophomores again beat Rookies |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=February 14, 2009 |access-date=June 22, 2009 |author=McMenamin, Dave |url-status=dead |archive-url=https://web.archive.org/web/20130227040935/http://www.nba.com/2009/allstar2009/01/16/rookie.challenge/index.html |archive-date=February 27, 2013 }}</ref> The game marked the seventh consecutive loss for the Rookies team.
+
+===Slam Dunk Contest===
+{{Main|Slam Dunk Contest}}
+[[File:Nate Robinson.jpg|thumb|right|150px|[[Nate Robinson]] won the 2009 Sprite Slam Dunk Contest.]]
+The [[Sprite (soft drink)|Sprite]] [[Slam Dunk Contest]] was contested by defending champion [[Dwight Howard]], [[2006 NBA All-Star Game|2006]] champion [[Nate Robinson]], [[2005 NBA All-Star Game|2005]] contestant [[J. R. Smith]] and rookie [[Rudy Fernández (basketball)|Rudy Fernández]]. Fernández won the online voting on NBA.com to determine the fourth contestants, beating fellow rookies [[Joe Alexander (basketball)|Joe Alexander]] and [[Russell Westbrook]].<ref name="DunkParticipants">{{cite web|url=http://www.nba.com/2009/news/01/19/fernandez_relase.09allstar.20090119/index.html |title=Fans vote Blazers' Fernandez into Sprite Slam Dunk contest |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=January 19, 2009 |access-date=January 19, 2009 |archive-url=https://web.archive.org/web/20090121231203/http://www.nba.com/2009/news/01/19/fernandez_relase.09allstar.20090119/index.html |archive-date=January 21, 2009 |url-status=dead }}</ref> This was the first time a dunk contestant was chosen by the fans. Fernández also became the first ever international player to participate in the contest. Smith was named as a late replacement for [[Rudy Gay]], who was forced to withdraw from the contest due to injury.<ref name="DunkReplacement">{{cite web|url=http://www.nba.com/2009/allstar2009/02/10/smith.replacement/index.html|title=Nuggets' Smith to replace Memphis' Gay in Dunk Contest|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 10, 2009|access-date=February 10, 2009|archive-url=https://web.archive.org/web/20090212172026/http://www.nba.com/2009/allstar2009/02/10/smith.replacement/index.html|archive-date=February 12, 2009|url-status=dead|df=mdy-all}}</ref>
+
+Each contestant performed two [[slam dunk]]s in each round. The two best contestants in the first round, as rated by the panel of judges, advanced to the final round, where the winner was determined by fan voting. The panel of judges for this year contest consists of five former [[Phoenix Suns]] players, the inaugural Slam Dunk champion [[Larry Nance]], [[1992 NBA All-Star Game|1992]] champion [[Cedric Ceballos]], [[1987 NBA All-Star Game|1987]] [[NBA All-Star Game Most Valuable Player Award|All-Star Game MVP]] [[Tom Chambers (basketball)|Tom Chambers]] and three-time All-Stars, [[Kevin Johnson (basketball)|Kevin Johnson]] and [[Dan Majerle]].<ref>{{cite web|url=http://www.nba.com/suns/news/allstar09_dunk_judges_090214.html|title=Suns Greats Rate Dunks at All-Star Saturday Night|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 14, 2009|access-date=June 17, 2009|author=Greene, Josh}}</ref>
+
+Dwight Howard began his title defence with two 50-point dunks to advance to the final round with a perfect score. One of his dunks employed a 12-foot high hoop. Howard also used a prop [[phone booth]] to change into his [[Superman]] cape before completing the dunk on the 12-foot hoop. Nate Robinson also advanced to the final round with 87 points, beating Smith and Fernández who had 85 and 84 points respectively.<ref name="Dunk">{{cite web|url=http://www.nba.com/2009/allstar2009/02/15/main.20090214/index.html|title=Nate the Great takes flight over Superman to win title|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 16, 2009|access-date=June 17, 2009|author=McMenamin, Dave|archive-url=https://web.archive.org/web/20120211080406/http://www.nba.com/2009/allstar2009/02/15/main.20090214/index.html|archive-date=February 11, 2012|url-status=dead|df=mdy-all}}</ref>
+
+In the final round, Robinson changed his uniform into the [[New York Knicks]]' green uniform originally designed for [[Saint Patrick's Day]]. The green uniform symbolized  [[Kryptonite]],<ref name="Dunk"/> a fictional substance known to have detrimental effects on Superman. The ''Krypto-Nate vs. Superman'' theme continued when Robinson, in his final dunk, used a green basketball and leaped over the 6'11" Howard who wore his Superman cape. Robinson ended up with 52% of fan vote to win his second dunk title. He joined [[Michael Jordan]], [[Dominique Wilkins]], [[Harold Miner]] and [[Jason Richardson]] as the only two-time winners of the contest.<ref name="Dunk"/>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="DunkParticipants"/>
+! rowspan=2|Pos. !! rowspan=2 width=150|Player !! rowspan=2 width=175|Team !! rowspan=2|Height !! rowspan=2|Weight !! colspan=3|First round !! Final round
+|-
+! 1st dunk !! 2nd dunk !! Total !! Votes
+|-
+! G
+| '''[[Nate Robinson]]''' || '''[[New York Knicks]]''' || align=center|'''5–9''' || align=center|'''180''' || align=center|'''46''' || align=center|'''41''' || align=center|'''87''' || align=center|'''52%'''
+|-
+! C
+| [[Dwight Howard]] || [[Orlando Magic]] || align=center|6–11 || align=center|265 || align=center|50 || align=center|50 || align=center|100 || align=center|48%
+|-
+! G
+| [[J. R. Smith]] || [[Denver Nuggets]] || align=center|6–6 || align=center|220 || align=center|43 || align=center|42 || align=center|85 || align=center|—
+|-
+! G/F
+| [[Rudy Fernández (basketball)|Rudy Fernández]] || [[Portland Trail Blazers]] || align=center|6–6 || align=center|185 || align=center|42 || align=center|42 || align=center|84 || align=center|—
+|-
+! F
+| [[Rudy Gay]]{{ref|dinj|INJ}} || [[Memphis Grizzlies]] || align=center|6–8 || align=center|222 || colspan=4 align=center|—
+|}
+{{refbegin}}
+{{note|dinj|INJ}} Unable to participate due to injury. J. R. Smith was named as a replacement for Rudy Gay.<ref name="DunkReplacement"/>
+{{refend}}
+
+===Three-Point Shootout===
+{{Main|NBA All-Star Weekend Three-Point Shootout}}
+[[File:Daequan Cook.jpg|thumb|right|150px|[[Daequan Cook]] won the 2009 Foot Locker Three-Point Shootout.]]
+The [[Foot Locker]] [[NBA All-Star Weekend Three-Point Shootout|Three-Point Shootout]] was contested by six players. Two-time winner [[Jason Kapono]] returned to defend his title along with two former contestants, [[Rashard Lewis]] and [[Mike Bibby]]. They were joined by three first-time contestants, [[Daequan Cook]], [[Danny Granger]] and [[Roger Mason (basketball)|Roger Mason]]. In this contest, contestants attempt to make as many [[three-point field goal]]s as possible from five shooting stations behind the [[Basketball court#Three-point line|three-point arc]] in one minute. Players begin shooting from one corner of the court, and move from station to station along the three-point arc until they reach the other corner. Each station has four standard balls, worth one point each, and one specially colored "money ball", worth two points.<ref name="3Pt">{{cite web|url=http://www.nba.com/2009/allstar2009/02/04/shootout_release.allstar09.20090204/index.html|title=Kapono leads Three-Point Shootout participants|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 5, 2009|access-date=June 18, 2009|archive-url=https://web.archive.org/web/20121106031251/http://www.nba.com/2009/allstar2009/02/04/shootout_release.allstar09.20090204/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref>
+
+Cook won the first round with 18&nbsp;points as he advanced to the final round along with Lewis and Kapono. The second round was a tight contest between Cook and Lewis, both tied at 15&nbsp;points, and Kapono, with 14. Because of the tied score, Cook and Lewis played an extra tiebreaker round. Cook went on to beat his first round score with 19&nbsp;points, while Lewis finished with 7&nbsp;points.<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/01/16/footlocker.threepoint.shootout/index.html|title=Heat's Cook heats up late to force OT, wins Shootout|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 14, 2009|access-date=June 18, 2009|author=Garcia, Art|archive-url=https://web.archive.org/web/20120228080353/http://www.nba.com/2009/allstar2009/01/16/footlocker.threepoint.shootout/index.html|archive-date=February 28, 2012|url-status=dead|df=mdy-all}}</ref>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="3Pt"/>
+! Pos. !! width=150|Player !! width=175|Team !! Height !! Weight !! First round !! Final round !! Tiebreaker
+|-
+! G
+| '''[[Daequan Cook]]''' || '''[[Miami Heat]]''' || align=center|'''6–5''' || align=center|'''210''' || align=center|'''18''' || align=center|'''15''' || align=center|'''19'''
+|-
+! F
+| [[Rashard Lewis]] || [[Orlando Magic]] || align=center|6–10 || align=center|230 || align=center|17 || align=center|15 || align=center|7
+|-
+! G/F
+| [[Jason Kapono]] || [[Toronto Raptors]] || align=center|6–8 || align=center|215 || align=center|16 || align=center|14 || align=center|—
+|-
+! G
+| [[Mike Bibby]] ||  [[Atlanta Hawks]] || align=center|6–2 || align=center|195 || align=center|14 || align=center colspan=2|—
+|-
+! G/F
+| [[Danny Granger]] || [[Indiana Pacers]] || align=center|6–8 || align=center|228 || align=center|13 || align=center colspan=2|—
+|-
+! G
+| [[Roger Mason (basketball)|Roger Mason]] || [[San Antonio Spurs]] || align=center|6–5 || align=center|212 || align=center|13 || align=center colspan=2|—
+|}
+
+===Skills Challenge===
+{{Main|NBA All-Star Weekend Skills Challenge}}
+[[File:Derrick Rose.jpg|thumb|right|150px|[[Derrick Rose]] won the 2009 PlayStation Skills Challenge.]]
+The [[PlayStation]] [[NBA All-Star Weekend Skills Challenge|Skills Challenge]] was contested by four players. [[Derrick Rose]], the [[List of first overall NBA draft picks|first overall draft pick]] in [[2008 NBA draft]], was joined by three All-Star guards, [[Devin Harris]], [[Jameer Nelson]] and [[Tony Parker]].<ref name="Skills">{{cite web|url=http://www.nba.com/2009/allstar2009/02/02/skills_challenge.allstar09.20090202/|title=Harris, Parker among Skills Challenge participants|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 12, 2009|access-date=June 30, 2009|archive-url=https://web.archive.org/web/20121106054041/http://www.nba.com/2009/allstar2009/02/02/skills_challenge.allstar09.20090202/|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref> However, Nelson was injured and was subsequently replaced by All-Star [[Mo Williams]].<ref name="SkillsReplacement">{{cite web|url=http://www.nba.com/cavaliers/news/williams_skills_090211.html|title=Cleveland’s Williams to Replace Orlando’s Nelson in 2009 Playstation Skills Challenge|publisher=Turner Sports Interactive, Inc|work=NBA.com/Cavaliers|date=February 11, 2009|access-date=June 30, 2009}}</ref> In this contest, the contestants have to complete an "obstacle course" consisting of dribbling, passing and shooting stations. A contestant who finish the course with the fastest time wins the contest. All contestants must comply with basic NBA ball-handling rules while completing the course.<ref name="Skills"/>
+
+Rose led all the contestants with 33.3&nbsp;seconds in the first round, 3.3 seconds ahead of Harris. Williams was eliminated after recording 37.5&nbsp;seconds, 4.2&nbsp;seconds behind the lead. Parker was eliminated with the slowest time in the Skills Challenge history with 50.8&nbsp;seconds. He previously held the slowest time of 45.5&nbsp;points during the [[2003 NBA All-Star Game|2003 competition]]. In the second round, Harris went first and finished the course with 39.6&nbsp;seconds, 3.1&nbsp;seconds worse than his previous attempt. Rose went on to win the contest by recording a 35.3&nbsp;seconds time while finishing the course with a dunk. Rose also became the first rookie winner of the Skills Challenge competition.<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/01/16/playstation.skills.challenge/index.html|title=Top pick Rose finishes Skills Challenge with a flair|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 15, 2009|access-date=June 30, 2009|author=Peterson, Rob|archive-url=https://web.archive.org/web/20120227143900/http://www.nba.com/2009/allstar2009/01/16/playstation.skills.challenge/index.html|archive-date=February 27, 2012|url-status=dead|df=mdy-all}}</ref>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="Skills"/>
+! Pos. !! width=150|Player !! width=175|Team !! Height !! Weight !! First round !! Final round
+|-
+! G
+| '''[[Derrick Rose]]''' || '''[[Chicago Bulls]]''' || align=center|'''6–3''' || align=center|'''190''' || align=center|'''33.3''' || align=center|'''35.3'''
+|-
+! G
+| [[Devin Harris]] || [[New Jersey Nets]] || align=center|6–3 || align=center|185 || align=center|36.9 || align=center|39.7
+|-
+! G
+| [[Mo Williams]] || [[Cleveland Cavaliers]] || align=center|6–1 || align=center|190 || align=center|37.5 || align=center|—
+|-
+! G
+| [[Tony Parker]] || [[San Antonio Spurs]] || align=center|6–2 || align=center|180 || align=center|50.8 || align=center|—
+|-
+! G
+| [[Jameer Nelson]]{{ref|sinj|INJ}} || [[Orlando Magic]] || align=center|6–1 || align=center|190 || align=center colspan=2|—
+|}
+{{refbegin}}
+{{note|sinj|INJ}} Unable to participate due to injury. Mo Williams was named as a replacement for Jameer Nelson.<ref name="SkillsReplacement"/>
+{{refend}}
+
+===Shooting Stars Competition===
+{{Main|NBA All-Star Weekend Shooting Stars Competition}}
+[[File:Bill Laimbeer.jpg|thumb|right|150px|[[Bill Laimbeer]] won his second Shooting Stars Competition title with Team Detroit.]]
+The [[Haier]] [[NBA All-Star Weekend Shooting Stars Competition|Shooting Stars Competition]] was competed between four teams of three players, with each team representing a city which has both NBA and [[Women's National Basketball Association|WNBA]] teams. Each team consisted of one current NBA player, one current WNBA player, and one NBA legend. Team [[San Antonio]], the defending champion, was joined by the inaugural champion, Team Los Angeles, 2005 champion, Team [[Phoenix, Arizona|Phoenix]] and 2007 champion, Team Detroit. In this competition, each team must make six shots from six shooting locations of increasing difficulties. The team who makes all six shots with the fastest time wins the competition.<ref name="Stars">{{cite web|url=http://www.nba.com/2009/allstar2009/02/09/stars_roster.allstar09.20090209/index.html|title=Team San Antonio back to defend Shooting Stars title|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 9, 2009|access-date=July 1, 2009|archive-url=https://web.archive.org/web/20121106054046/http://www.nba.com/2009/allstar2009/02/09/stars_roster.allstar09.20090209/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref>
+
+In the first round, the defending champion, Team San Antonio was eliminated along with Team Los Angeles. Both teams took over 15&nbsp;shots from the half court location to score. Team Detroit and Team Phoenix both advanced to the final round. Team Phoenix recorded the fastest completion time in the first round with 53.3&nbsp;seconds, six seconds faster than Team Detroit. In the final round, Team Detroit made the first five shots in 13&nbsp;attempts and used only 7&nbsp;attempts to make the half court shot with a time of 58.4&nbsp;seconds. Team Phoenix responded by making their first five shots in a single attempt each. However, they needed 22&nbsp;attempts to make the half-court shot, finishing with a time of 1&nbsp;minute and 19&nbsp;seconds. Team Detroit won their second Shooting Stars title, joining Team San Antonio as the only two-time winners of the competition. [[Detroit Pistons]] legend and [[Detroit Shock]] head coach, [[Bill Laimbeer]] also became the first person to win the Shooting Stars Competition twice; he won his first title with Team Detroit in [[2007 NBA All-Star Game|2007]].<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/01/16/haier.shooting.stars/index.html |title=Phoenix team falters from downtown, Detroit takes title |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=February 15, 2009 |access-date=July 1, 2009 |author=Schuhmann, John |url-status=dead |archive-url=https://web.archive.org/web/20090429025214/http://www.nba.com/2009/allstar2009/01/16/haier.shooting.stars/index.html |archive-date=April 29, 2009 }}</ref>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="Stars"/>
+|-
+!City !! width=150|Members !! width=175|Team !! First round !! Final round
+|-
+|align=center rowspan=3|'''Detroit'''
+| '''[[Arron Afflalo]]''' || '''[[Detroit Pistons]]''' || align=center rowspan=3|'''59.3''' || align=center rowspan=3|'''58.4'''
+|-
+| '''[[Katie Smith]]''' || '''[[Detroit Shock]]'''
+|-
+| '''[[Bill Laimbeer]]''' || '''[[Detroit Pistons]] (retired)'''
+|-
+|align=center rowspan=3|Phoenix
+| [[Leandro Barbosa]] || [[Phoenix Suns]] || align=center rowspan=3|53.3 || align=center rowspan=3|1:15
+|-
+| [[Tangela Smith]] || [[Phoenix Mercury]]
+|-
+| [[Dan Majerle]] || [[Phoenix Suns]] (retired)
+|-
+|align=center rowspan=3|San Antonio
+| [[Tim Duncan]] || [[San Antonio Spurs]] || align=center rowspan=3|1:06 || align=center rowspan=3|—
+|-
+| [[Becky Hammon]] || [[San Antonio Silver Stars]]
+|-
+| [[David Robinson (basketball)|David Robinson]] || [[San Antonio Spurs]] (retired)
+|-
+|align=center rowspan=3|Los Angeles
+| [[Derek Fisher]] || [[Los Angeles Lakers]] || align=center rowspan=3|1:16 || align=center rowspan=3|—
+|-
+| [[Lisa Leslie]] || [[Los Angeles Sparks]]
+|-
+| [[Michael Cooper]] || [[Los Angeles Lakers]] (retired)
+|}
+
+===H–O–R–S–E Competition===
+{{Main|NBA All-Star Weekend H–O–R–S–E Competition}}
+[[File:Joe Johnson Atlanta Hawks 2008-9 season.jpg|thumb|right|150px|[[Joe Johnson (basketball)|Joe Johnson]] was a participant of the H–O–R–S–E Competition.]]
+On February 5, 2009, [[TNT (U.S. TV network)|TNT]] announced the addition of [[Variations of basketball#H-O-R-S-E|H–O–R–S–E]] to its All-Star Weekend coverage. The competition was held outdoors on a half-sized court during the special ''[[Inside the NBA]]'' show prior to the All-Star Saturday Night events. The objective of this competition is to accrue as few of the five letters as possible. A player is given a letter every time they fail to duplicate the shot of another player. Each player was given 24 seconds to make or duplicate the shot (dunking was prohibited). Each player who fails to duplicate five shots was eliminated from the competition. An NBA referee was assigned to rule whether the shot was done properly.<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/02/03/tnt.HORSE/index.html|title=TNT to air H-O-R-S-E game featuring NBA players|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 5, 2009|access-date=July 1, 2009|archive-url=https://web.archive.org/web/20121106054125/http://www.nba.com/2009/allstar2009/02/03/tnt.HORSE/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref>
+
+The inaugural [[NBA All-Star Weekend H–O–R–S–E Competition|H–O–R–S–E Competition]] was sponsored by American [[Vehicle insurance|auto insurance]] company [[GEICO]] and hence the word G–E–I–C–O was used in replacement of H–O–R–S–E.<ref name="HorseResults">{{cite web|url=http://www.nba.com/2009/allstar2009/02/14/horse.20090214/index.html|title=Durant continues red-hot weekend with H-O-R-S-E win|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 14, 2009|access-date=July 1, 2009|author=Schuhmann, John|archive-url=https://web.archive.org/web/20121106054135/http://www.nba.com/2009/allstar2009/02/14/horse.20090214/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref> Three NBA players, [[Kevin Durant]], [[Joe Johnson (basketball)|Joe Johnson]] and [[O. J. Mayo]] were selected to compete in the H–O–R–S–E competition.
+<ref name="Horse">{{cite web|url=http://www.nba.com/2009/allstar2009/02/10/horse.field.allstar09.20090210.ap/index.html|title=Mayo, Johnson, Durant in All-Star H-O-R-S-E game|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 10, 2009|access-date=July 1, 2009|archive-url=https://web.archive.org/web/20121106054147/http://www.nba.com/2009/allstar2009/02/10/horse.field.allstar09.20090210.ap/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref> Johnson was the first to be eliminated, having failed to duplicate Mayo's shot from the free-throw line. Durant then made a series of three-point shots to eliminate Mayo to win the inaugural H–O–R–S–E Competition.<ref name="HorseResults"/>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="Horse"/>
+! Pos. !! width=150|Player !! width=175|Team !! Height !! Weight !! width=80|Results
+|-
+! G/F
+| '''[[Kevin Durant]]''' || '''[[Oklahoma City Thunder]]''' || align=center|'''6–9''' || align=center|'''215''' || align=center|'''G-E-I-C'''
+|-
+! G
+| [[O. J. Mayo]] || [[Memphis Grizzlies]] || align=center|6–4 || align=center|210 || align=center|G-E-I-C-O
+|-
+! G
+| [[Joe Johnson (basketball)|Joe Johnson]] || [[Atlanta Hawks]] || align=center|6–7 || align=center|240 || align=center|G-E-I-C-O
+|-
+|}
+
+===Celebrity Game===
+{{Main|NBA All-Star Weekend Celebrity Game}}
+[[File:Terrell Owens.jpg|thumb|right|150px|[[Terrell Owens]] won his second successive All-Star Celebrity Game MVP.]]
+The 2009 [[McDonald's]] [[NBA All-Star Weekend Celebrity Game|NBA All-Star Celebrity Game]] was played on Friday, February 13 at the [[Phoenix Convention Center]]. A total of 16 celebrities took part in the game, including several former NBA players. [[Basketball Hall of Fame]]rs [[Magic Johnson]] and [[Julius Erving]], who combined for 23 [[List of NBA All-Stars|NBA All-Star appearances]], served as coaches for the celebrity teams. NBA legends, [[Dominique Wilkins]] and [[Clyde Drexler]], were joined by former players, [[Dan Majerle]] and [[Rick Fox]], in the celebrity team roster. [[Women's National Basketball Association|WNBA]] stars [[Lisa Leslie]] and [[Kara Lawson]] also participated in the game along with four [[Harlem Globetrotters]] players.<ref name="Celeb">{{cite web|url=http://www.nba.com/2009/allstar2009/02/10/celebrity_roster.allstar09.20090210/index.html|title=Wilkins, Drexler, Owens among Celebrity Game notables|publisher=Turner Sports Interactive, Inc|work=NBA.com|date=February 11, 2009|access-date=July 16, 2009|archive-url=https://web.archive.org/web/20121106091725/http://www.nba.com/2009/allstar2009/02/10/celebrity_roster.allstar09.20090210/index.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref>
+
+Previous year's MVP, [[Terrell Owens]] scored a game-high 17 points and led the East Sunrisers to a 60–57 victory over the West Sunsetters. Owens, an [[American football]] star for [[Dallas Cowboys]], was also named as the Celebrity Game MVP for the second successive year. The game was marked by a surprise appearance by another Hall of Famer [[Nancy Lieberman]] in the middle of the game, where she joined and played with the East Sunrisers. [[ESPN]] [[Sports commentary|play-by-play commentator]] [[Mike Breen]] also made a surprise appearance as the referee for the game.<ref>{{cite web|url=http://www.nba.com/2009/allstar2009/01/16/mcdonalds.celebrity.game/index.html |title=T.O. pulls in another MVP trophy in wild celebrity game |publisher=Turner Sports Interactive, Inc |work=NBA.com |date=February 11, 2009 |access-date=July 16, 2009 |author=Peterson, Rob |url-status=dead |archive-url=https://web.archive.org/web/20090429025722/http://www.nba.com/2009/allstar2009/01/16/mcdonalds.celebrity.game/index.html |archive-date=April 29, 2009 }}</ref>
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"
+|+'''East Sunrisers'''<ref name="Celeb"/><ref name="Celeb2">{{cite web |url=http://my.lakers.com/blogs/2009/02/13/all-star-celebrity-game-running-diary/ |title=All-Star Celebrity Game: Running Diary |publisher=Turner Sports Interactive, Inc |work=Lakers.com |date=February 13, 2009 |access-date=July 16, 2009 |author=Trudell, Mike |archive-url=https://web.archive.org/web/20090217164346/http://my.lakers.com/blogs/2009/02/13/all-star-celebrity-game-running-diary/ |archive-date=February 17, 2009 |url-status=dead |df=mdy-all }}</ref>
+|-
+! width=150|Player !! width=160|Background
+|-
+| [[Dominique Wilkins]] || NBA legend
+|-
+| [[Rick Fox]] || [[Los Angeles Lakers]] legend
+|-
+| [[Kara Lawson]] || [[Women's National Basketball Association|WNBA]] player
+|-
+| [[James Denton]] || Actor
+|-
+| [[Zach Levi]] || Actor
+|-
+| [[Terrell Owens]] || [[American football]] player
+|-
+| [[Kevin Daley|"Special K" Daley]] || [[Harlem Globetrotters]]
+|-
+| [[Eugene Edgerson|"Wildkat" Edgerson]] || [[Harlem Globetrotters]]
+|-
+| colspan="3" | '''Coach''': [[Julius Erving]]
+|}
+{{col-2}}
+{| class="wikitable"
+|+'''West Sunsetters'''<ref name="Celeb"/><ref name="Celeb2"/>
+|-
+! width=150|Player !! width=160|Background
+|-
+| [[Clyde Drexler]] || NBA legend
+|-
+| [[Dan Majerle]] || [[Phoenix Suns]] legend
+|-
+| [[Lisa Leslie]] || [[Women's National Basketball Association|WNBA]] player
+|-
+| [[Donald Faison]] || Actor
+|-
+| [[Michael Rapaport]] || Actor
+|-
+| [[Chris Tucker]] || Actor/comedian
+|-
+| [[Shane Christensen (basketball)|"Scooter" Christensen]] || [[Harlem Globetrotters]]
+|-
+| [[Chris Franklin (basketball)|"Handles" Franklin]] || [[Harlem Globetrotters]]
+|-
+| colspan="3" | '''Coach''': [[Magic Johnson]]
+|}
+{{col-end}}
+
+==D-League All-Star==
+{{Main|NBA Development League All-Star Game}}
+
+===D-League All-Star Game===
+Twenty of the [[NBA Development League]]'s top players were selected to the D-League All-Star Game rosters by a combination of fan balloting on the official D-League website and voting by the 16 head coaches of D-League teams. The selections were divided up into two teams, the Red Team and the Blue Team, by members of the NBA and NBA D-League's Basketball Operations staff. Players who have been selected by coaches and fans must be on an active roster of a D-League team.<ref name="DLeague">{{cite web|url=http://www.nba.com/dleague/news/2009_allstar_rosters.html |title=2009 NBA D-League All-Star Game Participants Unveiled |publisher=Turner Sports Interactive, Inc |work=NBA.com/DLeague |date=February 3, 2009 |access-date=June 30, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110628232753/http://www.nba.com/dleague/news/2009_allstar_rosters.html |archive-date=June 28, 2011 }}</ref> [[Iowa Energy]] head coach [[Nick Nurse]] and [[Austin Toros]] head coach [[Quin Snyder]] were selected as the coach for the Red Team and the Blue Team respectively. Both coaches earned the honor by securing the best records in the D-League through January 27.<ref>{{cite web|url=http://www.nba.com/dleague/news/coaches_090129.html|title=Iowa's Nick Nurse and Austin's Quin Snyder to Coach 2009 NBA Development League All-Star Game|publisher=Turner Sports Interactive, Inc|work=NBA.com/DLeague|date=January 29, 2009|access-date=June 30, 2009|archive-url=https://web.archive.org/web/20121106053942/http://www.nba.com/dleague/news/coaches_090129.html|archive-date=November 6, 2012|url-status=dead|df=mdy-all}}</ref>
+
+{{col-begin}}
+{{col-2}}
+{| class="wikitable"
+|+'''Blue Team'''<ref name="DLeague"/>
+|-
+! Pos. !! width=150|Player !! width=150|Team
+|-
+! G
+| [[Cedric Bozeman]] || [[Anaheim Arsenal]]
+|-
+! G
+| [[Will Conroy]] || [[Albuquerque Thunderbirds]]
+|-
+! F
+| [[Erik Daniels]]{{ref|note4|4}} || [[Erie BayHawks (2008–2017)|Erie BayHawks]]
+|-
+! F
+| [[Josh Davis (basketball, born 1980)|Josh Davis]] || [[Colorado 14ers]]
+|-
+! F
+| [[Ronald Dupree]] || [[Utah Flash]]
+|-
+! F
+| [[Malik Hairston]]{{ref|note1|1}} || [[Austin Toros]]
+|-
+! C
+| [[Chris Hunter (basketball)|Chris Hunter]] || [[Fort Wayne Mad Ants]]
+|-
+! F
+| [[Antonio Meeking]] || [[Reno Bighorns]]
+|-
+! C
+| [[Chris Richard (basketball)|Chris Richard]]{{ref|note2|2}} || [[Tulsa 66ers]]
+|-
+! G
+| [[Walker Russell, Jr.|Walker Russell]] || [[Fort Wayne Mad Ants]]
+|-
+! G
+| [[James White (basketball)|James White]] || [[Anaheim Arsenal]]
+|-
+! F
+| [[Marcus Williams (basketball, born 1986)|Marcus Williams]]{{ref|note4|4}} || [[Austin Toros]]
+|-
+| colspan="3" | '''Head coach''': [[Quin Snyder]] ([[Austin Toros]])
+|}
+{{col-2}}
+{| class="wikitable"
+|+'''Red Team'''<ref name="DLeague"/>
+|-
+! Pos. !! width=150|Player !! width=150|Team
+|-
+! G
+| [[Blake Ahearn]] || [[Dakota Wizards]]
+|-
+! C
+| [[Lance Allred]] || [[Idaho Stampede]]
+|-
+! G
+| [[Maurice Baker]] || [[Dakota Wizards]]
+|-
+! G
+| [[Derrick Byars]] || [[Bakersfield Jam]]
+|-
+! F
+| [[Luke Jackson (basketball, born 1981)|Luke Jackson]] || [[Idaho Stampede]]
+|-
+! G/F
+| [[Othyus Jeffers]]{{ref|note4|4}} || [[Iowa Energy]]
+|-
+! G
+| [[Trey Johnson]] || [[Bakersfield Jam]]
+|-
+! F
+| [[Richard Hendrix]] || [[Dakota Wizards]]
+|-
+! G/F
+| [[Cartier Martin]]{{ref|note3|3}} || [[Iowa Energy]]
+|-
+! F
+| [[Brent Petway]] || [[Idaho Stampede]]
+|-
+! C
+| [[Courtney Sims]] || [[Iowa Energy]]
+|-
+| colspan="3" | '''Head coach''': [[Nick Nurse]] ([[Iowa Energy]])
+|}
+{{col-end}}
+{{Refbegin}}
+{{note|note1|1}} Unable to participate due to a recall by the [[San Antonio Spurs]].<br>
+{{note|note2|2}} Unable to participate due to injury.<br>
+{{note|note3|3}} Unable to participate due to a call-up to the [[Charlotte Bobcats]].<br>
+{{note|note4|4}} Named as replacement for the unavailable players.<ref>{{cite web|url=http://www.nba.com/dleague/news/allstar_replacements_090211.html |title=2009 NBA D-League All-Star Replacements Announced |publisher=Turner Sports Interactive, Inc |work=NBA.com/DLeague |date=February 11, 2009 |access-date=June 30, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090319053548/http://www.nba.com/dleague/news/allstar_replacements_090211.html |archive-date=March 19, 2009 }}</ref>
+{{refend}}
+
+{{basketballbox|bg=#eee |date=February 14 |time=2:00 p.m. |place=[[Phoenix Convention Center]], [[Phoenix, Arizona]]
+|referee=<br>
+* #34 Kevin Cutler
+* #51 Kane Fitzgerald
+* #55 Marat Kogut
+|attendance=
+|TV=[[NBA TV]]
+|team1=Blue Team |score1=103
+|team2='''Red Team''' |score2='''113'''
+|H1=51–43 |H2=52–70
+|points1=[[Antonio Meeking]] 17 |points2=[[Trey Johnson|Johnson]], [[Courtney Sims|Sims]] 15 each
+|rebounds1=[[Ronald Dupree]] 10 |rebounds2=[[Courtney Sims]] 8
+|assist1=[[Walker Russell, Jr.|Walker Russell]] 8 |assist2=[[Blake Ahearn]] 13
+|report=[http://www.nba.com/dleague/games/20090214/DLBDLR/recap.html Recap]<br>[http://www.nba.com/dleague/games/boxscore.jsp?gameId=2030800001 Boxscore]
+}}
+In the third annual D-League All-Star Game, the Red Team defeated the Blue team 113–103. The Red Team trailed by 8 points at the half, but managed to outscore the Blue Team 70–52 in the second half to secure the win. [[Dakota Wizards|Dakota]]'s guard [[Blake Ahearn]] scored 13 points and dished 13 assists while [[Iowa Energy|Iowa]]'s center [[Courtney Sims]] scored 15 points and grabbed 8 rebounds. Both players were named Co-MVPs of the D-League All-Star Game.<ref name="DLeagueRecap"/>
+
+===D-League Dream Factory Friday Night===
+
+====Slam Dunk Contest====
+[[James White (basketball)|James White]] won the second annual D-League Slam Dunk Contest, beating Keith Clark in the final round with a perfect score of 100. Defending champion [[Brent Petway]] was unable to repeat his last year's performance and was eliminated in the first round along with [[Othyus Jeffers]].<ref name="Dream">{{cite web|url=http://www.nba.com/dleague/news/dream_factory_090213.html |title=James White Soars To NBA D-League Slam Dunk Championship |publisher=Turner Sports Interactive, Inc |work=NBA.com/DLeague |date=February 13, 2009 |access-date=June 30, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090307224942/http://www.nba.com/dleague/news/dream_factory_090213.html |archive-date=March 7, 2009 }}</ref>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="Field"/>
+! Pos. !! width=150|Player !! width=175|Team !! Height !! Weight
+|-
+! G
+| '''[[James White (basketball)|James White]]''' || '''[[Anaheim Arsenal]]''' || align=center|'''6–7''' || align=center|'''200'''
+|-
+! F
+| [[Keith Clark (basketball)|Keith Clark]] || [[Tulsa 66ers]] || align=center|6–8 || align=center|245
+|-
+! G/F
+| [[Othyus Jeffers]] || [[Iowa Energy]] || align=center|6–5 || align=center|200
+|-
+! F
+| [[Brent Petway]] || [[Idaho Stampede]] || align=center|6–8 || align=center|205
+|}
+
+====Three-Point Shootout====
+[[File:BlakeAhearn.jpg|thumb|right|150px|[[Blake Ahearn]] won the D-League Three-Point Shootout.]]
+[[Blake Ahearn]] won the second annual D-League Three-Point Shootout, beating Ernest Scott in the final round by a score of 22–19. Ahearn scored four of the five money balls in the last stations. For the first time, the last station consists of five "money balls", instead of four standard balls and one "money ball". [[Gary Forbes]] and [[Trey Johnson]] were eliminated in the first round.<ref name="Dream"/>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="Field"/>
+! Pos. !! width=150|Player !! width=175|Team !! Height !! Weight
+|-
+! G
+| '''[[Blake Ahearn]]''' || '''[[Dakota Wizards]]''' || align=center|'''6–2''' || align=center|'''190'''
+|-
+! F
+| [[Gary Forbes]] || [[Tulsa 66ers]] || align=center|6–7 || align=center|220
+|-
+! G
+| [[Trey Johnson]] || [[Bakersfield Jam]] || align=center|6–6 || align=center|216
+|-
+! F
+| [[Ernest Scott (basketball)|Ernest Scott]] || [[Rio Grande Valley Vipers]] || align=center|6–7 || align=center|225
+|}
+
+====H–O–R–S–E Competition====
+[[Will Conroy]] won the second annual D-League H–O–R–S–E Competition, beating the defending champion [[Lance Allred]] with a through-the-legs-off-the-backboard lay-up.<ref name="Dream"/>
+
+{| class="wikitable"
+|+'''Contestants'''<ref name="Field"/>
+! Pos. !! width=150|Player !! width=175|Team !! Height !! Weight
+|-
+! G
+| '''[[Will Conroy]]''' || '''[[Albuquerque Thunderbirds]]''' || align=center|'''6–2''' || align=center|'''195'''
+|-
+! C
+| [[Lance Allred]] || [[Idaho Stampede]] || align=center|6–11 || align=center|260
+|-
+! G
+| [[Joe Crawford (basketball player)|Joe Crawford]] || [[Los Angeles D-Fenders]] || align=center|6–5 || align=center|210
+|-
+! F
+| [[Erik Daniels]] || [[Erie BayHawks (2008–2017)|Erie BayHawks]] || align=center|6–8 || align=center|214
+|}
+
+==Broadcast==
+[[File:Reggie Miller TNT.jpg|thumb|right|[[Marv Albert]] (left) and [[Reggie Miller]] (middle) were the announcers for the All-Star Game. ([[Doug Collins (basketball)|Doug Collins]] is not pictured)]]
+[[Turner Broadcasting Network]] (TNT) broadcast the All-Star Game for the sixth straight year in the United States while [[The Sports Network]] (TSN) broadcast the All-Star Game in Canada. TNT also broadcast the [[NBA All-Star Weekend Rookie Challenge|Rookie Challenge]] and the All-Star Saturday Night events. The [[NBA All-Star Weekend Celebrity Game|Celebrity Game]] was broadcast by [[ESPN]] and the [[NBA Development League|D-League]] All-Star events were broadcast by [[NBA TV]].
+
+===International===
+Aside from TNT and TSN in United States and Canada, the following television channels also broadcast the All-Star game all around the world.<ref>{{cite web|url=http://www.nba.com/allstar2009/global/broadcast.html|title=2009 NBA All-Star Weekend Global Programming|publisher=Turner Sports Interactive, Inc|work=NBA.com|access-date=June 15, 2009}}</ref>
+{{div col|colwidth=48em}}
+*'''Africa''': [[Canal+|Canal+ Horizons]], [[ESPN International|ESPN Africa]]
+*{{ANG}}: TPA
+*{{NGA}}: Silverbird TV
+*'''[[Asia-Pacific]]''': [[ESPN Star Sports|ESPN Asia]]
+*{{flagu|Australia}}: [[ESPN Australia]]
+*{{flagu|China}}: [[CCTV-5]], [[Guangdong TV]], Shanghai TV
+*{{HKG}}: [[ESPN International|ESPN Hong Kong]], [[TVB Jade|TVB HD Jade]], [[TVB Pearl]]
+*{{flagu|India}}: [[ESPN International|ESPN India]]
+*{{INA}}: [[JakTV]]
+*{{flagu|Japan}}: [[J Sports]], [[NHK|NHK BS-1]], [[NHK|NHK Digital Hivision]], [[NBA League Pass]] ([[SKY Perfect|SKY PerfectTV!]]
+*{{LIB}}: [[ShowSports]]
+*{{MAS}}: [[ESPN International|ESPN Malaysia]]
+*{{PHI}}: [[C/S 9]], [[Basketball TV]]
+*{{ROC}}: [[ESPN International|Star Sports Taiwan]]
+*{{KOR}}: [[ESPN International|MBC-ESPN]]
+*'''Europe'''
+*{{ALB}}: Telesport
+*{{ARM}}: AR TV
+*{{flagu|Belgium}}: [[Be 1]], Prime Sport 1
+*{{BIH}}: [[Televizija OBN|OBN TV]]
+*{{BUL}}: [[TV7 (Bulgarian TV channel)|TV7]]
+*{{CYP}}: [[Alfa TV]]
+*{{CZE}}: [[Nova Sport (Czech TV)|Nova Sport]]
+*{{DEN}}: [[dk4]]
+*{{FIN}}: [[Nelonen Sport Pro|Urheilu+Kanava]]
+*{{flagu|France}}: [[Canal+]], Orange Sport
+*{{flagu|Germany}}: [[ZDF]]
+*{{GRE}}: [[ET1 (Greece)|ET1]]
+*{{HUN}}: [[Sport 1 (Europe)|Sport 1]]
+*{{ISL}}: [[Stöð 2 Sport]]
+*{{flagu|Italy}}: [[SKY Sport (Italy)|SKY Sport 2]], [[SKY Sport (Italy)|SKY Sport HD]]
+*{{LAT}}: [[Latvijas Televīzija|LTV 7]]
+*{{flag|Macedonia}}: Alfa TV
+*{{MLT}}: Melita Sports 1
+*{{flagu|Netherlands}}: [[Sport1 (Netherlands)|Sport1]], [[Sport1 (Netherlands)|Sport1 HD]]
+*{{flagu|Poland}}: [[Canal+|Canal+ Sport]], Orange Sport
+*{{POR}}: [[Sport TV|Sport TV 1]], [[Sport TV|Sport TV HD]]
+*{{ROM}}: [[Boom Sport One]]
+*{{flagu|Russia}}: [[NTV Plus Sport]], [[NTV Plus|NTV Plus HD]]
+*{{SLO}}: Sport TV
+*{{flagu|Spain}}: [[Canal+]], [[Canal+|Canal+ Deportes]], [[Cuatro (TV channel)|Cuatro]]
+*{{TUR}}: [[NTV Turkey|NTV]], [[NTV Spor]]
+*{{GBR}}: [[Five (TV channel)|Five]]
+*'''Latin America''': [[ESPN Latin America]], [[DirecTV|DirecTV South America]]
+*{{ARG}}: [[Canal 7 Argentina|Canal 7]]
+*{{flagu|Brazil}}: [[ESPN Brasil]]
+*{{JAM}}: CVM
+*{{flagu|Mexico}}: Cadena 3
+*{{PAN}}: Cable Onda
+*{{PER}}: CMD
+*{{SUR}}: SCCN
+*{{VEN}}: Sport Plus
+{{div col end}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://web.archive.org/web/20110102175845/http://www.nba.com/allstar2009/ NBA.com: All-Star 2009]
+*[http://sports.espn.go.com/nba/allstar2009/index NBA All-Star 2009 – NBA – ESPN]
+
+{{NBA All-Star Games}}
+{{2008–09 NBA season by team}}
+{{NBA on TNT}}
+{{NBA on ESPN Radio}}
+
+{{DEFAULTSORT:2009 Nba All-Star Game}}
+[[Category:National Basketball Association All-Star Game]]
+[[Category:2008–09 NBA season|All-Star Game]]
+[[Category:Basketball competitions in Phoenix, Arizona|NBA All-Star Game, 2009]]
+[[Category:2009 in sports in Arizona|NBA All-Star]]

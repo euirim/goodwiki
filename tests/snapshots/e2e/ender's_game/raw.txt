@@ -1,0 +1,252 @@
+{{Short description|1985 novel by Orson Scott Card}}
+{{about|the novel|the titular series|Ender's Game (novel series)|other uses}}
+{{Use American English|date=December 2020}}
+{{good article}}
+{{Infobox book| <!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books -->
+| name = Ender's Game
+| title_orig =
+| translator =
+| image = Ender's game cover ISBN 0312932081.jpg
+| image_size =
+| alt = Cover shows a futuristic airplane landing on a lighted runway.
+| caption = 1985 first edition (hardcover)
+| author = [[Orson Scott Card]]
+| cover_artist = [[John Harris (artist)|John Harris]]
+| country = United States/Canada
+| language = English
+| series = [[Ender's Game (series)|Ender's Game series]]
+| genre = [[Science fiction]]
+| publisher = [[Tor Books]]
+| media_type = Print ([[Hardcover]], [[Paperback]] & [[Ebook]])
+| pages = 324
+| isbn = 0-312-93208-1
+| oclc = 23355613
+| release_date = January 1985
+| preceded_by =
+| followed_by = [[Speaker for the Dead]]
+}}
+'''''Ender's Game''''' is a 1985 [[military science fiction]] novel by American author [[Orson Scott Card]]. Set at an unspecified date in Earth's future, the novel presents an imperiled humankind after two conflicts with an [[Insectoids in science fiction|insectoid]] [[Extraterrestrial life|alien species]] they dub "the [[Ender's Game (novel series)#Formics|buggers]]". In preparation for an anticipated third invasion, Earth's international military force recruits young children, including the novel's protagonist, [[Ender Wiggin|Andrew "Ender" Wiggin]], to be trained as elite officers. The children learn military strategy and leadership by playing increasingly difficult [[war games]], including some in [[Weightlessness|zero gravity]], where Ender's [[Military tactics|tactical]] [[genius]] is revealed.
+
+The book originated as a short story [[Ender's Game (short story)|of the same name]], published in the August 1977 issue of ''[[Analog Science Fiction and Fact]]''.<ref>{{cite web|url=http://www.hatrack.com/osc/stories/enders-game.shtml|title=Short Stories by Orson Scott Card|year=2009|publisher=Hatrack River Enterprises Inc.|access-date=2009-01-03|archive-date=2020-02-02|archive-url=https://web.archive.org/web/20200202160057/http://www.hatrack.com/osc/stories/enders-game.shtml|url-status=live}}</ref> The novel was published on January 15, 1985. Later, by elaborating on characters and plotlines depicted in the novel, Card wrote additional books in the [[Ender's Game (series)|''Ender's Game'' series]]. Card released an updated version of ''Ender's Game'' in 1991, changing some political facts to account for the then-recent [[dissolution of the Soviet Union]] and the end of the [[Cold War]]. The novel has been translated into 34 languages.
+
+Reception of the book has been mostly positive. It has become suggested reading for many military organizations, including the [[United States Marine Corps]].<ref name="MarineC">{{cite web | url=http://guides.grc.usmcu.edu/content.php?pid=408059&sid=5775651 | title=Commandant's Professional Reading List - Primary Level Enlisted | website=Library of the Marine Corps | access-date=2017-01-09 | archive-date=2017-01-10 | archive-url=https://web.archive.org/web/20170110015130/http://guides.grc.usmcu.edu/content.php?pid=408059&sid=5775651 | url-status=dead }}</ref> ''Ender's Game'' was recognized as "best novel" by the 1985 [[Nebula Award]]<ref name="WWE-1985">{{cite web| url = http://www.worldswithoutend.com/books_year_index.asp?year=1985| title = 1985 Award Winners & Nominees| work = Worlds Without End| access-date = 2009-07-15| archive-date = 2018-11-06| archive-url = https://web.archive.org/web/20181106215604/http://www.worldswithoutend.com/books_year_index.asp?year=1985| url-status = live}}</ref> and the 1986 [[Hugo Award]]<ref name="WWE-1986">{{cite web| url = http://www.worldswithoutend.com/books_year_index.asp?year=1986| title = 1986 Award Winners & Nominees| work = Worlds Without End| access-date = 2009-07-15| archive-date = 2016-04-11| archive-url = https://web.archive.org/web/20160411232428/https://www.worldswithoutend.com/books_year_index.asp?year=1986| url-status = live}}</ref> in the genres of science fiction and fantasy. Its four sequels—''[[Speaker for the Dead]]'' (1986), ''[[Xenocide]]'' (1991), ''[[Children of the Mind]]'' (1996)'','' and ''[[Ender in Exile]]'' (2008)''—''follow Ender's subsequent travels to many different worlds in the galaxy. In addition, the later novella ''[[A War of Gifts]]'' (2007) and novel ''[[Ender's Shadow]]'' (1999), plus other novels in the ''Shadow'' saga, take place during the same time period as the original.
+
+A [[Ender's Game (film)|film adaptation of the same name]], written for the screen and directed by [[Gavin Hood]], and starring [[Asa Butterfield]] as Ender, was released in October 2013. Card co-produced the film.<ref>{{cite news |last=Sneider |first=Jeff |title=Asa Butterfield locks 'Ender's Game' |url=https://variety.com/2011/film/news/asa-butterfield-locks-ender-s-game-1118046778/ |work=Variety |date=29 November 2011 |access-date=14 December 2017 |archive-date=7 June 2019 |archive-url=https://web.archive.org/web/20190607042254/https://variety.com/2011/film/news/asa-butterfield-locks-ender-s-game-1118046778/ |url-status=live }}</ref> The novel has also been adapted into [[Ender's Game (series)#Comic books in the series|two comic book series]].
+
+== Synopsis ==
+{{Ender's Game chronology}}
+War breaks out between humans and an insect-like alien race called the [[Formics]]. The humans achieve a narrow victory then create the International Fleet (I.F.) and train gifted children to become commanders at their orbiting Battle School.
+
+[[Andrew "Ender" Wiggin]] is born a "Third": a rare exception to Earth's two-child policy, allowed by the government due to the promise shown by his two older siblings. The eldest, [[Peter Wiggin|Peter]], is an intelligent [[antisocial personality disorder|sociopath]] who bullies Ender. His sister, [[Valentine Wiggin|Valentine]], is deeply empathic. The I.F. remove Ender's monitoring device when he is six years old, seemingly ending his chances of Battle School. He is bullied by a fellow student, Stilson, but Ender turns violent and attacks him. Stilson later dies from his wounds. Colonel [[Hyrum Graff]] visits Ender after hearing about the fight. Ender attests that by showing superiority now, he has prevented future struggle. Graff offers him a place in the Battle School.
+
+Once at Battle School, Graff and the other leaders covertly work to keep Ender isolated. Ender finds solace in playing a simulated adventure game that involves being killed by and eventually killing a giant. The cadets participate in competitive war simulations in zero gravity, where Ender quickly masters the competition with novel tactics. To further wear Ender down, he is promoted to command a new army composed of raw recruits, then pitted against multiple armies at once, but Ender's success continues. Ender's jealous ex-commander, Bonzo Madrid, draws him into a fight outside the simulation, and once again seeking to preemptively stop future conflicts, Ender uses excessive force, and Bonzo dies from his injuries. 
+
+Meanwhile on Earth, Peter Wiggin uses a global communication system to post political essays under the pseudonym "[[John Locke|Locke]]", hoping to establish himself as a respected orator and then as a powerful politician. Valentine, despite not trusting Peter, agrees to publish alongside him as "[[Demosthenes]]". Their essays are soon taken seriously by the government. 
+
+Ender, now ten years old, is promoted to Command School. After some preliminary battles in the simulator, he is introduced to [[Mazer Rackham]], a hero from the Formic war who saw key patterns in the Formic behavior. Ender participates in space combat simulations created and controlled by Mazer. As the fighting become harder, he is joined by some of his friends from the Battle School as sub-commanders. Ender grows depressed by the battles, his isolation, and by the way Mazer treats him. 
+
+For his final test, under observation by I.F.'s commanders, Ender finds his fleet far outnumbered by Formic ships surrounding their homeworld. He sacrifices his entire fleet to fire a Molecular Disruption Device at the planet. The Device destroys the planet and paralyzes the surrounding bugger fleet. The commanders cheer and celebrate. Mazer informs Ender that the "simulations" were real battles, directing human spacecraft against Formic fleets via an [[ansible]], and that Ender has won the war. Ender realizes that he has committed [[genocide]].
+
+Ender and Valentine join a group of space colonists. On their new planet, Ender becomes the colony's governor. He discovers a structure that matches the simulation of the giant game from Battle School, and inside finds the dormant egg of a Formic queen. The queen telepathically communicates to Ender that before the first Formic war, they had assumed humans were a non-sentient race, for want of [[collective consciousness]], but realized their mistake too late. Instead, she had reached out to Ender to draw him here and requests that he take the egg to a new planet for the Formics to colonize.
+
+Ender takes the egg and, with information from the queen, writes ''[[The Hive Queen (Ender's Game)|The Hive Queen]]'' under the alias "Speaker for the Dead". Peter, now the leader of Earth and age 77 with a failing heart, recognizes Ender as the author of ''The Hive Queen''. He asks Ender to write a book about him, which Ender titles ''[[Hegemon|The Hegemon]]''. The combined works create a new type of funeral, in which the Speaker for the Dead tells the whole and unapologetic story of the deceased, adopted by many on Earth and its colonies. Ender and Valentine leave the colony and travel to many other worlds, looking for a safe place to establish the unborn Hive Queen.
+
+== Creation and inspiration ==
+The original "[[Ender's Game (short story)|Ender's Game]]" is a [[short story]] that provides a small snapshot of Ender's experiences in Battle School and Command School; the full-length novel encompasses more of Ender's life before, during, and after the war, and also contains some chapters describing the political exploits of his older siblings back on Earth. In a commentary track for the 20th anniversary audiobook edition of the novel, as well as in the 1991 Author's Definitive Edition, Card stated that ''Ender's Game'' was written specifically to establish the character of Ender for his role of the Speaker in ''[[Speaker for the Dead]]'', the outline for which he had written before novelizing ''Ender's Game''.<ref name="book">{{cite book|last=Card|first=Orson Scott|title=Ender's Game|publisher=Tor Books|location=New York|year=1991|edition=Author's definitive|chapter=Introduction|isbn=0-8125-5070-6|url=https://archive.org/details/endersgame00card_1}}</ref> Additionally, in the post-script of the 20th anniversary audiobook edition, Card mentions that he named Ender so that he could have a name that sounded like "[[Chess endgame|endgame]]" from chess.<ref>{{Cite book |last=Card |first=Orson Scott |title=Ender's Game Unabridged ed. |publisher=Macmillan Audio |year=2004 |location=New York, NY |pages=Author's Postscript |language=English |type=Audiobook}}</ref> In his 1991 introduction to the novel, Card discussed the influence of [[Isaac Asimov]]'s [[Foundation series]] on the novelette and novel. Historian [[Bruce Catton]]'s work on the [[American Civil War]] also influenced Card.<ref name="book" />
+
+''Ender's Game'' was the first science-fiction novel published entirely online, when it appeared on [[Delphi (online service)|Delphi]] a year before print publication.<ref name="dignazio198612">{{cite news | url=https://archive.org/stream/1986-12-compute-magazine/Compute_Issue_079_1986_Dec#page/n89/mode/2up | title=What Is Compute! Doing Here? | work=Compute! | date=December 1986 | access-date=9 November 2013 | author=D'Ignazio, Fred | pages=90}}</ref>
+
+== Critical response ==
+''Ender's Game'' won the [[Nebula Award]] for best novel in 1985,<ref>{{cite web|url=http://www.dpsinfo.com/awardweb/nebulas/#1985|title=SFWA Nebula Awards|date=22 November 2008|last=Mann|first=Laurie|access-date=3 January 2009|publisher=dpsinfo.com|archive-date=16 May 2008|archive-url=https://web.archive.org/web/20080516052643/http://dpsinfo.com/awardweb/nebulas/#1985|url-status=live}}</ref> and the [[Hugo Award]] for best novel in 1986,<ref>{{cite web|url=http://www.worldcon.org/hy.html#86|title=The Hugo Awards By Year|publisher=World Science Fiction Society|date=9 December 2005|access-date=3 January 2009|archive-url = https://web.archive.org/web/20080731112501/http://www.worldcon.org/hy.html#86 |archive-date = July 31, 2008|url-status=dead}}</ref> considered the two most prestigious awards in science fiction.<ref>{{cite web|url=http://www.locusmag.com/SFAwards/Db/Hugo.html |title=The Locus Index to SF Awards: About the Hugo Awards |publisher=Locus Publications |access-date=2009-01-13 |url-status=dead |archive-url=https://web.archive.org/web/20100103034223/http://locusmag.com/SFAwards/Db/Hugo.html |archive-date=2010-01-03 }}</ref><ref>{{cite web|url=http://www.locusmag.com/SFAwards/Db/Nebula.html|title=The Locus Index to SF Awards: About the Nebula Awards|publisher=Locus Publications|access-date=2009-01-13|archive-date=2011-07-13|archive-url=https://web.archive.org/web/20110713224818/http://www.locusmag.com/SFAwards/Db/Nebula.html|url-status=live}}</ref>  ''Ender's Game'' was also nominated for a Locus Award in 1986.<ref name="WWE-1986"/> In 1999, it placed No.&nbsp;59 on the reader's list of [[Modern Library 100 Best Novels]]. It was also honored with a spot on [[American Library Association]]'s "100 Best Books for Teens".  In 2008, the novel, along with ''[[Ender's Shadow]]'', won the [[Margaret A. Edwards Award]], which honors an author and specific works by that author for lifetime contribution to young adult literature.<ref>{{cite web |url=http://www.thisbooknext.com/books-written-by-orson-scott-card.html |archive-url=https://web.archive.org/web/20140910201333/http://www.thisbooknext.com/books-written-by-orson-scott-card.html |url-status=dead |archive-date=2014-09-10 |title=Books written by Orson Scott Card |date=2014-09-09 |access-date=2014-09-19 }}</ref> ''Ender's Game'' was included in [[Damien Broderick]]'s book ''Science Fiction: The 101 Best Novels 1985–2010''.<ref>{{cite web|url=http://nonstop-press.com/?p=2439 |title=Science Fiction: The 101 Best Novels 1985–2010 — Nonstop Press |publisher=Nonstop-press.com |date=2012-05-05 |access-date=2013-05-17 |url-status=dead |archive-url=https://web.archive.org/web/20130426200920/http://nonstop-press.com/?p=2439 |archive-date=2013-04-26 }}</ref> It ranked number nine on Locus's top SF novels published before 1990.<ref>{{Cite web|title=Locus Best SF Novels of All-Time|url=https://www.worldswithoutend.com/lists_locus_bestsf.asp|website=Worlds Without End|language=en|access-date=2020-05-28|archive-date=2020-05-23|archive-url=https://web.archive.org/web/20200523140831/http://www.worldswithoutend.com/lists_locus_bestsf.asp|url-status=live}}</ref>
+
+''[[The New York Times]]'' writer Gerald Jonas asserts that the novel's plot summary resembles a "grade Z, made-for-television, science-fiction rip-off movie", but says that Card develops the elements well despite this "unpromising material". Jonas further praises the development of the character [[Ender Wiggin]]: "Alternately likable and insufferable, he is a convincing little [[Napoleon]] in short pants."<ref name="NYT">{{cite news|url=https://query.nytimes.com/gst/fullpage.html?res=950CE2DF1339F935A25755C0A963948260&sec=&spon=&pagewanted=1|title=SCIENCE FICTION|last=Jonas|first=Gerald|date=1985-06-16|work=The New York Times|access-date=2009-01-11|archive-date=2021-11-05|archive-url=https://web.archive.org/web/20211105172954/https://www.nytimes.com/1985/06/16/books/science-fiction.html|url-status=live}}</ref>
+
+The novel has received criticism for its portrayal of violence and its justification. [[Elaine Radford]]'s review, "Ender and Hitler: Sympathy for the Superman", posits that Ender Wiggin is an intentional reference by Card to [[Adolf Hitler]] and criticizes the violence in the novel, particularly at the hands of the protagonist.<ref name="Elaine-2">{{cite web|url=http://peachfront.diaryland.com/enderhitlte.html|title=Ender and Hitler: Sympathy for the Superman (20 Years Later)|last=Radford|first=Elaine|date=2007-03-26|publisher=Elaine Radford|access-date=2009-01-11|archive-date=2019-09-30|archive-url=https://web.archive.org/web/20190930091444/https://peachfront.diaryland.com/enderhitlte.html|url-status=live}}</ref> Card responded to Radford's criticisms in ''Fantasy Review'', the same publication. Radford's criticisms are echoed in [[John Kessel]]'s essay "Creating the Innocent Killer: Ender's Game, Intention, and Morality", wherein Kessel states: "Ender gets to strike out at his enemies and still remain morally clean. ''Nothing'' is his fault."<ref name="Kessel">{{cite web|url=http://www4.ncsu.edu/~tenshi/Killer_000.htm |title=Creating the Innocent Killer: Ender's Game, Intention, and Morality |last=Kessel |first=John |year=2004 |publisher=Science Fiction Foundation |access-date=2009-01-11 |url-status=dead |archive-url=https://web.archive.org/web/20081227053817/http://www4.ncsu.edu/~tenshi/Killer_000.htm |archive-date=2008-12-27 }}</ref> Noah Berlatsky makes similar claims in his analysis of the relationship between colonization and science fiction, where he describes ''Ender's Game'' as in part a justification of "Western expansion and genocide".<ref name="Atlantic_SF_imperial">{{cite web |url=https://www.theatlantic.com/entertainment/archive/2014/04/why-sci-fi-keeps-imagining-the-enslavement-of-white-people/361173/ |title=Why Sci-Fi Keeps Imagining the Subjugation of White People |website=The Atlantic |date=April 25, 2014 |author=Noah Berlatsky |access-date=March 22, 2015 |archive-date=March 16, 2015 |archive-url=https://web.archive.org/web/20150316174827/http://www.theatlantic.com/entertainment/archive/2014/04/why-sci-fi-keeps-imagining-the-enslavement-of-white-people/361173/ |url-status=live }}</ref> However, more recently, science fiction scholar Mike Ryder has refuted the claims of Kessel and Radford, arguing that Ender is exploited by powers beyond his control.<ref>{{cite journal |last1=Ryder |first1=Mike |title=The Literature of Drones: Ethics and Remote Killing in Ender’s Game |journal=Foundation: The International Review of Science Fiction |date=2023 |issue=144 |url=https://www.research.lancs.ac.uk/portal/en/publications/the-literature-of-drones-ethics-and-remote-killing-in-enders-game(168852a0-ced2-42dd-b3bc-0cb913422754).html}}</ref>
+
+The [[U.S. Marine Corps]] Professional Reading List makes the novel recommended reading at several lower ranks, and again at Officer Candidate/Midshipman.<ref>{{cite web
+  | title = USMC Professional Reading Program (website)
+  | work = Reading List by Grade
+  | publisher = [[Marine Corps University]]
+  | date = 2014-12-13
+  | url = http://guides.grc.usmcu.edu/content.php?pid=408059&sid=4909977
+  | format = Website
+  | access-date = 2014-12-13
+  | archive-date = 2014-12-14
+  | archive-url = https://web.archive.org/web/20141214004329/http://guides.grc.usmcu.edu/content.php?pid=408059&sid=4909977
+  | url-status = dead
+  }}</ref>
+The book was placed on the reading list by Captain [[John F. Schmitt]], author of FMFM-1 (Fleet Marine Force Manual, on maneuver doctrine) for "provid[ing] useful allegories to explain why militaries do what they do in a particularly effective shorthand way".<ref name = USMCEnders3>{{cite web
+  | title = Ender's Game Discussion Guide
+  | work = USMC Professional Reading Program
+  | publisher = [[Marine Corps University]]
+  | date = 2009-09-25
+  | url = http://www.mcu.usmc.mil/lejeune_leadership/LLI%20Documnets/Enders'%20Game%203.pdf
+  | access-date = 2010-09-08
+  | archive-url = https://web.archive.org/web/20110124133745/http://www.mcu.usmc.mil/lejeune_leadership/LLI%20Documnets/Enders%27%20Game%203.pdf
+  | archive-date = 2011-01-24
+  | url-status = dead
+  }}</ref>
+In introducing the novel for use in leadership training, Marine Corps University's Lejeune program opines that it offers "lessons in training methodology, leadership, and ethics as well. . . . ''Ender's Game'' has been a stalwart item on the Marine Corps Reading List since its inception".<ref name=USMCEnders3/> It is also used as an early fictional example of [[Educational game|game-based learning]].<ref>{{Cite journal|last1=Pellegrino|first1=Joseph|last2=Scott|first2=Amy|date=2004|title=The Transition from Simulation to Game-Based Learning|journal=Interservice/Industry Training, Simulation, and Education Conference|citeseerx=10.1.1.454.5486}}</ref>
+
+== Accolades ==
+
+{|class="wikitable sortable"
+|-
+! Publication
+! Country
+! Accolade
+! Year
+! style="text-align:center;"|Rank
+|-
+| [[Amazon.com]]
+| United States
+| Best of the Century: Best Books of the Millennium Poll<ref>{{cite web |url=http://www.locusmag.com/1999/News/News11c.html |title=Locus Online: Books and Publishing News, November 1999, Page 3 |publisher=Locusmag.com |date=1999-11-23 |access-date=2013-11-09 |archive-date=2016-03-03 |archive-url=https://web.archive.org/web/20160303224807/http://www.locusmag.com/1999/News/News11c.html |url-status=live }}</ref>
+| 1999
+| {{center|32}}
+|-
+| [[Locus (magazine)|Locus]]
+| United States
+| Best 20th Century Science Fiction Novels: Reader's Poll<ref>{{cite web |url=http://www.locusmag.com/Roundtable/2012/12/all-time-novel-results-2012/ |title=Locus Roundtable » All-Time Novel Results, 2012 |publisher=Locusmag.com |date=2012-12-22 |access-date=2013-11-09 |archive-date=2016-09-27 |archive-url=https://web.archive.org/web/20160927032835/http://www.locusmag.com/Roundtable/2012/12/all-time-novel-results-2012/ |url-status=live }}</ref>
+| 2012
+| {{center|2}}
+|-
+| [[Modern Library]]
+| United States
+| [[Modern Library 100 Best Novels]]: Reader's List<ref>{{cite web |author=Search for a Title or Author |url=http://www.modernlibrary.com/top-100/100-best-novels/ |title=100 Best Novels « Modern Library |publisher=Modernlibrary.com |access-date=2013-11-09 |archive-date=2018-01-28 |archive-url=https://web.archive.org/web/20180128052329/http://www.modernlibrary.com/top-100/100-best-novels/ |url-status=live }}</ref>
+| 1999
+| {{center|59}}
+|-
+| [[NPR]]
+| United States
+| Top 100 Science Fiction, Fantasy Books: Readers' Poll<ref>{{cite web |url=https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books |title=Your Picks: Top 100 Science-Fiction, Fantasy Books |publisher=NPR |date=2011-08-11 |access-date=2013-11-09 |archive-date=2013-11-09 |archive-url=https://web.archive.org/web/20131109185815/http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books |url-status=live }}</ref>
+| 2011
+| {{center|3}}
+|-
+| [[Publishers Weekly]]
+| United States
+| Bestselling Science Fiction Novels of 2012<ref>{{cite magazine |url=http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/55458-big-names-dominated-bestsellers-in-2012.html |title=Ender's Game |magazine=Publishers Weekly |access-date=2013-11-03 |archive-date=2016-04-23 |archive-url=https://web.archive.org/web/20160423005924/http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/55458-big-names-dominated-bestsellers-in-2012.html |url-status=live }}</ref>
+| 2012
+| {{center|1}}
+|-
+| [[Science Channel]]
+| United States
+| Top 10 Sci-fi Books of All Time<ref>{{cite web |author=Sci Fi |url=http://science.discovery.com/sci-fi/10-sci-fi-books-of-all-time.htm |title=Top 10 Sci-fi Books of All Time : Science Channel |publisher=Science.discovery.com |date=2012-10-11 |access-date=2013-11-09 |archive-date=2013-11-03 |archive-url=https://web.archive.org/web/20131103100114/http://science.discovery.com/sci-fi/10-sci-fi-books-of-all-time.htm |url-status=live }}</ref>
+| 2013
+| {{center|5}}
+|}
+
+The weeks ending June 9, August 11, September 1, September 8, October 27, November 3, November 10, and November 24, 2013, the novel was No.&nbsp;1 on ''The New York Times''' Best Sellers List of Paperback Mass-Market Fiction.<ref>{{cite news |url=https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/06/09 |title=Paperback Mass-Market Fiction |newspaper=The New York Times |date=2013-06-09 |access-date=2013-11-09 |archive-date=2019-07-29 |archive-url=https://web.archive.org/web/20190729113123/https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/06/09 |url-status=live }}</ref><ref>{{cite news | url=https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/08/11 | newspaper=The New York Times | title=Paperback Mass-Market Fiction | date=2013-08-11 | access-date=2013-11-09 | archive-date=2019-07-29 | archive-url=https://web.archive.org/web/20190729105252/https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/08/11 | url-status=live }}</ref><ref>{{cite news | url=https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/09/01 | newspaper=The New York Times | title=Paperback Mass-Market Fiction | date=2013-09-01 | access-date=2013-11-09 | archive-date=2019-07-29 | archive-url=https://web.archive.org/web/20190729105250/https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/09/01 | url-status=live }}</ref><ref>{{cite news | url=https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/09/08 | newspaper=The New York Times | title=Paperback Mass-Market Fiction | date=2013-09-08 | access-date=2013-11-09 | archive-date=2019-07-29 | archive-url=https://web.archive.org/web/20190729110114/https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/09/08 | url-status=live }}</ref><ref>{{cite news | url=https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/10/27 | newspaper=The New York Times | title=Paperback Mass-Market Fiction | date=2013-10-27 | access-date=2013-11-09 | archive-date=2019-07-29 | archive-url=https://web.archive.org/web/20190729104519/https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/10/27 | url-status=live }}</ref><ref>{{cite news |url=https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/11/03 |title=Paperback Mass-Market Fiction |newspaper=The New York Times |date=2013-11-03 |access-date=2013-11-09 |archive-date=2019-07-29 |archive-url=https://web.archive.org/web/20190729104516/https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/11/03 |url-status=live }}</ref><ref>{{cite news | url=https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/11/10 | newspaper=The New York Times | title=Paperback Mass-Market Fiction | date=2013-11-10 | access-date=2013-11-11 | archive-date=2019-07-29 | archive-url=https://web.archive.org/web/20190729104522/https://www.nytimes.com/books/best-sellers/mass-market-paperback/2013/11/10 | url-status=live }}</ref><ref>{{cite news | url=https://www.nytimes.com/books/best-sellers/2013/11/24/mass-market-paperback/ | newspaper=The New York Times | title=Paperback Mass-Market Fiction | date=2013-11-24 | access-date=2013-11-25 | archive-date=2017-01-27 | archive-url=https://web.archive.org/web/20170127223403/http://www.nytimes.com/books/best-sellers/2013/11/24/mass-market-paperback/ | url-status=live }}</ref>
+
+== Revisions ==
+In 1991, Card made several minor changes to reflect the political climates of the time, including the decline of the [[Soviet Union]]. In the afterword of ''[[Ender in Exile]]'' (2008), Card stated that many of the details in chapter 15 of ''Ender's Game'' were modified for use in the subsequent novels and short stories.  In order to more closely match the other material, Card has rewritten chapter 15 and plans to offer a revised edition of the book.<ref>{{cite web|url=http://us.macmillan.com/enderinexile|title=Ender in Exile|access-date=2008-12-04|archive-url=https://web.archive.org/web/20160401041300/http://us.macmillan.com/enderinexile|archive-date=2016-04-01|url-status=dead}} Audio edition, Macmillan Audio, Nov 2008</ref>
+
+== Adaptations ==
+
+=== Film ===
+{{Main|Ender's Game (film)}}
+After several years of speculation on the possibility, [[Summit Entertainment]] financed and coordinated the development of a film in 2011, serving as its distributor.<ref>{{cite news|last=Gallagher|first=Brian|title=Ender's Game Lands at Summit Entertainment|url=http://www.movieweb.com/news/enders-game-lands-at-summit-entertainment|work=MovieWeb|access-date=2011-11-19|archive-date=2013-10-16|archive-url=https://web.archive.org/web/20131016003927/http://www.movieweb.com/news/enders-game-lands-at-summit-entertainment|url-status=live}}</ref><ref>{{cite news|last=McNary|first=Dave|title=Summit plays 'Ender's Game'|url=https://www.variety.com/article/VR1118036112|newspaper=Variety|date=Apr 28, 2011|access-date=April 20, 2020|archive-date=February 29, 2012|archive-url=https://web.archive.org/web/20120229162812/http://www.variety.com/article/VR1118036112|url-status=live}}</ref> [[Gavin Hood]] directed the film, which lasts 1 hour and 54 minutes.<ref>{{cite web|url=https://www.comingsoon.net/news/movienews.php?id=69974|title=Gavin Hood Attached to Ender's Game|date=September 21, 2010|work=comingsoon.net|access-date=2010-09-21|archive-date=2010-09-22|archive-url=https://web.archive.org/web/20100922130136/http://www.comingsoon.net/news/movienews.php?id=69974|url-status=live}}</ref><ref>{{cite news|last=Zeitchik|first=Steven|title=Gavin Hood looks to play 'Ender's Game'|url=http://latimesblogs.latimes.com/movies/2010/09/orson-scott-card-enders-game-gavin-hood.html|newspaper=Los Angeles Times|date=September 20, 2010|access-date=May 28, 2011|archive-date=January 7, 2019|archive-url=https://web.archive.org/web/20190107185525/https://latimesblogs.latimes.com/movies/2010/09/orson-scott-card-enders-game-gavin-hood.html|url-status=live}}</ref> Filming began in [[New Orleans, Louisiana]], on February 27, 2012,<ref>{{cite web |author=Christine |url=http://www.onlocationvacations.com/2012/03/01/enders-game-begins-filming-at-the-michoud-assembly-facility-in-new-orleans/ |title='Ender's Game' begins filming at the Michoud Assembly Facility in New Orleans |publisher=Onlocationvacations.com |date=2012-03-01 |access-date=2013-05-17 |archive-date=2019-06-29 |archive-url=https://web.archive.org/web/20190629204415/https://onlocationvacations.com/2012/03/01/enders-game-begins-filming-at-the-michoud-assembly-facility-in-new-orleans/ |url-status=live }}</ref> and was released on November 1, 2013 (USA).<ref>{{cite web |url=https://www.comingsoon.net/films.php?id=69977 |title=Ender's Game Trailer, News, Videos, and Reviews |publisher=ComingSoon.net |access-date=2013-05-17 |archive-date=2013-03-23 |archive-url=https://web.archive.org/web/20130323032945/http://www.comingsoon.net/films.php?id=69977 |url-status=live }}</ref> A movie preview trailer<ref>{{cite web|title=Ender's Game Trailer|url=http://www.hulu.com/watch/487866#i0,p0,d2|publisher=Summit Entertainment|access-date=2013-05-14|archive-date=2013-07-05|archive-url=https://web.archive.org/web/20130705073641/http://www.hulu.com/watch/487866#i0,p0,d2|url-status=live}}</ref> was released in May 2013 and a second trailer<ref>{{cite web|title=Ender's Game Trailer 2|url=https://www.youtube.com/watch?v=2UNWLgY-wuo|publisher=Summit Entertainment|access-date=2013-08-18|archive-date=2013-08-15|archive-url=https://web.archive.org/web/20130815160312/http://www.youtube.com/watch?v=2UNWLgY-wuo|url-status=live}}</ref> was released later that year.
+
+Card has called ''Ender's Game'' "[[unfilmable]]", "because everything takes place in Ender's head", and refused to sign a film deal unless he could ensure that the film was "true to the story". Of the film that he eventually agreed to, Card said it was "the best that good people could do with a story they really cared about and believed in", and while warning fans not to expect a completely faithful adaptation, called the film "damn good".<ref>{{cite news |url=http://www.neontommy.com/news/2013/04/orson-scott-card-enders-game-book-and-movie |title=Orson Scott Card Talks About 'Ender's Game' Book And Movie |work=Neon Tommy |date=2013-04-20 |access-date=2013-05-17 |archive-date=2013-05-10 |archive-url=https://web.archive.org/web/20130510110454/http://www.neontommy.com/news/2013/04/orson-scott-card-enders-game-book-and-movie |url-status=live }}</ref>
+
+The movie starred [[Asa Butterfield]] as [[Ender Wiggin]] and [[Harrison Ford]] as Colonel Hyrum Graff. It grossed $125 million worldwide,<ref name="mojo">{{cite web |url= https://www.boxofficemojo.com/movies/?id=endersgame.htm |title= Ender's Game |website= [[Box Office Mojo]] |access-date= 2020-04-20 |archive-date= 2019-08-20 |archive-url= https://web.archive.org/web/20190820091325/https://www.boxofficemojo.com/movies/?id=endersgame.htm |url-status= live }}</ref> and received mixed reviews from critics.<ref>{{cite web |url= https://www.metacritic.com/movie/enders-game |title= ''Ender's Game'' Reviews |work= [[Metacritic]] |access-date= 2020-04-20 |archive-date= 2020-05-23 |archive-url= https://web.archive.org/web/20200523010511/https://www.metacritic.com/movie/enders-game |url-status= live }}</ref>
+
+=== Video game ===
+In 2008 it was announced an Ender's Game video game was in the works.<ref>{{Cite web |url=https://www.engadget.com/2008/01/29/undertow-team-creating-orson-scott-cards-enders-games-game/ |title=L. Kietzmann (2008) – Undertow team creating Orson Scott Card's Ender's Game's game |access-date=2018-02-25 |archive-date=2018-02-26 |archive-url=https://web.archive.org/web/20180226032713/https://www.engadget.com/2008/01/29/undertow-team-creating-orson-scott-cards-enders-games-game/ |url-status=live }}</ref> It was to be known as ''Ender's Game: Battle Room'' and was a planned digitally distributed [[video game]] for all viable downloadable platforms.<ref name=devdiscuss>{{cite magazine|url=http://blog.newsweek.com/blogs/levelup/archive/2008/01/29/exclusive-donald-and-geremy-mustard-discuss-plans-for-ender-s-game.aspx|title= Exclusive: Chair Entertainment's Donald and Geremy Mustard Shed Some Light On Their Plans For 'Ender's Game'|access-date=2009-01-05|magazine=Newsweek|date=January 29, 2008|last=Croal|first=N'Gai|archive-url = https://web.archive.org/web/20080603193919/http://blog.newsweek.com/blogs/levelup/archive/2008/01/29/exclusive-donald-and-geremy-mustard-discuss-plans-for-ender-s-game.aspx |archive-date = June 3, 2008|url-status=dead}}</ref> It was under development by [[Chair Entertainment]], which also developed the Xbox Live Arcade games ''[[Undertow (video game)|Undertow]]'' and ''[[Shadow Complex]]''. Chair had sold the licensing of [[Empire (2006 novel)|''Empire'']] to Card, which became a bestselling novel. Little was revealed about the game, save its setting in the Ender universe and that it would have focused on the Battle Room.<ref name=devdiscuss/>
+
+In December 2010, it was announced that the video game development had stopped and the project put on indefinite hold.<ref>{{cite web|url=http://www.joystiq.com/2010/12/14/enders-game-tabled-by-chair|title=Ender's Game tabled by Chair|access-date=2012-03-29|publisher=Joystiq|date=December 14, 2010|archive-date=2012-10-18|archive-url=https://web.archive.org/web/20121018191438/http://www.joystiq.com/2010/12/14/enders-game-tabled-by-chair/|url-status=live}}</ref>
+
+Orson Scott Card and [[Amaze Entertainment]] also came to an agreement regarding a video game adaption of the novel but nothing ever materialized.<ref>{{Cite web |url=https://www.youtube.com/watch?v=mWFZ84u11Wo |title=Orson Scott Card interview — Atari computers & computer games - YouTube<!-- Bot generated title --> |website=[[YouTube]] |access-date=2018-02-25 |archive-date=2018-07-04 |archive-url=https://web.archive.org/web/20180704134700/https://www.youtube.com/watch?v=mWFZ84u11Wo |url-status=live }}</ref>
+
+=== Comics ===
+{{main|Ender's Game (comics)}}
+[[Marvel Comics]] and [[Orson Scott Card]] announced on April 19, 2008, that they would be publishing a [[Limited series (comics)|limited series]] adaptation of ''Ender's Game'' as the first in a comic series that would adapt all of Card's ''Ender's Game'' novels.  Card was quoted as saying that it is the first step in moving the story to a visual medium.<ref>{{cite web|url=http://www.marvel.com/news/comicstories.3185.NYCC_~apos~08~colon~_Ender~apos~s_Game_Coming_to_Marvel|title=NYCC '08: Marvel to Adapt Orson Scott Card's Ender's Game Series|last=Penagos|first=Ryan|date=May 12, 2008|publisher=Marvel Characters, Inc.|access-date=2008-09-13|archive-date=2012-06-30|archive-url=https://archive.today/20120630010810/http://www.marvel.com/news/comicstories.3185.NYCC_~apos~08~colon~_Ender~apos~s_Game_Coming_to_Marvel|url-status=live}}</ref> The first five-issue series, titled ''[[Ender Comics#Ender's Game: Battle School|Ender's Game: Battle School]]'', was written by [[Christopher Yost]], while the second five-issue series, ''[[Ender Comics#Ender's Shadow: Command School|Ender's Shadow: Battle School]]'', was written by [[Mike Carey (British writer)|Mike Carey]].<ref>{{cite web|url=http://www.tfaw.com/Profile/Enders-Shadow-Battle-School-1-%28of-5%29___333429|date=1986–2009|publisher=Things From Another World, Inc.|title=Enders Shadow Battle School #1 (of 5)|access-date=2009-01-05|archive-url=https://web.archive.org/web/20081224083006/http://www.tfaw.com/Profile/Enders-Shadow-Battle-School-1-%28of-5%29___333429|archive-date=2008-12-24|url-status=dead}}</ref>
+
+=== Audioplay ===
+''Ender's Game Alive: The Full Cast Audioplay'', is an 2013 [[Radio drama|audio drama]] written by Orson Scott Card, based on the ''Ender's Game'' novel. At over seven hours in length, this retelling of ''Ender's Game'' hints at storylines from "[[Teacher's Pest]]", "[[The Polish Boy]]", "[[The Gold Bug (Card short story)|The Gold Bug]]", ''Ender's Shadow'', ''[[Shadow of the Hegemon]]'', ''[[Shadow of the Giant]]'', ''[[Shadows in Flight]]'', ''[[Earth Unaware]]'', and ''Speaker for the Dead'', and gives new insight into the beginnings of Ender's philotic connection with the Hive Queen. ''Ender's Game Alive'' is directed by Gabrielle de Cuir, produced by Stefan Rudnicki at Skyboat Media, published by [[Audible.com]], and performed by a cast of over 30 voice actors playing over 100 roles.<ref>{{cite web |url=http://skyboatmedia.com/enders-game-alive/ |title=Ender'S Game Alive – The Full Cast Audioplay By Orson Scott Card |publisher=Skyboat Media |date=2013-10-01 |access-date=2013-10-30 |archive-date=2013-11-01 |archive-url=https://web.archive.org/web/20131101213951/http://skyboatmedia.com/enders-game-alive/ |url-status=live }}</ref><ref>{{cite web |author=Skyboat Media Plus |url=http://vimeo.com/76188947 |title=Orson Scott Card – Author of Ender's Game Alive on Vimeo |publisher=Vimeo.com |date=2013-10-04 |access-date=2013-10-30 |archive-date=2013-10-23 |archive-url=https://web.archive.org/web/20131023005508/http://vimeo.com/76188947 |url-status=live }}</ref>
+
+Audible also commissioned a German-language adaptation of the same script. Titled ''Ender's Game/Das grosse Spiel - Das ungekürzte Hörspiel'' ("The unabridged audio drama"), this adaptation was produced by "Lauscherlounge", directed by Balthasar von Weymarn and performed by a cast of 100 different voice actors including children.<ref>{{cite web|url=https://www.audible.de/pd/Enders-Game-Hoerbuch/B00FOR2M0A|title=Ender's Game - Das ungekürzte Hörspiel von Orson Scott Card|publisher=Audible|date=2013-10-01|access-date=2020-03-31|archive-date=2021-10-29|archive-url=https://web.archive.org/web/20211029154617/https://www.audible.de/pd/Enders-Game-Hoerbuch/B00FOR2M0A|url-status=live}}</ref>
+
+== Translations ==
+''Ender's Game'' has been translated into 34 languages:
+{{Div col}}
+* {{lang-sq|Loja e Enderit}} ("Ender's Game").
+* {{lang-bg|Играта на Ендър}} ("Ender's Game").
+* {{lang-ca|El joc de l'Ender}} ("Ender's Game"), 2000.
+* {{zh|c=安德的游戏}} (pinyin：''Ān dé de yóu xì'') ("Ender's Game"), 2003.
+* {{lang-hr|Enderova igra}} ("Ender's Game"), 2007.
+* {{lang-cs|Enderova hra}} ("Ender's Game"), 1994.
+* {{lang-da|Ender's strategi}} ("Ender's Strategy"), 1990.
+* {{lang-nl|Ender Wint, De Tactiek van Ender}} ("Ender Wins", "The Tactics of Ender"), 1989, 1994 (two editions)
+* {{lang-et|Enderi mäng}} ("Ender's Game"), 2000.
+* {{lang-fi|Ender}} ("Ender"), 1990.
+* {{lang-fr|La Stratégie Ender}} ("The Ender Strategy"), 1996, 1999, 2000, 2001.
+* {{lang-gl|O xogo de Ender}} ("Ender's Game"), 2011
+* {{lang-ka|ენდერის თამაში}} (''enderis TamaSi'') ("Ender's Game"), 2015.
+* {{lang-de|Das große Spiel}} ("The Great Game"), 1986, 2005.
+* {{lang-el|Το παιχνίδι του Έντερ}} (''Tǒ pehníthi too Ender'') ("Ender's Game"), 1996.
+* {{lang-he|המשחק של אנדר}} (''Ha-Misḥaq šel Ender'') ("Ender's Game"), 1994.
+* {{lang-hu|Végjáték}} ("Endgame"), 1991.
+* {{lang-it|Il gioco di Ender}} ("Ender's Game").
+* {{lang-ja|エンダーのゲーム}} (''Endā no Gēmu'') ("Ender's Game"), 1987.
+* {{lang-ko|엔더의 게임}} (''Endeoŭi Geim'') ("Ender's Game"), 1992, 2000 (two editions).
+* {{lang-lv|Endera spēle}} ("Ender's Game"), 2008.
+* {{lang-lt|Enderio Žaidimas}} ("Ender's Game"), 2007
+* {{lang-no|Enders spill}} ("Ender's Game"), 1999.
+* {{lang-fa|بازی اندر}} (''Bazi ē Ender''), 2011
+* {{lang-pl|Gra Endera}} ("Ender's Game"), 1994.
+* {{lang-pt|O Jogo do Exterminador}} ("The Game of the Exterminator") ([[Brazilian Portuguese|Brazil]]).
+* {{lang-pt|O jogo final}} ("The Final Game") ([[European Portuguese|Portugal]]).
+* {{lang-ro|Jocul lui Ender}} ("Ender's Game").
+* {{lang-ru|Игра Эндера}} (''Igra Endera'') ("Ender's Game"), 1995, 1996, 2002, 2003 (two editions).
+* {{lang-sl|Enderjeva igra}} ("Ender's Game"), 2010.
+* {{lang-sr|Eндерова игра}} (''Enderova igra'') ("Ender's Game"), 1988.
+* {{lang-es|El juego de Ender}} ("Ender's Game").
+* {{lang-sv|Enders spel}} ("Ender's Game"), 1991, 1998.
+* {{lang-th|เกมพลิกโลก}} ("The Game that Changed the World"), 2007.
+* {{lang-tr|Ender'in Oyunu}} ("Ender's Game").
+* {{lang-uk|Гра Ендера}} ("Ender's Game"), 2013.
+* {{lang-vi|Trò chơi của Ender}} ("Ender's Game"), 2014.
+{{Div col end}}
+
+== See also ==
+* [[List of Ender's Game characters|List of ''Ender's Game'' characters]]
+* [[Formics]]
+* ''[[The Last Starfighter]]'' - 1984 film with a similar premise
+
+== Notes ==
+{{Reflist|30em}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category}}
+* [https://web.archive.org/web/20071122233433/http://www.hatrack.com/osc/books/endersgame/endersgame.shtml About the novel ''Ender's Game'' from Card's website]
+* [https://us.macmillan.com/books/9780812550702 ''Ender's Game''] at [[Macmillan Publishers|Macmillan]]
+* {{ISFDB title|id=2004|title=Ender's Game}}
+* [https://mormonarts.lib.byu.edu/works/enders-game/ ''Ender's Game'']. [[Mormon Literature & Creative Arts]] Database.
+* [http://www.intergalacticmedicineshow.com/ Intergalactic Medicine Show]: Online science fiction magazine published by Orson Scott Card. Features a new Ender's world story in every issue.
+
+{{Orson Scott Card |enderstate=expanded}}
+{{Hugo Award Best Novel 1981–1990}}
+{{Nebula Award Best Novel}}
+
+{{Authority control}}
+
+[[Category:1985 science fiction novels]]
+[[Category:American young adult novels]]
+[[Category:1985 American novels]]
+[[Category:Novels set in the 22nd century]]
+[[Category:433 Eros]]
+[[Category:American novels adapted into films]]
+[[Category:Science fiction novels adapted into films]]
+[[Category:Ender's Game series books]]
+[[Category:Hugo Award for Best Novel-winning works]]
+[[Category:Military science fiction novels]]
+[[Category:Fiction about near-Earth asteroids]]
+[[Category:Nebula Award for Best Novel-winning works]]
+[[Category:Tor Books books]]
+[[Category:Works about child soldiers]]
+[[Category:Works based on short fiction]]
+[[Category:Works originally published in Analog Science Fiction and Fact]]
+[[Category:Fictional video games]]
+[[Category:Genocide in fiction]]
+[[Category:Fiction about space warfare]]

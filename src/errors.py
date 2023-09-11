@@ -1,0 +1,2 @@
+class CorruptWikitextError(Exception):
+    pass

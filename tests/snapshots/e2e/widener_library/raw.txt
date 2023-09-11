@@ -1,0 +1,1501 @@
+{{short description|Primary building of the library system of Harvard University}}
+{{good article}}
+{{Infobox library
+| library_name       = Harry Elkins Widener<br />Memorial Library
+| library_logo       =
+| image              = WidenerLibrary HarvardUniversity Springtime.jpg
+| image_upright      = 1.3
+| caption            = "You could destroy all the other Harvard buildings and, with Widener left standing, still have a university." {{nobr|{{mdash}}{{thinsp}}[[G.&nbsp;L. Kittredge]]{{r|buck}}}}
+| type               = Academic
+| scope              =
+| established        = 1915
+| location           = [[Cambridge, Massachusetts]], U.S.
+| coordinates        =  {{nobr|{{coord|42|22|24.4|N|71|06|59.4|W|display=inline,title}}}}
+| branch_of          = [[Harvard College Library]]<!--check this formally-->
+| items_collected    = Primarily humanities and {{nobr|social{{nbsp}}sciences}}
+| collection_size    = {{plainlist|
+* {{nobr|3.5 million (onsite)}}
+* {{nobr|3 million (offsite)}}
+}}
+| criteria           =
+| req_to_access      = {{nobr|Harvard faculty, students{{nbsp}}& staff}}
+| annual_circulation = 600,000 items/year<!--1997 figure-->
+| country = United States
+| pop_served         =
+| budget             =
+| director           =
+| num_employees      =
+| website            = [https://library.harvard.edu/libraries/widener Widener Library]
+| references         =
+}}
+The '''Harry Elkins Widener Memorial Library''', housing some 3.5{{nbsp}}million books in its "vast and cavernous"{{hsp}}{{r|sheavian}} [[stacks (library architecture)|stacks]], is the center{{shy}}piece of the Harvard College Libraries (the libraries of Harvard's [[Harvard Faculty of Arts and Sciences|Faculty of Arts and Sciences]]) and, more broadly, of the entire [[Harvard Library]] system.{{r|counting}}
+It honors 1907 [[Harvard College]] graduate and [[book collector]] [[Harry Elkins Widener]], and was built by his mother [[Eleanor Elkins Widener]] after his death in the [[sinking of the RMS Titanic|sinking of the RMS ''Titanic'']] in 1912.
+
+The library's holdings, which include works in more than one hundred languages, comprise "one of the world's most comprehen{{shy}}sive research collec{{shy}}tions in the [[humanities]] and [[List of social sciences|social sciences]]."{{hsp}}{{r|collections}}
+Its {{convert|57|mi|km}} of shelves, along five miles (8{{nbsp}}km) of aisles on ten levels, comprise a "[[labyrinth]]" which one student "could not enter without feeling that she ought to carry a compass, a sandwich, and a whistle."{{hsp}}{{r|tuchman}}
+
+At the building's heart are the '''Widener Memorial Rooms''', displaying papers and mementos recalling the life and death of Harry Widener, as well as the
+'''Harry Elkins Widener Collec{{shy}}tion''',{{r|hewc}}
+"the precious group of rare and wonder{{shy}}fully interesting books brought together by Mr. Widener",{{r|snead}}
+to which was later added one of the few perfect [[Gutenberg Bible#Existing copies of the Gutenberg Bible|Gutenberg Bibles]]{{mdashb}}the object of a 1969 burglary attempt conjectured by Harvard's police chief to have been inspired by the 1964 [[heist film]]{{thinsp}}''[[Topkapi (film)|Topkapi]]''.
+
+Campus legends holding that Harry Widener's fate led to the institu{{shy}}tion of an undergrad{{shy}}uate swimming-proficiency requirement, and that an additional donation from his mother subsidizes ice cream at Harvard meals, are without foundation.{{r|bentinck1980}}{{r|legends}}
+
+[[File:HarvardUniversity WidenerLibrary TabletMontage.jpg|thumb|right|upright=1.9
+|Tablets in vestibule and foyer. "This noble gift to learning comes to us with the shadow of a great sorrow resting upon it", said [[Henry Cabot Lodge]] at the dedica{{shy}}tion. "But with the march of the years{{nbsp}}... the shad{{shy}}ow of grief will pass, while the great memo{{shy}}rial will remain".{{NoteTag
+|{{r|ask_inscriptions}}{{r|transcript}}
+The quotation "He labored not for himself only{{nbsp}}..." alludes to [[Ecclesiasticus|Ecclesi{{shy}}as{{shy}}ti{{shy}}cus]] 33:17.
+}}
+]]
+
+__TOC__
+{{clear}}
+
+==Background, conception and gift==
+
+[[File:AmCyc Harvard University - Gore Hall.jpg|thumb|right|upright=1.5|Widener Library's predecessor, Gore Hall]]
+[[File:HarryElkinsWidener LastWillAndTestament cropped.jpg|thumb|right|upright=1.0
+|link=File:HarryElkinsWidener_LastWillAndTestament.jpg|Harry Widener's will directed that his books go to Harvard when it was capable of caring for them properly.]]
+[[File:Widener w1.jpg|thumb|right|upright=1.0
+|Eleanor Widener, son [[George D. Widener, Jr.|George]] (left), and archi{{shy}}tect [[Horace Trumbauer|Horace Trum{{shy}}bauer]] in [[Harvard Yard]], {{nobr|c. 1912}}
+]]
+
+===Predecessor===
+
+{{main|Gore Hall}}
+
+By the opening of the twentieth century alarms had been issuing for many years about Harvard's "disgrace{{shy}}fully inadequate"{{hsp}}{{r|histcambridge|p=276}}
+library, Gore Hall, completed in 1841 (when Harvard owned some 44,000 books){{r|bentinck1980|p=5}}
+and declared full in 1863.{{r|bentinck1980|p=5}}
+Harvard Librarian [[Justin Winsor]] concluded his 1892 Annual Report by pleading, "{{shy|I have in earlier reports exhaust|ed the language of warning and anxiety, in rep|re|sent|ing the totally inad|e|quate accom|mo|da|tions for books and readers which Gore Hall affords. Each twelve months brings us nearer to a chaotic condition}}";{{r|lib1892|p=15}}
+his successor [[Archibald Cary Coolidge]] asserted that the [[Boston Public Library]] was a better place to write an {{shy|under|grad|u|ate}} [[thesis]].{{r|coolidge|p=29}}
+Despite substantial additions in 1876 and 1907,{{r|leighton}}
+in 1910 a committee of architects termed Gore
+{{blockquote|unsafe [and] unsuitable for its object{{nbsp}}... No amount of tinkering can make it really good{{nbsp}}... Hopelessly over{{shy}}crowded{{nbsp}}... leaks when there is a heavy rain{{nbsp}}... intolerably hot in summer{{nbsp}}... Books are put in double rows and are not infrequently left lying on top of one another, or actually on the floor{{nbsp}}...{{r|bentinck1976|pp=51–52}}
+}}<!--<end quote-->
+With university librarian [[William Coolidge Lane]] reporting that the building's light switches were delivering electric shocks to his staff,{{r|shocks}}
+and dormitory basements pressed into service as overflow storage{{r|graduates_window}}
+for Harvard's 543,000 books,{{r|observed|p=50}}
+the committee drew up a proposal for replacement of Gore in stages. [[Andrew Carnegie]] was approached for financing without success.{{NoteTag
+|{{r|canoe|p=88}}
+"When I cease to be President of Harvard College," Lowell wrote around this time, "I shall join one of the [[mendicant orders]], so as to have less begging to do{{nbsp}}..."{{hsp}}{{ran|B|p=23}}
+In May 1911 the ''[[Boston American]]'' (published by disgraced Harvard dropout [[William Randolph Hearst]]){{hsp}}{{r|hearst}} carried a mock adver{{shy}}tise{{shy}}ment: "Wanted{{mdashb}}a millionaire. Will some kind millionaire please give Harvard Univer{{shy}}sity a library building? Tainted money not barred. [[John D. Rockefeller|Mr. Rockefeller]], take notice. [[Andrew Carnegie|Mr. Carnegie]], please write."{{hsp}}{{r|canoe|p=87}}
+}}
+
+===Death of Harry Widener===
+
+{{main|Harry Elkins Widener}}
+
+[[File:HarryElkinsWidener YearbookPhoto cropped.jpg|thumb|left|upright=0.40 |link=File:HarryElkinsWidener_YearbookPhoto.jpg |[[Harry Elkins Widener]] ]]
+
+[[File:HarvardUniversity GoreHall RemovingBooks c1912.jpg|thumb|right|upright=1.0|Two electric trucks removed Gore Hall's books for storage during Widener's construction.{{r|gazette2012A}}]]
+
+In 1912, Harry Elkins Widener{{mdashb}}scion of two of the wealthiest families in America,{{r|dies_paris}} a 1907 graduate of [[Harvard College]], and an accomplished [[book collecting|bibliophile]] despite his youth{{r|newton}}{{mdashb}}died
+in the [[sinking of the RMS Titanic|sinking of the RMS ''Titanic'']].
+His father [[George Dunton Widener]] also perished, but his mother [[Eleanor Elkins Widener]] survived.{{r|dies_paris}}
+
+Harry Widener's will instructed that his mother, when "in her judgment [[Harvard University]] shall make arrange{{shy}}ments for properly caring for my collec{{shy}}tion of books{{nbsp}}... shall give them to said University to be known as the Harry Elkins Widener Collection",{{NoteTag|
+{{r|HEW_will}} Stipulations on conditions of storage began to appear in bequests to Harvard's libraries during the nineteenth century.{{r|burke}} For example, the 1883–84 annual report of [[Harvard Divinity School]]'s dean noted that [[Ezra Abbot]]{{'}}s widow, in donating four thousand volumes from his personal library, asked for assurance that a better and safer replacement for the existing Divinity School library building be constructed promptly; the dean also wrote that such a replacement would encourage future donors.{{r|divinity}}
+}}<!--<<end efn-->
+and he had told a friend, not long before he died, "I want to be remembered in connection with a great library, [but] I do not see how it is going to be brought about."{{hsp}}{{r|newton}}
+
+To enable the fulfillment of her son's wishes Eleanor Widener briefly consid{{shy}}ered funding an addition to Gore Hall, but soon determined to build instead a completely new and far larger library building{{mdashb}}"a perpetual memorial"{{hsp}}{{r|canoe|p=90}}
+to Harry Widener, housing not only his personal book collection but Harvard's general library as well,{{r|gift}}
+with room for growth.{{r|Harvard's_new}}
+As Biel has written, "The [Harvard architects] committee's [[Beaux-Arts architecture|Beaux Arts]] design [for Gore Hall's projected replacement], with its massiveness and symmetry, offered monumen{{shy}}tal{{shy}}ity with nothing more particular to monumen{{shy}}tal{{shy}}ize than the aspira{{shy}}tions of the modern university"{{mdashb}}until the ''Titanic'' sank and "through delicate negotia{{shy}}tion, [Harvard] convinced Eleanor Widener that the most eloquent tribute to Harry would be an entire library rather than a rare book wing."{{hsp}}{{r|canoe|p=88-89}}
+
+===Terms and cost of gift===
+
+To her gift Eleanor Widener attached a number of stipulations,{{ran|B|p=43}}<!--elaborate-->
+including that the project's architects be the firm of [[Horace Trumbauer|Horace Trumbauer{{nbsp}}& Associates]],{{r|valve_abele}}
+which had built several mansions for both the Elkins and the [[Widener family|Widener]] families.{{ran|B|p=27}}
+"Mrs. Widener does not give the University the money to build a new library, but has offered to build a library satisfactory in external appearance to ''herself,''" Harvard President [[Abbott Lawrence Lowell]] wrote privately.
+"The exterior was her own choice, and she has decided architec{{shy}}tur{{shy}}al opinions."{{hsp}}{{r|shandtucci|p=167}}
+Harvard historian [[William Bentinck-Smith]] has written that
+
+[[File:GoreHallHarvard UnderDemolition early1913 cropped.jpg|thumb|right|upright=1.5|link=File:GoreHallHarvard_UnderDemolition_early1913.jpg
+|Gore Hall was reduced to a "pile of stones and rubbish" to make way for Widener.{{r|bentinck1980|p=13}}]]
+
+{{blockquote|To [Harvard officials] Mrs. Widener was a lovely and generous lady whose wealth, power, and remoteness made her a somewhat terrifying figure who must not be roused to annoyance or outrage. Once [construction] began, all financial transactions were the donor's private business, and no one at Harvard ever knew the exact cost. Mrs. Widener was counting on $2{{nbsp}}million, [but] it is probable the cost exceeded $3.5{{nbsp}}million [equivalent to ${{Inflation|US-GDP|3.5|1914|r=-1}} million in {{Inflation-year|US-GDP}}].{{NoteTag
+|{{r|bentinck1980|p=14}}{{Inflation-fn|US-GDP}}
+Eleanor Widener expressed vexation at newspapers' misreporting of the circumstances of her gift, writing to Lowell, "I want emphasized{{nbsp}}... that the library is a memorial to my dear son, to be known as the 'Harry Elkins Widener Memorial Library,' given by me{{nbsp}}& not his [paternal grandfather [[P. A. B. Widener|{{nobr|P. A. B.}} Widener]]] as has been so often stated."{{hsp}}{{r|mrsw}} Years later her second husband [[Alexander Hamilton Rice, Jr.|A.{{nbsp}}H. Rice, Jr.]] insisted that Lowell do his best "to see that in all official reports, etc. the Library is referred to as the Harry Elkins Widener Memorial Library{{mdashb}}Widener! Not one cent of Widener money, one second of Widener thought, nor one ounce of Widener energy were expended on either the conception or construction of the Library.{{hsp}}{{r|bentinck1980|p=15}}
+<!--END NOTE>>--> }}<!--END QUOTE>>-->}}
+
+Though Harvard awarded Trumbauer an honorary degree on the day of the new library's dedication,{{NoteTag
+|{{r|meister|p=147}}
+Eleanor Widener was not similarly honored, because women were ineligible for Harvard honorary degrees at the time.{{r|observed|p=72}}
+The ''[[Harvard Graduates Magazine]]'' reassured its readers that the admission of ladies, for the first time, to certain Commencement proceedings "will not, however, create any precedent. It was due to the dedication of the Library, which demanded that once, at least, custom should be broken in favor of Mrs. Widener and her friends{{nbsp}}..."{{hsp}}{{r|sanders}}
+}}
+it was Trumbauer associate [[Julian F. Abele]] who had overall responsi{{shy}}bility for the building's design,{{r|valve_abele}}
+which largely followed the 1910 architects' committee's outline (though with the committee's central circula{{shy}}tion room shifted from the center to the northeast corner, yielding pride of place to the Memorial Rooms).{{NoteTag
+|{{r|canoe|p=89}}
+''The Library Journal'' commented: "The building has administrative disadvantages necessitate by its character as a memorial, with a central [[wikt:fane#English-temple|fane]] housing the private library collected by young Widener{{nbsp}}... This occupies what would otherwise be the central court and cuts off access from the stack except at the two ends, but is scarcely to be criticized in view of the splendor of the gift and the parental affection thus enshrined and perpetuated by Mrs. Widener."{{hsp}}{{r|tlj_may1915}}
+<!--END NOTE>>-->}}
+
+After Gore Hall was demolished to make way, ground was broken on February{{nbsp}}12, 1913, and the corner{{shy}}stone laid June{{nbsp}}16.
+By later that year some 50,000 bricks were being laid each day.{{r|gazette2012A}}
+
+==Building==
+
+[[File:HarvardUniversity WidenerLibrary ExteriorFront c1915 cropped.jpg|left|thumb|upright= 1.0
+|link=File:HarvardUniversity WidenerLibrary ExteriorFront c1915.jpg|View from [[University Hall (Harvard University)|University Hall]] ]]
+
+[[File:HarvardUniversity WidenerLibrary SecondFloorPlan SneadIronWorks cropped.jpg|thumb|right|upright=1.1|link=File:HarvardUniversity_WidenerLibrary_SecondFloorPlan_SneadIronWorks.jpg|Second floor plan (north at bottom)
+]]
+
+At Harvard's "geographical and intellec{{shy}}tual heart"{{hsp}}{{r|forrest}}
+directly across [[Tercentenary Theatre (Harvard University)|Tercenten{{shy}}ary Theatre]] from [[Memorial Church of Harvard University|Memorial Church]],{{r|bpl_sargent}}
+Widener Library is a hollow rectangle of "[[Harvard brick]] with Indiana limestone [[traceries]]",{{r|stone}}
+250 by 200 by 80{{nbsp}}feet high (76 by 61 by 24{{nbsp}}m){{r|shandtucci|p=167}}
+and enclosing 320,000 square feet (30,000{{nbsp}}m{{sup|2}}){{r|forrest}},
+"colon{{shy}}naded on its front by immense pillars with elaborate [[Capital (architecture)#corinthian capital|[Corinthian capitals]]],{{r|AZ|p=362}} all of which stand at the head of a flight of stairs that would not disgrace the [[United States Capitol|capitol in Washing{{shy}}ton]]."{{hsp}}{{r|shandtucci}}
+Sources describe the building's style as (variously)
+[[Beaux-Arts architecture|Beaux-Arts]],{{r|canoe|p=88}}
+[[Georgian architecture|Georgian]],{{r|lacock|p=57}}{{r|british|p=457}} [[Hellenistic architecture|Hellenistic]],{{r|whiffen|p=281}}
+or "the austere, formalistic [[Imperial architecture|Imperial]] [or 'Imperial and Classical'] style displayed in the Law School's [[Langdell Hall]] and the [[Harvard Medical School#Quadrangle|Medical School Quadrangle]]".{{r|AZ|p=361}}
+
+The east, south, and west wings house the [[stacks (library architecture)|stacks]], while the north contains administrative offices and various reading rooms, including the Main Reading Room (now the Loker Reading Room){{mdashb}}which, spanning the entire front of the building and some 42{{nbsp}}feet (13{{nbsp}}m) in both depth and height, was termed by architec{{shy}}tur{{shy}}al historian [[Bainbridge Bunting]] "the most ostenta{{shy}}tious interior space at Harvard."{{hsp}}{{r|bunting|p=154}}
+A topmost floor, supported by the stacks framework itself, contains thirty-two rooms for special collections, studies, offices, and seminars.{{r|lane_libj|p=327-8}}
+
+The Memorial Rooms (see [[#memorial rooms|§ Widener Memorial Rooms]]) are in the building's center, between what were originally two light courts (28 by 110{{nbsp}}ft or 8.5 by 33{{nbsp}}m){{r|potter}} now enclosed as additional reading rooms.{{r|potier}}
+
+===Dedication===
+
+[[File:HarryElkinsWidener portrait by GabrielFerrier.jpg|left|thumb|upright=0.80|[[Gabriel Ferrier]]'s por{{shy}}trait of Harry Widener hangs in the Memorial Rooms.{{r|ask_portrait}} ]]
+
+The building was dedicated immediately after [[History and traditions of Harvard commencements|Com{{shy}}mence{{shy}}ment Day]] exercises on June{{nbsp}}24, 1915.
+Lowell and Coolidge mounted the steps to the main door, where Eleanor Widener presented them with the building's keys.{{r|dedication}}
+The first book formally brought into the new library was the 1634 edition of [[John Downame]]'s ''[[The Christian Warfare Against the Devil, World, and Flesh]]'',{{r|bentinck1980|p=18}}
+believed (at the time) to be the only volume, of those bequeathed to the school by [[John Harvard (clergyman)|John Harvard]] in 1638, to have survived the 1764 burning of [[Harvard Hall (Harvard University)|Harvard Hall]].{{r|tomase}}
+
+[[File:HarvardUniversity WidenerLibrary Dedication.png|thumb|right|upright=1.1|{{center|"President Lowell accepting the key from {{nobr|Mrs. Widener"}}}}]]
+
+[[File:HarvardUniversity WidenerLibrary MainDoor.jpeg|thumb|right|upright=1.1 |{{center| "Even from the very entrance one [can glimpse] the portrait of young Harry Widener" {{nobr|far inside.}} }}]]
+
+[[File:HarvardUniversity WidenerLibrary MainDoor Detail.jpeg|thumb|right|upright=1.1 | {{center|Above the door, [[hallmark]]s of 15th-century printers: {{nobr|[[William Caxton|Caxton]]; [[Berchthold Rembolt|Rembolt]];}} [[Aldus Manutius|Aldus]]; {{nobr|[[Johann Fust|Fust]] and [[Peter Schöffer|Schöffer]].{{r|printers}}}} }}
+]]
+
+[[File:HarvardUniversity WidenerLibrary StairsToMemorialRooms.jpeg|thumb|right|upright=1.1
+| {{ center| Flanking the Memorial Rooms' entrance, murals by [[John Singer Sargent]] honor {{nobr|World War I dead.}} }}
+]]
+
+[[File:HarvardUniversity WidenerLibrary MemorialRoomsLibrary ObliqueView.jpg|thumb|right|upright=1.1
+|{{center| The Memorial Rooms "<!--por{{shy}}trait, books, flowers, and furnish{{shy}}ings -->reflect an atmos{{shy}}phere of realism", wrote a visitor, {{nobr|"[as if]}} Harry Widener still lived among his books."{{hsp}}{{r|canoe|p=91}}
+The desk at left was Harry {{nobr|Widener's own.{{NoteTag
+|{{r|ask_furniture}}
+The rug is a [[Heriz rug|Heriz Persian]];{{r|ask_rug}} on the desk is an unsigned [[Tiffany lamp]].{{r|ask_lamp}}
+In the library's early years, when the Memorial Rooms served as the office of the Widener Collec{{shy}}tion's curator, fires were sometimes set in the fireplace.{{r|whitehill}}
+<!--end nobr>>-->}}<!--end note>>-->}}<!--end center>>-->}}
+]]
+
+In the Memorial Rooms, after a benediction by Bishop [[William Lawrence (bishop)|William Lawrence]],{{r|transcript}} a portrait of Harry Widener
+was unveiled, then remarks delivered by Senator [[Henry Cabot Lodge]] (speaking on "The Meaning of a Great Library"{{hsp}}{{r|lodge}} on behalf of Eleanor Widener) and Lowell ("For years we have longed for a library that would serve our purpose, but we never hoped to see such a library as this").{{r|dedication}}
+Afterward (said the ''[[Boston Evening Transcript]]''{{hsp}}) "<!--After the ceremony of presenta{{shy}}tion, -->the doors were thrown open, and both graduates and under{{shy}}graduates had an opportu{{shy}}ni{{shy}}ty to see the beauties and utilities of this important univer{{shy}}sity acquisition."{{hsp}}{{r|transcript}}
+
+"I hope it will become the heart of the University," Eleanor Widener said, "a centre for all the interests that make Harvard a great university."{{hsp}}{{r|alumni_19130616_collection}}
+
+===<span id="memorial rooms"></span>Widener Memorial Rooms===
+
+The central Memorial Rooms{{mdashb}}<!--<<formal name?-->an outer rotunda{{r|rotunda}} housing memorabilia of the life and death of Harry Widener,{{r|HEW_history}} and an inner library displaying the 3300 rare books collected by him{{mdashb}}were described by the ''[[Boston Herald|Boston Sunday Herald]]'' soon after the dedication:
+{{blockquote|The [rotunda] is of [[Alabama marble]] except the domed ceiling, with fluted columns and [[Capital (architecture)#ionic capital|Ionic capitals]] [while the library] is finished in carved [[Quercus robur|English oak]], the carving having been done in England; the high bookcases are fitted with glass shelves and bronze sashes, the windows are hung with heavy curtains<!--, and in glass-covered cases under them are arranged some examples of the auto{{shy}}graphed presenta{{shy}}tion volumes which came to Mr. Widener. Handsome chairs and desk make the furnish{{shy}}ings here, and--> [and] upon the desks are vases filled with flowers.<!-- Flowers will always be a part of the furnish{{shy}}ings of this room, as the donor{{nbsp}}... has arranged that they shall be supplied at regular intervals.-->
+
+The big marble fireplace and the portrait of Harry Widener occupy a large portion of the south wall. Standing front of the fireplace one may look through the vista made by the doorways, the staircases within and the stairs without and get a glimpse of the green campus.{{NoteTag
+|{{r|browse}}
+Trumbauer "had no rivals when it came to tempting clients to spend immodest sums", wrote Wayne Andrews,{{r|bentinck1980|p=16}}
+and Biel wrote that he had "made his name and fortune by knowing that 'only a magnifi{{shy}}cent setting could hope to satisfy an American with a magnifi{{shy}}cent income,'<!--<<who is being quoted here?--> and he had already imparted such magnifi{{shy}}cence to the Widener and Elkins mansions and an assortment of other palaces{{nbsp}}... [He] knew who his client was, so he gave elaborate attention to memorial{{shy}}izing Harry in style" in the Memorial Rooms.{{r|canoe|p=89}}
+}}
+}}
+Conversely, "even from the very entrance [of the building] one will catch a glimpse in the distance of the portrait of young Harry Widener<!--get img--> on the further wall [of the Memorial Rooms], if the intervening doors happen to be open."{{hsp}}{{r|lane_libj|p=325}}
+
+For many years Eleanor Widener hosted Commencement Day luncheons in the Memorial Rooms.{{r|bentinck1980|p=20}}
+The family underwrites their upkeep,{{r|halberstam}}
+including weekly renewal of the flowers{{r|ask_flowers}}{{mdashb}}originally roses but now carnations.{{NoteTag
+|{{r|bibliophobia}}
+From the start it was Eleanor Widener's particular instruction that there always be flowers in the Memorial Room,{{r|browse}} and in March 1916 she reminded [[George Parker Winship]], curator of the Widener Collection (who at the time used the Memorial Room as his office): "Will you please see that at all times fresh flowers are kept on your table by the photograph of my dear son Harry, the same to be paid out of funds set aside for the maintenance of the Memorial Room. This is the only request I make, and I beg of you to see that it is always carried out."{{hsp}}{{ran|B|p=43}}
+}}
+
+===Amenities and deficiencies===
+
+Touted as "the last word in library construction",{{r|contract}}
+the new building's amenities included telephones, [[pneumatic tube]]s, book lifts and conveyors, elevators,{{r|snead}}
+and a dining-room and kitchenette "for the ladies of the staff".{{r|lane_mem|p=676}}
+Advertisements for the manufacturer of the building's shelving highlighted its "dark brown enamel finish, harmonizing with oak trim",{{r|snead_ad}}
+and special interchangeable regular and oversize shelves meant that books on a given subject could be shelved together regardless of size.{{NoteTag
+|{{r|snead}}
+In the basement (later converted to additional shelving as stacks levels C and D after a further donation by Eleanor Widener in 1928){{hsp}}{{r|crime_1928}} were
+:the [[dynamo]]s which run the five elevators and two book-lifts, the compressed air machinery for the pneumatic tubes, the dynamo and fan for the vacuum-cleaning system, a pump connected with the steam-heating apparatus, enormous fans which pump warm air into the Reading-Room and the stack, a filter through which passes all water which enters the building, and the connec{{shy}}tions for electric light and power. The building is to be heated by steam, conveyed through a tunnel from the plant of the [[Boston Elevated Railway|Elevated Railroad Company]], which also furnishes heat to the other buildings of the [[Harvard Yard|College Yard]] and to the freshman dormitories.{{r|lane_mem|p=328}}
+{{paragraph break}}
+The marble floors were polished using a machine "so simple that any laborer of ordinary intelli{{shy}}gence can operate it to advantage [yet it] can do the work of ten men rubbing by hand."{{hsp}}{{r|engineering}}
+}}
+
+''The Library Journal'' found "especially interesting not so much the spacious and lofty reading rooms"{{hsp}}{{r|tlj_may1915}} as the innovation{{r|metcalf1965|p=255}} of placing student [[carrel desk|carrels]] and private faculty studies directly in the stack, reflecting Lowell's desire to put "the massive resources of the stack close to the scholar's hand, reuniting books and readers in an intimacy that nineteenth-century ['closed-stack' library designs] had long precluded".{{ran|B|p=45–46}}
+(Competition for the seventy{{r|lane_libj|p=327}} coveted faculty studies has been a longstanding administrative headache.){{NoteTag
+|"The [faculty studies] are not all fully used," Coolidge wrote in 1917, "but you will understand that I can not go to a professor and tell him that I think he is not making use of his space and had better give it up. I have tried in some cases hinting to people that if they did not need their quarters there were others who could make good use of them. These hints have usually met with conspicuously little success."{{hsp}}{{ran|B|p=72{{hyp}}75}}
+}}
+
+Nonetheless, certain deficien{{shy}}cies were soon noted.{{ran|B|p=107|canoe|page2=89}}
+A primitive form of air conditioning was aban{{shy}}doned within a few months.{{r|metcalf1965}}<!--<<need page #-->{{r|metcalf1988|p=97}}
+"The need of better toilet facilities [in the stacks] has been pressed upon us during the past year by several rather distressing experiences," Widener Superintendent Frank Carney wrote discreetly in 1918.{{NoteTag
+|"At present", Carney continued, "everyone using the stack is obliged to go to the basement to reach the public toilet. This in the case of a man using one of the top floors of the stack is a particularly long trip{{nbsp}}... An emergency toilet{{nbsp}}... would be a desirable thing."{{hsp}}{{ran|B|p=59}}
+By 1937 security changes had made the situation even worse, so that someone on the lowest stack level had to climb seven flights of stairs, exit the stack, then descend another set of stairs to reach the basement toilet. Eventually toilets were installed in the stack by Harvard Librarian Keyes Metcalf, who later wrote that "As far as graduate students are concerned, I will go down in history as the man who provided toilet facilities in the Widener stack."{{hsp}}{{r|metcalf1988|p=139–40}}
+}}
+And after a university-wide search for castoff furniture left many of the stacks' 300 carrels still unequipped,{{r|furniture}} Coolidge wrote to {{nobr|[[J. P. Morgan, Jr.]],}} "There is something rather humiliating in having to proclaim to the world that <!--we have 300 [carrels in the stacks] which furnish--> [Widener offers] unequalled opportunity to the scholar and investigator who wishes to come here, but that in order to use these opportu{{shy}}ni{{shy}}ties he must bring his own chair, table and electric lamp."
+(A week later Coolidge wrote again: "Your very generous gift [has helped] pull me out of a most desperate situation."){{NoteTag
+|{{r|bentinck1976|p=102}}
+Even during construction Harvard officials worried about financing the new library's furnishings and equipment, which Eleanor Widener did not undertake to supply except in the case of the building's "great public rooms [which she] handsomely furnished".{{r|furniture}} In early 1914, for example, a series of letters between Lane and [[Snead & Co.]] (the builders of the stacks) discussed the design of signs which would direct patrons to the various subject classifications; but in June, Lane apologized for being unable to finalize a planned order for these signs:
+:Our situation in regard to this is an embarrassing one{{nbsp}}... The College has no means in hand to cover this expense, and we do not see where we are going to get what is needed for this and other similar purposes. We do not feel ourselves in a position to ask Mrs. Widener or Mr. Trumbauer to provide these necessary fittings, indispensable as they are for the proper use of the shelves. The labels for the ends of the stack and the number plates we can of course do without by fastening up cardboard signs{{nbsp}}...
+
+In another letter Lane proposed the economy measure of using bricks wrapped in paper as bookends.{{r|lane_snead}}
+}}
+
+Later-built tunnels, from the stacks level furthest underground, connect to nearby [[Pusey Library (Harvard University)|Pusey Library]], [[Lamont Library]],{{r|beefs}}
+and [[Houghton Library]].{{r|kent}}
+An enclosed bridge connecting to Houghton's reading room via a Widener window{{mdashb}}built after Eleanor Widener's heirs agreed to waive{{r|metcalf1988|p=75}} her gift's proscription of exterior additions or alterations{{r|bentinck1976|p=79}}{{mdashb}}was removed in 2004.{{r|bridge}}
+(Houghton and Lamont were built in the 1940s to relieve Widener,{{r|relieve}}
+which had become simultaneously too small{{mdashb}}its shelves were full{{r|widener_history}}{{mdashb}}and too large{{mdashb}}its immense size
+and complex catalog made books difficult to locate.{{NoteTag
+|{{r|metcalf1988|p=27}} On any given floor of the stack, it is 400 feet (120&nbsp;m) from the entrance stairwell to the furthest shelves, and a patron "concerned with material in widely different fields may find that a tiresome amount of walking and stair climbing is involved."{{hsp}}{{r|metcalf1965|p=91,74}} English professor [[Howard Mumford Jones]] complained in 1950 that in preparing a lecture on [[Robert Frost]], after a long hunt for a bibliography listing works he would need to consult, then locating those works in the complicated catalogs, he found that
+:the ''American Scholar'' is shelved on Floor A; the ''New English Quarterly'' under New England; the ''Classical Journal'' is shelved on Floor 5; and ''College English'' is in Educ on Floor B. I shall not go into the matter of distribution [of these works among wings] East, South, and West&nbsp;...{{ran|B|pp=133–34}}
+}}
+But with Harvard's collections doubling every 17 years, by 1965 Widener was again close to full,{{r|deficit}}
+prompting construction of Pusey,{{r|newpusey}} and in the early 1980s library officials "pushed the panic button"{{r|panic}} again, leading to the construction of the [[Harvard Depository]].){{Citation needed|date=December 2017}}
+
+==Collections and stacks==
+
+[[File:HarvardUniversity WidenerLibrary SneadAdvertisement 1915.jpg|thumb|right|upright=1.1
+|"The shelves are lost in the dark{{shy}}ness above, and to either side they run off to {{shy|in|fin|i|ty}}", wrote [[Thomas Wolfe]].{{r|mitchell}} Each of the ten lev{{shy}}els has some 187 rows of shelving.{{wbo}}{{r|lane_mem|p=327}}<!--something wrong with the pg# here-->
+]]
+
+[[File:WidenerLibraryStackTier.jpg|thumb|right|upright=1.1
+|{{shy|The two lowest stack levels before instal|la|tion of inter|ven|ing floor panels}}]]
+
+The ninety-unit Harvard Library system,{{r|AZ|p=361}} of which Widener is the anchor, is the only academic library among the world's five "megalibraries"{{mdashb}}Widener, the [[New York Public Library]], the [[Library of Congress]], [[Bibliothèque nationale de France|France's Bibliothèque Nationale]], and the [[British Library]]{{r|stam|p=352}}{{mdashb}}making it "unambigu{{shy}}ously the greatest univer{{shy}}sity library in the world," in the words of a Harvard official.{{r|speaking}}
+
+According to the Harvard College Library's own description, Widener's humanities and social sciences collections include
+{{blockquote|<!--The humanities and social sciences collec{{shy}}tions of the Widener Library are represented by distinguished-->holdings in the history, literature, public affairs, and cultures of five continents. Of particular note are the collec{{shy}}tions of [[Africana studies|Africana]], [[American studies|Americana]], European [[local history]], [[Judaica]], [[Latin American]] studies, [[Middle Eastern]] studies, [[Slavs|Slavic]] studies, and rich collec{{shy}}tions of materials for the study of Asia, the United Kingdom and Commonwealth, France, Germany, Italy, Scandinavia, and [[Classics|Greek and Latin antiquity]]. These collec{{shy}}tions include significant holdings in [[linguistics]], ancient and modern languages, [[folklore]], [[economics]], [[history of science]] and technology, [[philosophy]], [[psychology]], and [[sociology]].{{NoteTag|
+{{r|collections}}
+However, "Harvard does not collect all subjects and all types of material{{nbsp}}... The holdings in subject areas not represented in the curriculum (such as agriculture) are understandably limited{{nbsp}}..."{{hsp}}{{r|stam|p=352}}
+<!--end note>>--> }}<!--end quote>>-->}}
+The building's 3.5 million volumes{{r|forrest}} occupy {{convert|57|mi|km}} of shelves{{r|battles_unquiet|p=4}} along five miles (8{{nbsp}}km) of aisles{{r|fox}} on ten levels divided into three wings each.{{r|battles_unquiet|p=4}}
+
+Alone among the "megalibraries", only Harvard allows patrons the "long-treasured privilege" of entering the general-collections stacks to browse as they please, instead of requesting books through library staff.{{NoteTag
+|{{r|destroyer}}{{r|klepts|p=E}}
+It was not always so. Originally "school-boys" earning forty dollars per month (equivalent to ${{Inflation|US|40|1920|r=-1}} in {{Inflation-year|US}}){{Inflation-fn|US}} fetched books requested by patrons via slips. "Should a slip be received for a book in a part of the stack where a boy has just been sent{{mdashb}}particularly in the West stack, which is the farthest away from the central station{{mdashb}}the [request] is telephoned across on the internal telephone."{{hsp}}{{ran|B|p=56}} But by about 1930 Widener's stacks "were almost wide open to anyone who wanted to enter", so much so that in a single day a group of thieves was able to steal some one hundred valuable works on American history.{{r|metcalf1980}}
+}}
+Until a recent renovation the stacks had little signage{{mdashb}}"There was the expecta{{shy}}tion that if you were good enough to qualify to get into the stacks you certainly didn't need any help" (as one official put it){{r|potier}}
+so that "learning to [find books in] Widener was like a rite of passage, a test of manhood",{{r|rolbein}}
+and a 1979 monograph on library design complained, "After one goes through the main doors of Harvard's Widener Library, the only visible sign says merely ENTER."{{hsp}}{{r|pollet}}
+At times color-coded lines and shoeprints have been applied to the floors to help patrons keep their bearings.{{r|bearings}}{{r|gewertz}}
+
+As of 2015 some 1700 persons enter the building each day, and about 2800 books are checked out.{{r|arms}}
+Another 3{{nbsp}}million Widener items reside offsite{{r|barcoding}} (along with many millions of items from other Harvard libraries) at the [[Harvard Depository]] in [[Southborough, Massachusetts|Southbor{{shy}}ough, Massachu{{shy}}setts]], from which they are retrieved overnight on request.{{ran|B|p=170{{hyp}}1}} A project to insert [[barcode]]s into each book, begun in the late 1970s, had some 1{{nbsp}}million volumes yet to reach as of 2006.{{r|barcoding}}
+
+===Harry Elkins Widener Collection===
+
+The works displayed in the Memorial Rooms comprise Harry Widener's collec{{shy}}tion at the time of his death, "major monuments of English letters, many remarkable for their bindings and illustrations or unusual provenance":{{r|bentinck1980|p=9}}
+<!--mention Bacon that went down with the ship-->
+Shakespeare [[first folio]]s;{{r|AZ|p=362}}
+a copy of ''Poems written by Wil.{{nbsp}}Shake-speare, gent.'' (1640) in its original sheepskin binding;{{r|cyclo}}
+an inscribed copy of [[James Boswell|Boswell]]'s ''[[Life of Samuel Johnson]]''; [[Samuel Johnson|Johnson]]'s own Bible ("used so much by its owner that several pages were worn out and Johnson copied them over in his own writing");{{r|halberstam}}
+and first editions, presenta{{shy}}tion copies, and similarly valuable volumes of [[Robert Louis Stevenson]], [[William Makepeace Thackeray|Thackeray]], [[Charlotte Brontë]], [[William Blake|Blake]], [[George Cruikshank]], [[Isaac Cruikshank]], [[Robert Cruikshank]]{{r|hewc}}
+and [[Charles Dickens|Dickens]]{{mdashb}}including the petty cash book kept by Dickens while a young law clerk.{{r|hellman}}
+Book collector [[George Sidney Hellman]], writing soon after Harry Widener's death, observed that he was "not satisfied alone in having a rare book or a rare book inscribed by the author; it was with him a prerequisite that the volume should be in immaculate condition."{{hsp}}{{r|hellman}}
+
+Harry Widener "died suddenly, just as he was beginning to be one of the world's great collectors,"{{hsp}}{{r|alumni_19130616_collection}}
+said the Collection's first curator.{{r|whitehill|p=6}}
+"They formed a young man's library, and are to be preserved as he left it"{{hsp}}{{r|alumni_19130616_collection}}{{mdashb}}except
+that the Widener family has the exclusive privilege of adding to it.{{NoteTag
+|{{r|halberstam}}
+The December{{nbsp}}31, 1912 agreement between Eleanor Widener and the [[President and Fellows of Harvard College]] provides that "this collection, together with such books as may be added to it by members of the family of the Donor, shall at all times be kept separate and apart from the general library of Harvard{{nbsp}}... Harvard is not{{nbsp}}... ever to add anything to the said Harry Elkins Widener collection{{nbsp}}... [S]aid books shall not be taken or removed from the two rooms specially set apart{{nbsp}}... excepting only when necessary for the repair or restoration of any volume{{nbsp}}..."{{hsp}}{{r|bentinck1976|pp=78–79}}
+<!--END NOTE>>-->}}
+{{anchor|gutenbergbible}}
+Harvard's "greatest typographical treasure"{{hsp}}{{r|houghton_chron|p=17}}
+is one of the only thirty-eight perfect copies extant{{r|HEW_gutenberg}} of the [[Gutenberg Bible#Existing copies of the Gutenberg Bible|Gutenberg Bible]],{{r|houghton_gutenberg}}
+purchased while Harry was abroad by his grandfather [[Peter Arrell Brown Widener|Peter A.{{nbsp}}B. Widener]] (who had intended to surprise Harry with it once the ''Titanic'' docked in New York){{r|halberstam}} and added to the Collection by the Widener family in 1944.{{NoteTag
+|{{r|ask_gutenberg}}
+Harry Widener knew his grandfather had bought the Gutenberg Bible, but not that it was intended for him. "I wish it was for me but it is not", he wrote to a friend.{{r|HEW_Livingston}}
+After Harry's death, and (soon after) that of his grandfather, the Bible passed to Harry's uncle;{{clarify|reason=which uncle?|date=May 2014}} at the uncle's death Harry's brother and sister added the Bible to the Harry Elkins Widener Collec{{shy}}tion because it "had been bought for Harry and should be among his books.<!--<<source is unclear on who is speaking here-->"
+[[Yale University|Yale]] also has a Gutenberg, though not in "quite as fine condition" as Harvard's, according to Harvard officials.{{r|near_best}}
+}}
+
+Like all Harvard's valuable books, works in the Widener Collec{{shy}}tion may be consulted by researchers demonstrating a genuine research need.{{r|widener_hewmc}}
+
+===<span id="dual catalogs"></span>Parallel classification systems and dual catalogs===
+
+[[File:HarvardUniversity WidenerLibrary CardCatalogs 1915.jpg|thumb|left|upright=1.15|The original catalog room, {{shy|"though mag|nif|i|cent ar|chi|tec|tur|al|ly, looked [as though the catalog cases, with their 3796 drawers] had simply been dropped hap|haz|ard|ly into them."}}{{hsp}}{{r|metcalf1965|p=225}}{{r|lb_ad}} ]]
+
+Like many large libraries, Widener originally classified its holdings according to its own idiosyncratic system{{mdashb}}the "Widener" (or "Harvard") system{{mdashb}}which (writes Battles) follows "the division of knowledge in its [early twentieth-century] formulation. The ''Aus'' class contains books on the [[Austro-Hungarian Empire]]; the ''Ott'' class serves the purpose for the [[Ottoman Empire]]. [[Dante]], [[Molière]], and [[Montaigne]] each gets a class of his own."{{hsp}}{{r|battles_unquiet|p=15}}
+
+In the 1970s new arrivals began to be classified according to a modified version of the [[Library of Congress Classification|Library of Congress system]].{{r|wiegand|p=256}}{{ran|B|p=159}}
+The two systems' differences reflect "competing theories of knowl{{shy}}edge{{nbsp}}... In a sense, the [old] Widener system was [[Aristotelianism|Aristotelian]]; its divi{{shy}}sions were empirical, describing and reflecting the languages and cultural origins of books and highlighting their relations to one another in language, place, and time; [the Library of Congress system], by contrast, was [[Platonic idealism|Platonic]], looking past the surface of language and nation to reflect the idealized, essential discipline in which each [item] might be said to belong."{{hsp}}{{ran|B|p=158-9}}
+
+[[File:HarvardCollegeLibrary CatalogCardC.jpg|right|thumb|upright=1.1|[[Library catalog|Catalog card]]. In the "Harvard system", ''C'' denotes Church History and Theology.]]
+
+Because of the impracticality of reclassifying millions of books, those received before the changeover remain under their original "Widener" classifications. Thus among works on a given subject, older books will be found at one shelf location (under a "Widener" classification) and newer ones at another (under a related Library of Congress classification).{{r|movement|gewertz}}
+
+In addition, an accident of the building's layout led to the development of two separate card catalogs{{mdashb}}the "Union" catalog and the "Public" catalog{{mdashb}}housed on different floors and having a complex interrelationship "which perplexed students and faculty alike." It was not until the 1990s that the electronic [[Harvard On-Line Library Information System]] was able to completely supplant both physical catalogs.{{ran|B|p=137,192}}
+
+===Departmental and special libraries===
+
+The building also houses a number of special libraries in dedicated spaces outside the stacks, includ{{shy}}ing:
+{{columns-list|colwidth=23em|
+* The [[Fred N. Robinson]] [[Celtic studies|Celtic]] Seminar Library
+* The [[Hamilton A.R. Gibb]] [[Islamic studies|Islamic]] Seminar Library
+* The [[Milman Parry]] Collection of [[Oral Literature]]
+* The [[Herbert Weir Smyth]] {{nobr|[[classics|Classical]] Library}}
+* The [[Francis James Child]] Memorial Library {{nobr|(English Department)}}
+* The [[James A. Notopoulos]] Collection of {{nobr|[[Modern Greek]] Ballads and Songs}}
+}}
+There are also special collections in the [[history of science]], [[Linguistics|linguis{{shy}}tics]], [[Near East]]ern languag{{shy}}es and civiliza{{shy}}tions, [[Palaeography|paleogra{{shy}}phy]], and [[Sanskrit]].{{r|special}}
+
+The contents of the Treasure Room, holding Harvard's most precious rare books and manuscripts (other than the Harry Elkins Widener Collection itself) were transferred to newly built [[Houghton Library]] in 1942.{{r|houghton_chron|p=15}}
+
+==In literature and legend==
+
+===Swim{{hyp}}requirement, ice{{hyp}}cream, and other legends===
+
+[[File:WidenerLibraryUnderConstruction 1913Dec4 cropped.jpg|thumb|right|upright=1.5
+|link=File:WidenerLibraryUnderConstruction_1913Dec4.jpg
+|The stacks (seen here from the southeast while under con{{shy}}struc{{shy}}tion) double as struc{{shy}}tur{{shy}}al ele{{shy}}ments,{{r|snead_ad}} mak{{shy}}ing Wide{{shy}}ner the last major self-support{{shy}}ing mason{{shy}}ry build{{shy}}ing, with no outer steel frame, built in the US;{{r|AZ|p=362}} its exterior walls are three feet thick.{{r|metcalf1965|p=316}}
+In the center-left distance are the twin towers of [[List of Harvard College freshman dormitories#Weld Hall|Weld Hall]], and to their left is the belltower of [[Harvard Hall]].
+]]
+
+Legend holds that to spare future Harvard men her son's fate, Eleanor Widener insisted, as a condition of her gift, that learning to swim be made a requirement for graduation.{{r|legends|mooney}}
+(This requirement, the ''[[The Harvard Crimson|Harvard Crimson]]'' once elaborated erroneously, was "dropped in the late 1970s because it was deemed discriminatory against physically disabled students".){{r|bibliophobia}}
+"Among the many myths relating to Harry Elkins Widener, this is the most prevalent", says Harvard's "Ask a Librarian" service. Though Harvard has had swimming requirements at various times (e.g. for [[crew (sport)|rowers]] on the [[Charles River]], or as a now-defunct test for entering freshmen){{r|ask_swim}}
+Bentinck-Smith writes that "There is absolutely no evidence<!--in the President's papers, or the faculty's, to indicate-->{{nbsp}}... that [Eleanor Widener] was, as a result of the Titanic disaster, in any way responsi{{shy}}ble for [any] compulsory swimming test."{{hsp}}{{NoteTag
+|{{r|bentinck1980}}
+As pointed out by ''snopes.com'': "<!--As well, the putative reason for the unusual requirement is questionable in that -->Harry Elkins Widener didn't die because he couldn't swim: he, like many other ''Titanic'' passengers who couldn't be {{shy|accom|mo|dat|ed}} by one of the too-few lifeboats, died from immersion in freezing water. The ability to swim wouldn't have helped him, because there was nowhere for him to swim ''to''."{{hsp}}{{r|snopes}}
+}}
+
+Another story, holding that Eleanor Widener donated a further sum to underwrite perpetual availability of ice cream (purportedly Harry Widener's favorite dessert) in Harvard dining halls, is also without foundation.{{r|legends}}
+A Widener curator's compilation of "fanciful oral history" recited by student tour guides includes "Flowers mysteriously appear every morning outside the Widener Room" and "Harry used to have [[carnation]]s dyed crimson to remind him of Harvard, and so his mother kept up the tradition" in the flowers displayed in the Memorial Rooms.{{r|lies}}
+
+===Literary references===
+
+In [[H.&nbsp;P. Lovecraft]]'s fictional universe [[Cthulhu Mythos]], Widener is one of five libraries holding a 17th-century edition of the ''[[Necronomicon|Necro{{shy}}nom{{shy}}i{{shy}}con]]'', hidden somewhere in the stacks.{{r|necro}}
+
+[[Thomas Wolfe]], who earned a Harvard [[master's degree]] in 1922,{{r|ask_wolfe}} told [[Max Perkins]] that he spent most of his Harvard years in Widener's reading room.{{r|shandtucci}} He wrote of {{nobr|"[wandering]}}<!--I wander--> through the stacks of that great library like some damned soul, never at rest{{mdashb}}ever leaping ahead from the pages I read to thoughts of those I want to read";{{r|crime_wolfe}} his [[alter ego]] [[Eugene Gant]] read with a watch in his hand, "laying waste of the shelves."{{hsp}}{{r|look}}
+
+Historian [[Barbara Tuchman]] considered "the single most formative experience" of her career the writing of her undergrad{{shy}}uate thesis, for which she was "allowed to have as my own one of those little cubicles with a table under a window" in the Widener stacks, which were "my [[Eureka (word)#Archimedes|Archimedes' bathtub]], my [[burning bush]], my [[Alexander Fleming#accidental discovery|dish of mold]] where I found my personal penicillin."{{hsp}}{{r|tuchman}}
+
+==Burglary and other incidents==
+
+Over the years, Widener has been the scene of various criminal exploits "infamous for their [[wikt:feckless|fecklessness]] and [[wikt:ignominy|ignominity]]."{{hsp}}{{ran|B|p=59}}
+
+===<span id="williams"></span>Joel C. Williams===
+
+[[File:HarvardCollegeLibrary HardLaborBookplate.jpg|thumb|right|upright=0.8|[[Bookplate]] placed in 2504 books{{r|crime_dont}}{{r|bookplates}}]]
+
+In 1931 former graduate student Joel C. Williams was arrested after attempting to sell two Harvard library books to a local book dealer. [[Charles Apted]] and other Harvard officials visited Williams' home{{r|crime_indict}}
+where (posing as "book buyers" to spare the feelings of Williams' family){{ran|B|p=88}}
+they found thousands{{r|crime_indict}} of books which Williams had stolen over the years,{{r|klepts|p=D}} many badly damaged. The "absolutely crazy" Williams would "go to students studying in Widener and ask them what course they were taking. He would then borrow all the books for that course in the library. Then no one could get any to study", library official John E. Shea later recalled.{{NoteTag
+|{{r|crime_1951}}
+{{anchor|shea}}John Shea was for forty years Widener's "guardian and familiar spirit". His mother had been a college "[[wikt:biddy#English-irishmaid|biddy]]" who (he said) "did professor [[Charles Townsend Copeland|C.&nbsp;T. Copeland's]] laundry for years",{{r|crime_1951}}
+and he began his own Harvard career in 1905 as a Gore Hall coatchecker.
+By his 1954 retirement as Widener's Stacks Superin{{shy}}tendent, he was "perhaps the last of the legendary College characters",{{r|AZ|p=58}} renowned not only for leaving "no stone unthrown"{{mdashb}}as he himself put it{{mdashb}}in locating mis-shelved or otherwise errant books, but also for his "genius for such malaprop{{shy}}isms [which] in fact, were generally the ''[[wikt:mot juste#Noun|mot juste]]''". These included references to "venereal blinds" and "osculating fans" in the Catalog Room, equipment that had "outlived its uselessness", a gift of a bottle of wine "as a momentum", and mention that Widener's head janitor "has a maniac for sweeping the basement."{{hsp}}{{r|sheavian}}
+}}
+
+Despite the misleading{{r|ask_disturbing}} implication of bookplates placed in the 2504{{r|klepts|p=D}} recovered books, Harvard's charges against Williams were dropped after he was indicted on book-theft charges in another jurisdic{{shy}}tion, which imposed a sentence of hard labor.{{r|thieves}} After the unrelated arrest of a book-theft ring operating at Harvard, there was a "noticeable increase in the number of missing books secretly returned to the library", the ''Transcript'' reported in 1932.{{ran|B|p=89}}
+
+===Gutenberg Bible theft===
+[[File:HarryElkinsWidener Letter 1912March10 p2 final paragraphs.jpg|thumb|upright=1.5|"Now I will tell you a secret&nbsp;... I wish it was for me but it is not." {{shy|Harry Wide|ner's letter con|fid|ing his grand|father's pur|chase of the [[Gutenberg bible]] which the Widener family later gave to Harvard.}} ]]
+
+On the night of August 19, 1969 an attempt was made to steal the library's Gutenberg Bible, valued at $1{{nbsp}}million{{r|suspect}} (equivalent to ${{Inflation|US-GDP|1|1969|r=0}} million in {{Inflation-year|US-GDP}}).{{Inflation-fn|US-GDP}}
+Equipped with a hammer, pry bar, and other burglarious implements,
+the 20-year-old would-be thief{{r|suspect}} hid in a lavatory until after closing, then made his way to the roof, from which he descended via a knotted rope to break through a Memorial Room<!--<<check name of Memorial vs. Collection rooms>--> window.
+But after smashing the bible's display case and placing its two volumes in a knapsack, he found the additional 70 pounds (32{{nbsp}}kg) made it impossible for him to reclimb the rope.{{r|klepts|p=D}}
+
+Eventually he fell some {{convert|50|ft|m}}{{r|houghton_chron|p=45}} to the pavement of one of the light courts, where he lay semicon{{shy}}scious{{r|slips}}
+until his moans were heard by a janitor;{{r|houghton_chron|p=45}}
+he was found about 1{{nbsp}}a.m.{{r|grace}}
+with injuries including a fractured skull.{{r|slips}}
+"It looks like a profes{{shy}}sion{{shy}}al job all right, in the fact that he came down the rope," commented [[Harvard Police Department|Harvard Police]] Chief [[Robert Tonis]]. "But it doesn't look very profes{{shy}}sion{{shy}}al that he fell off."{{hsp}}{{r|suspect}}
+Tonis specu{{shy}}lated that the attempt may have been modeled on a similar caper depicted in the 1964 film{{thinsp}}''[[Topkapi (film)|Topkapi]]'',{{r|grace}}
+though a retired Harvard librarian later commented that the thief (who was later judged insane){{r|caper}} "evidently knew nothing about books{{mdashb}}or, at least, about selling them{{nbsp}}... There was no explanation of what he expected to do with the Bible."{{hsp}}{{r|metcalf1988|p=72}}
+
+Only the books' bindings (which were "not valuable [and] did just what a good binding is supposed to do: they protected the inside contents"){{r|suspect}} were damaged.{{r|slips}}
+Since the incident only one or the other Bible volume is on display at any given time{{r|klepts|p=E}}
+and a replica has been substituted at times of heightened security concern.{{NoteTag
+|{{r|crime_1969}}
+Extensive news coverage of the attempt triggered a flurry of inquiries to Harvard about the potential value of family bibles and Gutenberg-related bric-a-brac.{{ran|B|pp=146-7}}
+<!--end enf>>-->}}
+
+==="The Slasher"===
+
+Around 1990, empty bindings stripped of their pages began to appear in the Widener stacks. Eventually some 600 mutilated books were discovered, the vandal particularly targeting works on early Christianity in Greek, Latin, or unusual languages such as [[Icelandic language|Icelandic]].{{r|destroyer}}
+Notes left at Widener, and later at [[Northeastern University]], threatened graphically described mutilations of library workers, cyanide gas attacks,{{r|slasher}}
+and bombings of libraries and a local bank.{{r|calder}}
+Other notes instructed that $500,000 be left in a Northeastern library, demanded that Northeastern "terminate all Jew personnel", and directed that $1{{nbsp}}million be left in the Widener stacks:
+{{sic|"pUt THe mONEy FucKer BEhiNd THE eLevATOR on D{{nbsp}}WEST in THE basemENT WhERE tHe 1,000,000.00 dollaRS IN rare GreEK bOOks wAS slASHEd ApARt [[Jacques Paul Migne|MIGNE]] [[Patrologia Graeca|GREEK PATROLOGIA]]."|hide=y}}
+These "ransom drops" were staked out by the [[FBI]],{{r|slasher}}
+and surveillance cameras installed in ersatz books, without result.{{r|without_result}}
+
+In 1994 police connected an incident at Northeastern, in which a library worker there (a former Widener employee) was caught stealing chemistry books, with the fact that chemistry texts had been among the works mutilated at Widener.{{r|destroyer}}
+Officials found "a kind of renegade reference room" in the worker's basement,{{r|zoll}}
+include{{shy}}ing library books, piles of ripped-out pages, a [[microfilm]] camera, and hundreds of unusable microfilms he had haphaz{{shy}}ardly made of the books (worth $180,000) he had destroyed.{{r|destroyer}}<!--add in Northeastern stats if they can be found-->
+At trial "The Slasher" said he had acted in revenge for the eighteen months he had been detained in a state [[psychiatric hospital]] after expiration of a six-month jail term he had received for a minor offense.{{r|slasher}}
+
+==Artwork==
+[[File:Gore Hall finial - Harvard University - IMG 0106.JPG|thumb|left|upright=0.7|One of the two {{shy|pin|na|cles, sal|vaged}} from [[Gore Hall (Harvard College library)|Gore Hall]], which now flank Widener's rear entrance]]
+
+Two of Gore Hall's granite pinnacles were preserved, and flank Widener's rear entrance.{{r|shandtucci|p=151}}
+
+In the 1920s the university commissioned [[John Singer Sargent]] to paint, within the fourteen-foot-high arched panels flanking the entrance to the Memorial Rooms, two murals giving tribute to Harvard's [[World War I|World War{{nbsp}}I]] dead: ''Death and Victory'' and ''Entering the War''.{{NoteTag
+|{{r|ask_sargent}}
+Eleanor Widener "had originally stipulated that no further memorials would be permitted within her library, but the war had softened her feelings on the matter. Too many Harvard men died in the conflict to ignore their loss{{mdashb}}and further, it seems, Eleanor came to connect Harry's death with their sacrifice." (Battles){{ran|B|p=63}}
+<!--end note>>-->}}
+The accompanying inscription, by Lowell, reads: "Happy those who with a glowing faith{{nbsp}}/ In one embrace clasped Death and Victory".{{r|smith}}
+With [[Memorial Church of Harvard University|Memorial Church]], which directly faces Widener, these constitute what the Boston Public Library calls "the most elaborate World War{{nbsp}}I memorial in the Boston area."{{hsp}}{{r|bpl_sargent}}
+
+Above the Memorial Rooms entrance is inscribed:
+{{blockquote|To the memory of Eleanor Elkins Rice{{nbsp}}{{bullet}} whose noble and endearing spirit inspired the conception and completion of this Memorial Library{{nbsp}}{{bullet}} 1938.{{r|ask_mrsw_inscription}}}}
+(Eleanor Elkins Widener became Eleanor Elkins Rice when, in October 1915, she married Harvard professor{{r|weds}} and surgeon{{r|class1898}}
+[[Alexander H. Rice, Jr.|Alexander Hamilton Rice, Jr.]],
+a noted South American explorer whom she had met at the library's dedication four months earlier.{{r|rotunda}} She died in 1937.){{r|dies_paris}}
+
+[[File:HarvardUniversity WidenerLibrary 1920 withArtilleryPiece cropped.jpg|right|thumb|upright= 1.5
+|link=File:HarvardUniversity WidenerLibrary 1920 withArtilleryPiece.jpg|{{shy|Large bronze plaque in memory of Gore Hall is im|me|di|ate|ly left of tree at lower right, in this 1920 photo; World War{{nbsp}}I ar|til|lery piece among parked vehicles was used by now-defunct De|part|ment of Military Science and Tactics.}}{{r|artillery}} ]]
+
+On the second floor is a bronze bust by [[Albin Polasek]] of sculptor and muralist [[Francis Davis Millet|Frank Millet]], who had also died on the ''Titanic''.{{r|bust}}
+In the main reading room is a sculpture of [[George Washington]]; on the stairs to the third floor a sculpture of [[John Elbridge Hudson]]; and on the ground floor a sculpture of [[Henry Ware Wales]],{{r|dienstag}}
+as well as vaulted hallways{{mdashb}}"just like the [[Grand Central Oyster Bar & Restaurant|Oyster Bar at Grand Central]]{{nbsp}}... astounding", according to historian Thomas Gick{{mdashb}}by [[Rafael Guastavino]], who (with his son) also designed and built domes and vaults in buildings such as [[Carnegie Hall]], the [[Cathedral of St. John the Divine]], and the [[Boston Public Library]].{{r|lies}}
+
+Three dioramas{{mdashb}}depicting the grounds, buildings, and vicinity of Harvard Yard in 1667, 1775 and 1936{{mdashb}}were installed behind the main stairs in 1947, but removed during renovations in 2004.{{r|ask_dioramas}}
+A six-foot-square bronze tablet, featuring a [[bas relief]] of Gore Hall, is at the exterior northwest corner. Its inscription reads in part:
+{{blockquote|On this spot stood Gore Hall {{bullet}}&nbsp;Architect [[Richard Bond (architect)|Richard Bond]], Supervisor {{bullet}}&nbsp;[[Daniel Treadwell]] {{bullet}}&nbsp;Built in the {{nobr|Year 1838}} {{bullet}}&nbsp;In honor of [[Christopher Gore]] Class of 1776. {{bullet}}&nbsp;[[President and Fellows of Harvard College|Fellow of the College]], [[Harvard Board of Overseers|Overseer]], Benefactor {{bullet}}&nbsp;[[Governor of Massachusetts|Governor of the Commonwealth]]. {{bullet}}&nbsp;Senator of the United States. {{bullet}}&nbsp;The first use of [[bookstack|modern book-stacks]] was in this library. ... {{r|gore_tablet}}}}
+
+==Restrictions on women==
+[[File:HarvardUniversity WidenerLibrary Reading c1915 cropped.jpg|thumb|left|upright=1.5
+|link=File:HarvardUniversity_WidenerLibrary_Reading_c1915.jpg|The main reading room in 1915. By World War{{nbsp}}II women were allowed enter "to use the {{shy|en|cy|clo|pe|dias}} and things like that there, if we stood up, but we couldn't sit down."{{hsp}}{{r|colson|pp=56–57}}
+]]
+The building originally included a separate [[Radcliffe College|Radcliffe]] Reading Room behind the card catalogs{{mdashb}}"barely large enough for a single table"{{mdashb}}to which female students were restricted "for fear their presence would distract the studious Harvard men" in the main reading room.
+In 1923 a sequence of communications between Librarian [[William Coolidge Lane]] and another Harvard official dealt with "the incident of Miss Alexander's intrusion into the reading room",{{ran|B|p=37,86}}
+and [[Keyes Metcalf]], Director of University Libraries from 1937 to 1955, wrote that early in his tenure a [[Classics]] professor "rushed into my office, looking as if he were about to have an apoplectic stroke, and gasped, 'I've just been in the reading room, and there is a Radcliffe girl in there!{{'"}} By then female graduate students were permitted to enter the stacks, but only until 5{{nbsp}}p.m., "after which time it was thought they would not be safe there".{{hsp}}{{NoteTag
+|After his retirement Metcalf wrote that when planning the later [[Lamont Library]], "I was still old fashioned enough to believe that, if women [would be permitted to use it] we should probably not have the small, unsupervised reading rooms that we were planning."{{hsp}}{{r|metcalf1988|p=87}} 
+}}
+
+"Even the ever-present problem of inadequate lavatories worked to deny functional access to women", wrote Battles. "Patrons requesting directions to a women's restroom were routinely misled, denied access, or simply told that such things did not exist at a college for men such as Harvard."{{hsp}}{{ran|B|p=115}}
+
+By World War{{nbsp}}II ([[Elizabeth Colson]] recalled years later) "we could go into the [Main Reading Room] and use the encyclopedias and things like that there, if we stood up, but we couldn't sit down",{{r|colson|pp=56–57}}
+and only by special permission (which even female faculty members had to request in writing) could a woman work in the building in the evening.{{ran|B|p=112-4}}
+
+==Renovation==
+
+[[File:HarvardUniversity WidenerLibrary MassachusettsAvenueEntrance c1915 cropped.jpeg|right|thumb|upright=1.5
+|link=File:HarvardUniversity WidenerLibrary MassachusettsAvenueEntrance c1915.jpeg
+|View from southeast of Widener's rear ([[Massachusetts Avenue (metropolitan Boston)|Massa{{shy}}chu{{shy}}setts Ave.]]) facade {{nobr|c. 1915,}} before construction of [[Wigglesworth Hall|Wiggles{{shy}}worth Hall]] to the south and [[Houghton Library|Hough{{shy}}ton Library]] to the east]]
+
+A five-year, $97{{nbsp}}million renovation completed in 2004{{r|potier}}
+(the first since the building opened){{r|offsite}} added fire suppression and environ{{shy}}men{{shy}}tal control systems, upgraded wiring and communica{{shy}}tions, remodeled various public spaces, and enclosed the light courts to create additional reading rooms{{r|potier}}
+(beneath which several levels of new offices and mechanical equipment were hidden).{{r|bigdoings}}
+"Claustro{{shy}}pho{{shy}}bia-inducing" elevators were replaced,{{r|gewertz}}
+the bottom shelves on the lowest stacks level were removed in recognition of chronic seepage problems,{{r|offsite}}
+Widener's "olfactory nostal{{shy}}gia{{nbsp}}... actually the smell of decaying books" was addressed,{{r|goins}}
+and unrestricted light and air{{mdashb}}seen as desirable when Widener was built but now considered "public enemies one and two for the long-term safety of old books"{{mdashb}}were brought under control.{{NoteTag
+|{{r|potier}}
+"Before the renovation, the upper [stacks] floors smelled, in summer, of gently roasted books, while [the lowest floor] year-round offered the [[wikt:sporiferous|sporiferous]] scent usually associated with grottoes and Roman cellars." (Battles){{ran|B|p=180}}
+{{paragraph break}}
+When Widener was built ventilation for books was emphasized, possibly to prevent mold; thus a slit ran along the base of every row of shelves, allowing air to flow from the floor below. Unfortunately books, papers and objects were prone to fall through these slits,{{r|metcalf1965|p=135}} and "the whole installation might have been regarded as a large collection of chimneys that would help a fire to spread rapidly from floor to floor." The slits were later closed.{{r|metcalf1988|pp=92–93}}
+}}
+
+Some changes required that the Widener family grant relief{{r|wilkinson}}
+from the terms of Eleanor Widener's gift, which forbade that "structures of any kind [be] erected in the courts around which the [Library] is constructed, but that the same shall be kept open for light and air".{{r|bentinck1976|p=79}}{{ran|B|p=42}}
+The need to relocate each of the building's 3.5{{nbsp}}million volumes twice{{mdashb}}first to temporary locations, then to new permanent locations, as work proceeded aisle by aisle{{mdashb}}was turned to advantage, so that by the end of the renova{{shy}}tion related materials in the library's two classifica{{shy}}tion systems (see [[#Parallel classification systems and dual catalogs|§ Parallel classifica{{shy}}tion systems]]) were physically adjacent for the first time;{{r|movement|gewertz}}
+the chart showing the floor and wing location, within the stacks, of each subject classifica{{shy}}tion was revised sixty-five times during construction.{{r|potier}}
+The project received the 2005 Library Building Award from the [[American Library Association|American Library Associa{{shy}}tion]] and the [[American Institute of Architects]].{{r|ala_aia}}
+
+==Notes==
+{{NoteFoot|30em}}
+
+==Sources and further reading==
+
+'''Further reading'''
+{{refbegin}}
+* {{rma|tag=B|reference={{cite book | title=Widener: Biography of a Library
+|year = 2004 |publisher=Harvard College Library, 2004
+|last=Battles |first=Matthew |url=https://archive.org/details/widenerbiography00batt
+| url-access=registration
+| page=[https://archive.org/details/widenerbiography00batt/page/42 42]
+|isbn=978-0-674-01668-2
+}} }}
+
+{{refend}}
+
+'''Other sources cited'''
+{{Reflist|28em|refs=
+
+{{refn|name=arms|{{cite magazine
+|title = At 100, Widener Opens Its Arms Wider
+|date=June 24, 2015|magazine=Harvard Magazine|last=Zhang |first=Zara
+|url=http://harvardmagazine.com/2015/06/at-100-widener-opens-its-arms-wider
+}}}}
+
+{{refn|name=artillery|{{cite news
+|title=New field piece arrives{{snd}}155 mm. G. P. F. Rifle Now In Battery In Front of Widener
+|date=September 23, 1919 <!--no writer-->
+|work=Harvard Crimson
+}} }}
+
+{{refn|name=buck|{{cite book
+|title=Libraries & universities: addresses and reports
+|last=Buck|first=Paul Herman|publisher= Belknap Press of Harvard University Press
+|year=1964|page=50|isbn=9780674530508|url=https://books.google.com/books?id=6AlP1vz267AC&pg=PA50
+|editor-last=Williams|editor-first=Edwin E.
+}} }}
+
+{{refn|name=burke|{{cite report
+|title=Harvard University Library. Weissman Preservation Center. Library Preservation at Harvard. Bookish fires: the legacy of fire in the Harvard libraries
+|last=Burke|first=Sarah K.
+|url=https://sarahburkecahalan.files.wordpress.com/2012/05/bookish_fires.pdf
+}} }}
+
+{{refn|name=caper|{{cite magazine
+|magazine=Harvard Magazine|title=The Gutenberg Caper|last=Bond|first=W.H.|date=March{{endash}}April 1986|pages=42–48
+}} }}
+
+{{refn|name=class1898|{{cite book
+|url=https://archive.org/stream/1898report02harvuoft#page/158/mode/2up
+|title= Harvard Class of 1898. Report 2
+|publisher= Harvard University|year=1907
+}}}}
+
+{{refn|name=calder|{{cite news
+|title=Verdict Nearing In 'Slasher' Trial|work=Harvard Crimson|first=Mari M. |last=Calder|date=February 28, 1996
+}}}}
+
+{{refn|name=observed|{{cite book
+|last= Bethell|first=John T.|title=Harvard Observed: An Illustrated History of the University in the Twentieth Century
+|url=https://archive.org/details/harvardobservedi00beth|url-access= registration|page= [https://archive.org/details/harvardobservedi00beth/page/72 72]|year=1998|publisher=Harvard University Press|isbn=978-0-674-37733-2
+}}}}
+
+{{refn|name=colson|{{cite news
+|first=Elizabeth|last= Colson|title=Anthropology and a Lifetime of Observation
+|url=http://content.cdlib.org/view?docId=kt7w10088w&brand=calisphere
+|publisher=Regional Oral History Office, The Bancroft Library, University of California, Berkeley|year=2002
+}}
+(Oral history conducted in 2000–2001 by Suzanne Riess.)
+}}
+
+{{refn|name=bentinck1980|{{cite book
+|author=William Bentinck-Smith|author-link=William Bentinck-Smith |publisher=Harvard College Library
+|title="... a Memorial to My Dear Son": Some Reflec{{shy}}tions on 65 Years of the Harry Elkins Widener Memorial Library
+|url=https://books.google.com/books?id=rLWxGQAACAAJ |year=1980
+}} }}
+
+{{refn|name=deficit|
+{{cite news
+|date= December 4, 1965<!--no writer--> |title=Widener Space Deficit Reaching Danger Point|work=Harvard Crimson
+|url=http://www.thecrimson.com/article/1965/12/4/widener-space-deficit-reaching-danger-point
+}}
+* {{cite news
+|date=November 30, 1967 <!--no writer--> |title=Stop-Gap Measures Ease Pinch in Widener Library|work=Harvard Crimson
+|url=http://www.thecrimson.com/article/1967/11/30/stop-gap-measures-ease-pinch-in-widener/
+}}
+}}
+
+{{refn|name=mooney|{{cite journal
+|last=Mooney | first=Carolyn J. |title=Swim or Sink|journal=Chronicle of Higher Educa{{shy}}tion
+|date=October 12, 1994|pages=A35–A36
+}} }}
+
+{{refn|name=legends|
+{{cite news
+|title=The First Abridged Dictionary of Harvard Myths|work=The Harvard Independent
+|date=December 9, 1993 |pages=10–11 |last=Mann|first=Elizabeth
+}}
+* {{cite news
+|work=Harvard Gazette |title=The Widener Memorial Room|url=http://news.harvard.edu/gazette/story/2012/04/the-widener-memorial-room
+|publisher = The President and Fellows of Harvard College|last=Ireland|first=Corydon|date=April 5, 2012
+}}
+}}<!--<<end refn-->
+
+{{refn|name=crime_wolfe|{{cite news
+|title=Thomas Wolfe at Harvard: Damned Soul in Widener|date=October 18, 1958 |work=Harvard Crimson<!--no author-->
+|url=http://www.thecrimson.com/article/1958/10/18/thomas-wolfe-at-harvard-damned-soul
+}} }}
+
+{{refn|name=potier|{{cite news | title=Widener Library renova{{shy}}tions: On time, on budget
+|first= Beth |last= Potier | work=Harvard Gazette |date=September 30, 2004
+|url=http://www.news.harvard.edu/gazette/2004/09.30/13-widener.html
+}} }}
+
+{{refn|name=weds| {{citation | url=https://timesmachine.nytimes.com/timesmachine/1915/10/07/105041887.pdf
+|title= Explorer Rice Weds Mrs. G. D. Widener{{snd}}Law Requiring Five Days' Delay After Securing License Waived by a Court Order{{snd}}Plans for Secrecy Fail{{snd}}Bishop Lawrence Officiates at Ceremony in Emmanuel Church Vestry Witnessed by Twelve Persons| work=New York Times | date=October 7, 1915 }} }}
+
+{{refn|name=dienstag|{{cite news
+|url=http://www.thecrimson.com/article/2004/5/3/widener-reading-room-reopens-the-penultimate
+|title=Widener Reading Room Reopens|last=Dienstag|first=John|date=May 3, 2004|work=Harvard Crimson
+}} }}
+
+{{refn|name=divinity|{{cite book
+|url=http://library.hds.harvard.edu/exhibits/hds-20th-century/new-library
+|title=Harvard Divinity School. Andover-Harvard Theological Library. The New Library
+|year=2016| publisher = The President and Fellows of Harvard College
+}} }}
+
+{{refn|name=grace|{{cite news
+|url=https://news.google.com/newspapers?nid=888&dat=19690821&id=KUtSAAAAIBAJ&pg=7292,611808
+|title=Cat Burglar Steals Bible Before Fall From Grace|work=St. Petersburg Times|date=August 21, 1969|page=2-A
+}} }}
+
+{{refn|name=kent|{{cite book
+|title=Encyclopedia of Library and Information Science|url=https://books.google.com/books?id=Oprd7AefXFwC&pg=PA318
+|volume=19|year=1976|publisher=CRC Press|isbn=978-0-8247-2019-3|page=318|editor1-last=Kent |editor1-first=A.
+|editor2-last=Lancour |editor2-first=Harold |editor3-last=Daily|editor3-first=Jay E. |editor4-last=Nasri |editor4-first= W.Z.| display-editors = 3
+}}}}
+
+{{refn|name=rolbein |{{cite news
+|title=Deep in the stacks: Besides 3.5 million books, Harvard's Widener Library harbors scholars, thieves, eccentrics and a tale or two
+|first=Seth |last=Rolbein |work=The Boston Globe Magazine |date=April 13, 1997 |page=14
+}} }}
+
+{{refn|name=transcript|{{cite news |author=<!--no byline-->
+|url=https://news.google.com/newspapers?nid=2249&dat=19150624&id=GzknAAAAIBAJ&pg=6483,4969905
+|date = June 24, 1915 | work=Boston Evening Transcript | page=2
+|title= Harvard Commencement. Widener Is Dedicated – Senator Lodge Makes the Speech of Presenta{{shy}}tion{{snd}}President Lowell Accepts Gift for Harvard{{snd}}In Presence of Many Distinguished Guests{{snd}}Mrs. Widener, Donor, Delivers the Keys{{snd}}Bishop Lawrence<!--<<would be nice to link Lawrence but there's a technical problem--> in Benedic{{shy}}tion and Prayer{{snd}}Exercises are in Library Memorial Room{{snd}}Univer{{shy}}sity Marshal Warren Is in Charge
+}} }}
+
+{{refn|name=near_best|{{cite news|work=Harvard Crimson
+|title=Widener Gutenberg Bible Near Best – Outstanding Specimen In Harvard Scarce Volume Collec{{shy}}tion
+|url=http://www.thecrimson.com/article/1949/11/10/widener-gutenberg-bible-near-best-pthe
+|date=November 10, 1949 <!--no writer given-->
+}} }}
+
+{{refn|name=dies_paris| {{citation
+| title=Mrs. A. H. Rice Dies in a Paris Store{{snd}}New York and Newport Society Woman, Wife of Explorer, Noted for Philanthropy{{snd}}A Survivor of Titanic{{snd}}Lost First Husband and Son in Disaster{{snd}}Gave Library to Harvard Univer{{shy}}sity
+| work=New York Times |date=July 14, 1937}} }}
+
+{{refn|name=metcalf1980|{{cite book
+|first=Keyes DeWitt |last=Metcalf |author-link=Keyes Metcalf |year=1980 |publisher=Readex Books
+|title=Random Recollections of an Anachronism or Seventy-Five Years of Library Work|url=https://archive.org/details/randomrecollecti00metc |url-access=registration |pages=[https://archive.org/details/randomrecollecti00metc/page/264 264]–65
+|isbn=9780918414021 }} }}
+
+{{refn|name=metcalf1988|{{cite book
+|title=My Harvard Library years, 1937–1955: A sequel to Random recollections of an anachronism
+|first=Keyes DeWitt |last=Metcalf |author-link=Keyes Metcalf |year=1988 |publisher=Harvard College Library{{nbsp}}/ Harvard University Press
+|editor-last=Williams|editor-first=Edwin E. |pages=24–30
+}} }}
+
+{{refn|name=metcalf1965|{{cite book
+|last=Metcalf|first=Keyes DeWitt |author-link=Keyes Metcalf |title=Planning academic and research library buildings
+|publisher=McGraw-Hill|url=https://archive.org/details/planningacademic0000metc|url-access=registration|year=1965
+|isbn=9780070416574 }} }}
+
+{{refn|name=rotunda| {{cite web | title = The Memo{{shy}}rial Library. The Rotunda
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15
+| website= History of the Harry Elkins Widener Memo{{shy}}rial Collec{{shy}}tion
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/houghton/exhibits/widener/library/5_5.cfm
+}} }}
+
+{{refn|name=newpusey|{{cite news
+|title=The New Pusey Library: Yard Beautification|work=Harvard Crimson
+|first=Nicholas|last=Lemann|date= March 26, 1973
+}}}}
+
+{{refn|name=bunting|{{cite book
+|author=Bainbridge Bunting |editor=Margaret Henderson Floyd
+|title=Harvard: An Architectural History
+|url=https://books.google.com/books?id=nlaE3-XfmJwC&pg=PA152
+|year=1985 |publisher=Belknap Press of Harvard Univer{{shy}}sity Press
+|isbn=978-0-674-37291-7 |pages=152–57
+}} }}
+
+{{refn|name=hearst|{{cite web
+|website=Encyclo{{shy}}paedia Britannica | title=William Randolph Hearst|access-date=June 17, 2014
+|date=July 29, 2013|url=http://www.britannica.com/EBchecked/topic/258328/William-Randolph-Hearst
+}} }}
+
+{{refn|name=zoll |{{cite news
+|date=April 14, 1996 |first=Rachel|last=Zoll
+|url=http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/19960415/LIFE/304159968&emailAFriend=1
+|work=South Coast Today |title=Libraries throw the book at their abundant looters
+}} }}
+
+{{refn|name=HEW_history| {{cite web | website = hcl.harvard.edu
+| title = Houghton Library. Collec{{shy}}tions. Harry Elkins Widener Collec{{shy}}tion. History.
+| author = Harvard College Library | date = June 10, 2014 |access-date = 2014-05-15
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/houghton/exhibits/widener/
+}} }}
+
+{{refn|name=pollet|{{cite book
+|last1=Pollet|first1=Dorothy|last2=Haskell|first2=Peter C.|url=https://archive.org/details/signsystemsforli00poll
+|url-access=registration|title=Sign systems for libraries: solving the wayfinding problem|year=1979|publisher=Bowker|pages=[https://archive.org/details/signsystemsforli00poll/page/169 169]–71
+|isbn=9780835211499 }} }}
+
+{{refn|name=widener_history| {{cite web
+| website = hcl.harvard.edu| title = Widener Library. History. | author = Harvard College Library
+| date = September 26, 2014 |access-date = 2015-01-11| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/widener/history.cfm
+}} }}
+
+{{refn|name=relieve|
+{{cite news
+|title=Legendary Librarian Dies, Planned Lament [sic?] and Pusey
+|first=Ellen P.|last=Goodman|date=November 8, 1983
+|url=http://www.thecrimson.com/article/1983/11/8/legendary-librarian-dies-planned-lament-and/
+}}
+* {{cite web | title = Houghton Library. History
+| author = Harvard College Library | date = 2008 |access-date = 2015-01-11
+| website= hcl.harvard.edu
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/houghton/history.cfm
+}}
+}}<!--<<end refn-->
+
+{{refn|name=suspect| {{cite news
+|title=Suspect Falls 50 Feet With Gutenberg Bible: $1 Million Harvard Theft Fails
+|last=Snow|first=Crocker Jr. |work=Boston Globe|date=August 21, 1969 |page=1
+}} }}
+
+{{refn|name=barcoding| {{cite web
+|website = Harvard University. Library Notes.
+|url=http://hul.harvard.edu/publications/hul_notes_1330/barcoding.html
+|date=March 2006|number=1330|title=HCL's Smart Barcoding Project Under Way in Widener|archive-date=August 23, 2014|archive-url=https://wayback.archive-it.org/5456/20140823155723/http://hul.harvard.edu/publications/hul_notes_1330/barcoding.html|url-status=unfit
+}} }}
+
+{{refn|name=crime_1969|{{cite news
+|title=Officials Add New Security For Widener Fire Threat, Bible Theft Spur Action
+|date=September 23, 1969 <!--no writer-->|work=Harvard Crimson
+|url=http://www.thecrimson.com/article/1969/9/23/officials-add-new-security-for-widener
+}} }}
+
+{{refn|name=widener_hewmc| {{cite web | website = hcl.harvard.edu
+| title = Widener Library. Collec{{shy}}tions. Harry Elkins Widener Memorial Collec{{shy}}tion
+| author = Harvard College Library | date = 2007 |access-date = 2014-05-16
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/widener/collections/harryelkins.html
+}} }}
+
+{{refn |name=fox|{{cite book
+|last=Fox|first=Dov|title=The Truth about Harvard: A Behind the Scenes Look at Admissions and Life on Campus|page=100
+|url=https://books.google.com/books?id=SVrimODXb-8C&pg=PA100|year=2004|publisher=The Princeton Review|isbn=978-0-375-76435-6
+}}}}
+
+{{refn|name=HEW_gutenberg| {{cite web | website = hcl.harvard.edu
+| title = Houghton Library. Collec{{shy}}tions. Harry Elkins Widener Collec{{shy}}tion. The Gutenberg Bible
+| author = Harvard College Library | date = 2012 |access-date = 2014-05-23
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/houghton/collections/widener/gutenberg.cfm
+}} }}
+
+{{refn|name=wiegand | {{cite book| title =Encyclo{{shy}}pedia of Library History
+|editor1=Wayne A. Wiegand |editor2=Donald G. Davis |publisher=Taylor{{nbsp}}& Francis|year=1994
+|url=https://books.google.com/books?id=WR9bsvhc4XMC&pg=PA256
+|isbn=978-0-8240-5787-9
+}} }}
+
+{{refn|name=goins| {{cite news | title =Needed Renova{{shy}}tions Planned For Widener
+|first=Jason M. |last=Goins | date=March 23, 1999 |work=Harvard Crimson
+|url=http://www.thecrimson.com/article/1999/3/23/needed-renovations-planned-for-widener-pwhen
+}} }}
+
+{{refn|name=crime_1951|{{cite news
+|title=Faculty Profile. Sleuths in the Stacks |first=Philip M. |last=Cronin|date=December 12, 1951 |work=Harvard Crimson
+|url=http://www.thecrimson.com/article/1951/12/12/faculty-profile-pi-was-always-well-known/
+}} }}
+
+{{refn|name=meister| {{cite book |title=Architecture and the Arts and Crafts Movement in Boston: Harvard's H. Langford Warren
+|first=Maureen |last=Meister | year=2003|isbn=978-1-58465-351-6 |publisher=UPNE
+|url=https://books.google.com/books?id=qMG7uSjbiNQC&pg=PA147
+}} }}
+
+{{refn|name=gift| {{cite web | title = The Memo{{shy}}rial Library. The Gift to Harvard
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15
+| website= History of the Harry Elkins Widener Memo{{shy}}rial Collec{{shy}}tion
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/houghton/exhibits/widener/library/5_2.cfm
+}} }}
+
+{{refn|name=mrsw| {{cite web | title = The Memo{{shy}}rial Library. Mrs. Widener to President Lowell
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15
+| website= History of the Harry Elkins Widener Memo{{shy}}rial Collec{{shy}}tion
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/houghton/exhibits/widener/library/5_3.cfm
+}} }}
+
+{{refn|name=look|{{cite book
+|author=David Herbert Donald|title=Look Homeward: A Life of Thomas Wolfe
+|url=https://books.google.com/books?id=OVPHgzHxUgEC&pg=PA498
+|year=2002|publisher=Harvard Univer{{shy}}sity Press
+|isbn=978-0-674-00869-4|pages=72–73
+}} }}
+
+{{refn|name=offsite| {{cite book | title=Library Off-site Shelving: Guide for High-density Facilities
+|editor1=Danuta A. Nitecki |editor2=Curtis L. Kendrick|page=129|publisher=Libraries Unlimited |year= 2001
+|url=https://books.google.com/books?id=v2aD9piTIFoC&pg=PA129 |isbn=978-1-56308-885-8
+}} }}
+
+{{refn|name=lb_ad|{{cite journal
+|journal=The Library Journal |date=May 1915|at=Advertising supplement, p. 7
+|url=https://books.google.com/books?id=lSUzAQAAMAAJ
+|title=Special card catalog cases|volume=40|number=5
+|last1=Martel|first1=Charles}} }}
+
+{{refn|name=tlj_may1915|{{cite journal
+|journal=The Library Journal |date=May 1915|page=305
+|url=https://books.google.com/books?id=lSUzAQAAMAAJ&pg=PA305
+|title=The preparations for the A.L.A. conference at Berkeley|volume=40|number=5
+|last1=Martel|first1=Charles}} }}
+
+{{refn|name=snead_ad|{{cite journal
+|journal=The Library Journal |date=December 1915|at=Advertising supplement, p. 9
+|url=https://books.google.com/books?id=lSUzAQAAMAAJ&pg=PA981|volume=40|number=12
+|title=The Newly Completed Widener Memorial Library, Harvard Univer{{shy}}sity is equipped with Snead Standard Stack and Snead Standard Steel Shelving
+|last1=Martel|first1=Charles}} }}
+
+{{refn|name=ask_swim|{{cite web
+|work=Harvard Library. Ask a Librarian |date=February 22, 2012
+|url=https://ask.library.harvard.edu/faq/81791
+|title=Is it true that Harvard students must pass a swimming test because of Harry Elkins Widener's death aboard the Titanic?
+|last=Kelley-Milburn |first=Deborah |access-date=April 30, 2014
+}} }}
+
+{{refn|name=ask_dioramas|{{cite web
+|work=Harvard Library. Ask a Librarian |date=May 19, 2016
+|url=http://asklib.hcl.harvard.edu/faq/81790
+|title=What happened to the dioramas of Cambridge that used to be in Widener?
+|last=Kelley-Milburn |first=Deborah |access-date=June 3, 2016
+}} }}
+
+{{refn|name=ask_inscriptions|{{cite web
+|work=Harvard Library. Ask a Librarian
+|url=http://asklib.hcl.harvard.edu/a.php?qid=380877
+|title=What are the inscriptions to Harry by his mother in the entrance to the memorial library at Harvard?
+|date=March 25, 2013 |access-date=June 14, 2014
+|last=Kelley-Milburn |first=Deborah
+}} }}
+
+{{refn|name=ask_sargent|{{cite web
+|work=Harvard Library. Ask a Librarian
+|url=http://asklib.hcl.harvard.edu/a.php?qid=33668
+|title=Where are the John Singer Sargent paintings in Widener?
+|date=June 14, 2013 |access-date=June 14, 2014
+|last=Kelley-Milburn |first=Deborah
+}} }}
+
+{{refn|name=tomase | {{cite news
+|title=Tale of John Harvard's Surviving Book
+|date=November 1, 2007 |first=Jennifer|last=Tomase
+| publisher = The President and Fellows of Harvard College
+|work=Harvard Gazette
+|url=http://news.harvard.edu/gazette/story/2007/11/tale-of-john-harvard%E2%80%99s-surviving-book
+}} }}
+
+{{refn|name=collections| {{cite web | website = hcl.harvard.edu
+| title = Widener Library Collec{{shy}}tions. Overview
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15
+| publisher = The President and Fellows of Harvard College
+| url= http://hcl.harvard.edu/libraries/widener/collections
+}} }}
+
+{{refn|name=forrest|{{cite journal
+|pages=197–205 |url=https://www.academia.edu/669221
+|title=2005 AIA/ALA Library Building Awards{{snd}}Harry Elkins Widener Memorial Library Renova{{shy}}tion
+|author=Charles Forrest |journal=Library Administra{{shy}}tion{{nbsp}}& Manage{{shy}}ment |date=Fall 2005 |volume=19 |number=4
+}} }}
+
+{{refn|name=histcambridge|{{cite book
+|chapter-url=http://www.mocavo.com/A-History-of-Cambridge-Massachusetts-1630-1913/488593/315 |author=Samuel Atkins Eliot
+|chapter=The Harry Elkins Widener Library |pages=273–76
+|title=A history of Cambridge, Massachusetts, 1630–1913{{snd}}together with biographies of Cambridge people
+|location=Cambridge, Massachusetts |publisher=Cambridge Tribune |year=1913
+}} {{subscription required}} }}
+
+{{refn|name=movement| {{cite web
+| title = HCL News. Widener Stacks Division Com{{shy}}pletes the Movement of Millions of Volumes{{snd}}Not an Easy Trick
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15| website = hcl.harvard.edu
+| publisher = The President and Fellows of Harvard College| url= http://hcl.harvard.edu/news/articles/2002/stackscomplete_pr.cfm
+}} }}
+
+{{refn|name=ask_disturbing|{{cite web
+|work=Harvard Library. Ask a Librarian
+|author=Colleen Bryant|url=http://asklib.hcl.harvard.edu/a.php?qid=196882
+|archive-url=https://web.archive.org/web/20150217012015/http://asklib.hcl.harvard.edu/a.php?qid=196882
+|archive-date=2015-02-17
+|title=I found a disturbing bookplate in a Widener book|date=Jul 19, 2012
+}} }}
+
+{{refn|name=whiffen|{{cite book
+|title=American Architecture: 1860–1976 |volume=2 |author-link=Marcus Whiffen |first1=Marcus |last1=Whiffen |first2= Frederick |last2=Koeper
+|year=1983|publisher=MIT Press|isbn=978-0-262-73070-9|url=https://books.google.com/books?id=gpgPyGWFRBAC&pg=PA281
+}} }}
+
+{{refn|name=lacock|{{cite book
+|last=Lacock |first=John Kennedy|year=1923<!--apparently no isbn-->
+|title=Boston and vicinity including Cambridge, Arlington, Lexington, Concord, Quincy, Plymouth, Salem and Marblehead. Historic landmarks and points of interest and how to see them
+|location=Boston|publisher=Chapple Publishing Company|url=https://books.google.com/books?id=Da5JAAAAIAAJ
+}} }}
+
+{{refn|name=british|{{cite book
+|title=British Univer{{shy}}sities Encyclo{{shy}}paedia: pt. 1–2. World's libraries and librarians
+|location=London |year=1939 |url=https://books.google.com/books?id=65pGAQAAIAAJ
+|publisher=British Univer{{shy}}sities Encyclo{{shy}}paedia Limited and the Athenaeum Press
+}} }}
+
+{{refn|name=ala_aia|{{cite web
+|url=http://www.ala.org/llama/awards/aiaalalibrarybuildings|title=Previous Winners of the AIA/ALA Library Buildings Award Program
+|publisher=American Library Association|author=Library Leadership and Management Association
+|date=30 November 1999
+}} }}
+
+{{refn|name=browse|{{cite news
+|work=Boston Sunday Herald|date=October 10, 1915|page=1
+|title=A browse amongst the books in the new Widener Memorial Library at Harvard
+}} }}
+
+{{refn|name=halberstam|{{cite news |last=Halberstam |first=David
+|title=The Widener Memorial Room |work=Harvard Crimson |date=April 7, 1953
+|author-link=David Halberstam|url=http://www.thecrimson.com/article/1953/4/7/the-widener-memorial-room-ptwenty-seven-year
+}} }}
+
+{{refn| name=ask_flowers |{{cite web
+| url=http://asklib.hcl.harvard.edu/a.php?qid=99096|work=Harvard Library. Ask a Librarian 
+|title=Is it true that fresh flowers are delivered daily to the Widener Memorial Room?
+|date=October 3, 2011 |access-date=April 30, 2014 |last=Kelley-Milburn |first=Deborah 
+|url-status=dead |archive-url=https://web.archive.org/web/20150217013352if_/http://asklib.hcl.harvard.edu/a.php?qid=99096 
+|archive-date=2015-02-17
+}} }}
+
+{{refn|name=canoe|{{cite book
+|author=Steven Biel|title=Down with the Old Canoe: A Cultural History of the Titanic Disaster
+|url=https://archive.org/details/downwitholdcanoe0000biel
+|url-access=registration|page=[https://archive.org/details/downwitholdcanoe0000biel/page/89 89]|year=2012|publisher=W. W. Norton & Company|isbn=978-0-393-34080-8
+}} }}
+
+{{refn|name=bibliophobia|{{cite news
+|title=Bibliophobia |first=Sarah J. |last=Schaffer |date=February 18, 1995 |work=Harvard Crimson
+|url=http://www.thecrimson.com/article/1995/2/18/bibliophobia-psome-harvard-students-make-it/?page=single
+}} }}
+
+{{refn|name=cyclo|{{cite book|work=The Cyclopædia of American Biography |year=1918
+|editor=James E. Homans |title=Harry Elkins Widener
+|url=http://en.wikisource.org/wiki/The_Cyclop%C3%A6dia_of_American_Biography/Widener,_Harry_Elkins
+}} }}
+
+{{refn|name=bpl_sargent|
+* {{cite web| title=Sargent's Harvard murals |year=2003 |access-date=2014-05-24
+|publisher=Trustees of the Public Library of the City of Boston and the President and Fellows of Harvard College
+|url=http://www.sargentmurals.bpl.org/site/sargent/01_hvd.html
+}}
+* {{cite web| title=Sargent's Harvard Murals. Entering the War.
+|url=http://www.sargentmurals.bpl.org/site/sargent/02_hvd.html}}
+}}
+
+{{refn|name=Harvard's_new|{{cite news
+|title=Harvard's new library – Presented by Mrs. George D. Widener to House the Valuable Collection of Books Left by Her Son, Harry Elkins Widener
+|date=September 22, 1912 |work=The New York Times |page=14
+|url=https://timesmachine.nytimes.com/timesmachine/1912/09/22/100594028.pdf
+}} }}
+
+{{refn|name=HEW_Livingston|{{cite letter
+| first = Harry Elkins
+| last = Widener
+| recipient = [[Luther Samuel Livingston]]
+| subject = Just a few lines to tell you that I am about to take a quick trip to England
+| date = March 10, 1912
+| type = manuscript
+| url = http://hollisclassic.harvard.edu/F/?func=find-b&find_code=SYS&request=008653030
+}} }}
+
+{{refn|name=hellman|{{cite news
+|title=Harvard To Get Harry Widener's Famous Library – Titanic Victim, Though Hardly Out Of College – Acquired A Fine Collection Of Books That He Willed To His Alma Mater – His Grandfather Adds A Memorial Wing To House It
+|author=George S. Hellman |work=The New York Times |date=June 2, 1912
+|url=https://timesmachine.nytimes.com/timesmachine/1912/06/02/100585557.pdf
+}} }}
+
+{{refn|name=houghton_chron|{{cite book
+|author1=Hugh Amory|author2=Nancy Finlay
+|title=A Houghton library chronicle, 1942–1992
+|url=https://books.google.com/books?id=wXoqAQAAIAAJ
+|year=1992|publisher=Harvard College Library
+|isbn=9780914630067
+}} }}
+
+{{refn|name=speaking|{{cite news
+ |publisher = The President and Fellows of Harvard College
+ |date      = February 26, 1998
+ |author    = <!--doesn't seem to be an author given-->
+ |title     = Speaking Volumes
+ |work      = Harvard Gazette
+ |url       = http://www.news.harvard.edu/gazette/1998/02.26/SpeakingVolumes.html
+|archive-url = https://web.archive.org/web/19990909205056/http://www.news.harvard.edu/gazette/1998/02.26/SpeakingVolumes.html
+|url-status  = dead
+|archive-date = September 9, 1999
+}} }}
+
+{{refn|name=hewc| {{cite web | website = hcl.harvard.edu
+| title = Harry Elkins Widener Collec{{shy}}tion. Overview
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15
+| publisher = The President and Fellows of Harvard College
+| url= http://hcl.harvard.edu/libraries/houghton/collections/widener/collection.cfm
+}} }}
+
+{{refn|name=HEW_will| {{cite web | title = The Memo{{shy}}rial Library. Will of Harry Elkins Widener
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15
+| website= History of the Harry Elkins Widener Memo{{shy}}rial Collec{{shy}}tion
+| publisher = The President and Fellows of Harvard College
+| url= http://hcl.harvard.edu/libraries/houghton/exhibits/widener/library/5_7.cfm
+}} }}
+
+{{refn|name=AZ|{{cite book
+|last1=Bethell|first1= John T.|last2= Hunt|first2= Richard M.|last3= Shenton|first3=Robert
+|url=https://books.google.com/books?id=WGrBJFRw1GsC&pg=PA230|isbn=978-0-674-02089-4
+|title=Harvard A to Z|publisher= Harvard Universi{{shy}}ty Press|year=2004
+}} }}
+
+{{refn|name=leighton|{{cite book
+|last1=Leighton |first1=Philip D.
+|last2=Weber |first2=David C.
+|title=Planning Academic and Research Library Buildings
+|url=https://books.google.com/books?id=Q8R9UH8kbo4C&pg=PA13
+|year=1999 | publisher=American Library Association
+|isbn=978-0-8389-0747-4 | pages=13–14
+}} }}
+
+{{refn|name=houghton_gutenberg| {{cite web | website = hcl.harvard.edu
+|title= Houghton Library. Collections. Harry Elkins Widener Collection. The Gutenberg Bible
+| author = Harvard College Library | date = 2012 |access-date = 2014-06-01
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/houghton/collections/widener/gutenberg.cfm
+}} }}
+
+{{refn|name=special| {{cite web | website = hcl.harvard.edu
+|title= Widener Library. FAS Departmental Libraries
+| author = Harvard College Library | date = 2009 |access-date = 2014-05-15
+| publisher = The President and Fellows of Harvard College
+| url=http://hcl.harvard.edu/libraries/widener/fas_dept_libs.cfm
+}} }}
+
+{{refn |name=engineering|{{cite journal
+|date=June 1916|page=iv|journal=The Engineering Magazine
+|title= Improved Machinery. An Electric Floor Surfacing Machine
+|url=https://books.google.com/books?id=0rJMAAAAYAAJ&pg=RA2-PR4
+}} }}
+
+{{refn|name=bearings |
+{{cite news
+|title=Fifteen Minutes: Blue Line|url=http://www.thecrimson.com/article/1999/9/30/fifteen-minutes-blue-line-pevery-widener
+|author=<!--NO WRITER ATTRIBUTED-->|date= September 30, 1999 |work=Harvard Crimson
+}}
+* {{cite news
+|title=Dazed and Confused In Widener Library|last=Marks|first=Stephen M.|date=October 24, 2002|work=Harvard Crimson
+}}
+}}<!--<<end refn-->
+
+{{refn|name=gewertz|{{cite news
+|first=Ken |last=Gewertz|date=October 17, 2002|work=Harvard Gazette
+|publisher = The President and Fellows of Harvard College
+|title=Widener's main entrance to close for renova{{shy}}tion
+|url=http://news.harvard.edu/gazette/2002/10.17/09-widener.html
+}} }}
+
+{{refn|name=slips|{{citation
+|url=http://www.thecrimson.com/article/1969/9/18/burglar-slips-as-he-tries-to/
+|title=Burglar Slips as He Tries to Remove Gutenberg Bible From Widener Library
+|work=Harvard Crimson | date=September 18, 1969 <!--no author-->
+}} }}
+
+{{refn|name=shandtucci| {{cite book
+|last=Shand-Tucci|first=Douglas|publisher=Princeton Architectural Press
+|title=The Campus Guide: Harvard Universi{{shy}}ty|pages=165–69
+|year=2001|isbn=9781568982809|url=https://books.google.com/books?id=3g6vmGl0UgwC
+}} }}
+
+{{refn|name=klepts|{{cite journal
+|journal=Harvard Magazine |date= March 1997 |title=Biblioklepts
+| last= Reed |first=Christopher
+}}<!--<<end cite template-->
+[http://harvardmagazine.com/1997/03/biblio.html Part{{nbsp}}A]
+[http://harvardmagazine.com/1997/03/biblio.2.html Part{{nbsp}}B]
+[http://harvardmagazine.com/1997/03/biblio.3.html Part{{nbsp}}C]
+[http://harvardmagazine.com/1997/03/biblio.4.html Part{{nbsp}}D]
+[http://harvardmagazine.com/1997/03/biblio.5.html Part{{nbsp}}E]
+}}<!--<<end refn-->
+
+{{refn|name=slasher|{{cite journal
+|journal=Harvard Magazine | last= Reed | first=Christopher|date= March{{endash}}April 1997
+|url=http://harvardmagazine.com/1997/03/biblio.slasher.html
+| title=The Slasher
+}} }}
+
+{{refn|name=smith|{{cite book
+|title=The Harvard Century: The Making of a University to a Nation|url=https://archive.org/details/harvardcentury00rich|url-access=registration|page=[https://archive.org/details/harvardcentury00rich/page/80 80]|last=Smith|first=Richard Norton
+|year=1986|publisher=Simon & Schuster
+}} }}
+
+{{refn|name=lies|{{cite journal
+|journal=Harvard Magazine | author=Primus V |date=July–August 2003
+|url=http://harvardmagazine.com/2003/07/lies-about-harry.html
+| title=The College Pump{{snd}}Lies about Harry
+}} }}
+
+{{refn|name=tuchman|{{cite book
+|page=15|year=2011|title=Practicing History: Selected essays|last=Tuchman| first=Barbara W.
+|url=https://books.google.com/books?id=hffLC9_WUCIC&pg=PA15|author-link=Barbara W. Tuchman
+|publisher=Random House Publishing Group|isbn=978-0-307-79855-8
+}} }}
+
+{{refn | name=destroyer |{{cite news
+|title=Destroyer of Books Gets Stiff Sentence
+|url=http://news.harvard.edu/gazette/1996/03.28/DestroyerofBook.html
+|publisher = The President and Fellows of Harvard College
+|first=Marvin|last=Hightower |date=March 28, 1996 |work=Harvard Gazette
+}} }}
+
+{{refn|name=lib1892|{{cite book|author=Harvard Univer{{shy}}sity. Library|title=Fifteenth Report (1892) of Justin Winsor, Librarian of Harvard Univer{{shy}}sity|url=https://books.google.com/books?id=YlkZAAAAMAAJ&pg=RA2-PA15|year=1892|pages=1–15
+}} }}
+
+{{refn|name=lane_libj<!-- ← there's something wrong with the two Lane cites -- article was published once in Library J and once in H Alumni Bull (slightly changed), and the page number refs seem mixed up between them-->
+|{{cite journal|last=Lane|first=William Coolidge|author-link=William Coolidge Lane
+|title=The Widener Memo{{shy}}rial Library of Harvard College
+|url=https://books.google.com/books?id=lSUzAQAAMAAJ&pg=PA325
+|journal=The Library Journal|date=May 1915|page=325|volume=40|number=5
+}} }}
+
+{{refn|name=coolidge|{{cite book
+|last=Coolidge|first=Archibald Cary|title=The Harvard College Library|number=93|author-link=Archibald Cary Coolidge
+|url=https://books.google.com/books?id=3CdYAAAAYAAJ&pg=PA81|volume=24|date=September 1915
+|publisher=Harvard Graduates' Magazine Association|pages=23–31}}}}
+
+{{refn|name=lodge|{{cite book
+|last=Lodge|first=Henry Cabot|title=The Meaning of a Great Library|number=93
+|url=https://books.google.com/books?id=3CdYAAAAYAAJ&pg=PA31|volume=24|date=September 1915
+|publisher=Harvard Graduates' Magazine Association|pages=31–38}}}}
+
+{{refn|name=dedication|{{cite book
+|title=Commencement—Dedication of the Library|number=93
+|url=https://books.google.com/books?id=3CdYAAAAYAAJ&pg=PA81|volume=24|date=September 1915
+|publisher=Harvard Graduates' Magazine Association|pages=81–82}}}}
+
+{{refn|name=sanders|{{cite book
+|title=Commencement—Exercises in Sanders Theatre|number=93
+|url=https://books.google.com/books?id=3CdYAAAAYAAJ&pg=PA78|volume=24|date=September 1915
+|publisher=Harvard Graduates' Magazine Association|pages=78–81}}}}
+
+{{refn|name=lane_mem
+|{{cite journal|last=Lane|first=William Coolidge|author-link=William Coolidge Lane
+|title=The Harry Elkins Widener Memo{{shy}}rial Library. The Widener Memorial
+|url=https://books.google.com/books?id=JyTPAAAAMAAJ&pg=PA672
+|journal=The Library Journal|date=May 1915|pages=672–77|volume=40|number=5
+}} }}
+
+{{refn|name=graduates_window
+|{{cite journal|pages=23–25|date=September 1903|volume=12|number=45|title=From a Graduate's Window
+|journal=Harvard Graduates Magazine|publisher=Harvard Graduates' Magazine Associa{{shy}}tion
+|url=https://books.google.com/books?id=eDNYAAAAYAAJ&pg=PA23
+}} }}
+
+{{refn|name=crime_1928|{{cite news
+|title=New Addition Affords Widener Shelving Room – Recent Gift of Mrs. Hamilton Rice Increases Stack Space – Two Levels Added Below Present Stack
+|work=Harvard Crimson|date=September 22, 1928 <!--no writer-->
+|url=http://www.thecrimson.com/article/1928/9/22/new-addition-affords-widener-shelving-room/
+}} }}
+
+{{refn|name=alumni_19130616_collection|{{cite journal|journal=Harvard Alumni Bulletin|pages=668–70
+|title=The Harry Elkins Widener Memorial Library. The Widener Collection of Books
+|author=George Parker Winship | author-link=George Parker Winship
+|url=https://books.google.com/books?id=JyTPAAAAMAAJ&pg=PA668
+|date=June 16, 1915 |publisher=Harvard Alumni Associa{{shy}}tion|volume=XVII|number=36
+}} }}
+
+{{refn|name=counting|{{cite news
+ |url         = http://www.news.harvard.edu/gazette/1998/06.04/CountingLibrari.html
+ |publisher   = The President and Fellows of Harvard College
+ |work        = Harvard Univer{{shy}}sity Gazette
+ |date        = June 4, 1998
+ |last        = Hanke
+ |first       = Timothy
+ |title       = Counting Libraries at Harvard: Not as Easy as You Think
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120705142839/http://news.harvard.edu/gazette/1998/06.04/CountingLibrari.html
+ |archive-date = July 5, 2012
+}} }}
+
+{{refn|name=beefs|{{cite news|title=Widener Beefs Up Security
+|work=Harvard Crimson|first=Elisabeth S. |last=Theodore |date= November 14, 2001
+|url=http://www.thecrimson.com/article/2001/11/14/widener-beefs-up-security-pstudents-entering/
+}} }}
+
+{{refn|name=contract|{{cite news
+|work=Harvard Crimson|url=http://www.thecrimson.com/article/1912/12/9/contract-for-new-library-pwhile-the/
+|title=Contract for new library to be let soon – Specifications call for building of most modern type
+|date=December 9, 1912<!--no writer-->
+}}}}
+
+{{refn|name=bridge|
+{{cite news
+|work=Harvard Gazette
+|publisher = The President and Fellows of Harvard College
+|title=Houghton bridge is coming down|date=November 6, 2003
+|author=HCL Communica{{shy}}tions| url=http://www.news.harvard.edu/gazette/2003/11.06/19-bridge.html
+}}
+* {{cite news|title=Widener Library Bridge Coming Down
+|first=Zachary M. |last=Seward|date=November 18, 2003 |work=Harvard Crimson
+|url=http://www.thecrimson.com/article/2003/11/18/widener-library-bridge-coming-down-the/
+}} }}
+
+{{refn|name=bust|{{cite news|url=http://www.thecrimson.com/article/1920/6/4/memorial-bust-of-titanic-victim-placed
+|title=Memorial Bust of Titanic Victim Placed in Widener – Francis Davis Millet '69 Honored by His Classmates—Was Prominent Mural Decorator
+|date=June 4, 1920 <!--no author--> |work=Harvard Crimson
+}} }}
+
+{{refn|name=gazette2012A|{{cite web
+|work=Harvard Gazette |title=Widener Library rises from Titanic tragedy
+|url=http://news.harvard.edu/gazette/story/2012/04/as-result-of-titanics-sinking-widener-library-rose/
+|publisher = The President and Fellows of Harvard College
+|last=Ireland|first=Corydon|date=April 5, 2012
+}} }}
+
+{{refn|name=snead|{{cite book|url=https://books.google.com/books?id=Kr9XAAAAMAAJ&pg=PA153
+| pages=11, 68, 152–58 | publisher=Snead{{nbsp}}& Company Iron Works | year=1915
+| title=Library planning, bookstacks and shelving, with contri{{shy}}bu{{shy}}tions from the archi{{shy}}tects' and librarians' points of view
+}} }}
+
+{{refn|name=valve_abele|{{cite web|title=Julian Abele|date=February 18, 2014
+| work=Sprinkler Valve Through Door: A peek inside Harvard's Widener Library<!--For the record, this is the official blog of Widener Library, as described at [http://hcl.harvard.edu/news/articles/2014/tumblr/index.cfm]: '[Widener's] librarians started a Tumblr blog, named "Sprinkler Valve Through Door," to act as a window into the collections, spaces and services of Widener. "I'm hoping people familiar with the stacks get the title immediately and laugh," said Manager of Reference and Information Services Reed Lowrie, one of the blog's creators...' -->
+|url=http://widenerlibrary.tumblr.com/post/77105150617/julian-abele-was-the-chief-designer-for-the}}
+}}
+
+{{refn|name=stam|{{cite book<!--additionally may be source for Widener classification system-->
+|first=David H. | last=Stam
+|title=International Dictionary of Library Histories
+|url=https://books.google.com/books?id=Zoq_TtEN54IC&pg=PA351
+|year=2001 |publisher=Taylor & Francis
+|isbn=978-1-57958-244-9
+}} }}
+
+{{refn|name=ask_wolfe|{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=40496 |work=Harvard Library. Ask a Librarian
+|title=Who was the Harvard student who famously was stunned to realize that he couldn't read all the books in Widener Library?
+|last=Kelley-Milburn |first=Deborah |date=April 1, 2014 |access-date=June 5, 2014
+}} }}
+
+{{refn|name=ask_mrsw_inscription|{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=101140 |work=Harvard Library. Ask a Librarian
+|title=What is the inscrip{{shy}}tion over the door to the Widener Library in memory of Mrs. Hamilton Rice?
+|last=Kelley-Milburn |first=Deborah |date=October 8, 2011 |access-date=June 14, 2014
+}} }}
+
+{{refn|name=ask_furniture|{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=99069 |work=Harvard Library. Ask a Librarian
+|title=Did the furniture in the Widener Memorial Room belong to Harry Elkins Widener?
+|last=Kelley-Milburn |first=Deborah |date=October 3, 2011 |access-date=June 15, 2014
+}} }}
+
+{{refn|name=ask_lamp|{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=99055|work=Harvard Library. Ask a Librarian
+|title=Is the lamp in the Widener Memorial Room a real Tiffany?
+|last=Kelley-Milburn |first=Deborah |date=October 3, 2011 |access-date=June 15, 2014
+}} }}
+
+{{refn|name=ask_rug|{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=99053 |work=Harvard Library. Ask a Librarian
+|title=What is the rug that's in the Widener Memorial Room?
+|last=Kelley-Milburn |first=Deborah |date=October 3, 2011 |access-date=June 15, 2014
+}} }}
+
+{{refn|name=printers|
+{{cite journal
+|url=http://pds.lib.harvard.edu/pds/view/2573358?n=17602&s=6
+|title=A Carved Tablet Showing Early Printers' Marks on the Widener Library
+|journal=Harvard Library Bulletin |author=Mason Hammond
+|volume=XXXVI |number=4 |date=Fall 1988 |pages=373–80
+}}
+* {{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=55788|work=Harvard Library. Ask a Librarian
+|title=Over the front door of Widener there is a carving.
+|last=Kelley-Milburn |first=Deborah |date=April 1, 2011 |access-date=June 16, 2014
+}}
+}}<!--<<end refn-->
+
+{{refn|name=ask_gutenberg|{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=48156 |work=Harvard Library. Ask a Librarian
+|title=Does Harvard have a Gutenberg Bible?
+|last=Kelley-Milburn |first=Deborah |date=Feb 7, 2012 |access-date=June 15, 2014
+}} }}
+
+{{refn|name=ask_portrait|{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=99093 |work=Harvard Library. Ask a Librarian
+|title=What can you tell me about the portrait in the Widener Memorial Room?
+|last=Kelley-Milburn |first=Deborah |date=February 25, 2013 |access-date=June 15, 2014
+}} }}
+
+{{refn|name=mitchell|{{cite book
+|last=Mitchell|first=Ted
+|title=Thomas Wolfe: An Illustrated Biography|isbn=978-1-933648-10-1|page=[https://archive.org/details/thomaswolfe00tedm/page/78 78]
+|url=https://archive.org/details/thomaswolfe00tedm|url-access=registration|year=2006|publisher=Pegasus Books
+}} }}
+
+{{refn|name=necro|
+{{cite web
+|url=http://asklib.hcl.harvard.edu/a.php?qid=29612 |work=Harvard Library. Ask a Librarian
+|title=Does Harvard have a copy of the Necronomicon?|date=June 12, 2012|access-date=June 13, 2014|author=David Cort
+}}
+* {{cite web
+|title=History of the Necronomicon|date=April 1, 2014| work=Sprinkler Valve Through Door: A peek inside Harvard's Widener Library
+|url=http://widenerlibrary.tumblr.com/post/81401648576/top-photos-1-4-a-history-of-the-necronomicon
+}}
+* {{cite web
+|title=April Fools|date=April 2, 2014| work=Sprinkler Valve Through Door: A peek inside Harvard's Widener Library
+|url=http://widenerlibrary.tumblr.com/post/81513800191/april-fools-our-previous-post-on-the-necronomicon
+}}
+* {{cite book
+|url=https://books.google.com/books?id=MevMCyh7hRUC| title=The Lovecraft Necronomicon primer: a guide to the Cthulhu mythos
+|last=Bilstad|first= T. Allan |year=2009 <!--page needed-->|publisher=Llewellyn Worldwide|isbn=978-0-7387-1379-3
+}}
+* {{cite book
+|url=https://books.google.com/books?id=soWOpwAACAAJ|title=A history of the Necronomicon |last=Lovecraft|first=H. P.
+|edition=2nd|year=1977<!--1st ed would be better, and pg#-->|publisher=Necronomicon Press|isbn=978-0-686-19141-4
+}}
+}}<!--<<end refn-->
+
+{{refn|name=bentinck1976|{{cite book | title=Building a great library: the Coolidge years at Harvard
+| url=https://books.google.com/books?id=zYYaAAAAMAAJ
+|year=1976 |author-link=William Bentinck-Smith |last=Bentinck-Smith | first=William
+|publisher=Harvard Univer{{shy}}sity Library |isbn=978-0-674-08578-7
+}} }}
+
+{{refn|name=battles_unquiet|{{cite book | title=Library: An Unquiet History
+|year = 2004|publisher=W. W. Norton|isbn=978-0-393-32564-5
+|last=Battles |first=Matthew |url=https://books.google.com/books?id=L5O-v2V1ryYC&pg=PA4
+}} }}
+
+{{refn|name=gore_tablet|
+{{cite news
+|url=http://www.thecrimson.com/article/1917/9/26/tablet-erected-to-gore-hall-pthe/
+|title=Tablet Erected to Gore Hall – Placed by Library Committee on Front of Widener.
+|work=Harvard Crimson|date=September 26, 1917<!--no author-->
+}}
+* {{cite news
+|url=http://cambridge.dlconsulting.com/cgi-bin/cambridge?a=d&d=Tribune19170915-01.2.54
+|work=Cambridge Tribune |volume=XL |number=29|date=September 15, 1917
+|title=Widener Library Tablet Commemorates Gore Hall
+}}
+}}<!--<<end refn-->
+
+{{refn|name=thieves|{{cite book
+|author=Travis McDade |page=117 |isbn=978-0-19-992266-6
+|title=Thieves of Book Row: New York's Most Notorious Rare Book Ring and the Man Who Stopped It
+|url=https://books.google.com/books?id=QUcG2bS7xpkC&pg=PA117
+|year=2013|publisher=Oxford Univer{{shy}}sity Press
+}} }}
+
+{{refn|name=whitehill|{{cite book
+|last=Whitehill |first=Walter Muir |author-link=Walter Muir Whitehill
+|title=Analecta biographica; a handful of New England portraits
+|chapter-url=https://books.google.com/books?id=RwgdAAAAMAAJ
+|year=1969 |publisher=Stephen Greene Press |pages=1–14
+|chapter=George Parker Winship
+|isbn=9780828901031 }} }}
+
+{{refn|name=without_result|
+{{cite book
+|last=Wilkie|first=Everett C.|isbn=978-0-8389-8592-2|page=27|year=2011
+|title=Guide to Security Considerations and Practices for Rare Book, Manuscript, and Special Collection Libraries
+|url=https://books.google.com/books?id=_ecESDdC6DQC&pg=PA25|publisher=Association of College & Research Libraries
+}}
+* {{cite news
+|title=HUPD Dept. Focuses on Investigations|first=Laura|last=Semerjian|date=November 16, 1996
+|url=http://www.thecrimson.com/article/1996/11/16/hupd-dept-focuses-on-investigations-pthe
+}}
+}}<!--<<end refn-->
+
+{{refn|name=bookplates|{{cite web
+|title=The bookplates of Harvard men |date=May 29, 2013
+|url=https://blogs.law.harvard.edu/houghtonmodern/2013/05/29/the-bookplates-of-harvard-men/
+|work= Modern Books and Manuscripts – Houghton Library, Harvard Univer{{shy}}sity
+}} }}
+
+{{refn|name=crime_dont|{{cite news
+|title=Don't Steal These Books, 1932 Inscriptions Warn|author=Katherine P. States |date=October 15, 1977
+|work=Harvard Crimson|url=http://www.thecrimson.com/article/1977/10/15/dont-steal-these-books-1932-inscriptions/
+}}}}
+
+{{refn|name=sheavian|{{cite journal
+|journal=Harvard Magazine | author=Primus IV |date=September–October 1998
+|url=http://harvardmagazine.com/1998/09/pump.html
+|title=The College Pump{{snd}}Sheavian Slips
+}} }}
+
+{{refn|name=crime_indict|{{cite news
+|url=http://www.thecrimson.com/article/1931/11/4/indict-book-thief-on-twenty-counts/
+|title=Indict Book Thief on Twenty Counts – Former Prepara{{shy}}tory School Teacher, Arrested Two Weeks Ago, Had Home Stocked With Library Books
+|work=Harvard Crimson|date=November 4, 1931 <!--no author-->
+}} }}
+
+{{refn|name=potter|{{cite book
+|last=Potter |first=Alfred Claghorn |year=1915|page=[https://archive.org/details/cu31924029532540/page/n39 32]
+|title=The Library of Harvard University Descriptive and Historical Notes
+|url=https://archive.org/details/cu31924029532540 }} }}
+
+{{refn|name=wilkinson|{{cite news
+|work=Harvard Crimson|title=Fifteen Minutes: Breaking the Rules at Widener
+|first=B.C. |last=Wilkinson|date= October 21, 1999
+|url=http://www.thecrimson.com/article/1999/10/21/fifteen-minutes-breaking-the-rules-at
+}}}}
+
+{{refn|name=bigdoings|{{cite journal
+|url=http://harvardmagazine.com/1999/07/jhj.doings.html |title=Big Doings at Widener Library
+|journal=Harvard Magazine |date=July–August 1999
+}}}}
+
+{{refn|name=newton|{{cite news
+|author=A. Edward Newton|work=The Atlantic Monthly|title=A Remembrance of Harry Elkins Widener
+|url=https://books.google.com/books?id=S383AQAAMAAJ&pg=PA351|volume=122|date=September 1918|pages=351–56
+}} }}
+
+{{refn|name=panic|{{cite news
+|title=Weeding Out in Widener |work=The Harvard Crimson |author=Charles T. Kurzman |date= May 25, 1983
+|url=http://www.thecrimson.com/article/1983/5/25/weeding-out-in-widener-pbwidener-libraryb/
+}} }}
+
+{{refn |name=stone |{{cite book
+|title=The Widener Memorial Library|url=https://books.google.com/books?id=sFM6AQAAMAAJ&pg=PA650
+|volume=36|date=December 1915|page=650|work=Stone|number=12
+}}}}
+
+{{refn |name=shocks |{{cite letter
+| first = William Coolidge | last = Lane | recipient = W. S. Burke
+| subject = Persons about the library report | date = November 8, 1909 | type = manuscript
+| location = Records of Harvard College Library, William Coolidge Lane, 1877–1929, "Harvard Inspector of Grounds and Buildings", UAIII 50.8.10.2, Harvard University Archives
+}} }}
+
+{{refn |name=snopes |{{cite web
+| title=The Swim Test: Did a university implement swim tests at the behest of a benefactor whose child had drowned?
+| url=https://www.snopes.com/fact-check/the-swim-test/
+| website= snopes.com
+}} }}
+
+{{refn |name=furniture |{{cite book
+| url=https://books.google.com/books?id=Mam_AAAAIAAJ&pg=RA4-PA31 |page=31
+| title=Report of Archibald Cary Coolidge, Director of the University Library. Reprinted, with additions from the Report of the President of Harvard University for 1914–1915
+| year=1915
+}} }}
+
+{{refn |name=lane_snead
+| 1=Records of Harvard College Library, William Coolidge Lane, 1877–1929, "Snead Co.", UAIII 50.8.10.2, Harvard University Archives.
+}}
+
+}}<!--end ref list-->
+
+==External links==
+{{commons category}}
+* [http://hcl.harvard.edu/libraries/houghton/exhibits/widener/ History of the Harry Elkins Widener Memorial Collection]{{snd}}Houghton Library, Harvard University
+* [http://widenerlibrary.tumblr.com/ Sprinkler Valve Through Door: A peek inside Harvard'd Widener Library]{{snd}}Librarians' blog highlighting Widener's collections, history and architecture<!--see http://hcl.harvard.edu/news/articles/2014/tumblr/index.cfm-->
+* [https://my.matterport.com/show/?m=fs3gQv7n1QG Virtual tour]
+
+{{Harvard|state=collapsed}}
+{{Authority control}}
+
+[[Category:1915 establishments in Massachusetts]]
+[[Category:Harvard Library]]
+[[Category:Harvard Square]]
+[[Category:Harvard University buildings]]
+[[Category:Libraries in Middlesex County, Massachusetts]]
+[[Category:Library buildings completed in 1915]]
+[[Category:University and college academic libraries in the United States]]
+[[Category:Widener family]]
+[[Category:Horace Trumbauer buildings]]

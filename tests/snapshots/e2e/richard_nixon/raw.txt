@@ -1,0 +1,1831 @@
+{{Short description|President of the United States from 1969 to 1974}}
+{{redirect|Nixon|other uses|Nixon (disambiguation)|and|Richard Nixon (disambiguation)}}
+{{pp-vandalism|small=yes}}
+{{pp-move-indef}}
+{{featured article}}
+{{Use American English|date=February 2019}}
+{{Use mdy dates|date=May 2023}}
+{{Infobox officeholder
+| image               = Richard Nixon presidential portrait (1).jpg
+| alt                 = Presidential portrait of Richard Nixon
+| caption             = Oval Office portrait
+| order               = 37th
+| office              = President of the United States
+| vicepresident       = {{plainlist|
+* {{longitem|[[Spiro Agnew]]<br />(1969–Oct. 1973)}}
+* {{longitem|''None''<br />(Oct–Dec. 1973)}}
+* {{longitem|Gerald Ford<br />(Dec. 1973–1974)}}
+}}
+| term_start          = January 20, 1969
+| term_end            = August 9, 1974
+| predecessor         = [[Lyndon B. Johnson]]
+| successor           = [[Gerald Ford]]
+| order1              = 36th
+| office1             = Vice President of the United States
+| president1          = [[Dwight D. Eisenhower]]
+| term_start1         = January 20, 1953
+| term_end1           = January 20, 1961
+| predecessor1        = [[Alben W. Barkley]]
+| successor1          = Lyndon B. Johnson
+| jr/sr2              = United States Senator
+| state2              = [[California]]
+| term_start2         = December 1, 1950
+| term_end2           = January 1, 1953
+| predecessor2        = [[Sheridan Downey]]
+| successor2          = [[Thomas Kuchel]]
+| state3              = [[California]]
+| district3           = {{ushr|CA|12|12th}}
+| term_start3         = January 3, 1947
+| term_end3           = November 30, 1950
+| predecessor3        = [[Jerry Voorhis]]
+| successor3          = [[Patrick J. Hillings]]
+| birth_name          = Richard Milhous Nixon
+| birth_date          = {{birth date|1913|1|9}}
+| birth_place         = [[Yorba Linda, California]], U.S.
+| death_date          = {{death date and age|1994|4|22|1913|1|9}}
+| death_place         = New York City,<!-- DO NOT LINK this, see [[MOS:OVERLINK]]. --> U.S.
+| resting_place       = [[Richard Nixon Presidential Library and Museum]]
+| party               = [[Republican Party (United States)|Republican]]
+| spouse              = {{marriage|[[Pat Nixon|Pat Ryan]]|June 21, 1940|June 22, 1993|end=died}}
+| children            = {{flatlist|
+* [[Tricia Nixon Cox|Tricia]]
+* [[Julie Nixon Eisenhower|Julie]]
+}}
+| father              = [[Francis A. Nixon]]
+| mother              = [[Hannah Milhous Nixon|Hannah Milhous]]
+| occupation          = {{flatlist|
+* Author
+* lawyer
+* politician
+}}
+| education           = {{plainlist|
+* [[Whittier College]] ([[Bachelor of Arts|BA]])
+* [[Duke University School of Law|Duke University]] ([[Bachelor of Laws|LLB]])
+}}
+| signature           = Richard Nixon Signature.svg
+| signature_alt       = Cursive signature in ink
+| allegiance          = [[United States]]
+| branch              = [[United States Navy]]
+| serviceyears        = {{plainlist|
+* 1942–1946 (active)
+* 1946–1966 (inactive)
+}}
+| rank                = {{dodseal|USO5|15px}} [[Commander (United States)|Commander]]
+| battles             = {{flatlist|
+* World War II
+** [[Pacific War]]<ref name="archives">{{cite web |url=http://nixon.archives.gov/thelife/nixonbio.pdf |title=Richard Nixon Presidential Library and Museum |date=September 21, 2015 |archive-url=https://web.archive.org/web/20150921204555/http://nixon.archives.gov/thelife/nixonbio.pdf |archive-date=September 21, 2015 |url-status=dead}}</ref>}}
+| mawards             = {{indented plainlist|
+* [[Navy and Marine Corps Commendation Medal]]
+* [[American Campaign Medal]]
+* [[Asiatic–Pacific Campaign Medal]]
+* [[World War II Victory Medal]]
+* [[Armed Forces Reserve Medal]]
+}}
+| module     = {{Listen|pos=center|embed=yes|filename=Richard Nixon speaks on Peace in Vietnam.ogg|title=Richard Nixon's voice|type=speech|description=Nixon speaks on [[Vietnam War|peace in Vietnam]]<br />Recorded November 3, 1969}}
+}}
+{{Richard Nixon series}}		
+'''Richard Milhous Nixon''' (January 9, 1913{{spnd}}April 22, 1994) was the 37th [[president of the United States]], serving from 1969 to 1974. A lawyer and member of the [[Republican Party (United States)|Republican Party]], he previously served as a [[United States House of Representatives|representative]] and [[United States Senate|senator]] from California and was the 36th [[Vice President of the United States|vice president]] from 1953 to 1961 under President [[Dwight D. Eisenhower]]. His five years in the White House saw reduction of U.S. involvement in the [[Vietnam War]], [[détente]] with the [[Soviet Union]] and China, the [[Apollo 11]] Moon landing, and the establishment of the [[Environmental Protection Agency]] and [[Occupational Safety and Health Administration]]. Nixon's second term ended early when he became the only U.S. president to [[Resignation of Richard Nixon|resign]] from office, as a result of the [[Watergate scandal]].
+
+Nixon was born into a poor family of [[Quakers]] in a small town in [[Southern California]]. He graduated from [[Duke University School of Law|Duke Law School]] in 1937, practiced law in California, and then moved with his wife [[Pat Nixon|Pat]] to Washington in 1942 to work for the federal government. After active duty in the [[United States Navy Reserve|Naval Reserve]] during World War II, he was elected to the House of Representatives in [[1946 California's 12th congressional district election|1946]]. His work on the [[Alger Hiss]] case established his reputation as a leading anti-communist, which elevated him to national prominence, and in [[1950 United States Senate election in California|1950]], he was elected to the Senate. Nixon was the running mate of Dwight D. Eisenhower, the Republican Party's presidential nominee in the [[1952 United States presidential election|1952 election]], and served for eight years as the vice president. He ran for president in [[1960 United States presidential election|1960]], narrowly lost to [[John F. Kennedy]], then failed again in a [[1962 California gubernatorial election|1962]] race for governor of California, after which it was widely believed that his political career was over. However, in [[1968 United States presidential election|1968]], he made another run for the presidency and was elected, defeating [[Hubert Humphrey]] by less than one percentage point in the popular vote, as well as defeating third party candidate [[George Wallace]].
+
+Nixon ended American involvement in Vietnam combat in 1973 and the [[Conscription in the United States|military draft]] in the same year. His [[1972 visit by Richard Nixon to China|visit to China]] in 1972 eventually led to [[Joint Communiqué on the Establishment of Diplomatic Relations|diplomatic relations between the two nations]], and he also then concluded the [[Anti-Ballistic Missile Treaty]] with the Soviet Union. Domestically, Nixon pushed for the [[Controlled Substances Act]] and began the [[war on drugs]]. Nixon's first term took place at the height of the American [[Environmental movement in the United States|environmental movement]] and enacted many progressive environmental policy shifts; his administration created the [[United States Environmental Protection Agency|Environmental Protection Agency]] and passed legislation such as the [[Endangered Species Act of 1973|Endangered Species Act]], the [[Clean Air Act (United States)|Clean Air Acts]], and the [[Clean Water Act]]s (although he vetoed the final version of the CWA). He implemented the recently ratified [[Twenty-sixth Amendment to the United States Constitution|Twenty-sixth Amendment]], which lowered the voting age from 21 to 18 and enforced the [[Desegregation busing|desegregation]] of Southern schools. Under Nixon, relations with Native Americans improved, seeing an increase in [[Native American self-determination|self-determination]] for [[Native American policy of the Richard Nixon administration|Native Americans]] and his administration rescinded the [[Indian termination policy|termination policy]]. Nixon imposed wage and price controls for 90 days, began the [[war on cancer]], and presided over the Apollo 11 Moon landing, which signaled the end of the [[Space Race]]. He was re-elected with a historic electoral landslide in [[1972 United States presidential election|1972]] when he defeated Democratic candidate [[George McGovern]].
+
+In his second term, Nixon ordered [[Operation Nickel Grass|an airlift]] to resupply Israeli losses in the [[Yom Kippur War]], a conflict which led to the [[1973 oil crisis|oil crisis]] at home. From 1973, ongoing revelations leading from the Nixon administration's involvement in Watergate eroded his support in Congress and the country. Nixon and senior members of his administration were found to have weaponized government agencies against his enemies, among much other wrongdoing. On August 9, 1974, facing almost certain [[Federal impeachment in the United States|impeachment]] and removal from office, Nixon resigned from the presidency. Afterwards, he was issued [[Pardon of Richard Nixon|a pardon]] by his successor, [[Gerald Ford]].
+
+During nearly 20 years of retirement, Nixon wrote his memoirs and nine other books. He undertook many foreign trips, attempting to rehabilitate his image into that of an elder statesman and leading expert on foreign affairs. He suffered a debilitating stroke on April 18, 1994, and [[Death and state funeral of Richard Nixon|died four days later]] at the age of 81.<!-- start of material justified by citations --> Surveys of historians and political scientists have [[Historical rankings of presidents of the United States|ranked]] Nixon as a below-average president.<ref>{{cite news|url=http://www.cnn.com/2009/POLITICS/02/16/presidential.survey/|title=Lincoln Wins: Honest Abe tops new presidential survey|publisher=[[CNN]]|date=February 16, 2009|access-date=December 2, 2020}}</ref><ref>{{cite web|url=https://www.c-span.org/presidentsurvey2017/?page=overall|title=Presidential Historians Survey 2017|publisher=C-SPAN|access-date=December 2, 2020}}</ref><ref>{{cite web|title=Presidents 2018 Rank by Category|url=https://scri.siena.edu/wp-content/uploads/2019/02/Presidents-2018-Rank-by-Category.pdf|access-date=December 2, 2020|archive-url=https://web.archive.org/web/20190220062843/https://scri.siena.edu/wp-content/uploads/2019/02/Presidents-2018-Rank-by-Category.pdf|archive-date=February 20, 2019|url-status=live}}</ref> However, evaluations of him have proven complex, with the successes of his presidency contrasted against the circumstances of his departure from office.
+
+== Early life and education ==
+[[File:Nixon child.jpeg|thumb|Nixon (second from right) makes his newspaper debut in 1916, contributing five cents to a fund for war orphans. His brother [[Donald Nixon|Donald]] is to his right.|left]] 
+Richard Milhous Nixon was born on January 9, 1913, in what was then the township precinct of [[Yorba Linda, California]],<ref>{{cite web |date=August 15, 2016 |title=Richard Nixon in the U.S. Census Records |url=https://www.archives.gov/research/census/presidents/nixon.html |access-date=August 31, 2022 |website=National Archives}}</ref> in a house built by his father, located on his family's lemon ranch.<ref name="archives"/>{{sfn|NPS, Nixon Birthplace}}{{sfn|Ferris|p=209}} His parents were [[Hannah Milhous Nixon|Hannah (Milhous) Nixon]] and [[Francis A. Nixon]]. His mother was a [[Quaker]], and his father converted from [[Methodism]] to the Quaker faith. Through his mother, Nixon was a descendant of the early English settler [[Thomas Cornell (settler)|Thomas Cornell]], who was also an ancestor of [[Ezra Cornell]], the founder of [[Cornell University]], as well as of [[Jimmy Carter]] and [[Bill Gates]].<ref>{{cite web |last=Reitwiesner |first=William Addams |authorlink=William Addams Reitwiesner |title=The Ancestors of Senator John Forbes Kerry (b. 1943) |url=http://www.wargs.com/political/kerry.html |access-date=August 31, 2016 |archive-url=https://web.archive.org/web/20190427081750/http://www.wargs.com/political/kerry.html |archive-date=April 27, 2019 |url-status=live}}</ref>
+
+Nixon's upbringing was influenced by Quaker observances of the time such as abstinence from alcohol, dancing, and swearing. He had four brothers: Harold (1909–1933), [[Donald Nixon|Donald]] (1914–1987), Arthur (1918–1925), and [[Edward Nixon|Edward]] (1930–2019).{{sfn|Nixon Library, Childhood}} Four of the five Nixon boys were named after kings who had ruled in [[Middle Ages|medieval]] or legendary Britain; Richard, for example, was named after [[Richard I of England|Richard the Lionheart]].{{sfn|Aitken|p=11}}
+
+Nixon's early life was marked by hardship, and he later quoted a saying of Eisenhower to describe his boyhood: "We were poor, but the glory of it was we didn't know it".{{sfn|Aitken|p=12}} The Nixon family ranch failed in 1922, and the family moved to [[Whittier, California]]. In an area with many Quakers, Frank Nixon opened a grocery store and gas station.{{sfn|Aitken|p=21}} Richard's younger brother Arthur died in 1925 at the age of seven after a short illness.{{sfn|Ambrose|1987|p=41}} Richard was twelve years old when a spot was found on his lung, and with a family history of [[tuberculosis]], he was forbidden to play sports. The spot turned out to be scar tissue from an early bout of pneumonia.{{sfn|Aitken|p=27}}{{sfn|Ambrose|1987|pp=56–57}}
+
+=== Primary and secondary education ===
+[[File:Richard Nixon HS Yearbook.jpg|left|thumb|Nixon at [[Whittier High School]], 1930]]
+Nixon attended East Whittier Elementary School, where he was president of his eighth-grade class.{{sfn|Black|p=16}} His older brother Harold had attended [[Whittier High School]], which his parents thought resulted in Harold's dissolute lifestyle, before he contracted tuberculosis (that killed him in 1933). They decided to send Nixon to the larger [[Fullerton Union High School]].{{sfn|Morris|p=89}}{{sfn|Black|pp=17–19}} Though he had to ride a school bus an hour each way during his freshman year, he received excellent grades. Later, he lived with an aunt in [[Fullerton, California|Fullerton]] during the week.{{sfn|Morris|p=91}} He played junior varsity football, and seldom missed a practice, though he rarely was used in games.{{sfn|Morris|p=92}} He had greater success as a debater, winning a number of championships and taking his only formal tutelage in public speaking from Fullerton's Head of English, H. Lynn Sheller. Nixon later mused on Sheller's words, "Remember, speaking is conversation...don't shout at people. Talk to them. Converse with them."{{sfn|Aitken|p=28}} Nixon said he tried to use a conversational tone as much as possible.{{sfn|Aitken|p=28}}
+
+At the start of his junior year in September 1928, Nixon's parents permitted him to transfer to Whittier High School. At Whittier, Nixon lost a bid for student body president—his first electoral defeat. At this period of his life, he often rose at 4&nbsp;a.m., to drive the family truck into Los Angeles to purchase vegetables at the market and then drove to the store to wash and display them before going to school. Harold was diagnosed with tuberculosis the previous year; when their mother took him to Arizona hoping to improve his health, the demands on Nixon increased, causing him to give up football. Nevertheless, Nixon graduated from Whittier High third in his class of 207.{{sfn|Black|pp=20–23}}
+
+=== College and law school ===
+Nixon was offered a tuition grant to attend [[Harvard University]], but with Harold's continued illness requiring his mother's care, Richard was needed at the store. He remained in his hometown, enrolled at [[Whittier College]] in September 1930, and his expenses were met by a bequest from his maternal grandfather.<ref name="archives"/>{{sfn|Black|pp=23–24}} Nixon played for the basketball team; he also tried out for football, and though he lacked the size to play, he remained on the team as a substitute and was noted for his enthusiasm.{{sfn|Gellman|p=15}} Instead of fraternities and sororities, Whittier had literary societies. Nixon was snubbed by the only one for men, the Franklins, many of whom were from prominent families, unlike Nixon. He responded by helping to found a new society, the Orthogonian Society.{{sfn|Black|pp=24–25}} In addition to the society, his studies, and work at the store, Nixon found time for extracurricular activities; he became known as a champion debater and hard worker.{{sfn|Ambrose|1987|p=61}} In 1933, he became engaged to Ola Florence Welch, daughter of the Whittier police chief, but they broke up in 1935.{{sfn|Aitken|pp=58–63}}
+
+After graduating ''[[Latin honors#North America|summa cum laude]]'' with a [[Bachelor of Arts]] degree in [[history]] from Whittier in 1934, Nixon was accepted at the new [[Duke University School of Law]],{{sfn|Nixon Library, Student & Sailor}} which offered scholarships to top students, including Nixon.{{sfn|Ambrose|1987|pp=33–34}} It paid high salaries to its professors, many of whom had national or international reputations.{{sfn|Aitken|p=67}} The number of scholarships was greatly reduced for second- and third-year students, creating intense competition.{{sfn|Ambrose|1987|pp=33–34}} Nixon kept his scholarship, was elected president of the Duke Bar Association,{{sfn|Parmet|p=81}} inducted into the [[Order of the Coif]],{{sfn|Nixon Library, Family Collection Guide}} and graduated third in his class in June 1937.{{sfn|Nixon Library, Student & Sailor}}
+
+== Early career and marriage ==
+[[File:Formal Nixon Family Portrait.jpg|thumb|upright|Nixon's family: Julie and [[David Eisenhower]], President Nixon, First Lady Pat Nixon, [[Tricia Nixon Cox|Tricia]] and [[Edward F. Cox|Edward Cox]] (December 24, 1971)]]
+After graduating from Duke, Nixon initially hoped to join the [[Federal Bureau of Investigation|FBI]]. He received no response to his letter of application, and learned years later that he had been hired, but his appointment had been canceled at the last minute due to budget cuts.{{sfn|Aitken|p=76}} He returned to California, was admitted to the [[State Bar of California|California bar]] in 1937, and began practicing in Whittier with the law firm Wingert and Bewley.{{sfn|Nixon Library, Student & Sailor}} His work concentrated on [[Commercial law|commercial litigation]] for local petroleum companies and other corporate matters, as well as on [[Will (law)|wills]].{{sfn|Aitken|pp=79–82}} Nixon was reluctant to work on divorce cases, disliking frank sexual talk from women.{{sfn|Morris|p=193}} In 1938, he opened up his own branch of Wingert and Bewley in [[La Habra, California]],{{sfn|Black|p=44}} and became a full partner in the firm the following year.{{sfn|Black|p=43}} In later years, Nixon proudly said he was the only modern president to have previously worked as a practicing attorney.{{sfn|Morris|p=193}}
+
+In January 1938 Nixon was cast in the Whittier Community Players production of ''[[The Dark Tower (play)|The Dark Tower]]''. There he played opposite a high school teacher named [[Pat Nixon|Thelma "Pat" Ryan]].{{sfn|Nixon Library, Student & Sailor}} Nixon described it in his memoirs as "a case of [[love at first sight]]"{{sfn|Nixon|1978|p=23}}—for Nixon only, as Pat Ryan turned down the young lawyer several times before agreeing to date him.{{sfn|Ambrose|1987|pp=93, 99}} Once they began their courtship, Ryan was reluctant to marry Nixon; they dated for two years before she assented to his proposal. They wed in a small ceremony on June 21, 1940. After a honeymoon in Mexico, the Nixons began their married life in Whittier.{{sfn|Ambrose|1987|pp=100–101}} They had two daughters, [[Tricia Nixon Cox|Tricia]] (born 1946) and [[Julie Nixon Eisenhower|Julie]] (born 1948).{{sfn|Nixon Library, Nixon Family}}
+
+== Military service ==
+[[File:NH 84098 Lieutenant Commander Richard Milhous Nixon, USN.jpeg|thumb|right|upright|Lieutenant Commander Richard Nixon, United States Navy (circa 1945)]]
+In January 1942 the couple moved to Washington, D.C., where Nixon took a job at the [[Office of Price Administration]].{{sfn|Nixon Library, Student & Sailor}} In his political campaigns, Nixon suggested that this was his response to [[Attack on Pearl Harbor|Pearl Harbor]], but he had sought the position throughout the latter part of 1941. Both Nixon and his wife believed he was limiting his prospects by remaining in Whittier.{{sfn|Morris|pp=124–126}} He was assigned to the tire rationing division, where he was tasked with replying to correspondence. He did not enjoy the role, and four months later applied to join the [[United States Navy]].{{sfn|Kornitzer|pp=143–144}} Though he could have claimed an exemption from [[Conscription in the United States|the draft]] as a birthright Quaker, or a deferral due to his government service, Nixon nevertheless sought a commission in the Navy. His application was approved, and he was appointed a [[Lieutenant (junior grade)|lieutenant junior grade]] in the [[United States Navy Reserve|United States Naval Reserve]] on June 15, 1942.<ref name="navy.mil">{{Cite web |url=https://www.history.navy.mil/research/histories/biographies-list/bios-n/nixon-richard.html |title=Naval Profiles: Richard Milhous Nixon |date=February 18, 2015 |website=Naval History and Heritage Command |publisher=U.S. Navy |access-date=March 6, 2017 |archive-url=https://web.archive.org/web/20170315133741/https://www.history.navy.mil/research/histories/biographies-list/bios-n/nixon-richard.html |archive-date=March 15, 2017 |url-status=live }}</ref>{{sfn|Aitken|pp=96–97}}
+
+In October 1942, after securing a home in Alexandria, Virginia, he was given his first assignment as aide to the commander of the [[Ottumwa Regional Airport#History|Naval Air Station Ottumwa]] in [[Iowa]] until May 1943.<ref name="navy.mil"/><ref>{{Cite web |title=Official Military Personnel File for Richard M. Nixon |url=https://catalog.archives.gov/id/57301209?objectPage=30 |access-date=August 21, 2022 |website=catalog.archives.gov}}</ref> Seeking more excitement, he requested sea duty and on July 2, 1943, was assigned to [[Marine Aircraft Group 25]] and the [[South Pacific Combat Air Transport Command]] (SCAT), supporting the [[Military logistics|logistics]] of operations in the South Pacific Theater.{{sfn|Naval Historical Center, Commander Nixon}}{{sfn|Black|pp=58–60}}{{sfn|Armstrong|p=81}} On October 1, 1943, Nixon was promoted to [[Lieutenant (navy)|lieutenant]].<ref name="navy.mil"/> Nixon commanded the SCAT forward detachments at [[Vella Lavella]], [[Buin, Papua New Guinea#Japan and the USA during World War II|Bougainville]], and finally at Green Island ([[Nissan Island]]).<ref name="navy.mil"/>{{sfn|Armstrong|p=81}} His unit prepared manifests and flight plans for R4D/C-47 operations and supervised the loading and unloading of the transport aircraft. For this service, he received a [[Commendation Medal|Navy Letter of Commendation]] (awarded a Navy Commendation Ribbon, which was later updated to the [[Navy and Marine Corps Commendation Medal]]) from his commanding officer for "meritorious and efficient performance of duty as Officer in Charge of the South Pacific Combat Air Transport Command". Upon his return to the U.S., Nixon was appointed the administrative officer of the [[Alameda Naval Air Station]] in California. In January 1945 he was transferred to the [[Bureau of Aeronautics]] office in Philadelphia to help negotiate the termination of war contracts, and received his second letter of commendation, from the [[Secretary of the Navy]]{{sfn|Black|p=62}} for "meritorious service, tireless effort, and devotion to duty". Later, Nixon was transferred to other offices to work on contracts and finally to Baltimore.{{sfn|Aitken|p=112}} On October 3, 1945, he was promoted to [[Lieutenant commander (United States)|lieutenant commander]].<ref name="navy.mil"/>{{sfn|Black|p=62}} On March 10, 1946, he was relieved of active duty.<ref name="navy.mil"/> On June 1, 1953, he was promoted to [[Commander (United States)|commander]] in the U.S. Naval Reserve, from which he retired in the U.S. Naval Reserve on June 6, 1966.<ref name="navy.mil"/>
+
+While in the Navy, Nixon became a very good [[five-card stud]] poker player, helping finance his first congressional campaign with the winnings. In a 1983 interview, he stated he turned down an invitation to dine with [[Charles Lindbergh]] because he was hosting a game.<ref>{{cite news |url=https://www.washingtonpost.com/sports/for-us-presidents-poker-is-a-main-event/2019/06/16/7a1a5e54-8fb1-11e9-b08e-cfd89bd36d4e_story.html |title=For U.S. presidents, poker is a main event |first=Norman |last=Chad |authorlink=Norman Chad |date=June 16, 2019 |newspaper=[[The Washington Post]]}}</ref><ref>{{cite magazine |url=https://www.cardplayer.com/poker-news/14681-men-of-action-richard-the-big-bluffer-nixon |title=Men Of Action -- Richard "The Big Bluffer" Nixon |first=Bob |last=Paijich |date=December 25, 2012 |magazine=[[Card Player]]}}</ref>
+
+== U.S. House of Representatives (1947–1950) ==
+{{see also|1946 California's 12th congressional district election}}
+[[File:Nixonflyer1946.jpg|thumb|left|Nixon's congressional campaign flyer]]
+Republicans in [[California's 12th congressional district]] were frustrated by their inability to defeat Democratic representative [[Jerry Voorhis]], and they sought a consensus candidate who would run a strong campaign against him. In 1945, they formed a "Committee of 100" to decide on a candidate, hoping to avoid internal dissensions which had led to previous Voorhis victories. After the committee failed to attract higher-profile candidates, Herman Perry, manager of Whittier's [[Bank of America]] branch, suggested Nixon, a family friend with whom he had served on the Whittier College Board of Trustees before the war. Perry wrote to Nixon in [[Baltimore]], and after a night of excited conversation with his wife, Nixon gave Perry an enthused response. Nixon flew to California and was selected by the committee. When he left the Navy at the start of 1946, Nixon and his wife returned to Whittier, where he began a year of intensive campaigning.{{sfn|Parmet|pp=91–96}}{{sfn|Gellman|pp=27–28}} He contended that Voorhis had been ineffective as a representative and suggested that Voorhis's endorsement by a group linked to Communists meant that Voorhis must have radical views.{{sfn|Parmet|pp=111–113}} Nixon won the election, receiving 65,586 votes to Voorhis's 49,994.{{sfn|Gellman|p=82}}
+
+[[File:Congressman Richard Nixon, Yorba Linda, circa April 1950 (5494854338).jpg|thumb|right|Nixon in Yorba Linda, April 1950]]
+
+In June 1947, Nixon supported the [[Taft–Hartley Act]], a federal law that monitors the activities and power of labor unions, and he served on the [[United States House Committee on Education and Labor|Education and Labor Committee]]. In August 1947, he became one of 19 House members to serve on the [[Herter Committee]],<ref name=Final>
+{{cite web
+|title=Final Report on Foreign Aid of the House Select Committee on Foreign Aid
+|publisher = Marshall Foundation
+|url=http://www.marshallfoundation.org/library/wp-content/uploads/sites/16/2014/04/Studies_Prior_to_the_Marshall_Plan.pdf 
+|date=May 1, 1948
+|access-date = May 30, 2020
+|archive-url = https://web.archive.org/web/20151221035849/http://www.marshallfoundation.org/library/wp-content/uploads/sites/16/2014/04/Studies_Prior_to_the_Marshall_Plan.pdf
+|archive-date = December 21, 2015
+|url-status = live}}</ref> which went to Europe to report on the need for U.S. foreign aid. Nixon was the youngest member of the committee and the only Westerner.{{sfn|Gellman|pp=105–107, 125–126}} Advocacy by Herter Committee members, including Nixon, led to congressional passage of the [[Marshall Plan]].{{sfn|Morris|p=365}}
+
+[[File:Richard Nixon campaigning for Senate 1950.jpg|thumb|upright|Nixon campaigning for the Senate, 1950]]
+
+In his memoirs, Nixon wrote that he joined the [[House Un-American Activities Committee]] (HUAC) "at the end of 1947". However, he was already a HUAC member in early February 1947, when he heard "Enemy Number One" [[Gerhard Eisler]] and his sister [[Ruth Fischer]] testify. On February 18, 1947, Nixon referred to Eisler's belligerence toward HUAC in his maiden speech to the House. Also by early February 1947, fellow U.S. Representative [[Charles J. Kersten]] had introduced him to Father [[John Francis Cronin]] in Baltimore. Cronin shared with Nixon his 1945 privately circulated paper "The Problem of American Communism in 1945",<ref>{{cite web
+| first = John Francis
+| last = Cronin
+| authorlink = John Francis Cronin
+| title = The Problem of American Communism in 1945: Facts and Recommendations
+| publisher = A Confidential Study for Private Circulation
+| url = http://mdhistory.net/hiss/cronin-report.pdf
+| date = October 29, 1945
+| access-date = July 26, 2017
+| archive-url = https://web.archive.org/web/20130514131612/http://mdhistory.net/hiss/cronin-report.pdf
+| archive-date = May 14, 2013
+| url-status = live
+}}</ref> with much information from the FBI's [[William C. Sullivan]] who by 1961 headed domestic intelligence under [[J. Edgar Hoover]].<ref name="NixonV1">
+{{cite book
+| first = Stephen E.
+| last = Ambrose
+| authorlink = Stephen E. Ambrose
+| title = Nixon Volume I: The Education of a Politician 1913–1962
+| publisher = Simon and Schuster
+| url = https://books.google.com/books?id=Q-5zAgAAQBAJ
+| pages = 144–147
+| date = March 18, 2014
+| access-date = July 26, 2017| isbn = 978-1-4767-4588-6
+}}</ref>
+By May 1948, Nixon had co-sponsored a "[[Mundt–Nixon Bill]]" to implement "a new approach to the complicated problem of internal communist subversion{{nbsp}}... It provided for registration of all [[CPUSA|Communist Party]] members and required a statement of the source of all printed and broadcast material issued by organizations that were found to be Communist fronts." He served as floor manager for the Republican Party. On May 19, 1948, the bill passed the House by 319 to 58, but later it failed to pass the Senate.{{sfn|Nixon|1978|loc=Running for Congress: 1946}} The Nixon Library cites this bill's passage as Nixon's first significant victory in Congress.<ref>{{cite web |title=Timeline |url=https://www.nixonlibrary.gov/thetimes/timeline/ |url-status=dead |publisher=Nixon Library |access-date=April 2, 2017 |archive-url=https://web.archive.org/web/20170403015648/https://www.nixonlibrary.gov/thetimes/timeline/ |archive-date=April 3, 2017}}</ref>
+
+Nixon first gained national attention in August 1948, when his persistence as a HUAC member helped break the [[Alger Hiss]] spy case. While many doubted [[Whittaker Chambers]]'s allegations that Hiss, a former [[United States Department of State|State Department]] official, had been a Soviet spy, Nixon believed them to be true and pressed for the committee to continue its investigation. After Hiss filed suit for defamation, Chambers produced documents corroborating his allegations. These included paper and [[microfilm]] copies that Chambers turned over to House investigators after hiding them overnight in a field; they became known as the "[[Pumpkin papers|Pumpkin Papers]]".{{sfn|Black|pp=129–135}} Hiss was convicted of [[perjury]] in 1950 for denying under oath he had passed documents to Chambers.{{sfn|Gellman|pp=239–241}} In 1948, Nixon successfully [[cross-filed]] as a candidate in his district, winning both major party primaries,{{sfn|Morris|p=381}} and was comfortably reelected.{{sfn|Nixon Library, Congressman}}
+
+== U.S. Senate (1950–1953) ==
+{{see also|1950 United States Senate election in California}}
+[[File:Nixon campaigns in Sausalito 1950.jpg|thumb|upright|Nixon campaigns in Sausalito, California, 1950]]
+In 1949, Nixon began to consider running for the [[United States Senate]] against the Democratic incumbent, [[Sheridan Downey]],{{sfn|Gellman|p=282}} and entered the race in November.{{sfn|Morris|p=535}} Downey, faced with a bitter primary battle with Representative [[Helen Gahagan Douglas]], announced his retirement in March 1950.{{sfn|Gellman|pp=296–297}} Nixon and Douglas won the primary elections{{sfn|Gellman|p=304}} and engaged in a contentious campaign in which the ongoing [[Korean War]] was a major issue.{{sfn|Gellman|p=310}} Nixon tried to focus attention on Douglas's liberal voting record. As part of that effort, a "[[United States Senate election in California, 1950#Debut of the Pink Sheet|Pink Sheet]]" was distributed by the Nixon campaign suggesting that Douglas's voting record was similar to that of New York Congressman [[Vito Marcantonio]], reputed to be a communist, and their political views must be nearly identical.{{sfn|Morris|p=581}} Nixon won the election by almost twenty percentage points.{{sfn|Gellman|p=335}} During the campaign, Nixon was first called "Tricky Dick" by his opponents for his campaign tactics.{{sfn|Gellman|p=303}}
+
+In the Senate, Nixon took a prominent position in opposing global communism, traveling frequently and speaking out against it.{{sfn|Nixon Library, Senator}} He maintained friendly relations with his fellow anti-communist, controversial [[Wisconsin]] senator [[Joseph McCarthy]], but was careful to keep some distance between himself and McCarthy's allegations.{{sfn|Ambrose|1987|pp=211, 311–312}} Nixon also criticized President [[Harry S. Truman]]'s handling of the Korean War.{{sfn|Nixon Library, Senator}} He supported statehood for Alaska and Hawaii, voted in favor of civil rights for minorities, and supported federal disaster relief for India and Yugoslavia.{{sfn|Black|p=178}} He voted against price controls and other monetary restrictions, benefits for illegal immigrants, and public power.{{sfn|Black|p=178}}
+
+== Vice presidency (1953–1961) ==
+{{see also|Presidency of Dwight D. Eisenhower}}
+[[File:Richard Nixon official portrait as Vice President.tiff|thumb|right|upright|Official Vice Presidential portrait]]
+General [[Dwight D. Eisenhower]] was nominated for president by the Republicans in 1952. He had no strong preference for a vice-presidential candidate, and Republican officeholders and party officials met in a "[[smoke-filled room]]"<!-- Gellman does say their first actions on getting inside the room were to take off jackets and light up. So it was. --> and recommended Nixon to the general, who agreed to the senator's selection. Nixon's youth (he was then 39), stance against communism, and political base in California—one of the largest states—were all seen as vote-winners by the leaders. Among the candidates considered along with Nixon were Ohio Senator [[Robert A. Taft]], New Jersey Governor [[Alfred Driscoll]], and Illinois Senator [[Everett Dirksen]].{{sfn|Gellman|pp=440–441}}{{sfn|Aitken|pp=205–206}} On the campaign trail, Eisenhower spoke of his plans for the country, and left the negative campaigning to his [[running mate]].{{sfn|Aitken|pp=222–223}}
+
+[[File:Ike Dick.png|thumb|upright|left|Front cover of literature for the Eisenhower–Nixon campaign, 1952]]
+
+In mid-September, the Republican ticket faced a major crisis when the media reported that Nixon had a political fund, maintained by his backers, which reimbursed him for political expenses.<ref>John W. Malsberger, "Dwight Eisenhower, Richard Nixon, and the Fund Crisis of 1952," ''Historian,'' 73 (Fall 2011), pp 526–47.</ref>{{sfn|Kornitzer|p=191}} Such a fund was not illegal, but it exposed Nixon to allegations of a potential conflict of interest. With pressure building for Eisenhower to demand Nixon's resignation from the [[ticket (politics)|ticket]], the senator went on television to address the nation on September 23, 1952.{{sfn|Aitken|pp=210–217}} The address, later termed the [[Checkers speech]], was heard by about 60&nbsp;million Americans—including the largest television audience up to that point.{{sfn|Thompson|p=291}} Nixon emotionally defended himself, stating that the fund was not secret, nor had donors received special favors. He painted himself as a man of modest means (his wife had no mink coat; instead she wore a "respectable Republican cloth coat") and a patriot.{{sfn|Aitken|pp=210–217}} The speech was remembered for the gift which Nixon had received, but which he would not give back: "a little cocker spaniel dog{{nbsp}}... sent all the way from Texas. And our little girl—Tricia, the 6-year-old—named it Checkers."{{sfn|Aitken|pp=210–217}} The speech prompted a huge public outpouring of support for Nixon.{{sfn|Aitken|p=218}} Eisenhower decided to retain him on the ticket,{{sfn|Morris|p=846}} which proved victorious in [[1952 United States presidential election|the November election]].{{sfn|Aitken|pp=222–223}}
+
+Eisenhower gave Nixon more responsibilities during his term than any previous vice president.<ref>John W. Malsberger, ''The General and the Politician: Dwight Eisenhower, Richard Nixon, and American Politics'' (2014)</ref> Nixon attended [[United States Cabinet|Cabinet]] and [[National Security Council (USA)|National Security Council]] meetings and chaired them in Eisenhower's absence. A 1953 tour of the Far East succeeded in increasing local goodwill toward the United States, and gave Nixon an appreciation of the region as a potential industrial center. He visited [[Ho Chi Minh City|Saigon]] and [[Hanoi]] in [[French Indochina]].{{sfn|Aitken|pp=225–227}} On his return to the United States at the end of 1953, Nixon increased the time he devoted to foreign relations.{{sfn|Ambrose|1987|p=342}}
+
+Biographer Irwin Gellman, who chronicled Nixon's congressional years, said of his vice presidency:
+{{blockquote|Eisenhower radically altered the role of his running mate by presenting him with critical assignments in both foreign and domestic affairs once he assumed his office. The vice president welcomed the president's initiatives and worked energetically to accomplish White House objectives. Because of the collaboration between these two leaders, Nixon deserves the title, "the first modern vice president".{{r|Gellman-Small}}
+}}
+{{Multiple image
+ | align = right
+ | width = 140
+ | title =
+ | image1 = LosAngelesTimes May9 1958.jpg
+ | caption1 = <small>[[Los Angeles Times]]</small>
+ | image2 = SanFranciscoChronicle May9 1958.jpg
+ | caption2 = <small>[[San Francisco Chronicle]]</small>
+ | footer = American newspaper covers of May 9, 1958, show student protests at the [[National University of San Marcos]] during Nixon's visit.
+}}
+Despite intense campaigning by Nixon, who reprised his strong attacks on the Democrats, the Republicans lost control of both houses of Congress in the [[1954 United States elections|1954 elections]]. These losses caused Nixon to contemplate leaving politics once he had served out his term.{{sfn|Ambrose|1987|pp=357–358}} On September 24, 1955, President Eisenhower suffered a heart attack and his condition was initially believed to be life-threatening. Eisenhower was unable to perform his duties for six weeks. The [[25th Amendment to the United States Constitution]] had not yet been proposed, and the vice president had no formal power to act. Nonetheless, Nixon acted in Eisenhower's stead during this period, presiding over Cabinet meetings and ensuring that aides and Cabinet officers did not seek power.{{sfn|Aitken|pp=256–258}} According to Nixon biographer [[Stephen Ambrose]], Nixon had "earned the high praise he received for his conduct during the crisis&nbsp;... he made no attempt to seize power".{{sfn|Ambrose|1987|pp=375–376}}
+
+His spirits buoyed, Nixon sought a second term, but some of Eisenhower's aides aimed to displace him. In a December 1955 meeting, Eisenhower proposed that Nixon not run for reelection and instead become a Cabinet officer in a second Eisenhower administration, in order to give him administrative experience before a 1960 presidential run. Nixon believed this would destroy his political career. When Eisenhower announced his reelection bid in February 1956, he hedged on the choice of his running mate, saying it was improper to address that question until he had been renominated. Although no Republican was opposing Eisenhower, Nixon received a substantial number of write-in votes against the president in the 1956 [[New Hampshire primary]] election. In late April, the President announced that Nixon would again be his running mate.{{sfn|Aitken|pp=237–241}} Eisenhower and Nixon were reelected by a comfortable margin in the [[1956 United States presidential election|November 1956 election]].{{sfn|Parmet|p=294}}
+
+In early 1957, Nixon undertook another foreign trip, this time to Africa. On his return, he helped shepherd the [[Civil Rights Act of 1957]] through Congress. The bill was weakened in the Senate, and civil rights leaders were divided over whether Eisenhower should sign it. Nixon advised the President to sign the bill, which he did.{{sfn|Black|pp=349–352}} Eisenhower suffered a mild stroke in November 1957, and Nixon gave a press conference, assuring the nation that the Cabinet was functioning well as a team during Eisenhower's brief illness.{{sfn|Black|p=355}}
+
+[[File:Kitchen debate.jpg|thumb|left|upright=1.50|[[Nikita Khrushchev]] and Nixon speak as the press looks on at the [[Kitchen Debate]], July 24, 1959, with ''[[What's My Line?]]'' host [[John Charles Daly]] at far left.]]
+
+On April 27, 1958, Richard and Pat Nixon reluctantly embarked on a goodwill tour of South America. In [[Montevideo]], Uruguay, Nixon made an impromptu visit to a college campus, where he fielded questions from students on U.S. foreign policy. The trip was uneventful until the Nixon party reached [[Lima]], Peru, where he was met with student demonstrations. Nixon went to the historical campus of [[National University of San Marcos]], the oldest university in the Americas, got out of his car to confront the students, and stayed until forced back into the car by a volley of thrown objects. At his hotel, Nixon faced another mob, and one demonstrator spat on him.{{sfn|Ambrose|1987|pp=465–469}} In [[Caracas]], Venezuela, Nixon and his wife were spat on by anti-American demonstrators and [[Attack on Richard Nixon's motorcade|their limousine was attacked]] by a pipe-wielding mob.{{sfn|Ambrose|1987|pp=469–479}} According to Ambrose, Nixon's courageous conduct "caused even some of his bitterest enemies to give him some grudging respect".{{sfn|Ambrose|1987|p=463}} Reporting to the cabinet after the trip, Nixon claimed there was "absolute proof that [the protestors] were directed and controlled by a central Communist conspiracy." Secretary of State [[John Foster Dulles]] concurred in this view, as did his brother [[Director of Central Intelligence]] [[Allen Dulles]] in his own rebuke.<ref>{{cite book|last1=Rabe|first1=Stephen G.|authorlink=Stephen G. Rabe|title=Eisenhower and Latin America: The Foreign Policy of Anticommunism|date=1988|publisher=University of North Carolina press|location=Chapel Hill|isbn=978-0-8078-4204-1|page=[https://books.google.com/books?id=o2SFNdAiB7UC&pg=PA102 102]}}</ref>
+
+In July 1959 President Eisenhower sent Nixon to the [[Soviet Union]] for the opening of the [[American National Exhibition]] in Moscow. On July 24, Nixon was touring the exhibits with Soviet First Secretary and Premier [[Nikita Khrushchev]] when the two stopped at a model of an American kitchen and engaged in an impromptu exchange about the merits of capitalism versus communism that became known as the "[[Kitchen Debate]]".{{sfn|Ambrose|1987|pp=521–525}}
+
+== 1960 presidential campaign ==
+{{main|1960 United States presidential election}}
+[[File:Kennedy Nixon debate first Chicago 1960.jpg|thumb|upright|John F. Kennedy and Nixon before their first [[1960 United States presidential debates|televised 1960 debate]]]]
+[[File:ElectoralCollege1960.svg|thumb|upright|right|1960 electoral vote results]]
+[[File:Nixon Johnson 1961.jpg|thumb|right|upright|Nixon and successor Johnson on [[Inauguration of John F. Kennedy|Inauguration Day 1961]]]]
+In 1960 Nixon launched his first campaign for President of the United States, officially announcing on January 9, 1960.<ref>{{cite news |title=Nixon Makes it Official |work=The Desert Sun |date=9 January 1960}}</ref> He faced little opposition in the Republican primaries{{sfn|UPI 1960 in Review}} and chose former Massachusetts Senator [[Henry Cabot Lodge Jr.]] as his running mate.{{sfn|Nixon Library, Vice President}} His Democratic opponent was [[John F. Kennedy]] and the race remained close for the duration.{{sfn|Museum of Broadcast Communications, "Kennedy–Nixon Debates"}} Nixon campaigned on his experience, but Kennedy called for new blood and claimed the [[Presidency of Dwight D. Eisenhower|Eisenhower–Nixon administration]] had [[missile gap|allowed the Soviet Union to overtake the U.S. in quantity and quality of ballistic missiles]].{{sfn|Steel|2003-05-25}} While Kennedy faced issues about his Catholicism, Nixon remained a divisive figure to some.<ref>{{Cite book |last=Costello |first=William |title=The Facts About Nixon |publisher=Viking Adult |date=June 24, 1960 |isbn=978-0670018918}}</ref>
+
+Televised [[United States presidential election debates|presidential debates]] made their debut as a political medium during the campaign. In the first of four such debates, Nixon appeared pale, with a [[five o'clock shadow]], in contrast to the photogenic Kennedy.{{sfn|Nixon Library, Vice President}} Nixon's performance in the debate was perceived to be mediocre in the visual medium of television, though many people listening on the radio thought Nixon had won.{{sfn|Foner|p=843}} Nixon narrowly lost the election, with Kennedy winning the popular vote by only 112,827 votes (0.2&nbsp;percent).{{sfn|Nixon Library, Vice President}}
+
+There were charges of [[voter fraud]] in Texas and Illinois, both states won by Kennedy. Nixon refused to consider contesting the election, feeling a lengthy controversy would diminish the United States in the eyes of the world and that the uncertainty would hurt U.S. interests.{{sfn|Carlson|2000-11-17}} At the end of his term of office as vice president in January 1961, Nixon and his family returned to California, where he practiced law and wrote a bestselling book, ''[[Six Crises]]'', which included coverage of the Hiss case, Eisenhower's heart attack, and the Fund Crisis, which had been resolved by the Checkers speech.{{sfn|Nixon Library, Vice President}}{{sfn|Black|p=431}}
+
+==1962 California gubernatorial campaign==
+{{see main|1962 California gubernatorial election}}
+Local and national Republican leaders encouraged Nixon to challenge incumbent [[Pat Brown]] for [[Governor of California]] in the 1962 gubernatorial election.{{sfn|Nixon Library, Vice President}} Despite initial reluctance, Nixon entered the race.{{sfn|Nixon Library, Vice President}} The campaign was clouded by public suspicion that Nixon viewed the office as a stepping stone for another presidential run, some opposition from the far-right of the party, and his own lack of interest in being California's governor.{{sfn|Nixon Library, Vice President}} Nixon hoped a successful run would confirm his status as the nation's leading active Republican politician, and ensure he remained a major player in national politics.{{sfn|Black|pp=432–433}} Instead, he lost to Brown by more than five percentage points, and the defeat was widely believed to be the end of his political career.{{sfn|Nixon Library, Vice President}} In [[Richard Nixon's November 1962 press conference|an impromptu concession speech]] the morning after the election, Nixon blamed the media for favoring his opponent, saying, "You won't have Nixon to kick around anymore because, gentlemen, this is my last press conference."{{sfn|Aitken|pp=304–305}} The California defeat was highlighted in the November 11, 1962, episode of ABC's ''Howard K. Smith: News and Comment'', titled "The Political Obituary of Richard M. Nixon".{{sfn|Ambrose|1987|p=673}} Alger Hiss appeared on the program, and many members of the public complained that it was unseemly to give a convicted felon air time to attack a former vice president. The furor drove Smith and his program from the air,{{sfn|Museum of Broadcast Communications, "Smith, Howard K."}} and public sympathy for Nixon grew.{{sfn|Ambrose|1987|p=673}}
+
+== Wilderness years ==
+[[File:Bundesarchiv Bild 183-B0724-0015-001, Berlin, Besuch Richard Nixon.jpg|thumb|upright=.9|Nixon shows his papers to an East German officer to cross between the sectors of the divided City of Berlin, 1963.]]
+
+In 1963 the Nixon family traveled to Europe, where Nixon gave press conferences and met with leaders of the countries he visited.{{sfn|Black|p=446}} The family moved to New York City, where Nixon became a [[Partner lawyer|senior partner]] in the leading law firm [[Mudge Rose Guthrie Alexander & Ferdon|Nixon, Mudge, Rose, Guthrie & Alexander]].{{sfn|Nixon Library, Vice President}} When announcing his California campaign, Nixon had pledged not to run for president in 1964; even if he had not, he believed it would be difficult to defeat Kennedy, or after [[Assassination of John F. Kennedy|his assassination]], Kennedy's successor, Lyndon Johnson.{{sfn|Aitken|pp=297, 321}}
+
+In 1964, Nixon won write-in votes [[1964 Republican Party presidential primaries|in the primaries]], and was considered a serious contender by both Gallup polls<ref>{{cite news |last=Gallup |first=George |date=April 5, 1964 |title=42% of GOP Rank and File on Lodge Bandwagon |pages=32 |work=[[The Boston Globe]] |url=https://www.newspapers.com/image/433745086/?terms=%22Richard%20Nixon%22%20%22Gallup%22%20%22poll%22%20%22polls%22&match=1 |access-date=May 17, 2022}}</ref><ref>{{Cite news |last=Gallup |first=George |date=January 3, 1964 |title=Johnson Leads Nixon, 3 To 1 In Latest Presidential Poll |pages=3 |work=The Montgomery Advertiser |url=https://www.newspapers.com/image/256150121/?terms=%22Richard%20Nixon%22%20%22Gallup%22%20%22poll%22%20%22polls%22&match=1 |access-date=May 17, 2022}}</ref> and members of the press.<ref>{{cite news|date=March 12, 1964|title=Goldwater Looks to California and Oregon Primaries as Crucial to His Chances...|work=[[The New York Times]]|url=https://www.nytimes.com/1964/03/12/archives/goldwater-looks-to-california-and-oregon-primaries-as-crucial-to.html|access-date=August 15, 2021}}</ref> He was even placed on a primary ballot as an active candidate by Oregon's secretary of state.<ref>{{cite news|date=May 16, 1964|title=ROCKEFELLER WINS OREGON PRIMARY, UPSETTING LODGE...|work=The New York Times|url=https://www.nytimes.com/1964/05/16/archives/rockefeller-wins-oregon-primary-upsetting-lodge-envoys-campaign.html|access-date=August 12, 2021}}</ref> Nevertheless, as late as two months before the [[1964 Republican National Convention]], Nixon fulfilled his promise to remain out of the presidential nomination process and instead gave his support to the eventual Republican nominee, Arizona Senator [[Barry Goldwater]]. When Goldwater won the nomination, Nixon was selected to introduce him at the convention. Although he thought Goldwater unlikely to win, Nixon campaigned for him loyally. The [[1964 United States presidential election|election]] was a disaster for the Republicans, as Goldwater's landslide loss to Johnson was matched by heavy losses for the party in Congress and among state governors.{{sfn|Aitken|pp=321–322}}
+
+Nixon was one of the few leading Republicans not blamed for the disastrous results, and he sought to build on that in the 1966 Congressional elections. He campaigned for many Republicans, seeking to regain seats lost in the Johnson landslide, and received credit for helping the Republicans make major gains that year.{{sfn|Aitken|pp=323–326}}
+
+== 1968 presidential campaign ==
+{{Main|Richard Nixon 1968 presidential campaign|1968 United States presidential election}}
+
+At the end of 1967, Nixon told his family he planned to run for president a second time. Pat Nixon did not always enjoy public life,{{sfn|Parmet|p=502}} being embarrassed, for example, by the need to reveal how little the family owned in the Checkers speech.{{sfn|Morris|pp=410–411}} She still managed to be supportive of her husband's ambitions. Nixon believed that with the Democrats torn over the issue of the [[Vietnam War]], a Republican had a good chance of winning, although he expected the election to be as close as in 1960.{{sfn|Parmet|p=502}}
+
+An exceptionally tumultuous [[primary election]] season began as the [[Tet Offensive]] was launched in January 1968. President Johnson withdrew as a candidate in March, after an unexpectedly poor showing in the New Hampshire primary. In June, Senator [[Robert F. Kennedy]], a Democratic candidate, [[Assassination of Robert F. Kennedy|was assassinated]] just moments after his victory in the California primary. On the Republican side, Nixon's main opposition was Michigan Governor [[George W. Romney|George Romney]], though New York Governor [[Nelson Rockefeller]] and California Governor [[Ronald Reagan]] each hoped to be nominated in a [[brokered convention]]. Nixon secured the nomination on the first ballot.{{sfn|Parmet|pp=503–508}} He selected Maryland Governor [[Spiro Agnew]] as his running mate, a choice which Nixon believed would unite the party, appealing both to Northern moderates and to Southerners disaffected with the Democrats.{{sfn|Parmet|p=509}}
+
+Nixon's Democratic opponent in the general election was Vice President [[Hubert Humphrey]], who was nominated at [[1968 Democratic National Convention|a convention]] marked [[1968 Democratic National Convention protest activity|by violent protests]].{{sfn|Nixon Library, President}} Throughout the campaign, Nixon portrayed himself as a figure of stability during this period of national unrest and upheaval.{{sfn|Nixon Library, President}} He appealed to what he later called the "[[silent majority]]" of [[socially conservative]] Americans who disliked the [[counterculture of the 1960s|hippie counterculture]] and the [[Opposition to the Vietnam War|anti-war]] demonstrators. Agnew became an increasingly vocal critic of these groups, solidifying Nixon's position with the right.{{sfn|Morrow|1996-09-30}}
+
+Nixon waged a prominent television advertising campaign, meeting with supporters in front of cameras.{{sfn|Black|pp=513–514}} He stressed that the crime rate was too high, and attacked what he perceived as a surrender of the United States' nuclear superiority by the Democrats.{{sfn|Black|p=550}} Nixon promised "[[peace with honor]]" in the Vietnam War and proclaimed that "new leadership will end the war and win the peace in the Pacific".{{sfn|Schulzinger|p=413}} He did not give specifics of how he hoped to end the war, resulting in media intimations that he must have a "secret plan".{{sfn|Schulzinger|p=413}} His slogan of "Nixon's the One" proved to be effective.{{sfn|Black|pp=513–514}}
+
+Johnson's negotiators hoped to reach a truce in Vietnam, or at least a cessation of bombings. On October 22, 1968, candidate Nixon received information that Johnson was preparing a so-called "[[October surprise]]", abandoning three non-negotiable conditions for a bombing halt, to help elect Humphrey in the last days of the campaign.<ref name=Monkey-Wrench>{{cite web|url=https://www.nixonfoundation.org/2017/06/misunderstanding-a-monkey-wrench/|title=Misunderstanding a Monkey Wrench|website=Richard Nixon Foundation|access-date=November 12, 2017|date=June 2, 2017|archive-url=https://web.archive.org/web/20170606192751/https://www.nixonfoundation.org/2017/06/misunderstanding-a-monkey-wrench/|archive-date=June 6, 2017|url-status=live}}</ref> Whether the Nixon campaign interfered with negotiations between the Johnson administration and the South Vietnamese by engaging [[Anna Chennault]], a fundraiser for the Republican party, remains a controversy.<ref name=Monkey-Wrench/> It is not clear whether the government of South Vietnam needed encouragement to opt out of a peace process they considered disadvantageous.<ref name=New-York-Times-Peter-Baker-January-2-2017>[https://www.nytimes.com/2017/01/02/us/politics/nixon-tried-to-spoil-johnsons-vietnam-peace-talks-in-68-notes-show.html?_r=0 Nixon Tried to Spoil Johnson's Vietnam Peace Talks in '68, Notes Show] {{webarchive |url=https://web.archive.org/web/20170307110433/https://www.nytimes.com/2017/01/02/us/politics/nixon-tried-to-spoil-johnsons-vietnam-peace-talks-in-68-notes-show.html?_r=0 |date=March 7, 2017}}, ''The New York Times'', Politics Section, Peter Baker, January 2, 2017. See also [https://www.nytimes.com/interactive/2016/12/31/opinion/sunday/haldeman-notes.html H.R. Haldeman's Notes from Oct. 22, 1968] {{webarchive |url=https://web.archive.org/web/20170205221138/https://www.nytimes.com/interactive/2016/12/31/opinion/sunday/haldeman-notes.html |date=February 5, 2017}}, ''The New York Times'', December 31, 2016, which reprints four pages of Haldeman's notes.</ref>
+
+In a three-way race between Nixon, Humphrey, and [[American Independent Party]] candidate [[George Wallace]], Nixon defeated Humphrey by only 500,000 votes, a margin almost as close as in 1960, with both elections seeing a gap of less than one percentage point of the popular vote. However, Nixon earned 301 electoral votes to 191 for Humphrey and 46 for Wallace, a majority.{{sfn|Nixon Library, President}}{{sfn|Black|p=558}} He became the first non-incumbent vice president to be elected president.<ref name="Azari">{{Cite news |last=Azari |first=Julia |date=August 20, 2020 |title=Biden Had To Fight For The Presidential Nomination. But Most VPs Have To. |work=FiveThirtyEight |url=https://fivethirtyeight.com/features/biden-had-to-fight-for-the-presidential-nomination-but-most-vps-have-to/}}</ref> In his victory speech, Nixon pledged that his administration would try to [[Bring Us Together|bring the divided nation together]].{{sfn|Evans & Novak|pp=33–34}} Nixon said: "I have received a very gracious message from the Vice President, congratulating me for winning the election. I congratulated him for his gallant and courageous fight against great odds. I also told him that I know exactly how he felt. I know how it feels to lose a close one."{{sfn|UPI 1968 in Review}}
+
+<gallery widths="200px" heights="145px">
+File:Lyndon Johnson Richard Nixon 1968.jpg|Nixon and Johnson meet at the White House before Nixon's nomination, July 1968.
+File:NIXONcampaigns.jpg|Nixon campaigning July 1968
+File:ElectoralCollege1968.svg|1968 electoral vote results; the popular vote split between Nixon and Humphrey was less than one percentage point.
+</gallery>
+
+== Presidency (1969–1974) ==
+{{Main|Presidency of Richard Nixon}}{{for timeline|Timeline of the Richard Nixon presidency}}
+[[File:Richard Nixon 1969 inauguration.png|thumb|Nixon is sworn in as the 37th President by Chief Justice [[Earl Warren]]. The new First Lady, Pat, holds the family Bible.]]
+
+Nixon [[First inauguration of Richard Nixon|was inaugurated]] as [[President of the United States|president]] on January 20, 1969, sworn in by his onetime political rival, [[Chief Justice of the United States|Chief Justice]] [[Earl Warren]]. Pat Nixon held the family Bibles open at [[Book of Isaiah|Isaiah]] 2:4, which reads, "They shall beat their swords into plowshares, and their spears into pruning hooks." In his inaugural address, which received almost uniformly positive reviews, Nixon remarked that "the greatest honor history can bestow is the title of peacemaker"{{sfn|Black|pp=567–568}}—a phrase that found a place on his gravestone.{{sfn|Frick|p=189}} He spoke about turning partisan politics into a new age of unity:
+{{blockquote|In these difficult years, America has suffered from a fever of words; from inflated rhetoric that promises more than it can deliver; from angry rhetoric that fans discontents into hatreds; from bombastic rhetoric that postures instead of persuading. We cannot learn from one another until we stop shouting at one another, until we speak quietly enough so that our words can be heard as well as our voices.{{sfn|UPI 1969 in Review}}
+}}
+
+=== Foreign policy ===
+
+{{Main|Foreign policy of the Richard Nixon administration}}
+
+==== China ====
+{{Main|1972 visit by Richard Nixon to China}}
+{{multiple image
+| direction         = vertical
+| align             = right
+| image1            = Nixon shakes hands with Chou En-lai.jpg
+| caption1          = President Nixon shakes hands with Chinese Premier [[Zhou Enlai]] upon arriving in Beijing, 1972.
+| image2            = Nixon and Zhou toast.jpg
+| caption2          = Nixon and Zhou Enlai toast during Nixon's 1972 visit to China.
+}}
+
+Nixon laid the groundwork for his overture to China before he became president, writing in ''[[Foreign Affairs]]'' a year before his election: "There is no place on this small planet for a billion of its potentially most able people to live in angry isolation."{{sfn|Miller Center}} Assisting him in this venture was [[Henry Kissinger]], Nixon's [[National Security Advisor (United States)|National Security Advisor]] and future [[United States Secretary of State|Secretary of State]]. They collaborated closely, bypassing Cabinet officials. With relations between the Soviet Union and China at a nadir—[[Sino-Soviet border conflict|border clashes between the two]] took place during Nixon's first year in office—Nixon sent private word to the Chinese that he desired closer relations. A breakthrough came in early 1971, when [[Chinese Communist Party]] (CCP) [[Chairman of the Chinese Communist Party|chairman]] [[Mao Zedong]] invited a team of American table tennis players [[Ping-pong diplomacy|to visit China and play against top Chinese players]]. Nixon followed up by sending Kissinger to China for clandestine meetings with Chinese officials.{{sfn|Miller Center}} On July 15, 1971, with announcements from Washington and Beijing that astounded the world, it was learned that the President would visit China the following February.{{sfn|Ambrose|1989|p=453}} The secrecy had allowed both sets of leaders time to prepare the political climate in their countries for the visit.{{r|Goh-Small}}
+
+In February 1972, Nixon and his wife traveled to China after Kissinger briefed Nixon for over 40&nbsp;hours in preparation.{{sfn|Black|p=778}} Upon touching down, the President and First Lady emerged from [[Air Force One]] and were greeted by Chinese Premier [[Zhou Enlai]]. Nixon made a point of shaking Zhou's hand, something which then-Secretary of State [[John Foster Dulles]] had refused to do in 1954 when the two met in Geneva.{{sfn|PBS, The Nixon Visit}} More than a hundred television journalists accompanied the president. On Nixon's orders, television was strongly favored over printed publications, as Nixon felt that the medium would capture the visit much better than print. It also gave him the opportunity to snub the print journalists he despised.{{sfn|PBS, The Nixon Visit}}
+
+[[File:President Richard Nixon and Mao Zedong.jpg|thumb|left|{{center|[[Mao Zedong]] and Nixon}}]]
+
+Nixon and Kissinger immediately met for an hour with CCP Chairman [[Mao Zedong]] and Premier Zhou at Mao's official private residence, where they discussed a range of issues.{{sfn|Black|pp=780–782}} Mao later told his doctor that he had been impressed by Nixon's forthrightness, unlike the leftists and the Soviets.{{sfn|Black|pp=780–782}} He said he was suspicious of Kissinger,{{sfn|Black|pp=780–782}} though the National Security Advisor referred to their meeting as his "encounter with history".{{sfn|PBS, The Nixon Visit}} A formal banquet welcoming the presidential party was given that evening in the [[Great Hall of the People]]. The following day, Nixon met with Zhou; the [[Shanghai Communiqué|joint communique]] following this meeting recognized Taiwan as a part of China and looked forward to a peaceful solution to the problem of reunification.{{sfn|Ambrose|1989|p=516}} When not in meetings, Nixon toured architectural wonders, including the [[Forbidden City]], the [[Ming tombs]], and the [[Great Wall of China|Great Wall]].{{sfn|PBS, The Nixon Visit}} Americans took their first glance into everyday Chinese life through the cameras that accompanied Pat Nixon, who toured the city of Beijing and visited communes, schools, factories, and hospitals.{{sfn|PBS, The Nixon Visit}}
+
+The visit ushered in a new era of [[China–United States relations|US–China relations]].{{sfn|Nixon Library, President}} Fearing the possibility of a US–China alliance, the Soviet Union yielded to pressure for [[détente]] with the United States.{{sfn|Dallek|p=300}} This was one component of [[triangular diplomacy]].<ref>{{cite web|title=Foreign Relations of the United States, 1969-1976, Volume I Foundations of Foreign Policy, 1969-1972|url=https://2001-2009.state.gov/r/pa/ho/frus/nixon/i/21100.htm|url-status=live|website=2001-2009.state.gov}}</ref>
+
+==== Vietnam War ====
+{{Main|Vietnam War|Vietnamization|Role of the United States in the Vietnam War}}
+[[File:NixononCambodia.jpg|thumb|left|Nixon delivers an address to the nation about the incursion in Cambodia.]]
+
+When Nixon took office, about 300 American soldiers were dying each week in Vietnam,<ref>{{cite web | url = http://www.americanwarlibrary.com/vietnam/vwc24.htm | title = Vietnam War Deaths and Casualties By Month | access-date = June 22, 2012 | publisher = The American War Library | archive-url = https://web.archive.org/web/20131204020044/http://www.americanwarlibrary.com/vietnam/vwc24.htm | archive-date = December 4, 2013 | url-status = live }}</ref> and the war was widely unpopular in the United States, the subject of ongoing violent protests. The Johnson administration had offered to suspend bombing unconditionally in exchange for negotiations, but to no avail. According to Walter Isaacson, Nixon concluded soon after taking office that the Vietnam War could not be won, and he was determined to end it quickly.{{sfn|Drew|p=65}} He sought an arrangement that would permit American forces to withdraw while leaving South Vietnam secure against attack.{{sfn|Black|p=569}}
+
+Nixon approved a secret [[Boeing B-52 Stratofortress|B-52]] carpet bombing campaign of North Vietnamese and [[Khmer Rouge]] positions in Cambodia beginning in March 1969 and code-named [[Operation Menu]], without the consent of Cambodian leader [[Norodom Sihanouk]].{{sfn|Black|p=591}}<ref name="Kiernan"/><ref>{{cite book|last=Clymer|first=Kenton|title=The United States and Cambodia, 1969–2000: A Troubled Relationship|publisher=[[Routledge]]|year=2013|isbn=978-1-134-34156-6|pages=14–16}}</ref> In mid-1969, Nixon began efforts to negotiate peace with the North Vietnamese, sending a personal letter to their leaders, and peace talks began in Paris. Initial talks did not result in an agreement,{{sfn|Ambrose|1989|pp=281–283}} and in May 1969 he publicly proposed to withdraw all American troops from South Vietnam provided North Vietnam did so, and suggesting South Vietnam hold internationally supervised elections with [[Viet Cong]] participation.<ref>[http://www.presidency.ucsb.edu/ws/index.php?pid=2047&st=&st1= Address to the Nation on Vietnam] {{Webarchive|url=https://web.archive.org/web/20160304043247/http://www.presidency.ucsb.edu/ws/index.php?pid=2047&st=&st1= |date=March 4, 2016 }} May 14, 1969</ref>
+
+[[File:President Richard Nixon greets a U.S. Army 1st Infantry Division Soldier.jpg|thumb|upright|Nixon visits American troops in South Vietnam, July 30, 1969.]]
+
+In July 1969, Nixon visited [[South Vietnam]], where he met with his U.S. military commanders and President Nguyễn Văn Thiệu. Amid protests at home demanding an immediate pullout, he implemented a strategy of replacing American troops with [[Army of the Republic of Vietnam|Vietnamese troops]], known as "[[Role of United States in the Vietnam War#Vietnamization, 1969–1975|Vietnamization]]".{{sfn|Nixon Library, President}} He soon instituted phased U.S. troop withdrawals,{{sfn|''Time''|1971-04-05}} but also authorized incursions into Laos, in part to interrupt the [[Ho Chi Minh trail]] passing through Laos and Cambodia and used to supply North Vietnamese forces. In March 1970, at the explicit request of the Khmer Rouge and negotiated by [[Pol Pot]]'s then-second-in-command, [[Nuon Chea]], North Vietnamese troops launched an offensive and overran much of Cambodia.<ref>{{cite book|first=Dmitry |last=Mosyakov |chapter=The Khmer Rouge and the Vietnamese Communists: A History of Their Relations as Told in the Soviet Archives |editor-first=Susan E. |editor-last=Cook |title=Genocide in Cambodia and Rwanda |series=Yale Genocide Studies Program Monograph Series |issue=1 |date=2004 |page=54ff |chapter-url=http://www.yale.edu/gsp/publications/Mosyakov.doc |quote=In April–May 1970, many North Vietnamese forces entered Cambodia in response to the call for help addressed to Vietnam not by Pol Pot, but by his deputy Nuon Chea. Nguyen Co Thach recalls: 'Nuon Chea has asked for help and we have liberated five provinces of Cambodia in ten days.' |url-status=dead |archive-url=https://web.archive.org/web/20130309074636/http://www.yale.edu/gsp/publications/Mosyakov.doc |archive-date=March 9, 2013}}</ref> Nixon announced the [[Cambodian campaign|ground invasion of Cambodia]] on April 30, 1970, against North Vietnamese bases in the east of the country,{{sfn|AP/''St. Peterburg Independent''}} and further protests erupted against perceived expansion of the conflict, which resulted in Ohio National Guardsmen killing four unarmed students at [[Kent State shootings|Kent State University]].<ref>{{cite book|last=Gitlin|first=Todd|title=The Sixties: Years of Hope, Days of Rage|url=https://archive.org/details/sixtiesyearsofho00gitl|url-access=registration|publisher=Bantam Books|year=1987|isbn=978-0-553-37212-0|page=[https://archive.org/details/sixtiesyearsofho00gitl/page/410 410]}}</ref> Nixon's responses to protesters included [[Richard Nixon's visit to the Lincoln Memorial|an impromptu, early morning meeting with them]] at the [[Lincoln Memorial]] on May 9, 1970.{{r|Safire pp205–209}}{{sfn|UPI/''Beaver County Times''|1970-05-09}}{{sfn|Black|pp=675–676}} Nixon's campaign promise to curb the war, contrasted with the escalated bombing, led to claims that Nixon had a "[[credibility gap]]" on the issue.{{sfn|''Time''|1971-04-05}} It is estimated that between 50,000 and 150,000 people were killed during the [[Operation Freedom Deal|bombing of Cambodia]] between 1970 and 1973.<ref name="Kiernan">{{cite magazine|last1=Owen|first1=Taylor|last2=Kiernan|first2=Ben|title=Bombs Over Cambodia|magazine=The Walrus|date=October 2006|url=http://www.yale.edu/cgp/Walrus_CambodiaBombing_OCT06.pdf|pages=32–36|access-date=January 29, 2012|archive-url=https://web.archive.org/web/20160420220434/http://www.yale.edu/cgp/Walrus_CambodiaBombing_OCT06.pdf|archive-date=April 20, 2016|url-status=live}} Kiernan and Owen later revised their estimate of 2.7 million tons of U.S. bombs dropped on Cambodia down to the previously accepted figure of roughly 500,000 tons: See {{cite web|authorlink1=Ben Kiernan|last1=Kiernan|first1=Ben|last2=Owen|first2=Taylor|url=http://apjjf.org/2015/13/16/Ben-Kiernan/4313.html|title=Making More Enemies than We Kill? Calculating U.S. Bomb Tonnages Dropped on Laos and Cambodia, and Weighing Their Implications|work=The Asia-Pacific Journal|date=April 26, 2015|access-date=November 15, 2016|archive-url=https://web.archive.org/web/20150912002843/http://www.yale.edu/cgp/Walrus_CambodiaBombing_OCT06.pdf|archive-date=September 12, 2015|url-status=live}}</ref>
+
+In 1971, excerpts from the "[[Pentagon Papers]]", which had been leaked by [[Daniel Ellsberg]], were published by ''[[The New York Times]]'' and ''[[The Washington Post]]''. When news of the leak first appeared, Nixon was inclined to do nothing; the Papers, a history of United States' involvement in Vietnam, mostly concerned the lies of prior administrations and contained few real revelations. He was persuaded by Kissinger that the Papers were more harmful than they appeared, and the President tried to prevent publication, but the Supreme Court [[New York Times Co. v. United States|ruled in favor of]] the newspapers.{{sfn|Ambrose|1989|pp=446–448}}
+
+As U.S. troop withdrawals continued, [[Conscription in the United States|conscription]] was phased out by 1973, and the armed forces became all-volunteer.{{sfn|Evans}} After years of fighting, the [[Paris Peace Accords]] were signed at the beginning of 1973. The agreement implemented a cease fire and allowed for the withdrawal of remaining American troops without requiring withdrawal of the 160,000 [[North Vietnam Army]] regulars located in the South.{{sfn|Ambrose|1991|pp=53–55}} Once American combat support ended, there was a brief truce, before fighting resumed, and North Vietnam conquered South Vietnam in 1975.{{sfn|Ambrose|1991|p=473}}
+
+==== Latin American policy ====
+{{See also|U.S. intervention in Chile#1973 coup|Operation Condor}}
+[[File:Gustavo Diaz Ordaz Richard Nixon San Diego.jpg|thumb|Nixon with Mexican president [[Gustavo Díaz Ordaz]] (to his right); motorcade in San Diego, California, September 1970]]
+
+Nixon had been a firm supporter of Kennedy during the 1961 [[Bay of Pigs Invasion]] and 1962 [[Cuban Missile Crisis]]. On taking office in 1969, he stepped up covert operations against Cuba and its president, [[Fidel Castro]]. He maintained close relations with the Cuban-American exile community through his friend, [[Charles Rebozo|Bebe Rebozo]], who often suggested ways of irritating Castro. The Soviets and Cubans became concerned, fearing Nixon might attack Cuba and break the understanding between Kennedy and Khrushchev that ended the missile crisis. In August 1970, the Soviets asked Nixon to reaffirm the understanding, which he did, despite his hard line against Castro. The process was not completed before the Soviets began expanding their base at the Cuban port of [[Cienfuegos]] in October 1970. A minor confrontation ensued, the Soviets stipulated they would not use Cienfuegos for submarines bearing ballistic missiles, and the final round of diplomatic notes were exchanged in November.{{sfn|Ambrose|1989|pp=379–383}}
+
+The election of Marxist candidate [[Salvador Allende]] as [[President of Chile]] in September 1970 spurred a vigorous campaign of covert opposition to him by Nixon and Kissinger.<ref name="The Pinochet File">{{cite book|last=Kornbluh|first=Peter|title=The Pinochet File: A Declassified Dossier on Atrocity and Accountability|year=2003|publisher=The New Press|location=New York|isbn=978-1-56584-936-5}}</ref>{{rp|25}} This began by trying to convince the Chilean congress to confirm [[Jorge Alessandri]] as the winner of the election, and then messages to military officers in support of a coup.<ref name="The Pinochet File"/> Other support included strikes organized against Allende and funding for Allende opponents. It was even alleged that "Nixon personally authorized" $700,000 in covert funds to print anti-Allende messages in a prominent Chilean newspaper.<ref name="The Pinochet File"/>{{rp|93}} Following an extended period of social, political, and economic unrest, General [[Augusto Pinochet]] assumed power in a violent [[1973 Chilean coup d'état|coup d'état]] on September 11, 1973; among the [[Death of Salvador Allende|dead was Allende]].{{sfn|Black|p=921}}
+
+==== Soviet Union ====
+[[File:Leonid Brezhnev and Richard Nixon talks in 1973.png|thumb|Nixon with Brezhnev during the Soviet leader's trip to the U.S., 1973]]
+
+Nixon used the improving international environment to address the topic of nuclear peace. Following the announcement of his visit to China, the Nixon administration concluded negotiations for him to visit the Soviet Union. The President and First Lady arrived in Moscow on May 22, 1972, and met with [[Leonid Brezhnev]], the [[General Secretary of the Communist Party of the Soviet Union|General Secretary of the Communist Party]]; [[Alexei Kosygin]], the [[Premier of the Soviet Union|Chairman of the Council of Ministers]]; and [[Nikolai Podgorny]], the [[List of heads of state of the Soviet Union|Chairman]] of the [[Presidium of the Supreme Soviet]], among other leading Soviet officials.{{sfn|BBC|1972-05-22}}
+
+Nixon engaged in intense negotiations with Brezhnev.{{sfn|BBC|1972-05-22}} Out of the summit came agreements for increased trade and two landmark arms control treaties: [[SALT I]], the first comprehensive limitation pact signed by the two superpowers,{{sfn|Nixon Library, President}} and the [[Anti-Ballistic Missile Treaty]], which banned the development of systems designed to intercept incoming missiles. Nixon and Brezhnev proclaimed a new era of "peaceful coexistence". A banquet was held that evening at the [[Kremlin]].{{sfn|BBC|1972-05-22}}
+
+Nixon and Kissinger planned to link arms control to détente and to the resolution of other urgent problems through what Nixon called "[[Linkage (policy)|linkage.]]" David Tal argues:
+{{blockquote|The linkage between strategic arms limitations and outstanding issues such as the Middle East, Berlin and, foremost, Vietnam thus became central to Nixon's and Kissinger's policy of détente. Through the employment of linkage, they hoped to change the nature and course of U.S. foreign policy, including U.S. nuclear disarmament and arms control policy, and to separate them from those practiced by Nixon's predecessors. They also intended, through linkage, to make U.S. arms control policy part of détente{{nbsp}}... His policy of linkage had in fact failed. It failed mainly because it was based on flawed assumptions and false premises, the foremost of which was that the Soviet Union wanted strategic arms limitation agreement much more than the United States did.<ref>David Tal, " 'Absolutes' and 'Stages' in the Making and Application of Nixon's SALT Policy." ''Diplomatic History'' 37.5 (2013): 1090–1116, quoting pp 1091, 1092. Nixon himself later wrote, "[W]e decided to link progress in such areas of Soviet concern as strategic arms limitation and increased trade with progress in areas that were important to us—Vietnam, the Mideast, and Berlin. This concept became known as linkage." {{cite book|author=Richard Nixon|title=RN: The Memoirs of Richard Nixon|url=https://books.google.com/books?id=UyfcLYY9F0gC&pg=RA1-PT388|year=1978|page=346|publisher=Simon and Schuster |isbn=978-1-4767-3183-4}}</ref>}}
+
+Seeking to foster better relations with the United States, China and the Soviet Union both cut back on their diplomatic support for North Vietnam and advised Hanoi to come to terms militarily.{{sfn|Gaddis|pp=294, 299}} Nixon later described his strategy:
+{{blockquote|I had long believed that an indispensable element of any successful peace initiative in Vietnam was to enlist, if possible, the help of the Soviets and the Chinese. Though rapprochement with China and détente with the Soviet Union were ends in themselves, I also considered them possible means to hasten the end of the war. At worst, Hanoi was bound to feel less confident if Washington was dealing with Moscow and Beijing. At best, if the two major Communist powers decided that they had bigger fish to fry, Hanoi would be pressured into negotiating a settlement we could accept.{{sfn|Nixon|1985|pp=105–106}}
+}}
+In 1973, Nixon encouraged the [[Export–Import Bank of the United States|Export-Import Bank]] to finance in part a trade deal with the Soviet Union in which [[Armand Hammer]]'s [[Occidental Petroleum]] would export [[phosphate]] from Florida to the Soviet Union, and import Soviet [[ammonia]]. The deal, valued at $20 billion over 20 years, involved the construction of two major Soviet port facilities at [[Odessa]] and [[Ventspils]],<ref>{{cite news|last=Smith|first=Hedrick|date=June 29, 1974|title=OCCIDENTAL SIGNS DEAL WITH SOVIET|language=en-US|work=The New York Times|url=https://www.nytimes.com/1974/06/29/archives/occidental-signs-deal-with-soviet-4-contracts-are-activated-in-a.html|access-date=December 6, 2021|issn=0362-4331}}</ref><ref name=":0">{{cite news|date=November 29, 1981|title=THE RIDDLE OF ARMAND HAMMER|language=en-US|work=The New York Times|url=https://www.nytimes.com/1981/11/29/magazine/the-riddle-of-armand-hammer.html|access-date=December 6, 2021|issn=0362-4331}}</ref><ref name="Rich">{{cite news|last=Rich|first=Spencer|date=October 4, 1979|title=Soviets Dumping Ammonia, ITC Says|language=en-US|newspaper=Washington Post|url=https://www.washingtonpost.com/archive/business/1979/10/04/soviets-dumping-ammonia-itc-says/4d53c7fa-6c89-470b-b8f0-5aced1b92513/|access-date=December 7, 2021|issn=0190-8286}}</ref> and a pipeline connecting four ammonia plants in the greater [[Volga]] region to the port at Odessa.<ref name="Rich"/> In 1973, Nixon announced his administration was committed to seeking [[most favored nation]] trade status with the USSR,<ref>{{cite news|date=October 5, 1973|title=NIXON IN APPEAL ON SOVIET TRADE|language=en-US|work=The New York Times|url=https://www.nytimes.com/1973/10/05/archives/nixon-in-appeal-on-soviet-trade-urges-congress-to-include.html|access-date=December 7, 2021|issn=0362-4331}}</ref> which was challenged by Congress in the [[Jackson–Vanik amendment|Jackson-Vanik Amendment]].<ref>{{cite book|last=Herring|first=George C.|url=https://archive.org/details/fromcolonytosupe00herr|title=From Colony to Superpower; U.S. Foreign Relations Since 1776|date=2008|publisher=Oxford University Press|isbn=978-0-19-507822-0|pages=804}}</ref>
+
+During the previous two years, Nixon had made considerable progress in U.S.–Soviet relations, and he embarked on a second trip to the Soviet Union in 1974.{{sfn|Black|p=963}} He arrived in Moscow on June 27 to a welcome ceremony, cheering crowds, and a state dinner at the [[Grand Kremlin Palace]] that evening.{{sfn|Black|p=963}} Nixon and Brezhnev met in [[Yalta]], where they discussed a proposed mutual defense pact, détente, and [[MIRV]]s. Nixon considered proposing a comprehensive test-ban treaty, but he felt he would not have time to complete it during his presidency.{{sfn|Black|p=963}} There were no significant breakthroughs in these negotiations.{{sfn|Black|p=963}}
+
+==== Middle Eastern policy ====
+{{anchor|Middle East policy}}
+[[File:Dan Hadani collection (990045274210205171).jpg|thumb|alt=Nixon with Israeli Prime Minister Golda Meir, June 1974. |Nixon with Israeli Prime Minister [[Golda Meir]], June 1974]]
+[[File:Nixon Sadat.jpg|thumb|Nixon with President [[Anwar Sadat]] of Egypt, June 1974]]
+
+As part of the [[Nixon Doctrine]], the U.S. avoided giving direct combat assistance to its allies and instead gave them assistance to defend themselves. During the Nixon administration, the U.S. greatly increased arms sales to the Middle East, particularly Israel, Iran and Saudi Arabia.{{r|Hanhimäki-Small}} The Nixon administration strongly supported Israel, an American ally in the Middle East, but the support was not unconditional. Nixon believed Israel should make peace with its Arab neighbors and that the U.S. should encourage it. The president believed that—except during the [[Suez Crisis]]—the U.S. had failed to intervene with Israel, and should use the leverage of the large U.S. military aid to Israel to urge the parties to the negotiating table. The Arab-Israeli conflict was not a major focus of Nixon's attention during his first term—for one thing, he felt that no matter what he did, American Jews would oppose his reelection.{{efn|name=Jewish vote}}
+
+On October 6, 1973, an Arab coalition led by Egypt and Syria, supported with arms and materiel by the Soviet Union, attacked Israel in the [[Yom Kippur War]]. Israel suffered heavy losses and Nixon ordered an airlift to resupply Israeli losses, cutting through inter-departmental squabbles and bureaucracy and taking personal responsibility for any response by Arab nations. More than a week later, by the time the U.S. and Soviet Union began [[United Nations Security Council Resolution 338|negotiating a truce]], Israel had penetrated deep into enemy territory. The truce negotiations rapidly escalated into a superpower crisis; when Israel gained the upper hand, Egyptian President Sadat requested a joint U.S.–USSR peacekeeping mission, which the U.S. refused. When Soviet Premier Brezhnev threatened to unilaterally enforce any peacekeeping mission militarily, Nixon ordered the U.S. military to [[DEFCON]]3,<ref name="fas-defcon">{{cite web|url=https://fas.org/nuke/guide/usa/c3i/defcon.htm|title=DEFCON DEFense CONdition|work=fas.org|access-date=June 17, 2015|archive-url=https://web.archive.org/web/20150617123557/https://fas.org/nuke/guide/usa/c3i/defcon.htm|archive-date=June 17, 2015|url-status=live}}</ref> placing all U.S. military personnel and bases on alert for nuclear war. This was the closest the world had come to nuclear war since the Cuban Missile Crisis. Brezhnev backed down as a result of Nixon's actions.{{sfn|Nixon|1978|pp=938–940}}
+
+Because Israel's victory was largely due to U.S. support, the Arab OPEC nations retaliated by refusing to sell crude oil to the U.S., resulting in the [[1973 oil crisis]].{{sfn|Black|pp=923–928}} The embargo caused gasoline shortages and rationing in the United States in late 1973, and was eventually ended by the oil-producing nations as peace in the Middle East took hold.{{sfn|Ambrose|1991|p=311}}
+
+After the war, and under Nixon's presidency, the U.S. reestablished relations with Egypt for the first time since 1967. Nixon used the Middle East crisis to restart [[List of Middle East peace proposals|the stalled Middle East Peace Negotiations]]; he wrote in a confidential memo to Kissinger on October 20:
+<blockquote>I believe that, beyond a doubt, we are now facing the best opportunity we have had in 15 years to build a lasting peace in the Middle East. I am convinced history will hold us responsible if we let this opportunity slip by&nbsp;... I now consider a permanent Middle East settlement to be the most important final goal to which we must devote ourselves.<ref>Tyler, Patrick (2010), p. 161</ref></blockquote>
+
+Nixon made one of his final international visits as president to the Middle East in June 1974, and became the first President to visit Israel.{{sfn|Black|pp=951–952, 959}}
+
+=== Domestic policy ===
+==== Economy ====
+{{further|Nixon shock|1970s energy crisis}}
+[[File:Nixon Opening Day 1969 Two.jpg|thumb|Nixon at the [[History of the Texas Rangers (baseball)#Washington Senators: 1961–1971|Washington Senators]]' 1969 Opening Day with team owner [[Bob Short]] (arms folded) and Baseball Commissioner [[Bowie Kuhn]] (hand on mouth). Nixon's [[Aide-de-camp#United States|aide]], Major [[Jack Brennan]], sits behind them in uniform.]]
+At the time Nixon took office in 1969, inflation was at 4.7&nbsp;percent—its highest rate since the Korean War. The [[Great Society]] had been enacted under Johnson, which, together with the Vietnam War costs, was causing large budget deficits. Unemployment was low, but interest rates were at their highest in a century.{{sfn|Ambrose|1989|pp=225–226}} Nixon's major economic goal was to reduce inflation; the most obvious means of doing so was to end the war.{{sfn|Ambrose|1989|pp=225–226}} This could not be accomplished overnight, and the U.S. economy continued to struggle through 1970, contributing to a lackluster Republican performance in the midterm congressional elections (Democrats controlled both Houses of Congress throughout Nixon's presidency).{{sfn|Ambrose|1989|pp=431–432}} According to political economist Nigel Bowles in his 2011 study of Nixon's economic record, the new president did little to alter Johnson's policies through the first year of his presidency.{{r|Bowles-Small}}
+
+Nixon was far more interested in foreign affairs than domestic policies, but he believed that voters tend to focus on their own financial condition and that economic conditions were a threat to his reelection. As part of his "[[New Federalism]]" views, he proposed grants to the states, but these proposals were for the most part lost in the congressional budget process. However, Nixon gained political credit for advocating them.{{sfn|Ambrose|1989|pp=431–432}} In 1970, Congress had granted the president the power to impose wage and price freezes, though the Democratic majorities, knowing Nixon had opposed such controls throughout his career, did not expect Nixon to actually use the authority.{{r|Bowles-Small}} With inflation unresolved by August 1971, and an election year looming, Nixon convened a summit of his economic advisers at [[Camp David]]. Nixon's options were to limit fiscal and monetary expansionist policies that reduced unemployment or end the dollar's fixed exchange rate; Nixon's dilemma has been cited as an example of the [[Impossible trinity]] in international economics.<ref name=":1">{{cite book|last=Oatley|first=Thomas|url=https://books.google.com/books?id=4GJoDwAAQBAJ|title=International Political Economy: Sixth Edition|date=2019|publisher=Routledge|isbn=978-1-351-03464-7|pages=351–352}}</ref><ref>{{cite book|last=Gowa|first=Joanne|title=Closing the Gold Window|date=1983|url=https://www.jstor.org/stable/10.7591/j.ctvr7f40n|url-status=live|publisher=Cornell University Press |jstor=10.7591/j.ctvr7f40n|isbn=978-0-8014-1622-4}}</ref> He then announced temporary wage and price controls, allowed the dollar to float against other currencies, and ended the convertibility of the dollar into gold.{{sfn|Aitken|pp=399–400}} Bowles points out,
+<blockquote>by identifying himself with a policy whose purpose was inflation's defeat, Nixon made it difficult for Democratic opponents&nbsp;... to criticize him. His opponents could offer no alternative policy that was either plausible or believable since the one they favored was one they had designed but which the president had appropriated for himself.{{r|Bowles-Small}}</blockquote>
+
+Nixon's policies dampened inflation through 1972, although their aftereffects contributed to inflation during his second term and into the Ford administration.{{sfn|Aitken|pp=399–400}} Nixon's decision to end the gold standard in the United States led to the collapse of the [[Bretton Woods system]]. According to Thomas Oatley, "the Bretton Woods system collapsed so that Nixon might win the 1972 presidential election."<ref name=":1"/>
+
+After Nixon won re-election, inflation was returning.{{sfn|Hetzel|p=92}} He reimposed price controls in June 1973. The price controls became unpopular with the public and businesspeople, who saw powerful labor unions as preferable to the price board bureaucracy.{{sfn|Hetzel|p=92}} The controls produced [[Economic shortage|food shortages]], as meat disappeared from grocery stores and farmers drowned chickens rather than sell them at a loss.{{sfn|Hetzel|p=92}} Despite the failure to control inflation, controls were slowly ended, and on April 30, 1974, their statutory authorization lapsed.{{sfn|Hetzel|p=92}}
+
+==== Governmental initiatives and organization ====
+[[File:State of the Union Speech in the US Capitol - NARA - 194346.tif|thumb|upright|Nixon gives the 1971 [[State of the Union Address]].]]
+[[File:Richard Nixon - Presidential portrait.jpg|thumb|right|upright|Official Nixon portrait by [[James Anthony Wills]], {{circa|1984}}]]
+[[File:US incarceration rate timeline.gif|thumb|upright|Graph of increases in [[Incarceration in the United States|U.S. incarceration rate]]]]
+Nixon advocated a "[[New Federalism]]", which would devolve power to state and local elected officials, though Congress was hostile to these ideas and enacted few of them.{{sfn|Aitken|p=395}} He eliminated the Cabinet-level [[United States Post Office Department]], which in 1971 became the government-run [[United States Postal Service]].{{sfn|USPS, Periodicals postage}}
+
+Nixon was a late supporter of the [[conservation movement]]. Environmental policy had not been a significant issue in the 1968 election, and the candidates were rarely asked for their views on the subject. Nixon broke new ground by discussing environmental policy in his [[State of the Union speech]] in 1970. He saw that the first [[Earth Day]] in April 1970 presaged a wave of voter interest on the subject, and sought to use that to his benefit; in June he announced the formation of the [[United States Environmental Protection Agency|Environmental Protection Agency]] (EPA).{{sfn|Aitken|pp=397–398}} He relied on his domestic advisor [[John Ehrlichman]], who favored protection of natural resources, to keep him "out of trouble on environmental issues."<ref name="Distillations"/> Other initiatives supported by Nixon included the [[Clean Air Act of 1970]] and the [[Occupational Safety and Health Administration]] (OSHA), and the [[National Environmental Policy Act]] required [[environmental impact statement]]s for many Federal projects.<ref name="Distillations">{{cite magazine|last1=Rinde|first1=Meir|title=Richard Nixon and the Rise of American Environmentalism|magazine=Distillations|date=2017|volume=3|issue=1|pages=16–29|url=https://www.sciencehistory.org/distillations/magazine/richard-nixon-and-the-rise-of-american-environmentalism|access-date=April 4, 2018|archive-url=https://web.archive.org/web/20180405024821/https://www.sciencehistory.org/distillations/magazine/richard-nixon-and-the-rise-of-american-environmentalism|archive-date=April 5, 2018|url-status=live}}</ref>{{sfn|Aitken|pp=397–398}} Nixon vetoed the [[Clean Water Act]] of 1972—objecting not to the policy goals of the legislation but to the amount of money to be spent on them, which he deemed excessive. After Congress overrode his veto, Nixon [[impoundment of appropriated funds|impounded]] the funds he deemed unjustifiable.{{sfn|Aitken|p=396}} 
+
+In 1971, Nixon proposed health insurance reform—a private health insurance employer mandate,{{efn|name=voluntary|voluntary for employees}} federalization of [[Medicaid]] for poor families with dependent minor children,{{sfn|NHI: CQ Almanac 1971}} and support for [[health maintenance organization]]s (HMOs).{{sfn|HMO: CQ Almanac 1973}} A limited HMO bill was enacted in 1973.{{sfn|HMO: CQ Almanac 1973}} In 1974, Nixon proposed more comprehensive health insurance reform—a private health insurance employer mandate{{efn|name=voluntary|voluntary for employees}} and replacement of Medicaid by state-run health insurance plans available to all, with income-based premiums and [[cost sharing]].{{sfn|NHI: CQ Almanac 1974}}
+
+Nixon was concerned about the prevalence of domestic drug use in addition to drug use among American soldiers in Vietnam. He called for a [[war on drugs]] and pledged to cut off sources of supply abroad. He also increased funds for education and for rehabilitation facilities.{{sfn|Ambrose|1989|p=418}}
+
+As one policy initiative, Nixon called for more money for [[sickle-cell disease|sickle-cell]] research, treatment, and education in February 1971{{sfn|Office of the Federal Register|pp=179–182}} and signed the National Sickle Cell Anemia Control Act on May 16, 1972.{{sfn|The American Presidency Project}}{{sfn|National Heart, Lung, and Blood Institute|p=2}}{{efn|see especially page 2 (after introductory material) in which a bar graph displays NHLBI funding for sickle cell research from FY 1972 through FY 2001, totaling $923 million for these thirty years, starting at $10 million for 1972, then about $15 million a year through 1976, about $20 million for 1977, etc}} While Nixon called for increased spending on such high-profile items as sickle-cell disease and for a [[war on cancer]], at the same time he sought to reduce overall spending at the [[National Institutes of Health]].{{sfn|Wailoo|pp=165, 170}}
+
+==== Civil rights ====
+The Nixon presidency witnessed the first large-scale [[racial integration|integration]] of public schools in the South.{{sfn|Boger|p=6}} Nixon sought a middle way between the segregationist Wallace and liberal Democrats, whose support of integration was alienating some Southern whites.{{sfn|Sabia}} Hopeful of doing well in the South in 1972, he sought to dispose of desegregation as a political issue before then. Soon after his inauguration, he appointed Vice President Agnew to lead a task force, which worked with local leaders—both white and black—to determine how to [[School integration in the United States|integrate]] local schools. Agnew had little interest in the work, and most of it was done by Labor Secretary [[George Shultz]]. Federal aid was available, and a meeting with President Nixon was a possible reward for compliant committees. By September 1970, less than ten percent of black children were attending segregated schools. By 1971, however, tensions over desegregation surfaced in Northern cities, with angry protests over the [[Desegregation busing in the United States|busing]] of children to schools outside their neighborhood to achieve racial balance. Nixon opposed busing personally but enforced court orders requiring its use.{{sfn|Parmet|pp=595–597, 603}}
+
+Some scholars, such as James Morton Turner and John Isenberg, believe that Nixon, who had advocated for civil rights in his 1960 campaign, slowed down [[Desegregation in the United States|desegregation]] as president, appealing to the racial conservatism of Southern whites, who were angered by the [[civil rights movement]]. This, he hoped, would boost his election chances in 1972.<ref>{{Cite web|url=http://www.hup.harvard.edu/catalog.php?isbn=9780674979970|title=The Republican Reversal—James Morton Turner, Andrew C. Isenberg {{!}} Harvard University Press|website=www.hup.harvard.edu|page=36|archive-url=https://web.archive.org/web/20190108151027/http://www.hup.harvard.edu/catalog.php?isbn=9780674979970|archive-date=January 8, 2019|url-status=live|access-date=July 31, 2019}}</ref><ref>{{Cite book|url=https://www.press.uchicago.edu/ucp/books/book/chicago/P/bo8212972.html|title=The Partisan Sort|series=Chicago Studies in American Politics |pages=24|publisher=University of Chicago Press |access-date=July 31, 2019|archive-url=https://web.archive.org/web/20190731184243/https://www.press.uchicago.edu/ucp/books/book/chicago/P/bo8212972.html|archive-date=July 31, 2019|url-status=live}}</ref>
+
+In addition to desegregating public schools, Nixon implemented the [[Philadelphia Plan]] in 1970—the first significant federal [[affirmative action]] program.{{sfn|Delaney|1970-07-20}} He also endorsed the [[Equal Rights Amendment]] after it passed both houses of Congress in 1972 and went to the states for ratification.{{sfn|Frum|p=246}} He also pushed for African American civil rights and economic equity through a concept known as black capitalism.<ref>{{Cite book|title=Harambee City: Congress of Racial Equality in Cleveland and the Rise of Black Power Populism.|last=Frazier|first=Nishani|publisher=University of Arkansas Press|year=2017|isbn=978-1-68226-018-0|pages=184–207}}</ref> Nixon had campaigned as an ERA supporter in 1968, though feminists criticized him for doing little to help the ERA or their cause after his election. Nevertheless, he appointed more women to administration positions than Lyndon Johnson had.{{sfn|PBS, Nixon, Domestic Politics}}
+
+=== Space policy ===
+{{further|Space policy of the United States}}
+[[File:President Nixon welcomes the Apollo 11 astronauts aboard the U.S.S. Hornet.jpg|thumb|Nixon visiting the [[Apollo 11]] astronauts in quarantine aboard the aircraft carrier [[USS Hornet (CV-12)|USS ''Hornet'']]]]
+After a [[Apollo program|nearly decade-long national effort]], the United States won the race to land astronauts on the Moon on July 20, 1969, with the flight of [[Apollo 11]]. Nixon spoke with [[Neil Armstrong]] and [[Buzz Aldrin]] during their moonwalk. He called the conversation "the most historic phone call ever made from the White House".{{sfn|Parmet|p=563}}
+
+Nixon was unwilling to keep funding for the [[National Aeronautics and Space Administration]] (NASA) at the high level seen during the 1960s as NASA prepared to send men to the Moon. NASA Administrator [[Thomas O. Paine]] drew up ambitious plans for the establishment of a permanent base on the Moon by the end of the 1970s and the launch of a crewed expedition to Mars as early as 1981. Nixon rejected both proposals due to the expense.{{sfn|Handlin}} Nixon also canceled the Air Force [[Manned Orbital Laboratory]] program in 1969, because uncrewed [[spy satellite]]s were a more cost-effective way to achieve the same reconnaissance objective.{{sfn|Hepplewhite|pp=204–205|loc=ch. 5}} NASA cancelled the last three planned Apollo lunar missions to place [[Skylab]] in orbit more efficiently and free money up for the design and construction of the [[Space Shuttle]].<ref name="MIT_notes">{{cite web | url=http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/video-lectures/logsdn_lec_notes.pdf | title=MIT lecture notes in "Aircraft Systems Engineering," fall 2005, on early Space Shuttle policy | publisher=Massachusetts Institute of Technology | date=Fall 2005 | pages=7 | access-date=August 22, 2014 | archive-url=https://web.archive.org/web/20140826120157/http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/video-lectures/logsdn_lec_notes.pdf | archive-date=August 26, 2014 | url-status=live }}</ref>
+
+On May 24, 1972, Nixon approved a five-year cooperative program between NASA and the [[Soviet space program]], culminating in the 1975 [[Apollo–Soyuz Test Project|joint mission of an American Apollo and Soviet Soyuz spacecraft]] linking in space.{{sfn|Ezell|p=192|loc=ch. 6–11}}
+
+=== Reelection, Watergate scandal, and resignation ===
+
+==== 1972 presidential campaign ====
+{{main|1972 United States presidential election}}
+[[File:ElectoralCollege1972.svg|thumb|1972 electoral vote results]]
+Nixon believed his rise to power had peaked at a moment of [[political realignment]]. The Democratic "[[Solid South]]" had long been a source of frustration to Republican ambitions. Goldwater had won several Southern states by opposing the [[Civil Rights Act of 1964]] but had alienated more moderate Southerners. Nixon's efforts to gain Southern support in 1968 were diluted by Wallace's candidacy. Through his first term, he pursued a [[Southern Strategy]] with policies, such as his desegregation plans, that would be broadly acceptable among Southern whites, encouraging them to realign with the Republicans in the aftermath of the [[civil rights movement]]. He nominated two Southern conservatives, [[Clement Haynsworth]] and [[G. Harrold Carswell]] to the Supreme Court, but neither was confirmed by the Senate.{{r|Mason-Small}}
+
+Nixon entered his name on the New Hampshire primary ballot on January 5, 1972, effectively announcing his candidacy for reelection.{{sfn|Black|p=766}} Virtually assured the Republican nomination,{{sfn|Black|p=795}} the President had initially expected his Democratic opponent to be [[Massachusetts]] Senator [[Ted Kennedy|Edward M. Kennedy]] (brother of the [[John F. Kennedy|late President]]), who was largely removed from contention after the July 1969 [[Chappaquiddick incident]].{{sfn|Black|p=617}} Instead, [[Maine]] Senator [[Edmund Muskie]] became the front runner, with [[South Dakota]] Senator [[George McGovern]] in a close second place.{{sfn|Black|p=766}}
+
+On June 10, McGovern won the California primary and secured the Democratic nomination.{{sfn|Black|p=816}} The following month, Nixon was renominated at the [[1972 Republican National Convention]]. He dismissed the Democratic platform as cowardly and divisive.{{sfn|Black|p=834}} McGovern intended to sharply reduce defense spending{{sfn|White|p=123}} and supported amnesty for draft evaders as well as [[abortion rights]]. With some of his supporters believed to be in favor of drug legalization, McGovern was perceived as standing for "amnesty, abortion and acid". McGovern was also damaged by his vacillating support for his original running mate, [[Missouri]] Senator [[Thomas Eagleton]], dumped from the ticket following revelations that he had received [[Electroconvulsive therapy|electroshock treatment]] for [[Major depressive disorder|depression]].{{sfn|''Time''|1972-08-14}}{{sfn|''Time''|1970-11-20}} Nixon was ahead in most polls for the entire election cycle, and was reelected on November 7, 1972, in [[List of United States presidential elections by popular vote margin|one of the largest landslide election victories in American history]]. He defeated McGovern with over 60&nbsp;percent of the popular vote, losing only in Massachusetts and D.C.{{sfn|Parmet|p=629}}
+
+==== Watergate ====
+{{Main|Watergate scandal|Impeachment process against Richard Nixon}}
+[[File:Richard M. Nixon press conference - NARA - 194551.tif|thumb|Nixon takes questions at 1973 press conference.]]
+
+The term ''Watergate'' has come to encompass an array of clandestine and often illegal activities undertaken by members of the Nixon administration. Those activities included "dirty tricks," such as bugging the offices of political opponents, and the harassment of activist groups and political figures. The activities were brought to light after five men were caught breaking into the Democratic party headquarters at the [[Watergate complex]] in Washington, D.C., on June 17, 1972. ''[[The Washington Post]]'' picked up on the story; reporters [[Carl Bernstein]] and [[Bob Woodward]] relied on an informant known as "[[Deep Throat (Watergate)|Deep Throat]]"—later revealed to be [[W. Mark Felt|Mark Felt]], associate director at the [[FBI]]—to link the men to the Nixon administration. Nixon downplayed the scandal as mere politics, calling news articles biased and misleading. A series of revelations made it clear that the [[Committee for the Re-Election of the President|Committee to Re-elect President Nixon]], and later the White House, were involved in attempts to sabotage the Democrats. Senior aides such as [[White House Counsel]] [[John Dean]] faced prosecution; in total 48 officials were convicted of wrongdoing.{{sfn|Nixon Library, President}}{{sfn|''The Washington Post'', The Post Investigates}}{{sfn|''The Washington Post'', The Government Acts}}
+
+[[File:Impeach Nixon retouched.jpg|thumb|left|upright|Demonstrator demands [[Federal impeachment in the United States|impeachment]], October 1973.]]
+[[File:Richard Nixon - "I'm not a crook.".oga|thumb|right|On November 17, 1973, President Nixon held a press conference at [[Disney's Contemporary Resort#Richard Nixon's 1973 press conference|Disney's Contemporary Resort]] and famously says "I'm not a crook".]]
+In July 1973, White House aide [[Alexander Butterfield]] testified [[Perjury|under oath]] to Congress that Nixon had a secret taping system and recorded his conversations and phone calls in the Oval Office. [[Nixon White House tapes|These tapes]] were [[subpoena]]ed by Watergate Special Counsel [[Archibald Cox]]; Nixon provided transcripts of the conversations but not the actual tapes, citing [[executive privilege]]. With the White House and Cox at loggerheads, Nixon had Cox fired in October in the "[[Saturday Night Massacre]]"; he was replaced by [[Leon Jaworski]]. In November, Nixon's lawyers revealed that a tape of conversations held in the White House on June 20, 1972, had an {{frac|18|1|2}}{{nbsp}}minute gap.{{sfn|''The Washington Post'', The Government Acts}} [[Rose Mary Woods]], the President's personal secretary, claimed responsibility for the gap, saying that she had accidentally wiped the section while transcribing the tape, but her story was widely mocked. The gap, while not conclusive proof of wrongdoing by the President, cast doubt on Nixon's statement that he had been unaware of the cover-up.{{sfn|Aitken|pp=511–512}}
+
+Though Nixon lost much popular support, even from his own party, he rejected accusations of wrongdoing and vowed to stay in office.{{sfn|''The Washington Post'', The Government Acts}} He admitted he had made mistakes but insisted he had no prior knowledge of the burglary, did not break any laws, and did not learn of the cover-up until early 1973.{{sfn|''The Washington Post'', Nixon Resigns}} On October 10, 1973, Vice President Agnew resigned for reasons unrelated to Watergate: he was convicted on charges of bribery, tax evasion and money laundering during his tenure as governor of Maryland. Believing his first choice, [[John Connally]], would not be confirmed by Congress,{{sfn|Aitken|p=555}} Nixon chose [[Gerald Ford]], [[Minority leader of the United States House of Representatives|Minority Leader of the House of Representatives]], to replace Agnew.{{sfn|Ambrose|1989|pp=231–232, 239}} One researcher suggests Nixon effectively disengaged from his own administration after Ford was sworn in as vice president on December 6, 1973.<ref>{{cite journal|last=Beckmann|first=Matthew N.|date=April 1, 2017|title=Did Nixon quit before he resigned?|journal=Research & Politics|volume=4|issue=2|pages=2053168017704800|doi=10.1177/2053168017704800|doi-access=free|issn=2053-1680}}</ref>
+
+On November 17, 1973, during a televised question-and-answer session{{sfn|Frum|p=26}} with 400 [[Associated Press]] [[managing editor]]s, Nixon said, "People have got to know whether or not their President is a crook. Well, I'm not a crook. I've earned everything I've got."{{sfn|Kilpatrick|1973-11-18}}
+
+[[File:Nixon edited transcripts.jpg|thumb|Nixon announces the release of edited transcripts of the Watergate tapes, April 29, 1974.]]
+
+The legal battle over the tapes continued through early 1974, and in April Nixon announced the release of 1,200 pages of transcripts of White House conversations between himself and his aides. The [[U.S. House Committee on the Judiciary|House Judiciary Committee]] opened [[Federal impeachment in the United States|impeachment]] hearings against the President on May 9, 1974, which were televised on the major TV networks. These hearings culminated in votes for impeachment.{{sfn|''The Washington Post'', Nixon Resigns}} On July 24, the Supreme Court [[United States v. Nixon|ruled unanimously]] that the full tapes, not just selected transcripts, must be released.{{sfn|Ambrose|1991|pp=394–395}}
+
+The scandal grew to involve a slew of additional allegations against the President, ranging from the improper use of government agencies to accepting gifts in office and his personal finances and taxes; Nixon repeatedly stated his willingness to pay any outstanding taxes due, and later paid $465,000 (equivalent to ${{Inflation|US|.465|1974|r=1}}&nbsp;million in {{Inflation-year|US}}) in back taxes in 1974.{{sfn|Samson}}
+
+[[File:Nixon Oval Office meeting with H.R. Haldeman "Smoking Gun" Conversation June 23, 1972.wav|thumb|left|Nixon Oval Office meeting with H.R. Haldeman "Smoking Gun" Conversation June 23, 1972 ([https://web.archive.org/web/20160729063732/https://www.nixonlibrary.gov/forresearchers/find/tapes/watergate/trial/exhibit_01.pdf Full Transcript])]]
+
+Even with support diminished by the continuing series of revelations, Nixon hoped to fight the charges. But one of the new tapes, recorded soon after the break-in, demonstrated that Nixon had been told of the White House connection to the Watergate burglaries soon after they took place, and had approved plans to thwart the investigation. In a statement accompanying the release of what became known as [[Watergate tapes#"Smoking Gun" tape|the "Smoking Gun Tape"]] on August 5, 1974, Nixon accepted blame for misleading the country about when he had been told of White House involvement, stating that he had had a lapse of memory.{{sfn|Ambrose|1991|pp=414–416}} Senate Minority Leader [[Hugh Scott]], Senator [[Barry Goldwater]], and House Minority Leader [[John Jacob Rhodes]] met with Nixon soon after. Rhodes told Nixon he faced certain impeachment in the House. Scott and Goldwater told the president that he had, at most, only 15 votes in his favor in the Senate, far fewer than the 34 needed to avoid removal from office.{{sfn|Black|p=978}}
+
+==== Resignation ====
+[[File:President Richard Nixon Departing the White House on the Presidential Helicopter for the Last Time as President.jpg|thumb|upright|Nixon leaving the [[White House]] on [[Marine One]] shortly before his resignation became effective, August 9, 1974]]
+
+In light of his loss of political support and the near-certainty that he would be impeached and removed from office, Nixon resigned the presidency on August 9, 1974, after [[Richard Nixon's resignation speech|addressing the nation on television the previous evening]].{{sfn|''The Washington Post'', Nixon Resigns}} The resignation speech was delivered from the Oval Office and was carried live on radio and television. Nixon said he was resigning for the good of the country and asked the nation to support the new president, Gerald Ford. Nixon went on to review the accomplishments of his presidency, especially in foreign policy.{{sfn|Ambrose|1991|pp=435–436}} He defended his record as president, quoting from [[Theodore Roosevelt]]'s 1910 speech ''[[Citizenship in a Republic]]'':
+{{blockquote|Sometimes I have succeeded and sometimes I have failed, but always I have taken heart from what Theodore Roosevelt once said about the man in the arena, "whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again because there is not effort without error and shortcoming, but who does actually strive to do the deed, who knows the great enthusiasms, the great devotions, who spends himself in a worthy cause, who at the best knows in the end the triumphs of high achievements and who at the worst, if he fails, at least fails while daring greatly".{{sfn|PBS, Resignation Speech}}
+}}
+[[File:Nixon resignation audio with buzz removed.ogg|thumb|left|President Nixon's resignation speech.]]
+Nixon's speech received generally favorable initial responses from network commentators, with only [[Roger Mudd]] of [[CBS]] stating that Nixon had not admitted wrongdoing.{{sfn|Ambrose|1991|p=437}} It was termed "a masterpiece" by [[Conrad Black]], one of his biographers. Black opined that "What was intended to be an unprecedented humiliation for any American president, Nixon converted into a virtual parliamentary acknowledgement of almost blameless insufficiency of legislative support to continue. He left while devoting half his address to a recitation of his accomplishments in office."{{sfn|Black|p=983}}
+
+== Post-presidency (1974–1994) ==
+=== Pardon and illness ===
+{{further|Pardon of Richard Nixon}}
+[[File:President Ford announces his decision to pardon former President Richard Nixon - NARA - 7140608.jpg|thumb|President Ford announcing his decision to pardon Nixon, September 8, 1974, in the [[Oval Office]]]]
+
+Following his resignation, the Nixons flew to their home [[La Casa Pacifica]] in [[San Clemente, California]].{{sfn|Nixon Library, Post Presidency}} According to his biographer, [[Jonathan Aitken]], "Nixon was a soul in torment" after his resignation.{{sfn|Aitken|p=529}} Congress had funded Nixon's transition costs, including some salary expenses, though reducing the appropriation from $850,000 to $200,000. With some of his staff still with him, Nixon was at his desk by 7:00&nbsp;a.m. with little to do.{{sfn|Aitken|p=529}} His former press secretary, [[Ron Ziegler]], sat with him alone for hours each day.{{sfn|Aitken|pp=529–530}}
+
+Nixon's resignation had not put an end to the desire among many to see him punished. The Ford White House considered a pardon of Nixon, even though it would be unpopular in the country. Nixon, contacted by Ford emissaries, was initially reluctant to accept the pardon, but then agreed to do so. Ford insisted on a statement of contrition, but Nixon felt he had not committed any crimes and should not have to issue such a document. Ford eventually agreed, and on September 8, 1974, he granted Nixon a "full, free, and absolute pardon", which ended any possibility of an indictment. Nixon then released a statement:
+{{blockquote|I was wrong in not acting more decisively and more forthrightly in dealing with Watergate, particularly when it reached the stage of judicial proceedings and grew from a political scandal into a national tragedy. No words can describe the depth of my regret and pain at the anguish my mistakes over Watergate have caused the nation and the presidency, a nation I so deeply love, and an institution I so greatly respect.{{sfn|Aitken|p=532}}{{sfn|Black|p=990}}
+}}
+
+In October 1974, Nixon fell ill with [[phlebitis]]. Told by his doctors that he could either be operated on or die, a reluctant Nixon chose surgery, and President Ford visited him in the hospital. Nixon was under subpoena for the trial of three of his former aides—Dean, Haldeman, and [[John Ehrlichman]]—and ''The Washington Post'', disbelieving his illness, printed a cartoon showing Nixon with a cast on the "wrong foot". Judge [[John Sirica]] excused Nixon's presence despite the defendants' objections.{{sfn|Aitken|pp=533–534}} Congress instructed Ford to retain Nixon's presidential papers—beginning a three-decade legal battle over the documents that was eventually won by the former president and his estate.{{sfn|Black|pp=994, 999}} Nixon was in the hospital when the [[1974 United States elections|1974 midterm elections]] were held, and Watergate and the pardon were contributing factors to the Republican loss of 49&nbsp;seats in the House and four in the Senate.{{sfn|Black|p=998}}
+
+=== Return to public life ===
+[[File:Nixon Ford Carter 1978.jpg|thumb|upright|President [[Jimmy Carter]] and ex-Presidents [[Gerald Ford]] and Nixon meet at the White House before former Vice President [[Hubert Humphrey]]'s funeral, 1978.]]
+
+In December 1974, Nixon began planning his comeback despite the considerable ill will against him in the country. He wrote in his diary, referring to himself and Pat,
+{{blockquote|So be it. We will see it through. We've had tough times before and we can take the tougher ones that we will have to go through now. That is perhaps what we were made for—to be able to take punishment beyond what anyone in this office has had before particularly after leaving office. This is a test of character and we must not fail the test.{{sfn|Aitken|p=535}}
+}}
+
+[[File:Jimmy Carter, Richard Nixon and Deng Xiaoping during the state dinner for the Vice Premier of China. - NARA - 183214.tif|thumb|left|Nixon speaking with Chinese Vice Premier [[Deng Xiaoping]] and U.S. President Jimmy Carter at the White House, 1979]]
+
+By early 1975, Nixon's health was improving. He maintained an office in a [[United States Coast Guard|Coast Guard]] station 300 yards from his home, at first taking a golf cart and later walking the route each day; he mainly worked on his memoirs.{{sfn|Ambrose|1991|p=481}} He had hoped to wait before writing his memoirs; the fact that his assets were being eaten away by expenses and lawyer fees compelled him to begin work quickly.{{sfn|Aitken|pp=537, 539}} He was handicapped in this work by the end of his transition allowance in February, which compelled him to part with many of his staff, including Ziegler.{{sfn|Black|p=1000}} In August of that year, he met with British talk-show host and producer [[David Frost]], who paid him $600,000 (equivalent to ${{Inflation|US|.6|1975|r=1}}&nbsp;million in {{Inflation-year|US}}) for [[Nixon Interviews|a series of sit-down interviews]], filmed and aired in 1977.{{sfn|Black|p=1004}} They began on the topic of foreign policy, recounting the leaders he had known, but the most remembered section of the interviews was that on Watergate. Nixon admitted he had "let down the country" and that "I brought myself down. I gave them a sword and they stuck it in. And they twisted it with relish. And, I guess, if I'd been in their position, I'd have done the same thing."{{sfn|Drew|p=138}} The interviews garnered 45–50 million viewers—becoming the most-watched program of its kind in television history.{{sfn|Ambrose|1991|p=512}}
+
+The interviews helped improve Nixon's financial position—at one point in early 1975 he had only $500 in the bank—as did the sale of his Key Biscayne property to a trust set up by wealthy friends of Nixon, such as [[Charles Rebozo|Bebe Rebozo]].{{sfn|Aitken|pp=539–540}} In February 1976, Nixon visited China at the personal invitation of Mao. Nixon had wanted to return to China but chose to wait until after Ford's own visit in 1975.{{sfn|Black|p=1005}} Nixon remained neutral in the close 1976 primary battle between Ford and Reagan. Ford won, but was defeated by [[Georgia (U.S. state)|Georgia]] Governor [[Jimmy Carter]] in [[1976 United States presidential election|the general election]]. The Carter administration had little use for Nixon and blocked his planned trip to Australia, causing the government of Prime Minister [[Malcolm Fraser]] to withhold its official invitation.{{sfn|Aitken|p=543}}
+
+In 1976, Nixon was [[Disbarment|disbarred]] by the [[New York State Bar Association]] for [[obstruction of justice]] in the Watergate affair. He chose not to present any defense.<ref>"Nixon disbarred in New York in 1st ruling of Watergate guilt", ''Toledo Blade'', July 9, 1976, p.1</ref> In early 1978, he visited the United Kingdom; there, he was shunned by American diplomats, most ministers of the [[James Callaghan]] government, and two former prime ministers, [[Harold Macmillan]] and [[Edward Heath]]. He was welcomed, however, by the [[Leader of the Opposition (United Kingdom)|Leader of the Opposition]], [[Margaret Thatcher]], as well as by former prime ministers [[Alec Douglas-Home|Lord Home]] and Sir [[Harold Wilson]]. Nixon addressed the [[Oxford Union]] regarding Watergate:
+{{blockquote|[Some people] felt that on this matter that I had not handled it properly, and they were right. I screwed it up and I paid the price.<ref>{{cite news|last1=L|first1=Stephen|last2=rigan|date=1978-12-01|title=Protesters Heckle Nixon at Oxford Opponents of Oxford Speech Cool Nixon's Warm Welcome|language=en-US|newspaper=The Washington Post|url=https://www.washingtonpost.com/archive/politics/1978/12/01/protesters-heckle-nixon-at-oxford-opponents-of-oxford-speech-cool-nixons-warm-welcome/dd7cd6d2-943d-4f86-b36e-0d45b647682e/|access-date=2022-01-03|issn=0190-8286}}</ref><ref>{{cite news|last=Reed|first=Roy|date=December 1, 1978|title=Welcome For Nixon At Oxford Is Warm|language=en-US|work=The New York Times|url=https://www.nytimes.com/1978/12/01/archives/welcome-for-nixon-at-oxford-is-warm-questions-friendly-though-some.html|access-date=January 3, 2022|issn=0362-4331}}</ref>}}
+
+=== Author and elder statesman ===
+[[File:Four Presidents pose for a portrait.jpg|thumb|President [[Ronald Reagan]] meets with his three immediate predecessors, [[Gerald Ford]], [[Jimmy Carter]] and Nixon, at the White House, October 1981; the three former presidents would represent the United States at the funeral of Egyptian President [[Anwar Sadat]].]]
+In 1978, Nixon published his memoirs, ''RN: The Memoirs of Richard Nixon'', the first of ten books he was to author in his retirement.{{sfn|Nixon Library, Post Presidency}} The book was a bestseller and attracted a generally positive critical response.{{sfn|Ambrose|1991|p=525}} Nixon visited the White House in 1979, invited by Carter for the state dinner for Chinese Vice Premier [[Deng Xiaoping]]. Carter had not wanted to invite Nixon, but Deng had said he would visit Nixon in California if the former president was not invited. Nixon had a private meeting with Deng and visited Beijing again in mid-1979.{{sfn|Ambrose|1991|pp=524–525}}
+
+On August 10, 1979, the Nixons purchased a 12‐room condominium occupying the seventh floor of 817 [[Fifth Avenue]] New York City<ref>{{cite news|url=https://news.google.com/newspapers?id=Bp9RAAAAIBAJ&pg=4685%2C1596331|newspaper=Pittsburgh Post-Gazette|date=August 11, 1979|title=Nixons Buy Fifth Avenue Condo in N.Y.|access-date=June 17, 2015|archive-url=https://web.archive.org/web/20150910174454/https://news.google.com/newspapers?id=Bp9RAAAAIBAJ&sjid=0W0DAAAAIBAJ&pg=4685%2C1596331|archive-date=September 10, 2015|url-status=live}}</ref> after being rejected by two Manhattan [[housing cooperative|co-ops]].{{sfn|Ambrose|1991|p=528}} When the deposed [[Mohammed Reza Pahlavi|Shah of Iran]] died in Egypt in July 1980, Nixon defied the State Department, which intended to send no U.S. representative, by attending the funeral. Though Nixon had no official credentials, as a former president he was seen as the American presence at its former ally's funeral.{{sfn|Ambrose|1991|p=533}} Nixon supported Ronald Reagan for president in [[1980 U.S. presidential election|1980]], making television appearances portraying himself as, in biographer Stephen Ambrose's words, "the senior statesman above the fray".{{sfn|Ambrose|1991|p=534}} He wrote guest articles for many publications both during the campaign and after Reagan's victory.{{sfn|Ambrose|1991|p=540}} After eighteen months in the New York City townhouse, Nixon and his wife moved in 1981 to [[Saddle River, New Jersey|Saddle River]], New Jersey.{{sfn|Nixon Library, Post Presidency}}
+
+Throughout the 1980s, Nixon maintained an ambitious schedule of speaking engagements and writing,{{sfn|Nixon Library, Post Presidency}} traveled, and met with many foreign leaders, especially those of Third World countries. He joined former Presidents Ford and Carter as representatives of the United States at the funeral of Egyptian President [[Anwar Sadat]].{{sfn|Nixon Library, Post Presidency}} On a trip to the Middle East, Nixon made his views known regarding Saudi Arabia and Libya, which attracted significant U.S. media attention; ''The Washington Post'' ran stories on Nixon's "rehabilitation".{{sfn|Ambrose|1991|p=545}} Nixon visited the Soviet Union in 1986 and on his return sent President Reagan a lengthy memorandum containing foreign policy suggestions and his personal impressions of Soviet General Secretary [[Mikhail Gorbachev]].{{sfn|Nixon Library, Post Presidency}} Following this trip, Nixon was ranked in [[Gallup's most admired man and woman poll|a Gallup poll]] as one of the ten most admired men in the world.{{sfn|Drew|p=142}}
+
+[[File:President Bill Clinton meets with former President Richard Nixon at the White House.jpg|thumb|right|Nixon with President [[Bill Clinton]] in the residence of the White House, March 1993]]
+
+In 1986, Nixon addressed a convention of newspaper publishers, impressing his audience with his ''tour d'horizon'' of the world.{{sfn|Drew|p=144}} At the time, [[Pundit|political pundit]] [[Elizabeth Drew]] wrote, "Even when he was wrong, Nixon still showed that he knew a great deal and had a capacious memory, as well as the capacity to speak with apparent authority, enough to impress people who had little regard for him in earlier times."{{sfn|Drew|p=144}} ''Newsweek'' ran a story on "Nixon's comeback" with the headline "He's back".{{sfn|Aitken|pp=561–562}}
+
+On July 19, 1990, the Richard Nixon Library and Birthplace in [[Yorba Linda, California]] opened as a private institution with the Nixons in attendance. They were joined by a large crowd of people, including Presidents Ford, Reagan, and [[George H. W. Bush]], as well as their wives, [[Betty Ford|Betty]], [[Nancy Reagan|Nancy]], and [[Barbara Bush|Barbara]].{{sfn|Aitken|pp=565–568}} In January 1994, the former president founded the Nixon Center (today the [[Center for the National Interest]]), a Washington policy [[think tank]] and conference center.{{sfn|Black|pp=1045–1046}}<ref>{{cite press release|date= March 9, 2011|title= Nixon Center Becomes Center for the National Interest|url= https://www.prnewswire.com/news-releases/nixon-center-becomes-center-for-the-national-interest-117654558.html|location= Washington, D.C.|publisher= Center for the National Interest|agency= PR Newswire|access-date= September 9, 2018|archive-url= https://web.archive.org/web/20180909073801/https://www.prnewswire.com/news-releases/nixon-center-becomes-center-for-the-national-interest-117654558.html|archive-date= September 9, 2018|url-status= live}}</ref>
+
+Pat Nixon died on June 22, 1993, of [[emphysema]] and lung cancer. Her funeral services were held on the grounds of the Richard Nixon Library and Birthplace. Former President Nixon was distraught throughout the interment and delivered a tribute to her inside the library building.{{sfn|Black|pp=1049–1050}}
+
+== Death and funeral ==
+{{main|Death and state funeral of Richard Nixon}}
+[[File:Five presidents.jpg|thumb|Five U.S. presidents (then-incumbent President [[Bill Clinton]], [[George H.W. Bush]], [[Ronald Reagan]], [[Jimmy Carter]] and [[Gerald Ford]]) and their wives attending Nixon's funeral, April 27, 1994]]
+Nixon suffered a severe stroke on April 18, 1994, while preparing to eat dinner in his home at [[Park Ridge, New Jersey|Park Ridge]], New Jersey.{{sfn|Weil & Randolph|1994-04-23}} A [[Thrombus|blood clot]] resulting from the [[atrial fibrillation]] he had suffered for many years had formed in his upper heart, [[Embolus|broken off]], and traveled to his brain.<ref>{{cite news |last=Altman |first=Lawrence K. |title=THE 37TH PRESIDENT: THE LAST DAYS; Disabled, Yet Retaining Control Over His Care |url=https://www.nytimes.com/1994/04/24/us/the-37th-president-the-last-days-disabled-yet-retaining-control-over-his-care.html |url-status=live |newspaper=The New York Times |access-date=February 12, 2016 |date=April 24, 1994 |archive-url=https://web.archive.org/web/20160217061301/http://www.nytimes.com/1994/04/24/us/the-37th-president-the-last-days-disabled-yet-retaining-control-over-his-care.html |archive-date=February 17, 2016}}</ref> He was taken to [[NewYork-Presbyterian Hospital]] in [[Manhattan]], initially alert but unable to speak or to move his right arm or leg.{{sfn|Weil & Randolph|1994-04-23}} Damage to the brain caused swelling ([[cerebral edema]]), and Nixon slipped into a deep coma. He died at 9:08&nbsp;p.m. on April 22, 1994, with his daughters at his bedside. He was 81 years old.{{sfn|Weil & Randolph|1994-04-23}}
+
+Nixon's funeral took place on April 27, 1994, in [[Yorba Linda, California]]. Eulogists at the Nixon Library ceremony included President [[Bill Clinton]], former Secretary of State [[Henry Kissinger]], Senate Minority Leader [[Bob Dole]], California Governor [[Pete Wilson]], and the Reverend [[Billy Graham]]. Also in attendance were former Presidents Ford, Carter, Reagan, George H. W. Bush, and their wives.{{sfn|Black|pp=1051–1053}}
+
+Richard Nixon was buried beside his wife Pat on the grounds of the Nixon Library. He was survived by his two daughters, [[Tricia Nixon Cox|Tricia]] and [[Julie Nixon Eisenhower|Julie]], and four grandchildren.{{sfn|Weil & Randolph|1994-04-23}} In keeping with his wishes, his funeral was not a full [[state funeral]], though his body did [[lie in repose]] in the Nixon Library lobby from April 26 to the morning of the funeral service.{{sfn|BBC|2004-06-11}} Mourners waited in line for up to eight hours in chilly, wet weather to pay their respects.{{sfn|''The Deseret News''|1994-04-27}} At its peak, the line to pass by Nixon's casket was three miles long with an estimated 42,000 people waiting.{{sfn|Frick|p=206}}
+
+John F. Stacks of ''[[Time (magazine)|Time]]'' magazine said of Nixon shortly after his death,
+<blockquote>An outsize energy and determination drove him on to recover and rebuild after every self-created disaster that he faced. To reclaim a respected place in American public life after his resignation, he kept traveling and thinking and talking to the world's leaders&nbsp;... and by the time Bill Clinton came to the White House [in 1993], Nixon had virtually cemented his role as an elder statesman. Clinton, whose wife served on the staff of the committee that voted to impeach Nixon, met openly with him and regularly sought his advice.{{sfn|Stacks|1994-05-02}}</blockquote>
+
+[[Tom Wicker]] of ''The New York Times'' noted that Nixon had been equalled only by [[Franklin Roosevelt]] in being five times nominated on a major party ticket and, quoting Nixon's 1962 farewell speech, wrote,
+<blockquote>Richard Nixon's jowly, beard-shadowed face, the ski-jump nose and the widow's peak, the arms upstretched in the V-sign, had been so often pictured and caricatured, his presence had become such a familiar one in the land, he had been so often in the heat of controversy, that it was hard to realize the nation really would not "have Nixon to kick around anymore".{{sfn|Wicker|1994-04-24}}</blockquote>
+
+Ambrose said of the reaction to Nixon's death, "To everyone's amazement, except his, he's our beloved elder statesman."{{sfn|Sawhill|2011-02}}
+
+[[File:Nixon grave 2011.jpg|thumb|The graves of President Richard Nixon and First Lady Pat Nixon]]
+
+Upon Nixon's death, the news coverage mentioned Watergate and the resignation but much of the coverage was favorable to the former president. ''[[The Dallas Morning News]]'' stated, "History ultimately should show that despite his flaws, he was one of our most farsighted chief executives."{{sfn|Frick|pp=205–206}} This offended some; columnist [[Russell Baker]] complained of "a group conspiracy to grant him absolution".{{sfn|Frick|pp=204–205}} Cartoonist [[Jeff Koterba]] of the ''[[Omaha World-Herald]]'' depicted History before a blank canvas, his subject Nixon, as America looks on eagerly. The artist urges his audience to sit down; the work will take some time to complete, as "this portrait is a little more complicated than most".{{sfn|Frick|p=210}}
+
+[[Hunter S. Thompson]] wrote a scathing piece denouncing Nixon for ''[[Rolling Stone]]'', entitled "He Was a Crook" (which also appeared a month later in ''[[The Atlantic]]'').<ref name="atlantic">{{cite magazine |last=Thompson |first=Hunter S. |authorlink=Hunter S. Thompson |title=He Was a Crook |url=https://www.theatlantic.com/magazine/archive/1994/07/he-was-a-crook/308699/ |url-status=live |magazine=[[The Atlantic]] |date=July 1994 |access-date=June 4, 2017 |archive-url=https://web.archive.org/web/20170607195033/https://www.theatlantic.com/magazine/archive/1994/07/he-was-a-crook/308699/ |archive-date=June 7, 2017}}</ref> In his article, Thompson described Nixon as "a political monster straight out of [[Grendel]] and a very dangerous enemy".<ref name="atlantic"/>
+
+== Legacy ==
+{{main|List of awards and honors received by Richard Nixon}}
+Historian and political scientist [[James MacGregor Burns]] asked of Nixon, "How can one evaluate such an idiosyncratic president, so brilliant and so morally lacking?"{{sfn|Skidmore|p=495}} Nixon's biographers disagree on how he will be perceived by posterity. According to Ambrose, "Nixon wanted to be judged by what he accomplished. What he will be remembered for is the nightmare he put the country through in his second term and for his resignation."{{sfn|Ambrose|1991|p=592}} Irwin Gellman, who chronicled Nixon's Congressional career, suggests, "He was remarkable among his congressional peers, a success story in a troubled era, one who steered a sensible [[Anti-communism|anti-Communist]] course against the excess of McCarthy."{{sfn|Gellman|p=460}} Aitken feels that "Nixon, both as a man and as a statesman, has been excessively maligned for his faults and inadequately recognised<!-- not a typo --> for his virtues. Yet even in a spirit of [[historical revisionism]], no simple verdict is possible."{{sfn|Aitken|p=577}}
+
+Some historians say Nixon's [[Southern Strategy]] turned the [[Southern United States]] into a Republican stronghold, while others deem economic factors more important in the change.{{r|Mason-Small}} Throughout his career, Nixon moved his party away from the control of isolationists, and as a Congressman he was a persuasive advocate of containing Soviet communism.{{sfn|Black|p=1053}} According to his biographer Herbert Parmet, "Nixon's role was to steer the Republican party along a middle course, somewhere between the competitive impulses of the Rockefellers, the Goldwaters, and the Reagans."{{sfn|Parmet|p=viii}}
+
+Nixon's stance on domestic affairs has been credited with the passage and enforcement of environmental and regulatory legislation. In a 2011 paper on Nixon and the environment, historian Paul Charles Milazzo points to Nixon's creation of the [[United States Environmental Protection Agency]] (EPA), and to his enforcement of legislation such as the 1973 [[Endangered Species Act]], stating that "though unsought and unacknowledged, Richard Nixon's environmental legacy is secure".{{r|Milazzo-Small}} Nixon himself did not consider the environmental advances he made in office an important part of his legacy; some historians contend that his choices were driven more by political expediency than any strong [[environmentalism]].<ref name="Distillations"/>
+
+[[File:Nixon Library and Gardens.jpg|thumb|right|[[Richard Nixon Presidential Library and Museum|Richard Nixon's Presidential Library and Museum]] located in [[Yorba Linda, California]]]]
+
+Nixon saw his policies on Vietnam, China, and the Soviet Union as central to his place in history.{{r|Hanhimäki-Small}} Nixon's onetime opponent [[George McGovern]] commented in 1983, "President Nixon probably had a more practical approach to the two superpowers, China and the Soviet Union, than any other president since World War{{nbsp}}II ... With the exception of his inexcusable continuation of the war in Vietnam, Nixon really will get high marks in history."{{sfn|Greider|1983-10-10}} Political scientist [[Jussi Hanhimäki]] disagrees, saying that Nixon's diplomacy was merely a continuation of the [[Cold War]] policy of [[containment]] by diplomatic, rather than military, means.{{r|Hanhimäki-Small}} Kissinger noted similarities between Nixon's opening of China in 1972 and President [[Donald Trump]]'s Middle East diplomacy.<ref>{{cite web|last=Shawn|first=Eric|date=March 3, 2021|title=Kissinger says Trump, Nixon foreign policies similar, warns Biden on Iran|url=https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar|access-date=March 4, 2021|publisher=Fox News|language=en-US}}</ref> Historian [[Christopher Andrew (historian)|Christopher Andrew]] concludes that "Nixon was a great statesman on the world stage as well as a shabby practitioner of electoral politics in the domestic arena. While the criminal farce of Watergate was in the making, Nixon's inspirational statesmanship was establishing new working relationships both with Communist China and with the Soviet Union."{{sfn|Andrew|1995|p=384}}
+
+Historian [[Keith W. Olson]] has written that Nixon left a legacy of fundamental mistrust of government, rooted in Vietnam and Watergate.{{r|Olson-Small}} In [[Historical rankings of presidents of the United States|surveys of historians and political scientists]], Nixon is generally ranked as a below-average president.<ref name="brottinghaus">{{cite news|last1=Rottinghaus|first1=Brandon|last2=Vaughn|first2=Justin S.|title=How Does Trump Stack Up Against the Best—and Worst—Presidents?|url=https://www.nytimes.com/interactive/2018/02/19/opinion/how-does-trump-stack-up-against-the-best-and-worst-presidents.html|access-date=March 6, 2018|work=The New York Times|date=February 19, 2018|archive-url=https://web.archive.org/web/20180305092423/https://www.nytimes.com/interactive/2018/02/19/opinion/how-does-trump-stack-up-against-the-best-and-worst-presidents.html|archive-date=March 5, 2018|url-status=live}}</ref><ref>{{cite web|title=Presidential Historians Survey 2017|url=https://www.c-span.org/presidentsurvey2017/?page=overall|website=C-Span|access-date=May 14, 2018|archive-url=https://web.archive.org/web/20170301043807/https://www.c-span.org/presidentsurvey2017/?page=overall|archive-date=March 1, 2017|url-status=live}}</ref><ref>{{cite news |title=Siena's 6th Presidential Expert Poll 1982–2018 |url=https://scri.siena.edu/2019/02/13/sienas-6th-presidential-expert-poll-1982-2018/ |publisher=Siena College Research Institute |date=February 13, 2019 |access-date=July 19, 2019 |archive-url=https://web.archive.org/web/20190719163759/https://scri.siena.edu/2019/02/13/sienas-6th-presidential-expert-poll-1982-2018/ |archive-date=July 19, 2019 |url-status=live}}</ref> During the [[impeachment of Bill Clinton]] in 1998, both sides tried to use Nixon and Watergate to their advantage: Republicans suggested that Clinton's misconduct was comparable to Nixon's, while Democrats contended that Nixon's actions had been far more serious than Clinton's.{{sfn|Frick|pp=211–214}} Another legacy, for a time, was a decrease in the power of the presidency as Congress passed restrictive legislation in the wake of Watergate. Olson suggests that legislation in the aftermath of the [[September 11 attacks]] restored the president's power.{{r|Olson-Small}}
+
+== Personality and public image ==
+Nixon's career was frequently dogged by his persona and the public's perception of it. Editorial cartoonists and comedians often exaggerated his appearance and mannerisms, to the point where the line between the human and the caricature became increasingly blurred. He was often portrayed with unshaven jowls, slumped shoulders, and a furrowed, sweaty brow.{{sfn|Reeves|pp=281–283}}
+
+[[File:Elvis-nixon.jpg|thumb|With [[Elvis Presley]] in December 1970: "The President & The King"]]
+
+Nixon had a complex personality, both very secretive and awkward, yet strikingly reflective about himself. He was inclined to distance himself from people and was formal in all aspects, wearing a coat and tie even when home alone.{{sfn|Drew|p=150}} Nixon biographer [[Conrad Black]] described him as being "driven" though also "uneasy with himself in some ways".{{sfn|Black|p=574}} According to Black, Nixon
+<blockquote>thought that he was doomed to be traduced, double-crossed, unjustly harassed, misunderstood, underappreciated, and subjected to the trials of [[Job (biblical figure)|Job]], but that by the application of his mighty will, tenacity, and diligence, he would ultimately prevail.{{sfn|Black|p=700}}</blockquote>
+
+[[File:FordNixonBushReaganCarter.jpg|thumb|right|Presidents [[Gerald Ford]], Nixon, [[George H. W. Bush]], [[Ronald Reagan]], and [[Jimmy Carter]] in 1991]]
+[[File:Richard Nixon 1960 Campaign Button.png|thumb|right|Campaign button]]
+
+Nixon sometimes drank alcohol to excess, especially during 1970. He also was prescribed sleeping pills. According to [[Ray Price (speechwriter)|Ray Price]], Nixon sometimes took them in together. Nixon also took [[dilantin]], recommended by [[Jack Dreyfus]]. That medicine is usually prescribed to treat and prevent seizures, but in Nixon's case it was for depression. His periodic overindulgences, especially during stressful times such as during [[Apollo 13]], concerned Price and others, including then-advisor Ehrlichman and long-time [[valet]] [[Manolo Sanchez (Nixon staff member)|Manolo Sanchez]].<ref>{{cite web |title=The Year Nixon Fell Apart |url=https://www.politico.com/magazine/story/2017/03/john-farrell-nixon-book-excerpt-214954 |url-status=live |website=[[Politico]] |date=March 26, 2017 |access-date=July 15, 2019 |archive-url=https://web.archive.org/web/20190607015351/https://www.politico.com/magazine/story/2017/03/john-farrell-nixon-book-excerpt-214954 |archive-date=June 7, 2019}}</ref> Author and former British politician [[David Owen#Selected publications|David Owen]] deemed Nixon an [[alcoholic]].<ref>{{cite web |title=David Owen: Lessons in removing politicians from public office |url=https://www.independent.co.uk/voices/commentators/david-owen-lessons-in-removing-politicians-from-public-office-891446.html |url-status=live |website=[[The Independent]] |date=August 12, 2008 |access-date=July 15, 2019 |archive-url=https://web.archive.org/web/20190715193824/https://www.independent.co.uk/voices/commentators/david-owen-lessons-in-removing-politicians-from-public-office-891446.html |archive-date=July 15, 2019}}</ref><ref>{{cite news |last=Boseley |first=Sarah |title=A doctor writes: Politicians' pride is a medical disorder |url=https://www.theguardian.com/politics/2009/mar/28/politicians-hubris-medical-condition |url-status=live |newspaper=[[The Guardian]] |date=March 28, 2009 |access-date=July 15, 2019 |archive-url=https://web.archive.org/web/20190715195739/https://www.theguardian.com/politics/2009/mar/28/politicians-hubris-medical-condition |archive-date=July 15, 2019}}</ref>
+
+Biographer [[Elizabeth Drew]] summarized Nixon as a "smart, talented man, but most peculiar and haunted of presidents".{{sfn|Drew|p=151}} In his account of the Nixon presidency, author [[Richard Reeves (American writer)|Richard Reeves]] described Nixon as "a strange man of uncomfortable shyness, who functioned best alone with his thoughts".{{sfn|Reeves|p=12}} Nixon's presidency was doomed by his personality, Reeves argues:
+<blockquote>He assumed the worst in people and he brought out the worst in them&nbsp;... He clung to the idea of being "tough". He thought that was what had brought him to the edge of greatness. But that was what betrayed him. He could not open himself to other men and he could not open himself to greatness.{{sfn|Reeves|p=13}}</blockquote>
+
+In October 1999, a volume of 1971 White House audio tapes was released which contained multiple statements by Nixon deemed derogatory toward Jews.<ref>[http://www.washingtonpost.com/wp-srv/politics/daily/oct99/nixon6.htm "New tapes reveal depth of Nixon's anti-Semitism"]. ''[[The Washington Post]]'', October 6, 1999. Retrieved on April 4, 2011.</ref> In one conversation with [[H. R. Haldeman]], Nixon said that Washington was "full of Jews" and that "most Jews are disloyal", making exceptions for some of his top aides.<ref name="Noah"/> He then added, "But, Bob, generally speaking, you can't trust the bastards. They turn on you. Am I wrong or right?"<ref name=Noah>[[Timothy Noah|Noah, Timothy]]. [http://www.slate.com/id/1003783 "Nixon: I Am Not an Anti-Semite"]. [[Slate (magazine)|''Slate'']], October 7, 1999. Retrieved on July 17, 2011.</ref> Elsewhere on the 1971 recordings, Nixon denies being antisemitic, saying, "If anybody who's been in this chair ever had reason to be antisemitic, I did&nbsp;... And I'm not, you know what I mean?"<ref name="Noah"/>
+
+Nixon believed that putting distance between himself and other people was necessary for him as he advanced in his political career and became president. Even [[Bebe Rebozo]], by some accounts his closest friend, did not call him by his first name. Nixon said of this,
+<blockquote>Even with close friends, I don't believe in letting your hair down, confiding this and that and the other thing—saying, "Gee, I couldn't sleep&nbsp;..." I believe you should keep your troubles to yourself. That's just the way I am. Some people are different. Some people think it's good therapy to sit with a close friend and, you know, just spill your guts&nbsp;... [and] reveal their inner psyche—whether they were breast-fed or bottle-fed. Not me. No way.{{sfn|Greene}}</blockquote>
+When Nixon was told that most Americans felt they did not know him even at the end of his career, he replied, "Yeah, it's true. And it's not necessary for them to know."{{sfn|Greene}}<!-- Also printed in ''Chicago Tribute'' with fee for article [http://pqasb.pqarchiver.com/chicagotribune/access/111527613.html?dids=111527613:111527613&FMT=ABS&FMTS=ABS:FT&type=current&date=Mar+26%2C+2002&author=Bob+Greene&pub=Chicago+Tribune&desc=What+Nixon's+best+friend+couldn't+buy&pqatl=google here] -->
+
+==Books==
+* Nixon, Richard M. (1960) ''[[Six Crises]]'', Doubleday, {{ISBN|978-0-385-00125-0}}
+* ''Quotations from the would-be chairman: Richard Milhous Nixon'', edited by M. B. Schnapper (Washington: [[Public Affairs Press]], 1968)
+* Nixon, Richard M. (1978) ''[https://archive.org/details/memoirsofrichard00nixo RN: The Memoirs of Richard Nixon]'', Simon & Schuster, {{ISBN|978-0-671-70741-5}}
+* Nixon, Richard M. (1980) ''The Real War'', Sidgwick & Jackson Ltd. {{ISBN|978-0-283-98650-5}}
+* Nixon, Richard M. (1982) ''Leaders'', Random House {{ISBN|978-0-446-51249-7}}.
+* Nixon, Richard M. (1984) ''Real Peace'', Sidgwick & Jackson Ltd {{ISBN|978-0-283-99076-2}}
+{{external media
+| float  = right
+| video1 = [https://www.c-span.org/video/?24604-1/seize-moment-part-1 Part One of ''Booknotes'' interview with Nixon on ''Seize the Moment'', February 23, 1992]
+| video2 = [https://www.c-span.org/video/?24737-1/seize-moment-part-2 Part Two of ''Booknotes'' interview, March 1, 1992]
+}}
+* Nixon, Richard M. (1987) ''No More Vietnams'', Arbor House Publishing {{ISBN|978-0-87795-668-6}}
+* Nixon, Richard M. (1988) ''1999: Victory Without War'', Simon & Schuster {{ISBN|978-0-671-62712-6}}
+* Nixon, Richard M. (1990) ''In the Arena: A Memoir of Victory, Defeat, and Renewal'', Simon & Schuster {{ISBN|978-0-671-72318-7}}.
+* Nixon, Richard M. (1992) ''Seize the Moment: America's Challenge in a One-Superpower World'', Simon & Schuster {{ISBN|978-0-671-74343-7}}
+* Nixon, Richard M. (1994) ''Beyond Peace'', Random House (1994) {{ISBN|978-0-679-43323-1}}.
+
+== See also ==
+* [[Cultural depictions of Richard Nixon]]
+* [[Electoral history of Richard Nixon]]
+* [[Nixon (film)|''Nixon'' (film)]]
+* [[Presidential transition of Richard Nixon]]
+
+== Notes ==
+
+{{notes
+| notes =
+{{efn
+| name = Jewish vote
+| {{harvnb|Black|pp=583–585}}. In 1972, Nixon did more than double his percentage of the Jewish vote, from 17&nbsp;percent to 35&nbsp;percent. {{harvnb|Merkley|p=[https://books.google.com/books?id=TP4g-RhUJmcC&dq=nixon%20jewish%20vote%201972&pg=PA68 68]}}.
+}}
+}}
+
+== References ==
+=== Citations ===
+
+{{Reflist
+| colwidth = 20em
+| refs =
+<ref name="Gellman-Small">Gellman, Irwin. "The Richard Nixon vice presidency: Research without the Nixon manuscripts" in {{harvnb|Small|pp=102–120}}.</ref>
+
+<ref name="Goh-Small">Goh, Evelyn. "The China card" in {{harvnb|Small|pp=425–443}}.</ref>
+
+<ref name="Hanhimäki-Small">Hanhimäki, Jussi M. "Foreign Policy Overview" in {{harvnb|Small|pp=345–361}}.</ref>
+
+<ref name="Bowles-Small">Bowles, Nigel. "Economic Policy" in {{harvnb|Small|pp=235–251}}.</ref>
+
+<ref name="Mason-Small">Mason, Robert "Political realignment" in {{harvnb|Small|pp=252–269}}.</ref>
+
+<ref name="Milazzo-Small">Milazzo, Paul Charles. "Nixon and the Environment" in {{harvnb|Small|pp=270–291}}.</ref>
+
+<ref name="Olson-Small">Olson, Keith W. "Watergate" in {{harvnb|Small|pp=481–496}}.</ref>
+
+<ref name="Safire pp205–209">{{harvnb|Safire|pp=[https://books.google.com/books?id=xahIAOPX8JwC&dq=%E2%80%9CManolo%20Sanchez%2C%20his%20valet%2C%20heard%20the%20music%20and%20soon%20appeared%E2%80%9D&pg=PA205 205–209]}}</ref>
+}}
+
+=== Print sources ===
+{{refbegin}}
+{{divcol}}
+* {{cite book
+ | last = Aitken
+ | first = Jonathan
+ | authorlink = Jonathan Aitken
+ | year = 1996
+ | title = Nixon: A Life
+ | url = https://archive.org/details/nixonlife0000aitk_x2z0
+ | publisher = Regnery Publishing
+ | location = Washington, D.C.
+ | isbn = 978-0-89526-720-7
+ | url-access = registration
+ | ref = {{sfnRef|Aitken}}
+ }}
+* {{cite book
+ | last = Ambrose
+ | first = Stephen E.
+ | authorlink = Stephen E. Ambrose
+ | year = 1987
+ | title = Nixon: The Education of a Politician 1913–1962
+ | volume = I
+ | url = https://archive.org/details/nixon00ambr
+ | publisher = Simon & Schuster
+ | location = New York
+ | isbn = 978-0-671-52836-2
+ | url-access = registration
+ }}
+* {{cite book
+ | last = Ambrose
+ | first = Stephen E.
+ | year = 1989
+ | title = Nixon: The Triumph of a Politician 1962–1972
+ | volume = II
+ | url = https://archive.org/details/nixon00ambr
+ | publisher = Simon & Schuster
+ | location = New York
+ | isbn = 978-0-671-72506-8
+ | url-access = registration
+ }}
+* {{cite book
+ | last = Ambrose
+ | first = Stephen E.
+ | year = 1991
+ | title = Nixon: Ruin and Recovery 1973–1990
+ | volume = III
+ | url = https://archive.org/details/nixon00ambr
+ | publisher = Simon & Schuster
+ | location = New York
+ | isbn = 978-0-671-69188-2
+ | url-access = registration
+ }}
+* {{cite book
+ | last = Andrew
+ | first = Christopher
+ | year = 1995
+ | title = For the President's Eyes Only: Secret Intelligence and the American Presidency from Washington to Bush
+ | url = https://archive.org/details/forpresidentseye00andr
+ | url-access = registration
+ | publisher = HarperCollins
+ | location = New York
+ | isbn = 978-0-06-092178-1
+ }}
+* {{cite book
+ | last = Armstrong
+ | first = William M.
+ | year = 2017
+ | title = Marine Air Group 25 and SCAT
+ | publisher = Arcadia
+ | location = Charleston
+ | isbn = 978-1-46712-743-1
+ | ref = {{sfnRef|Armstrong}}
+  }}
+* {{cite book
+ | last = Black
+ | first = Conrad
+ | year = 2007
+ | authorlink = Conrad Black
+ | title = Richard M. Nixon: A Life in Full
+ | publisher = PublicAffairs Books
+ | location = New York
+ | isbn = 978-1-58648-519-1
+ | ref = {{sfnRef|Black}}
+ | url = https://archive.org/details/isbn_9781586485191
+ | url-access = registration
+ }}
+* {{cite book
+ | last = Blythe
+ | first = Will
+ | authorlink = Will Blythe
+ | year = 2006
+ | title = To Hate Like This is to be Happy Forever
+ | url = https://archive.org/details/tohatelikethisis00blyt
+ | url-access = registration
+ | publisher = Harper Collins
+ | location = New York
+ | isbn = 978-0-06-074023-8
+ | ref = {{sfnRef|Blythe}}
+ }}
+* {{cite book
+ | last = Boger
+ | first = John Charles
+ | year = 2005
+ | title = School Resegregation: Must the South Turn Back?
+ | publisher = University of North Carolina Press
+ | location = Chapel Hill, N.C.
+ | isbn = 978-0-8078-5613-0
+ | ref = {{sfnRef|Boger}}
+  }}
+* {{cite book
+ | last = Dallek
+ | first = Robert
+ | authorlink = Robert Dallek
+ | year = 2007
+ | title = Nixon and Kissinger: Partners in Power
+ | url = https://archive.org/details/nixonkissingerpa00dall
+ | url-access = registration
+ | publisher = HarperCollins
+ | location = New York
+ | isbn = 978-0-06-072230-2
+ | ref = {{sfnRef|Dallek}}
+ }}
+* {{cite book
+ | last = Drew
+ | first = Elizabeth
+ | authorlink = Elizabeth Drew
+ | year = 2007
+ | title = Richard M. Nixon
+ | series = The American Presidents Series
+ | publisher = Times Books
+ | location = New York
+ | isbn = 978-0-8050-6963-1
+ | ref = {{sfnRef|Drew}}
+ | url = https://archive.org/details/richardmnixon00drew
+ }}
+* {{cite book
+ | last1 = Evans
+ | first1 = Rowland
+ | authorlink1 = Rowland Evans
+ | last2 = Novak
+ | first2 = Robert
+ | authorlink2 = Robert Novak
+ | year = 1971
+ | title = Nixon in the White House: The Frustration of Power
+ | publisher = Random House
+ | location = New York
+ | isbn = 978-0-394-46273-8
+ | ref = {{sfnRef|Evans & Novak}}
+ | url = https://archive.org/details/nixoninwhitehous00evan
+ }}
+* {{cite book
+ | last1 = Ezell
+ | first1 = Edward Clinton
+ | authorlink1 = Edward Ezell
+ | last2 = Ezell
+ | first2 = Linda Neuman
+ | year = 1978
+ | title = The Partnership: A History of the Apollo–Soyuz Test Project
+ | publisher = NASA History Office
+ | location = Washington D.C.
+ | url = http://www.hq.nasa.gov/office/pao/History/SP-4209/toc.htm
+ | ref = {{sfnRef|Ezell}}
+ | access-date = January 11, 2013
+ | archive-date = January 23, 2011
+ | archive-url = https://web.archive.org/web/20110123000956/http://www.hq.nasa.gov/office/pao/History/SP-4209/toc.htm
+ | url-status = dead
+ }}
+* {{cite book |last1=Farrell |first1=John A. |authorlink=John A. Farrell |title=Richard Nixon: The Life |date=2017 |publisher=Penguin Random House |isbn=9780345804969 |url=https://books.google.com/books?id=oupUDwAAQBAJ |access-date=March 2, 2023 }}
+* {{cite book
+ | last = Ferris
+ | first = Gary W.
+ | year = 1999
+ | title = Presidential Places: A Guide to the Historic Sites of the U.S. Presidents
+ | publisher = John F. Blair
+ | location = Winston-Salem, N.C.
+ | isbn = 978-0-89587-176-3
+ | ref = {{sfnRef|Ferris}}
+ | url-access = registration
+ | url = https://archive.org/details/presidentialplac0000ferr
+ }}
+* {{cite book
+ | last = Foner
+ | first = Eric
+ | authorlink = Eric Foner
+ | year = 2006
+ | title = Give Me Liberty!: An American History
+ | volume = 2
+ | publisher = W. W. Norton & Co
+ | location = New York
+ | isbn = 978-0-393-92784-9
+ | ref = {{sfnRef|Foner}}
+  }}
+* {{cite book
+ | last = Frick
+ | first = Daniel
+ | year = 2008
+ | title = Reinventing Richard Nixon
+ | publisher = University of Kansas Press
+ | location = Lawrence, Kans.
+ | isbn = 978-0-7006-1599-5
+ | ref = {{sfnRef|Frick}}
+ | url-access = registration
+ | url = https://archive.org/details/reinventingricha0000fric
+ }}
+* {{cite book
+ | last = Frum
+ | first = David
+ | authorlink = David Frum
+ | year = 2000
+ | title = How We Got Here: The '70s
+ | publisher = Basic Books
+ | location = New York
+ | isbn = 978-0-465-04195-4
+ | ref = {{sfnRef|Frum}}
+ | url = https://archive.org/details/howwegothere70sd00frum
+ }}
+* {{cite book
+ | last = Gaddis
+ | first = John Lewis
+ | authorlink = John Lewis Gaddis
+ | year = 1982
+ | title = Strategies of Containment: A Critical Appraisal of Postwar American National Security Policy
+ | publisher = Oxford University Press
+ | location = Oxford
+ | isbn = 978-0-19-503097-6
+ | ref = {{sfnRef|Gaddis}}
+ | url = https://archive.org/details/strategiesofcon000gadd
+ }}
+* {{cite book
+ | last = Gellman
+ | first = Irwin
+ | year = 1999
+ | title = The Contender
+ | url = https://archive.org/details/contenderrichard00gellrich
+ | url-access = registration
+ | publisher = The Free Press
+ | isbn = 978-1-4165-7255-8
+ | location = New York
+ | ref = {{sfnRef|Gellman}}
+ }}
+* Greenberg, David. ''Nixon's Shadow: The History of an Image'' (2003). Important study of how Nixon was perceived by media and scholars.
+* Hall, Mitchell K. ed. ''Historical Dictionary of the Nixon-Ford Era'' (2008) 285pp
+* {{cite book
+ | last = Hepplewhite
+ | first = T.A.
+ | year = 1999
+ | title = The Space Shuttle Decision: NASA's Search for a Reusable Space Vehicle
+ | publisher = NASA History Office
+ | location = Washington D.C.
+ | url = https://history.nasa.gov/SP-4221/sp4221.htm
+ | ref = {{sfnRef|Hepplewhite}}
+ }}
+* {{cite book
+ | last = Hetzel
+ | first = Robert L.
+ | year = 2008
+ | title = The Monetary Policy of the Federal Reserve
+ | publisher = Cambridge University Press
+ | location = New York
+ | isbn = 978-0-521-88132-6
+ | ref = {{sfnRef|Hetzel}}
+}}
+* {{cite book
+ | last = Ingle
+ | first = H. Larry
+ | year = 2015
+ | title = Nixon's First Cover-up: The Religious Life of a Quaker President
+ | publisher = University of Missouri Press
+ | location = Columbia, Missouri
+ | isbn = 978-0-8262-2042-4
+ | ref = {{sfnRef|Ingle|}}
+ | url-access = registration
+ | url = https://archive.org/details/nixonsfirstcover00ingl
+ }}
+* {{cite book
+ | last = Kornitzer
+ | first = Bela
+ | year = 1960
+ | title = The Real Nixon: An Intimate Biography
+ | publisher = Rand McNally & Company
+ | location = New York
+ | url = https://books.google.com/books?id=Q1V3AAAAMAAJ
+ | ref = {{sfnRef|Kornitzer}}
+ }}
+* {{cite book
+ | last = Langguth
+ | first = A.J.
+ | authorlink = A. J. Langguth
+ | year = 2000
+ | title = Our Vietnam: The War 1954–1975
+ | publisher = Simon and Schuster
+ | location = New York
+ | isbn = 978-0-7432-1244-1
+ | url = https://archive.org/details/unset0000unse_f6q3
+ | url-access = registration
+ | page = [https://archive.org/details/unset0000unse_f6q3/page/524 524]
+ | ref = {{sfnRef|Langguth}}
+ }}
+* Malsberger, John W. ''The General and the Politician: Dwight Eisenhower, Richard Nixon, and American Politics'' (2014)
+* {{cite book
+ | last = Merkley
+ | first = Paul Charles
+ | year = 2004
+ | title = American Presidents, Religion, and Israel: the Heirs of Cyrus
+ | publisher = Greenwood Publishing Group
+ | location = Westport, Conn.
+ | isbn = 978-0-275-98340-6
+ | url = https://books.google.com/books?id=TP4g-RhUJmcC
+ | ref = {{sfnRef|Merkley}}
+ }}
+* {{cite book
+ | last = Morris
+ | first = Roger
+ | authorlink = Roger Morris (American writer)
+ | year = 1990
+ | title = Richard Milhous Nixon: The Rise of an American Politician
+ | location = New York
+ | publisher = Henry Holt & Co
+ | isbn = 978-0-8050-1834-9
+ | url = https://books.google.com/books?id=Uw8_HAAACAAJ
+ | ref = {{sfnRef|Morris}}
+ }}
+* {{cite book
+ | last = Nixon
+ | first = Richard
+ | year = 1978
+ | title = RN: The Memoirs of Richard Nixon
+ | publisher = Grosset & Dunlap
+ | location = New York
+ | isbn = 978-0-448-14374-3
+ | url = https://archive.org/details/rnmemoirsofricha00nixo
+ }}
+* {{cite book
+ | last = Nixon
+ | first = Richard
+ | year = 1985
+ | title = No More Vietnams
+ | publisher = Arbor House Publishing Company
+ | location = Westminster, Md.
+ | isbn = 978-0-87795-668-6
+ | url = https://archive.org/details/nomorevietnams00nixo
+ }}
+* {{cite book
+ | last = Parmet
+ | first = Herbert S.
+ | year = 1990
+ | title = Richard Nixon and His America
+ | publisher = Little, Brown & Co
+ | location = Boston
+ | isbn = 978-0-316-69232-8
+ | ref = {{sfnRef|Parmet}}
+ | url = https://archive.org/details/richardnixonhisa00parm_0
+ }}
+* {{cite book
+ | last = Perlstein
+ | first = Richard
+ | authorlink = Rick Perlstein
+ | year = 2008
+ | title = Nixonland: The Rise of a President and the Fracturing of America
+ | publisher = Scribner
+ | location = New York
+ | isbn = 978-0-7432-4302-5
+ | title-link = Nixonland: The Rise of a President and the Fracturing of America
+  }}
+* {{cite book
+ | last = Reeves
+ | first = Richard
+ | authorlink = Richard Reeves (American writer)
+ | year = 2001
+ | title = President Nixon: Alone in the White House
+ | publisher = Simon & Schuster
+ | location = New York
+ | isbn = 978-0-684-80231-2
+ | ref = {{sfnRef|Reeves}}
+ | url = https://archive.org/details/presidentnixonal00reev
+ }}
+* {{cite book
+ | last = Safire
+ | first = William
+ | authorlink = William Safire
+ | year = 2005
+ | orig-year = 1975
+ | title = Before The Fall: An Insider View of the Pre-Watergate White House, with a 2005 Preface by the Author
+ | publisher = Transaction Publishers
+ | url = https://books.google.com/books?id=xahIAOPX8JwC
+ | ref = {{sfnRef|Safire}}
+ | isbn = 978-1-4128-0466-0
+ }} Originally published: Garden City, N.Y.: Doubleday, 1975 (new material 2005)
+* {{cite book
+ | editor-last = Small
+ | editor-first = Melvin
+ | year = 2011
+ | title = A Companion to Richard M. Nixon
+ | publisher = Wiley-Blackwell
+ | location = Oxford
+ | isbn = 978-1-4443-3017-5
+ | url = https://www.questia.com/library/120083897/a-companion-to-richard-m-nixon
+ | ref = {{sfnRef|Small}}
+ | editor-link = Melvin Small
+ }}; Emphasis on historiography
+* {{cite book
+ | last = Schulzinger
+ | first = Robert D.
+ | year = 2003
+ | title = A Companion to American Foreign Relations
+ | publisher = Blackwell Publishing
+ | location = Oxford
+ | isbn = 978-1-4051-4986-0
+ | ref = {{sfnRef|Schulzinger}}
+  }}
+* {{cite book
+ | last = Thompson
+ | first = John B.
+ | authorlink = John Thompson (sociologist)
+ | year = 2000
+ | title = Political Scandal: Power and Visibility in the Media Age
+ | publisher = Polity Press
+ | location = Cambridge
+ | isbn = 978-0-7456-2550-8
+ | url = https://books.google.com/books?id=PAEwuLjQm4gC
+ | ref = {{sfnRef|Thompson}}
+ }}
+* {{cite book
+ | last = Tyler
+ | first = Patrick
+ | authorlink = Patrick Tyler
+ | year = 2010
+ | title = A World of Trouble: The White House and the Middle East—from the Cold War to the War on Terror
+ | publisher = Macmillan
+ | location = New York
+  }}
+* {{cite book
+ | last = White
+ | first = Theodore H.
+ | authorlink = Theodore H. White
+ | year = 1973
+ | title = The Making of the President 1972
+ | url = https://archive.org/details/makingofpresiden1972whit
+ | url-access = registration
+ | publisher = Antheneum
+ | location = New York
+ | isbn = 978-0-689-10553-1
+ | ref = {{sfnRef|White}}
+ }}
+{{divcol-end}}
+{{refend}}
+
+=== Nixon Library ===
+{{refbegin}}
+{{divcol}}
+* {{cite web
+ |title = Childhood
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/childhood.php
+ |access-date = July 16, 2011
+|ref = {{sfnRef|Nixon Library, Childhood}}
+ |archive-url = https://web.archive.org/web/20131021194530/http://www.nixonlibrary.gov/thelife/childhood.php
+ |archive-date = October 21, 2013
+|url-status = dead
+ }}
+* {{cite web
+ |title = A Student & Sailor
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/astudentandsailor.php
+ |access-date = July 16, 2011
+|ref = {{sfnRef|Nixon Library, Student & Sailor}}
+ |archive-url = https://web.archive.org/web/20131021194531/http://www.nixonlibrary.gov/thelife/astudentandsailor.php
+ |archive-date = October 21, 2013
+|url-status = dead
+ }}
+* {{cite web
+ |title = The Nixon Family
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/thenixonfamily.php
+ |access-date = July 16, 2011
+|ref = {{sfnRef|Nixon Library, Nixon Family}}
+ |archive-url = https://web.archive.org/web/20131021225422/http://www.nixonlibrary.gov/thelife/thenixonfamily.php
+ |archive-date = October 21, 2013
+|url-status = dead
+ }}
+* {{cite web
+ |title = The Congressman
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/apolitician/thecongressman.php
+ |access-date = July 17, 2011
+|ref = {{sfnRef|Nixon Library, Congressman}}
+ |archive-url = https://web.archive.org/web/20130615041941/http://www.nixonlibrary.gov/thelife/apolitician/thecongressman.php
+ |archive-date = June 15, 2013
+|url-status = dead
+ }}
+* {{cite web
+ |title = The Senator
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/apolitician/thesenator.php
+ |access-date = July 17, 2011
+|ref = {{sfnRef|Nixon Library, Senator}}
+ |archive-url = https://web.archive.org/web/20130216113442/http://www.nixonlibrary.gov/thelife/apolitician/thesenator.php
+ |archive-date = February 16, 2013
+|url-status = dead
+ }}
+* {{cite web
+ |title = The Vice President
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/apolitician/thevicepresident.php
+ |access-date = July 17, 2011
+|ref = {{sfnRef|Nixon Library, Vice President}}
+ |archive-url = https://web.archive.org/web/20130615014220/http://www.nixonlibrary.gov/thelife/apolitician/thevicepresident.php
+ |archive-date = June 15, 2013
+|url-status = dead
+ }}
+* {{cite web
+ |title = The President
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/apolitician/thepresident/
+ |access-date = July 17, 2011
+|ref = {{sfnRef|Nixon Library, President}}
+ |archive-url = https://web.archive.org/web/20121120163546/http://www.nixonlibrary.gov/thelife/apolitician/thepresident/
+ |archive-date = November 20, 2012
+|url-status = dead
+ }}
+* {{cite web
+ |title = Post Presidency
+ |publisher = Richard Nixon Presidential Library and Museum
+ |work = The Life
+ |url = http://www.nixonlibrary.gov/thelife/postpresidency.php
+ |access-date = March 5, 2012
+|ref = {{sfnRef|Nixon Library, Post Presidency}}
+ |archive-url = https://web.archive.org/web/20131021194537/http://www.nixonlibrary.gov/thelife/postpresidency.php
+ |archive-date = October 21, 2013
+|url-status = dead
+ }}
+* {{cite web
+ | last = Lee
+ | first = Meghan
+ | url = https://www.nixonlibrary.gov/sites/default/files/forresearchers/find/textual/findingaids/findingaid_nixonfamily.pdf
+ | date = June 22, 2004
+| title = Guide to the Nixon Family Collection (1909–1967)
+ | publisher = Richard Nixon Presidential Library and Museum
+ | ref = {{sfnRef|Nixon Library, Family Collection Guide}}
+  }}
+{{divcol-end}}
+{{refend}}
+
+=== Other sources ===
+{{refbegin}}
+{{divcol}}
+* {{Cite news
+ | title = 1972: President Nixon arrives in Moscow
+ | publisher = BBC
+ | date = June 11, 2004
+| url = http://news.bbc.co.uk/onthisday/hi/dates/stories/may/22/newsid_4373000/4373149.stm
+ | access-date = July 17, 2011
+| ref = {{sfnRef|BBC|1972-05-22}}
+  }}
+* {{Cite news
+ | title = Reagan funeral: Schedule of events
+ | publisher = BBC
+ | date = June 11, 2004
+| url = http://news.bbc.co.uk/2/hi/americas/3783085.stm
+ | access-date = May 11, 2012
+| ref = {{sfnRef|BBC|2004-06-11}}
+  }}
+* {{cite news
+ | last = Delaney
+ | first = Paul
+ | date = July 20, 1970
+| newspaper = The New York Times
+ | title = Nixon Plan for Negro Construction Jobs Is Lagging
+ | page = 1
+ | url = http://select.nytimes.com/gst/abstract.html?res=F20813F7355A1B7493C2AB178CD85F448785F9
+ | ref = {{sfnRef|Delaney|1970-07-20}}
+  }}
+* {{cite news
+ | newspaper = [[The Deseret News]]
+ | date = April 27, 1994
+| title = Mourners pay last respects to Nixon
+ | page = 1
+ | url = https://news.google.com/newspapers?id=i_RHAAAAIBAJ&dq=nixon%20funeral&pg=6218%2C5816141
+ | access-date = July 16, 2011
+| ref = {{sfnRef|''The Deseret News''|1994-04-27}}
+  }}
+* {{cite news
+ | last = Steel
+ | first = Ronald
+ | authorlink = Ronald Steel
+ | date = May 25, 2003
+| newspaper = The New York Times
+ | title = The World: New Chapter, Old Debate; Would Kennedy Have Quit Vietnam?
+ | url = https://www.nytimes.com/2003/05/25/weekinreview/the-world-new-chapter-old-debate-would-kennedy-have-quit-vietnam.html
+ | access-date = July 17, 2011
+| ref = {{sfnRef|Steel|2003-05-25}}
+  }}
+* {{cite news
+ | last = Wicker
+ | first = Tom
+ | authorlink = Tom Wicker
+ | date = April 24, 1994
+| newspaper = The New York Times
+ | title = From afar: An indomitable man, an incurable loneliness
+ | url = https://www.nytimes.com/1994/04/24/weekinreview/from-afar-an-indomitable-man-an-incurable-loneliness.html
+ | access-date = August 7, 2011
+| ref = {{sfnRef|Wicker|1994-04-24}}
+  }}
+* {{cite news
+ | last = Kilpatrick
+ | first = Carroll
+ | date = November 18, 1973
+| newspaper = The Washington Post
+ | title = Nixon tells editors, 'I'm not a crook'
+ | url = https://www.washingtonpost.com/wp-srv/national/longterm/watergate/articles/111873-1.htm
+ | access-date = July 17, 2011
+| ref = {{sfnRef|Kilpatrick|1973-11-18}}
+  }}
+* {{cite news
+ | newspaper = The Washington Post
+ | title = The Post Investigates
+ | series = The Watergate Story
+ | url = https://www.washingtonpost.com/wp-srv/politics/special/watergate/part1.html
+ | access-date = July 17, 2011
+| ref = {{sfnRef|''The Washington Post'', The Post Investigates}}
+  }}
+* {{cite news
+ | newspaper = The Washington Post
+ | title = The Government Acts
+ | series = The Watergate Story
+ | url = https://www.washingtonpost.com/wp-srv/politics/special/watergate/part2.html
+ | access-date = July 16, 2011
+| ref = {{sfnRef|''The Washington Post'', The Government Acts}}
+  }}
+* {{cite news
+ | newspaper = The Washington Post
+ | title = Nixon Resigns
+ | series = The Watergate Story
+ | url = https://www.washingtonpost.com/wp-srv/politics/special/watergate/part3.html
+ | access-date = July 16, 2011
+| ref = {{sfnRef|''The Washington Post'', Nixon Resigns}}
+  }}
+* {{cite news
+ | last1 = Weil
+ | first1 = Martin
+ | last2 = Randolph
+ | first2 = Eleanor
+ | date = April 23, 1994
+| newspaper = The Washington Post
+ | page = A01
+ | title = Richard M. Nixon, 37th President, dies
+ | url = https://www.washingtonpost.com/wp-dyn/content/article/2002/06/11/AR2005112200809.html
+ | access-date = July 16, 2011
+| ref = {{sfnRef|Weil & Randolph|1994-04-23}}
+  }}
+* {{cite news
+ | last1 = Lardner
+ | first1 = George Jr.
+ | last2 = Dobbs
+ | first2 = Michael
+ | date = October 6, 1999
+| newspaper = The Washington Post
+ | page = A31
+ | title = New tapes reveal depth of Nixon's anti-Semitism
+ | url = https://www.washingtonpost.com/wp-srv/politics/daily/oct99/nixon6.htm
+ | access-date = April 4, 2011
+| ref = {{sfnRef|Lardner & Dobbs}}
+  }}
+* {{cite news
+ |last = Carlson
+ |first = Peter
+ |date = November 17, 2000
+|newspaper = The Washington Post
+ |page = A01
+ |title = Another Race to the Finish
+ |ref = {{sfnRef|Carlson|2000-11-17}}
+}}
+* {{cite news
+ | title = 8,000 Move Into Cambodia
+ | newspaper = [[Evening Independent|St. Petersburg Independent]]
+ | agency = AP (Saigon)
+ | date = May 1, 1970
+| page = 20–A
+ | url = https://news.google.com/newspapers?id=utwLAAAAIBAJ&pg=7133%2C160415
+ | ref = {{sfnRef|AP/''St. Peterburg Independent''}}
+  }}
+* {{cite news
+ | title = Nixon Up Early, See Protesters
+ | agency = UPI
+ | newspaper = Beaver County Times
+ | date = May 9, 1970
+| location = Pennsylvania
+ | page = one [presumably late edition]
+ | url = https://news.google.com/newspapers?id=FGwyAAAAIBAJ&pg=1864%2C2379598
+ | ref = {{sfnRef|UPI/''Beaver County Times''|1970-05-09}}
+  }}
+* {{cite magazine
+ | last = Greene
+ | first = Bob
+ | authorlink = Bob Greene
+ | date = April 8, 2002
+| magazine = [[Jewish World Review]]
+ | title = What Nixon's best friend couldn't buy
+ | url = http://www.jewishworldreview.com/bob/greene040802.asp
+ | access-date = July 16, 2011
+| ref = {{sfnRef|Greene}}
+  }}
+* {{cite magazine
+ | last = Greider
+ | first = William
+ | date = November 10, 1983
+| title = The McGovern factor
+ | magazine = [[Rolling Stone]]
+ | page = 13
+ | ref = {{sfnRef|Greider|1983-10-10}}
+  }}
+* {{cite magazine
+ | last1 = Kiernan
+ | first1 = Ben
+ | authorlink = Ben Kiernan
+ | last2 = Owen
+ | first2 = Taylor
+ | date = October 2006
+ | title = Bombs over Cambodia
+ | magazine = The Walrus
+ | url = http://www.yale.edu/cgp/Walrus_CambodiaBombing_OCT06.pdf
+ | access-date = January 29, 2012
+| ref = {{sfnRef|Kiernan & Owen}}
+  }}
+* {{cite magazine
+ | last = Noah
+ | first = Timothy
+ | authorlink = Timothy Noah
+ | date = October 7, 1999
+| magazine = [[Slate (magazine)|Slate]]
+ | title = Nixon: I Am Not an Anti-Semite
+ | url = http://www.slate.com/articles/news_and_politics/chatterbox/1999/10/nixon_i_am_not_an_antisemite.html
+ | access-date = May 11, 2012
+| ref = {{sfnRef|Noah|1999-10-07}}
+  }}
+* {{cite magazine
+ | last = Sawhill
+ | first = Ray
+ | date = February 2011
+ | title = The Fall and Rise of an American President
+ | magazine = [[Opera News]]
+ | url = http://www.operanews.com/Opera_News_Magazine/2011/2/Features/The_Fall_and_Rise_of_an_American_President.html
+ | access-date = July 16, 2011
+| ref = {{sfnRef|Sawhill|2011-02}}
+  }}
+* {{cite magazine
+ | magazine = [[Time (magazine)|Time]]
+ | date = April 5, 1971
+| title = Again, the Credibility Gap?
+ | url = http://www.time.com/time/magazine/article/0,9171,876891,00.html
+ | archive-url = https://web.archive.org/web/20081221212832/http://www.time.com/time/magazine/article/0,9171,876891,00.html
+ | url-status = dead
+ | archive-date = December 21, 2008
+| access-date = July 29, 2011
+| ref = {{sfnRef|''Time''|1971-04-05}}
+  }}
+* {{cite magazine
+ | magazine = [[Time (magazine)|Time]]
+ | date = August 14, 1972
+| title = Behavior: Evaluating Eagleton
+ | url = http://www.time.com/time/magazine/article/0,9171,906223,00.html
+ | archive-url = https://web.archive.org/web/20080102000612/http://www.time.com/time/magazine/article/0,9171,906223,00.html
+ | url-status = dead
+ | archive-date = January 2, 2008
+| access-date = July 23, 2011
+| ref = {{sfnRef|''Time''|1972-08-14}}
+  }}
+* {{cite magazine
+ | magazine = [[Time (magazine)|Time]]
+ | date = November 20, 1972
+| title = Democrats: The long journey to disaster
+ | url = http://www.time.com/time/magazine/article/0,9171,712186,00.html
+ | archive-url = https://web.archive.org/web/20080421063556/http://www.time.com/time/magazine/article/0,9171,712186,00.html
+ | url-status = dead
+ | archive-date = April 21, 2008
+| access-date = July 23, 2011
+| ref = {{sfnRef|''Time''|1970-11-20}}
+  }}
+* {{cite journal
+ | last = Skidmore
+ | first = Max J.
+ | year = 2001
+ | title = Ranking and Evaluating Presidents: The Case of Theodore Roosevelt
+ | journal = White House Studies
+ | volume = 1
+ | issue = 4
+ | ref = {{sfnRef|Skidmore}}
+  }}
+* {{cite magazine
+ | last = Stacks
+ | first = John F.
+ | date = May 2, 1994
+| magazine = [[Time (magazine)|Time]]
+ | title = Richard Nixon: Victory in Defeat
+ | url = http://www.time.com/time/magazine/article/0,9171,980651,00.html
+ | archive-url = https://web.archive.org/web/20110122202901/http://www.time.com/time/magazine/article/0,9171,980651,00.html
+ | url-status = dead
+ | archive-date = January 22, 2011
+| access-date = July 16, 2011
+| ref = {{sfnRef|Stacks|1994-05-02}}
+  }}
+* {{cite magazine
+ | last = Morrow
+ | first = Lance
+ | date = September 30, 1996
+| magazine = [[Time (magazine)|Time]]
+ | title = Naysayer to the nattering nabobs
+ | url = http://www.time.com/time/magazine/article/0,9171,985217,00.html
+ | archive-url = https://web.archive.org/web/20061110050539/http://www.time.com/time/magazine/article/0,9171,985217,00.html
+ | url-status = dead
+ | archive-date = November 10, 2006
+| access-date = July 16, 2011
+| ref = {{sfnRef|Morrow|1996-09-30}}
+  }}
+* {{cite web
+ |last = Allen
+ |first = Erika Tyler
+ |publisher = The Museum of Broadcast Communications
+ |title = The Kennedy–Nixon Presidential Debates, 1960
+ |url = http://www.museum.tv/eotvsection.php?entrycode=kennedy-nixon
+ |access-date = May 11, 2012
+|ref = {{sfnRef|Museum of Broadcast Communications, "Kennedy–Nixon Debates"}}
+ |archive-url = https://web.archive.org/web/20120511211530/http://www.museum.tv/eotvsection.php?entrycode=kennedy-nixon
+ |archive-date = May 11, 2012
+|url-status = dead
+ }}
+* {{cite web
+ |last = Auster
+ |first = Albert
+ |publisher = The Museum of Broadcast Communications
+ |title = Smith, Howard K
+ |url = http://www.museum.tv/eotvsection.php?entrycode=smithhoward
+ |access-date = May 11, 2012
+|ref = {{sfnRef|Museum of Broadcast Communications, "Smith, Howard K."}}
+ |archive-url = https://web.archive.org/web/20120805122035/http://www.museum.tv/eotvsection.php?entrycode=smithhoward
+ |archive-date = August 5, 2012
+|url-status = dead
+ }}
+* {{cite web
+ |last = Evans
+ |first = Thomas W.
+ |year = 1993
+ |title = The All-Volunteer Army After Twenty Years: Recruiting in the Modern Era
+ |publisher = Sam Houston State University
+ |url = http://www.shsu.edu/~his_ncp/VolArm.html
+ |access-date = July 17, 2011
+|ref = {{sfnRef|Evans}}
+ |url-status = dead
+ |archive-url = https://web.archive.org/web/20130808222147/http://www.shsu.edu/~his_ncp/VolArm.html
+ |archive-date = August 8, 2013
+}}
+* {{cite web
+ | last = Handlin
+ | first = Daniel
+ | date = November 28, 2005
+| title = Just another Apollo? Part two
+ | work = The Space Review
+ | url = http://www.thespacereview.com/article/507/1
+ | access-date = July 16, 2011
+| ref = {{sfnRef|Handlin}}
+  }}
+* {{cite web
+ |title=American President: Richard Milhous Nixon (1913–1994), Foreign Affairs
+ |publisher=Miller Center for Public Affairs, University of Virginia
+ |url=http://millercenter.org/president/nixon/essays/biography/5
+ |access-date=July 17, 2011
+|ref={{sfnRef|Miller Center}}
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20110811201550/http://millercenter.org/president/nixon/essays/biography/5
+ |archive-date=August 11, 2011
+}}
+* {{cite web
+ | publisher = [[National Park Service]]
+ | title = Richard M. Nixon Birthplace
+ | url = http://www.nps.gov/history/nr/travel/presidents/nixon_birthplace.html
+ | access-date = May 11, 2012
+| ref = {{sfnRef|NPS, Nixon Birthplace}}
+  }}
+* {{cite web
+ |title=Commander Richard M. Nixon, USNR
+ |work=Naval Historical Center
+ |publisher=United States Navy
+ |date=August 7, 2006
+|url=http://www.history.navy.mil/faqs/faq60-8.htm
+ |access-date=July 16, 2011
+|ref={{sfnRef|Naval Historical Center, Commander Nixon}}
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20110816114029/http://www.history.navy.mil/faqs/faq60-8.htm
+ |archive-date=August 16, 2011
+}}
+* {{cite web
+ | last = Nixon
+ | first = Richard
+ | date = August 8, 1974
+| title = President Nixon's Resignation Speech
+ | publisher = Public Broadcasting Service
+ | work = Character Above All
+ | url = https://www.pbs.org/newshour/character/links/nixon_speech.html
+ | access-date = July 15, 2011
+| ref = {{sfnRef|PBS, Resignation Speech}}
+ | archive-date = July 18, 2011
+| archive-url = https://web.archive.org/web/20110718133421/http://www.pbs.org/newshour/character/links/nixon_speech.html
+ | url-status = dead
+  }}
+* {{cite web
+ | title = The Nixon Visit (February 21–28, 1972)
+ | publisher = Public Broadcasting Service
+ | work = American Experience
+ | url = https://www.pbs.org/wgbh/amex/china/sfeature/nixon.html
+ | access-date = July 17, 2011
+| ref = {{sfnRef|PBS, The Nixon Visit}}
+  }}
+* {{cite web
+ | title = Richard M. Nixon, Domestic Politics
+ | publisher = Public Broadcasting Service
+ | work = American Experience
+ | url = https://www.pbs.org/wgbh/americanexperience/features/general-article/nixon-domestic/
+ | access-date = May 11, 2012
+| ref = {{sfnRef|PBS, Nixon, Domestic Politics}}
+ | archive-date = May 23, 2012
+| archive-url = https://web.archive.org/web/20120523191923/http://www.pbs.org/wgbh/americanexperience/features/general-article/nixon-domestic/
+ | url-status = dead
+  }}
+* {{cite web
+ | last = Sabia
+ | first = Joseph J.
+ | url = http://hnn.us/articles/5331.html
+ | title = Why Richard Nixon Deserves to Be Remembered Along with ''Brown''
+ | publisher = History News Network
+ | date = May 31, 2004
+| access-date = May 11, 2012
+| ref = {{sfnRef|Sabia}}
+  }}
+* {{cite web
+ | publisher = United Press International
+ | work = 1960 Year In Review
+ | title = Kennedy Wins 1960 Presidential Election
+ | url = http://www.upi.com/Audio/Year_in_Review/Events-of-1960/Kennedy-Wins-1960-Presidential-Election/12295509435928-8/
+ | access-date = July 17, 2011
+| ref = {{sfnRef|UPI 1960 in Review}}
+  }}
+* {{cite web
+ | publisher = United Press International
+ | work = 1968 Year in Review
+ | title = 1968 Presidential Election
+ | url = http://www.upi.com/Audio/Year_in_Review/Events-of-1968/1968-Presidential-Election/12303153093431-2/
+ | access-date = July 16, 2011
+| ref = {{sfnRef|UPI 1968 in Review}}
+  }}
+* {{cite web
+ | publisher = United Press International
+ | work = 1969 Year in Review
+ | title = Nixon Becomes President
+ | url = http://www.upi.com/Audio/Year_in_Review/Events-of-1969/War-Protests/12303189849225-3/
+ | access-date = July 16, 2011
+| ref = {{sfnRef|UPI 1969 in Review}}
+  }}
+* {{cite web
+ | url = http://about.usps.com/who-we-are/postal-history/periodicals-postage-history.pdf
+ | title = Postage rates for periodicals: A narrative history
+ | publisher = [[United States Postal Service]]
+ | access-date = August 6, 2011
+| ref = {{sfnRef|USPS, Periodicals postage}}
+ | archive-date = July 30, 2013
+| archive-url = https://web.archive.org/web/20130730162257/http://about.usps.com/who-we-are/postal-history/periodicals-postage-history.pdf
+ | url-status = dead
+  }}
+* {{cite book
+ | author = Office of the Federal Register
+ | title = Public Papers of the Presidents of the United States, Richard Nixon, 1971
+ | chapter = New Actions To Prevent Illnesses And Accidents
+ | year = 1999
+ | publisher = General Services Administration
+ | work = National Archives and Records Service
+ | chapter-url = https://books.google.com/books?id=r2qRyBmB15EC&pg=PA180
+ | isbn = 978-0-16-058863-1
+ | ref = {{sfnRef|Office of the Federal Register}}
+  }}
+* {{cite web
+ | title = Statement on Signing the National Sickle Cell Anemia Control Act
+ | date = May 16, 1972
+| work = The American Presidency Project
+ | publisher = University of California, Santa Barbara
+ | url = http://www.presidency.ucsb.edu/ws/index.php?pid=3413
+ | ref = {{sfnRef|The American Presidency Project}}
+  }}
+* {{cite web
+ |author=<nowiki>National Heart, Lung, and Blood Institute</nowiki>
+ |publisher=National Institutes of Health
+ |date=September 2002
+ |title=Sickle Cell Research for Treatment and Cure
+ |url=http://www.nhlbi.nih.gov/resources/docs/scd30/scd30.pdf
+ |id=02-5214
+ |ref={{sfnRef|National Heart, Lung, and Blood Institute}}
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20120131185453/http://www.nhlbi.nih.gov/resources/docs/scd30/scd30.pdf
+ |archive-date=January 31, 2012
+}}
+* {{cite book
+ | last = Wailoo
+ | first = Keith
+ | year = 2001
+ | publisher = University of North Carolina Press
+ | title = Dying in the City of the Blues: Sickle Cell Anemia and the Politics of Race and Health
+ | url = https://archive.org/details/dyingincityofblu00keit
+ | url-access = registration
+ | page = [https://archive.org/details/dyingincityofblu00keit/page/165 165]
+ | isbn = 978-0-8078-4896-8
+ | ref = {{sfnRef|Wailoo}}
+  }}
+* {{cite book
+ | year = 1972
+ | chapter = Health insurance: hearings on new proposals
+ | title = Congressional Quarterly Almanac. 92nd Congress 1st Session ... 1971
+ | journal = Congressional Quarterly Almanac Plus
+ | volume = 27
+ | location = Washington, D.C.
+ | publisher= Congressional Quarterly
+ | pages = 541–544
+ | issn = 0095-6007
+ | oclc = 1564784
+ | ref = {{sfnRef|NHI: CQ Almanac 1971}}
+    }}
+* {{cite book
+ | year = 1974
+ | chapter = Limited experimental health bill enacted
+ | title = Congressional Quarterly Almanac. 93rd Congress 1st Session ... 1973
+ | journal = Congressional Quarterly Almanac Plus
+ | volume = 29 | location = Washington, D.C.
+ | publisher= Congressional Quarterly
+ | pages = 499–508
+ | issn = 0095-6007
+ | oclc = 1564784
+ | ref = {{sfnRef|HMO: CQ Almanac 1973}}
+  }}
+* {{cite book
+ | year = 1975
+ | chapter = National health insurance: no action in 1974
+ | title = Congressional Quarterly Almanac. 93rd Congress 2nd Session ... 1974
+ | journal = Congressional Quarterly Almanac Plus
+ | volume = 30 | location = Washington, D.C.
+ | publisher= Congressional Quarterly
+ | pages = 386–394
+ | issn = 0095-6007
+ | oclc = 1564784
+ | ref = {{sfnRef|NHI: CQ Almanac 1974}}
+}}
+* {{cite web
+ | url = http://www.taxhistory.org/thp/readings.nsf/cf7c9c870b600b9585256df80075b9dd/f8723e3606cd79ec85256ff6006f82c3?OpenDocument
+ | title = President Nixon's Troublesome Tax Returns
+ | last = Samson
+ | first = William
+ | year = 2005
+ | publisher = TaxAnalysts
+ | access-date = December 20, 2013
+| ref = {{sfnRef|Samson}}
+  }}
+* {{cite web
+ | url = http://www.csmonitor.com/USA/DC-Decoder/Decoder-Wire/2011/0418/Tax-Day-2011-Why-do-presidents-release-tax-returns-Hint-I-am-not-a
+ | title = Tax Day 2011: Why do presidents release tax returns?
+ | last = Grier
+ | first = Peter
+ | year = 2011
+ | work = [[The Christian Science Monitor]]
+ | access-date = December 20, 2013
+}}
+{{divcol-end}}
+{{refend}}
+
+== Further reading ==
+* {{cite book |last=Li |first=Victor |title=Nixon in New York: How Wall Street Helped Richard Nixon Win the White House |publisher=Fairleigh Dickinson University Press |location=Madison, NJ |year=2018 |isbn=978-1-68393-000-6}}
+* {{cite book |last=Thomas |first=Evan |authorlink=Evan Thomas |title=Being Nixon: A Man Divided |url=https://books.google.com/books?id=ZFoDBwAAQBAJ |publisher=Random House |location=New York |year=2015 |isbn=978-0-8129-9536-7 |oclc=904756092}}
+
+==External links==
+{{sister project links|Richard Nixon}}
+
+===Official websites===
+* [https://www.whitehouse.gov/about-the-white-house/presidents/richard-m-nixon/ White House biography]
+* [http://www.nixonlibrary.gov/ Nixon Presidential Library and Museum]
+* [http://nixonfoundation.org/ Richard Nixon Foundation]
+
+===Media coverage===
+* {{New York Times topic}}
+* {{C-SPAN}}
+** [http://www.c-span.org/video/?151633-1/life-portrait-richard-m-nixon "Life Portrait of Richard M. Nixon"], from [[C-SPAN]]'s ''[[American Presidents: Life Portraits]]'', November 19, 1999
+
+===Other===
+* {{CongBio|N000116}}
+* [http://millercenter.org/president/nixon Essays on Richard Nixon, each member of his cabinet and First Lady] from the [[Miller Center of Public Affairs]]
+* [https://www.loc.gov/rr/program/bib/presidents/nixon/index.html Richard Nixon: A Resource Guide] from the Library of Congress
+* [http://video.pbs.org/video/979746298 "The Presidents: Nixon"], an [[American Experience]] documentary
+* {{Internet Archive author |sname=Richard Milhous Nixon}}
+* {{Librivox author |id=10724}}
+* [http://www.shapell.org/Collection/Presidents/Nixon-Richard-M Richard Nixon Personal Manuscripts]
+* {{IMDb name}}
+* {{Gutenberg author|id=1668}}
+
+{{Richard Nixon}}
+{{Navboxes
+|title = Offices and distinctions
+|list1 =
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Jerry Voorhis]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from California|U.S. House of Representatives]] from [[California's 12th congressional district]]|years=1947–1950}}
+{{s-aft|after=[[Patrick J. Hillings]]}}
+
+{{s-par|us-sen}}
+{{s-bef|before=[[Sheridan Downey]]}}
+{{s-ttl|title=[[List of United States senators from California|United States Senator (Class 3) from California]]|years=1950–1953|alongside=[[William F. Knowland|William Knowland]]}}
+{{s-aft|after=[[Thomas Kuchel]]}}
+
+{{s-ppo}}
+{{s-bef|before=[[Frederick F. Houser]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] nominee for [[United States Senator|U.S. Senator]] from [[California]]<br/>([[Classes of United States senators|Class 3]])|years=[[1950 United States Senate election in California|1950]]}}
+{{s-aft|after=[[Thomas Kuchel]]}}
+
+{{s-bef|before=[[Earl Warren]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] [[List of United States Republican Party presidential tickets|nominee]] for Vice President of the United States|years=[[1952 United States presidential election|1952]], [[1956 United States presidential election|1956]]}}
+{{s-aft|after=[[Henry Cabot Lodge Jr.]]}}
+
+{{s-bef|before=[[Dwight D. Eisenhower]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] [[List of United States Republican Party presidential tickets|nominee]] for President of the United States| years=[[1960 United States presidential election|1960]]}}
+{{s-aft|after=[[Barry Goldwater]]}}
+
+{{s-bef|before=[[William F. Knowland]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] nominee for [[Governor of California]]|years=[[1962 California gubernatorial election|1962]]}}
+{{s-aft|after=[[Ronald Reagan]]}}
+
+{{s-bef|before=[[Barry Goldwater]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] [[List of United States Republican Party presidential tickets|nominee]] for President of the United States| years=[[1968 United States presidential election|1968]], [[1972 United States presidential election|1972]]}}
+{{s-aft|after=[[Gerald Ford]]}}
+
+{{s-off}}
+{{s-bef|before=[[Alben W. Barkley]]}}
+{{s-ttl|title=[[Vice President of the United States]]|years=1953–1961}}
+{{s-aft|after=[[Lyndon B. Johnson]]}}
+
+{{s-bef|before=[[Lyndon B. Johnson]]}}
+{{s-ttl|title=[[President of the United States]]|years=1969–1974}}
+{{s-aft|after=[[Gerald Ford]]}}
+{{s-end}}
+}}
+
+{{navboxes
+|title = Articles related to Richard Nixon
+|list1 =
+{{US Presidents}}
+{{USVicePresidents}}
+{{Unsuccessful major party pres candidates}}
+{{Eisenhower cabinet}}
+{{Republican Party (United States)}}
+{{USSenCA}}
+{{USCongRep-start|congresses= 80th–82nd [[United States Congress]] |state=[[California]]}}
+{{USCongRep/CA/80}}
+{{USCongRep/CA/81}}
+{{USCongRep/CA/82}}
+{{USCongRep-end}}
+{{United States presidential election, 1952}}
+{{United States presidential election, 1956}}
+{{United States presidential election, 1960}}
+{{United States presidential election, 1968}}
+{{United States presidential election, 1972}}
+{{Time Persons of the Year 1951–1975}}
+{{National Football Foundation Gold Medal Winners}}
+{{Nixon cabinet}}
+}}
+{{Portal bar|1960s|1970s|Biography|California|Conservatism|Law|Politics|United States}}
+{{Authority control}}
+
+{{DEFAULTSORT:Nixon, Richard}}
+[[Category:Richard Nixon| ]]
+[[Category:1913 births]]
+[[Category:1994 deaths]]
+[[Category:1952 United States vice-presidential candidates]]
+[[Category:1956 United States vice-presidential candidates]]
+[[Category:20th-century American lawyers]]
+[[Category:20th-century vice presidents of the United States]]
+[[Category:20th-century presidents of the United States]]
+[[Category:20th-century Quakers]]
+[[Category:20th-century American memoirists]]
+[[Category:American anti-communists]]
+[[Category:American people of the Vietnam War]]
+[[Category:American Quakers]]
+[[Category:Burials in Orange County, California]]
+[[Category:California lawyers]]
+[[Category:Candidates in the 1960 United States presidential election]]
+[[Category:Candidates in the 1968 United States presidential election]]
+[[Category:Candidates in the 1972 United States presidential election]]
+[[Category:Cornell family]]
+[[Category:Duke University School of Law alumni]]
+[[Category:Eisenhower administration cabinet members]]
+[[Category:1960s in the United States]]
+[[Category:Lawyers disbarred in the Watergate scandal]]
+[[Category:Lawyers from New York City]]
+[[Category:Military personnel from California]]
+[[Category:Nixon administration personnel involved in the Watergate scandal]]
+[[Category:Nixon family]]
+[[Category:People from Saddle River, New Jersey]]
+[[Category:People from San Clemente, California]]
+[[Category:People from Whittier, California]]
+[[Category:People from Yorba Linda, California]]
+[[Category:People of the Cold War]]
+[[Category:People of the Laotian Civil War]]
+[[Category:People of the Yom Kippur War]]
+[[Category:Presidents of the United States]]
+[[Category:Recipients of American presidential pardons]]
+[[Category:Republican Party members of the United States House of Representatives from California]]
+[[Category:Republican Party (United States) presidential nominees]]
+[[Category:Republican Party presidents of the United States]]
+[[Category:Republican Party United States senators from California]]
+[[Category:Republican Party (United States) vice presidential nominees]]
+[[Category:Republican Party vice presidents of the United States]]
+[[Category:United States Navy officers]]
+[[Category:United States Navy personnel of World War II]]
+[[Category:Vice presidents of the United States]]
+[[Category:Whittier High School alumni]]
+[[Category:Whittier Poets football players]]
+[[Category:Disbarred New York (state) lawyers]]
+[[Category:Fullerton Union High School alumni]]

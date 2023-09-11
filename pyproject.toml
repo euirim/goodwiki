@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "goodwiki"
+version = "1.0.0"
+description = "Utility that converts Wikipedia pages into GitHub-flavored Markdown."
+authors = ["Euirim Choi <euirim@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{ include = 'src' }]
+include = ['src/**/*']
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mwparserfromhell = "^0.6.4"
+wikipedia-api = "^0.6.0"
+multiprocess = "^0.70.15"
+click = "^8.1.6"
+tqdm = "^4.66.1"
+pyarrow = "^12.0.1"
+pypandoc = "^1.11"
+httpx = "^0.24.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
+jupyterlab = "^4.0.5"
+mypy = "^1.5.0"
+pytest = "^7.4.0"
+ruff = "^0.0.284"
+transformers = "^4.33.1"
+ipywidgets = "^8.1.0"
+datasets = "^2.14.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

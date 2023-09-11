@@ -1,0 +1,524 @@
+{{Short description|Battleship of the United States Navy}}
+{{Other ships|USS Indiana}}
+{{Featured article}}
+{{Use American English|date=February 2023}}
+{{Use shortened footnotes|date=October 2022}}
+{{Use dmy dates|date=January 2022}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = USS Indiana LOC npcc 32733.jpg
+| Ship caption = USS ''Indiana'' between 1900 and 1908
+}}
+{{Infobox ship career
+| Hide header         =
+| Ship country        = United States
+| Ship flag           = {{USN flag|1918}}
+| Ship name           = ''Indiana''
+| Ship namesake       = [[State of Indiana]]
+| Ship ordered        = 30 June 1890
+| Ship builder        = [[William Cramp & Sons]], [[Philadelphia]]
+| Ship laid down      = 7 May 1891
+| Ship launched       = 28 February 1893
+| Ship commissioned   = 20 November 1895
+| Ship decommissioned = 24 December 1903
+}}
+{{Infobox ship career
+| Hide header         = yes
+| Ship recommissioned = 9 January 1906
+| Ship decommissioned = 23 May 1914
+}}
+{{Infobox ship career
+| Hide header         = yes
+| Ship recommissioned = 24 May 1917
+| Ship decommissioned = 31 January 1919
+| Ship renamed        = ''Coast Battleship Number 1'' on 29 March 1919
+| Ship struck=
+| Ship fate           =*Sunk as target on 1 November 1920
+* Sold for scrapping 19 March 1924
+| Ship notes          =
+}}
+{{Infobox ship characteristics
+| Hide header       =
+| Header caption    = {{sfn|Reilly|Scheina|1980|p=68}}{{sfn|Friedman|1985|p=425}}{{sfn|Reilly|Scheina|1980|p=58}}{{sfn|Bryan|1901}}
+| Ship class        = {{sclass|Indiana|battleship|0}} [[pre-dreadnought battleship]]
+| Ship displacement = {{cvt|10288|LT|t|lk=on}} (standard)
+| Ship length       =
+* {{cvt|350|ft|11|in|lk=on}} ([[length overall|overall]])
+* {{cvt|358|ft}} ([[Waterline length|waterline]])
+| Ship beam         = {{cvt|69|ft|3|in}} (wl)
+| Ship draft        = {{cvt|27|ft}}
+| Ship power =
+* 4 × [[Scotch marine boiler#Double-ended|Scotch boilers]]
+| Ship propulsion   =
+* 2 sets [[triple-expansion steam engine]]s
+* 2 × [[Propeller|screws]]
+| Ship speed        =
+* {{convert|15|kn|lk=on}}
+| Ship range        = {{cvt|4900|nmi|lk=on}}{{NoteTag|name=range}}
+| Ship complement   = 
+*32 officers
+*441 men
+| Ship armament     =
+*  2 × twin [[13-inch/35-caliber gun|{{cvt|13|in|0}}/35 caliber guns]]
+*  4 × twin [[8-inch/35-caliber gun|{{cvt|8|in|0}}/35 cal guns]]
+*  4 × [[6-inch/40-caliber gun|{{cvt|6|in|0}}/40 cal guns]]
+* 20 × [[QF 6-pounder Hotchkiss#American service|6-pounder {{cvt|57|mm|1}} guns]]
+*  6 × [[QF 1-pounder pom-pom#United States|1-pounder {{cvt|37|mm|1}} guns]]
+*  4 × [[American 18-inch torpedo|{{cvt|18|in|0}}]] [[torpedo tubes]]{{NoteTag|name=torpedo}}
+
+| Ship armor =
+* [[Belt armor|Belt]]: {{cvt|18|-|8.5|in|0}}
+* 13" [[gun turret|turrets]]: {{cvt|15|in|0}}
+* Hull: {{cvt|5|in|0}}
+* 8" turrets: {{cvt|6|in|0}}
+* [[Conning tower|Conning Tower]]: {{cvt|10|in|0}}
+* [[Deck (ship)|Deck]]: {{cvt|3|in|0}}
+| Ship notes =
+}}
+{{Infobox ship characteristics
+| Hide header       =
+| Header caption    = (Later refits)
+|Ship power=
+* 8 × [[Babcock & Wilcox boiler]]s (1905)
+* {{cvt|9000|ihp|MW|lk=on}}
+| Ship armament     =
+* 4 × 6 in/40 cal guns removed (1908)
+* 12 × [[3-inch/50-caliber gun|{{convert|3|in|mm|abbr=on|0}}/50 cal guns]] added (1910)
+}}
+|}
+
+'''USS ''Indiana''''' was the [[lead ship]] of [[Indiana-class battleship|her class]] and the first [[battleship]] in the [[United States Navy]] comparable to foreign battleships of the time.{{sfn|Reilly|Scheina|1980|p=67}} Authorized in 1890 and commissioned five years later, she was a small battleship, though with heavy armor and ordnance. The ship also pioneered the use of an [[Pre-dreadnought battleship#Intermediate_battery|intermediate battery]]. She was designed for [[Coastal defence and fortification|coastal defense]]{{sfn|Scientific American|1896|p=297}} and as a result, her decks were not safe from high waves on the open ocean.
+
+''Indiana'' served in the [[Spanish–American War]] (1898) as part of the [[North Atlantic Squadron]]. She took part in both the blockade of [[Santiago de Cuba]] and the [[Battle of Santiago de Cuba]], which occurred when the Spanish fleet attempted to break through the blockade. Although unable to join the chase of the escaping Spanish [[cruiser]]s, she was partly responsible for the destruction of the Spanish [[destroyer]]s [[Spanish destroyer Pluton|''Plutón'']] and [[Spanish destroyer Furor|''Furor'']]. After the war, she quickly became obsolete—despite several modernizations—and spent most of her time in commission as a [[training ship]] or in the [[reserve fleet]], with her last commission during [[World War I]] as a training ship for gun crews. She was decommissioned for the third and final time in January 1919 and was shortly after reclassified ''Coast Battleship Number 1'' so that the name ''Indiana'' could be reused. She was sunk in shallow water as a target in aerial bombing tests in 1920, and her hull was sold for scrap in 1924.
+
+== Design ==
+{{Main|Indiana-class battleship}}
+
+''Indiana'' was constructed from a modified version of a design drawn up by a US Navy policy board in 1889 for a short-range battleship. The original design was part of an ambitious naval construction plan to build 33 battleships and 167 smaller ships. The [[United States Congress]] saw the plan as an attempt to end the U.S. [[United States non-interventionism|policy of isolationism]] and did not approve it, but a year later, the [[United States House of Representatives]] approved funding for three coast defense battleships, which would become ''Indiana'' and her sister ships {{USS|Massachusetts|BB-2|2}} and {{USS|Oregon|BB-3|2}}.{{sfn|Friedman|1985|pp=24–25}} The "coast defense" designation was reflected in ''Indiana''{{'}}s moderate endurance, relatively small [[Displacement (ship)|displacement]] and low [[freeboard (nautical)|freeboard]], which limited seagoing capability.{{sfn|Gardiner|Lambert|1992|p=121}} The ships proved to be disappointments in service, as they were badly overweight upon completion, their low freeboard hampered operations at sea, and they handled poorly.{{sfn|Friedman|1985|pp=17, 20–29}} ''Conway's All the World's Fighting Ships'' describes her design as "attempting too much on a very limited displacement."{{sfn|Campbell|1979|p=140}} They were nevertheless the first modern battleships for the American fleet.{{sfn|Friedman|1985|pp=17, 20–29}}{{sfn|Campbell|1979|p=140}}
+
+[[File:USS Oregon 1893 USNHC NH 76619 010332.jpg|thumb|left|Plan and profile illustration of {{USS|Oregon|BB-3|2}}, one of the {{sclass|Indiana|battleship|1}}s]]
+
+''Indiana'' was {{convert|351|ft|2|in}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{cvt|69|ft|3|in}} and a [[draft (nautical)|draft]] of {{cvt|24|ft}}. She displaced {{convert|10288|LT|t|lk=on}} as designed and up to {{convert|11688|LT|t}} at [[full load]]. The ship was powered by two-shaft [[triple-expansion engine|triple-expansion]] [[steam engine]]s rated at {{convert|9000|ihp|lk=on}} and four coal-fired [[fire-tube boiler]]s, generating a top speed of {{convert|15|kn|lk=in}}. She had a cruising radius of {{convert|5640|nmi|lk=in}} at a speed of {{convert|10|kn}}. As built, she was fitted with a heavy [[military mast]], which was later supplemented by a stern [[cage mast]] in 1910–1911. She had a crew of 32&nbsp;officers and 441&nbsp;enlisted men, which increased to a total of 586&ndash;636 officers and enlisted.{{sfn|Campbell|1979|p=140}}{{sfn|Friedman|1985|pp=83, 425}}
+
+The ship was armed with a [[main battery]] of four [[13"/35 caliber gun|{{cvt|13|in}} /35 caliber guns]] in two twin [[gun turret]]s on the [[Centerline (nautical)|centerline]], one forward and aft. The [[secondary armament|secondary battery]] consisted of eight [[8"/35 caliber gun|{{convert|8|in|adj=on|0}} /35 cal. guns]], which were placed in four twin [[wing turret]]s. These were supported by a battery of six {{cvt|6|in}} /40 cal. guns in a [[casemate]] battery [[amidships]]. For close-range defense against [[torpedo boat]]s, she carried twenty 6-pounder guns and six [[QF 1-pounder pom-pom#United States|1-pounder guns]] in individual mounts. As was standard for [[capital ship]]s of the period, ''Indiana'' carried [[American 18 inch torpedo|{{convert|18|in|abbr=on|0}}]] [[torpedo tube]]s in above-water mounts, though the number is unclear. According to ''Conway's'', she was fitted with six tubes, though the naval historian [[Norman Friedman]] states she was ordered with seven but completed with five.{{sfn|Campbell|1979|p=140}}{{sfn|Friedman|1985|p=27}}
+
+''Indiana''{{'}}s main [[armored belt]] was {{convert|18|in|abbr=on|0}} thick over the magazines and the machinery spaces and was reduced to {{convert|4|in|abbr=on|0}} at the bow and stern. The main battery gun turrets had {{convert|17|in|adj=on|0}} thick sides, and the supporting [[barbette]]s had the same thickness of armor plate on their exposed sides. The 8&nbsp;in turrets had 6&nbsp;in of armor plating, and the casemate battery had {{cvt|5|in|0}}. The [[conning tower]] had {{convert|10|in|abbr=on|0}} thick sides.{{sfn|Friedman|1985|p=425}}
+
+== Service history ==
+
+=== Construction and early career ===
+[[File:US Battleship Indiana.jpg|thumb|left|''Indiana'' early in her career]]
+
+Construction of the ships was authorized on 30 June 1890, and the contract for ''Indiana''—not including guns and armor—was awarded to [[William Cramp & Sons]] in [[Philadelphia]], who offered to build it for $3,020,000.{{sfn|''The New York Times''|1 December 1890}} The ship's total cost was almost twice as high, approximately $6,000,000.{{sfn|Reilly|Scheina|1980|p=69}} The contract specified the ship had to be built in three years, but slow delivery of armor plates caused a two-year delay.{{sfn|''The New York Times''|19 January 1901}}{{sfn|''The New York Times''|14 May 1907}} ''Indiana'''s [[keel]] was laid down on 7 May 1891{{sfn|DANFS Indiana (BB-1)}} and she was launched on 28 February 1893, attended by around 10,000 people, including [[Benjamin Harrison|President Benjamin Harrison]], several members of his [[United States Cabinet|cabinet]] and the two [[United States Senator|senators]] from Indiana.{{sfn|''The New York Times''|27 February 1893}}{{sfn|''The New York Times''|28 February 1893}} During her [[fitting-out]] in early March 1894, the ship undertook a preliminary [[sea trial]] to test her speed and machinery.{{sfn|''The New York Times''|7 March 1894}} At this point, her side armor, guns, turrets, and conning tower had not yet been fitted,{{sfn|''The New York Times''|9 March 1894}} and her official trials would not take place until October 1895 due to the delays in armor deliveries.{{sfn|''The New York Times''|19 October 1895}}{{sfn|''The New York Times''|20 September 1894}}
+
+''Indiana'' was commissioned on 20 November 1895 under the command of [[Captain (United States O-6)|Captain]] [[Robley D. Evans (admiral)|Robley D. Evans]].{{sfn|''The New York Times''|19 November 1895}} After further trials, the ship joined the [[North Atlantic Squadron]] under the command of [[Rear admiral (United States)|Rear Admiral]] [[Francis M. Bunce]], which conducted training exercises along the [[East Coast of the United States]].{{sfn|''The New York Times''|18 June 1896}} In late 1896, both main turrets broke loose from their clamps in heavy seas. Because the turrets were not centrally balanced, they swung from side to side with the ship's motion, until they were secured with heavy ropes. Heavier clamps were installed, but in February 1896, while conducting fleet maneuvers with the North Atlantic squadron, the ''Indiana'' encountered more bad weather and started rolling heavily. Her new captain, [[Henry Clay Taylor]], promptly ordered her back to port for fear the clamps would break again.{{sfn|Reilly|Scheina|1980|p=59}} This convinced the navy that [[bilge keel]]s—omitted during construction because, with them, the ship could not fit in most American dry docks—were necessary to reduce the rolling,{{sfn|''The New York Times''|5 February 1897}} and they were installed on all three ships of the ''Indiana''-class.{{sfn|Reilly|Scheina|1980|p=60}}
+
+=== Spanish–American War ===
+[[File:LOC 3b37478u 1898-Apr 14 The Indiana in battle.jpg|thumb|alt=''Indiana'', painted white against a black sea, is steaming between and shooting at sinking and burning ships|Painting of the ''Indiana'' during the battle of Santiago]]
+
+At the outbreak of the [[Spanish–American War]] in April 1898, ''Indiana'' was at [[Key West]] with the rest of the North Atlantic Squadron, at the time commanded by Rear Admiral [[William T. Sampson]].{{sfn|DANFS Indiana (BB-1)}}{{sfn|''The New York Times''|1 April 1898}} His squadron was ordered to the Spanish port of [[San Juan, Puerto Rico|San Juan]] in an attempt to intercept and destroy [[Pascual Cervera y Topete|Admiral Cervera]]'s Spanish squadron, which was en route to the Caribbean from Spain. The harbor was empty, but ''Indiana'' and the rest of the squadron bombarded it for two hours on 12 May 1898 before realizing their mistake.{{sfn|DANFS Indiana (BB-1)}} The squadron returned to Key West, where news arrived three weeks later that [[Winfield Scott Schley|Commodore Schley]]'s [[Flying Squadron (US Navy)|Flying Squadron]] had found Cervera and was now blockading him in the port of [[Santiago de Cuba]]. Sampson reinforced Schley on 1 June{{sfn|DANFS Indiana (BB-1)}} and assumed overall command.{{sfn|Graham|Schley|1902|p=203}}
+
+In an attempt to break the stalemate, it was decided to attack Santiago from land. A transport convoy was assembled in Key West, and ''Indiana'' was sent back to lead it.{{sfn|''The New York Times''|12 June 1898}} The expeditionary force, under the command of [[Major general (United States)|Major General]] [[William Rufus Shafter]], landed east of the city and attacked it on 1 July.{{sfn|Hale|1911|p=286}} Cervera saw that his situation was desperate and attempted to break through the blockade on 3 July 1898, resulting in the [[battle of Santiago de Cuba]].{{sfn|DANFS Indiana (BB-1)}} The [[cruiser]]s {{USS|New Orleans|CL-22|2}} and {{USS|Newark|C-1|2}} and battleship ''Massachusetts'' had left the day before to load coal in [[Guantanamo Bay Naval Base|Guantanamo Bay]].{{sfn|Graham|Schley|1902|pp=299–300}} Admiral Sampson's flagship, the cruiser {{USS|New York|ACR-2|2}}, had also sailed east earlier that morning for a meeting with General Shafter,{{sfn|Hale|1911|p=288}} leaving Commodore Schley in command.{{sfn|Graham|Schley|1902|pp=299–300}} This left the blockade weakened and unbalanced on the day of the battle, as three modern battleships (''Indiana'', ''Oregon'' and {{USS|Iowa|BB-4|2}}) and the [[armed yacht]] {{USS|Gloucester|1891|2}} guarded the east, while the west was only defended by the second-class battleship {{USS|Texas|1892|2}}, cruiser {{USS|Brooklyn|CA-3|2}} and armed yacht {{USS|Vixen|PY-4|2}}.{{sfn|Graham|Schley|1902|pp=303–304}}
+
+Occupying the extreme eastern position of the blockade,{{sfn|DANFS Indiana (BB-1)}} ''Indiana'' fired at the cruisers [[Spanish cruiser Infanta Maria Teresa|''Infanta María Teresa'']] and [[Spanish cruiser Almirante Oquendo|''Almirante Oquendo'']] as they left the harbor,{{sfn|Graham|Schley|1902|p=316}}{{sfn|''The New York Times''|26 August 1898}} but, due to engine problems, was unable to keep up with the Spanish cruisers as they fled to the west.{{sfn|Graham|Schley|1902|p=317}} When the Spanish [[destroyer]]s [[Spanish destroyer Pluton|''Plutón'']] and [[Spanish destroyer Furor|''Furor'']] emerged, ''Indiana'' was near the harbor entrance and, together with ''Iowa'', she supported the armed yacht ''Gloucester'' in the destruction of the lightly armored enemy ships.{{sfn|Graham|Schley|1902|p=333}} She was then ordered to keep up the blockade of the harbor in case more Spanish ships came out and so played no role in the chase and sinking of the two remaining Spanish cruisers, [[Spanish cruiser Vizcaya|''Vizcaya'']] and [[Spanish cruiser Cristobal Colon|''Cristóbal Colón'']].{{sfn|''The New York Times''|26 July 1898}}
+
+=== Post Spanish–American War ===
+[[File:Damaged USS Indiana (BB-1) following aerial bombing tests (37970282031).jpg|thumb|left|Aerial view of the damaged ''Indiana'' following aerial bombing tests]]
+
+After the war, ''Indiana'' returned to training exercises with the North Atlantic Squadron. In May 1900, she and ''Massachusetts'' were placed in reserve as the navy had an acute officer shortage and needed to put the new {{sclass|Kearsarge|battleship|0}} and {{sclass|Illinois|battleship}} into commission.{{sfn|''The New York Times''|14 April 1900}} The battleships were reactivated the following month as an experiment in how quickly this could be achieved,{{sfn|''The New York Times''|6 June 1900}} but ''Indiana'' was placed in the [[reserve fleet]] again that winter.{{sfn|''The New York Times''|20 August 1900}} In March 1901, it was decided to use her that summer for a [[midshipman]] practice cruise,{{sfn|''The New York Times''|26 March 1901}} and this would be her regular summer job for the next few years,{{sfn|DANFS Indiana (BB-1)}} while the rest of the time she would serve as a training ship.{{sfn|''The New York Times''|8 April 1902}} During her time as a training vessel, her crew beat the 1903 world record with eight-inch guns, four bullseyes with four shots.<ref>{{cite web | url=https://chroniclingamerica.loc.gov/lccn/sn86074053/1903-12-24/ed-1/seq-2/ | title=The Brandon news. (Brandon, Miss.) 1892-1961, December 24, 1903, Image 2 }}</ref> She was decommissioned on 29 December 1903{{sfn|DANFS Indiana (BB-1)}} to be overhauled and modernized.{{sfn|''The New York Times''|19 November 1903}} The obsolete battleship received several upgrades: new [[Babcock & Wilcox boiler]]s, counterweights to balance her main turrets, and electric traversing mechanisms for her turrets.{{sfn|Reilly|Scheina|1980|p=62}} She was recommissioned on 9 January 1906 and manned by the former crew of her sister ship ''Massachusetts'', including [[captain (naval)|Captain]] [[Edward D. Taussig]], commanding. ''Massachusetts'' had been decommissioned the day before to receive similar modernization.{{sfn|''The New York Times''|8 January 1906}}
+
+During her second commission, ''Indiana'' spent most of her time laid up in the reserve fleet,{{sfn|''The New York Times''|10 November 1907}} occasionally participating in practice cruises.{{sfn|DANFS Indiana (BB-1)}}{{sfn|''The New York Times''|27 November 1909}} In January 1907, she helped provide relief in the aftermath of the [[1907 Kingston earthquake]].{{sfn|DANFS Williamson}} In 1908, the [[6-inch/40-caliber gun|{{convert|6|in|adj=on|0}}/40 caliber guns]] and most of the lighter guns were removed to compensate for the counterweights added to the main battery turrets and because the ammunition supply for the guns was considered problematic. A year later, twelve [[3-inch/50-caliber gun|{{convert|3|in|adj=on|0}}/50 caliber]] single-purpose guns were added midships and in the fighting tops. At the same time, a cage mast was added.{{sfn|Reilly|Scheina|1980|p=62}} In early 1910, she was fitted with an experimental Lacoste speed brake, which would be deployed from the side of the hull to act as an emergency brake; the trials were inconclusive.{{Sfn|Smith|1916}} By 1913 it was speculated that the ship might soon be used for target practice,{{sfn|''The New York Times''|31 March 1913}} but instead, the ship was decommissioned on 23 May 1914.{{sfn|DANFS Indiana (BB-1)}} After the United States entered [[World War I]], ''Indiana'' was commissioned for the third time and served as a training ship for gun crews near [[Tompkinsville, Staten Island]], and in the [[York River (Virginia)|York River]], and placed under the command of [[George Landenberger]].{{sfn|''The New York Times''|16 January 1936}}
+
+On 31 January 1919, she was decommissioned for the final time, and two months later, she was renamed ''Coast Battleship Number 1'' so that the name ''Indiana'' could be assigned to the newly authorized—but never completed—battleship {{USS|Indiana|BB-50|3}}.{{sfn|DANFS Indiana (BB-1)}} The old battleship was brought to shallow waters in the [[Chesapeake Bay]] near the wreck of the target ship {{USS|San Marcos|1911|2}} (ex-Battleship ''Texas'').{{sfn|DANFS Indiana (BB-1)}} Here she was subjected to aerial bombing tests conducted by the navy. She was hit with dummy bombs from aircraft, and explosive charges were set off at the positions where the bombs hit. The tests were a response to claims from [[Billy Mitchell]]—at the time assistant to Chief of [[U.S. Army Air Service|Air Service]] [[Charles T. Menoher]]—who stated to Congress that the Air Service could sink any battleship. The conclusions drawn by the navy from the experiments conducted on ''Indiana'' were very different, as Captain [[William D. Leahy]] stated in his report: "The entire experiment pointed to the improbability of a modern battleship being either destroyed or completely put out of action by aerial bombs." The subject remained a matter of dispute between Mitchell and the Navy, and several more bombing tests were conducted with other decommissioned battleships, culminating in the sinking of {{SMS|Ostfriesland}}.{{sfn|Correll|2008}} Despite the navy's conclusions, ''Indiana'' sank during the test and settled in the shallow water, where she remained until her wreck was sold for scrap on 19 March 1924.{{sfn|DANFS Indiana (BB-1)}} When the US Navy adopted [[hull number]]s in 1920, ''Indiana'' was retroactively assigned the number "BB-1".{{sfn|Tucker|p=1143}}
+
+== Notes ==
+{{NoteFoot
+| notes =
+{{NoteTag
+| name = range
+| Experimental data for ''Indiana'' and ''Massachusetts'' were lumped together, and the rounded average was calculated. See {{harvnb|Bryan|1901}}.
+}}
+{{NoteTag
+| name = torpedo
+| Sources conflict on this. {{harvnb|Reilly|Scheina|1980|p=}} claim six on p. 56, then four on p. 68. {{harvnb|Friedman|1985|p=}} claims the contract called for seven tubes, but ''Indiana'' was completed with four.
+}}
+}}
+
+== References ==
+{{Reflist}}
+
+== Sources cited ==
+=== Books ===
+* {{cite book
+  | last = Campbell
+  | first = N. J. M.
+  | chapter = United States of America
+  | pages = 114–169
+  | editor1-last = Chesneau
+  | editor1-first = Roger
+  | editor2-last = Kolesnik
+  | editor2-first = Eugene M.
+  | year = 1979
+  | title = Conway's All the World's Fighting Ships 1860–1905
+  | publisher = Conway Maritime Press
+  | location = Greenwich
+  | isbn = 978-0-85177-133-5
+  | url-access = registration
+  | url = https://archive.org/details/conwaysallworlds0000unse_l2e2
+  | name-list-style=amp
+  }}
+* {{cite book
+  | last = Friedman
+  | first = Norman
+  | year = 1985
+  | title = U.S. Battleships, An Illustrated Design History
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0870217159
+  }}
+* {{cite book
+  | last1 = Gardiner
+  | first1 = Robert
+  | last2 = Lambert
+  | first2 = Andrew D.
+  | year = 1992
+  | title = Steam, Steel & Shellfire: The Steam Warship 1815–1905
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-0851775647
+  |name-list-style=amp
+  }}
+* {{cite book
+  | last1 = Graham
+  | first1 = George E.
+  | last2 = Schley
+  | first2 = Winfield S.
+  | year = 1902
+  | title = Schley and Santiago: An Historical Account of the Blockade and Final Destruction of the Spanish Fleet Under Command of Admiral Pasquale Cervera, July&nbsp;3,&nbsp;1898
+  | publisher = W.B. Conkey Company
+  | oclc = 1866852
+  | location = Texas
+  | url = https://archive.org/details/schleysantiago00graham
+  |name-list-style=amp
+  }}
+* {{cite book
+  | last = Hale
+  | first = John Richard
+  | year = 1911
+  | title = Famous Sea Fights, From Salamis to Tsu-Shima
+  | publisher = Little, Brown, & Company
+  | location = Boston
+  | url = https://www.gutenberg.org/ebooks/25088
+  }}
+* {{cite book
+  | last1 = Reilly
+  | first1 = John C.
+  | last2 = Scheina
+  | first2 = Robert L.
+  | year = 1980
+  | title = American Battleships 1886–1923: Predreadnought Design and Construction
+  | publisher = Arms and Armour Press
+  | location = London
+  | isbn = 978-0853684466
+  |name-list-style=amp
+  }}
+* {{cite book
+  |last=Tucker
+  |first=Spencer
+  |year=2013
+  |title=Almanac of American Military History
+  |volume=I
+  |location=Santa Barbara
+  |publisher=ABC-CLIO
+  |isbn=978-1598845303
+  |ref={{sfnref|Tucker}}
+  }}
+
+=== Newspapers ===
+* {{cite news
+  | title = The new American navy; Secretary Tracy reports in favor of progress
+  | newspaper = The New York Times
+  | date = 1 December 1890
+  | url = https://timesmachine.nytimes.com/timesmachine/1890/12/01/103283622.pdf
+  | access-date = 24 June 2010
+  | ref = {{sfnRef|''The New York Times''|1 December 1890}}
+  }}
+* {{cite news
+  | title = Cramps claim of $1,367,244; House spends entire day on bill to refer it to the Court of Claims
+  | newspaper = The New York Times
+  | date = 19 January 1901
+  | url = https://timesmachine.nytimes.com/timesmachine/1901/01/19/117760399.pdf
+  | access-date = 4 June 2010
+  | ref = {{sfnRef|''The New York Times''|19 January 1901}}
+  }}
+* {{cite news
+  | title = Cramps lose $135,000 claim; asserted delay in building the Indiana cost them that
+  | newspaper = The New York Times
+  | date = 14 May 1907
+  | url = https://timesmachine.nytimes.com/timesmachine/1907/05/14/106752886.pdf
+  | access-date = 4 June 2010
+  | ref = {{sfnRef|''The New York Times''|14 May 1907}}
+  }}
+* {{cite news
+  | title = The war steamer Indiana; to be launched from the Cramp yards today
+  | newspaper = The New York Times
+  | date = 27 February 1893
+  | url = https://timesmachine.nytimes.com/timesmachine/1893/02/28/106861993.pdf
+  | access-date = 4 June 2010
+  | ref = {{sfnRef|''The New York Times''|27 February 1893}}
+  }}
+* {{cite news
+  | title = Launch of the Indiana; The big war ship glides into the water safely
+  | newspaper = The New York Times
+  | date = 28 February 1893
+  | url = https://timesmachine.nytimes.com/timesmachine/1893/03/01/106862058.pdf
+  | access-date = 6 June 2010
+  | ref = {{sfnRef|''The New York Times''|28 February 1893}}
+  }}
+* {{cite news
+  | title = Battle ship Indiana on trial; Builders preliminary test of her speed and machinery
+  | newspaper = The New York Times
+  | date = 7 March 1894
+  | url = https://timesmachine.nytimes.com/timesmachine/1894/03/07/106899388.pdf
+  | access-date = 4 June 2010
+  | ref = {{sfnRef|''The New York Times''|7 March 1894}}
+  }}
+* {{cite news
+  | title = Indiana makes a fast run; six-tenths of a knot better than required speed. Her preliminary trial most successful
+  | newspaper = The New York Times
+  | date = 9 March 1894
+  | url = https://timesmachine.nytimes.com/timesmachine/1894/03/09/106899736.pdf
+  | access-date = 4 June 2010
+  | ref = {{sfnRef|''The New York Times''|9 March 1894}}
+  }}
+* {{cite news
+  | title = The Indiana a wonder; Highly successful speed test of the new battleship
+  | newspaper = The New York Times
+  | date = 19 October 1895
+  | url = https://timesmachine.nytimes.com/timesmachine/1895/10/19/102477971.pdf
+  | access-date = 4 June 2010
+  | ref = {{sfnRef|''The New York Times''|19 October 1895}}
+  }}
+* {{cite news
+  | title = Cramps wants money due on cruisers
+  | newspaper = The New York Times
+  | date = 20 September 1894
+  | url = https://timesmachine.nytimes.com/timesmachine/1894/09/20/106916330.pdf
+  | access-date = 4 June 2010
+  | ref = {{sfnRef|''The New York Times''|20 September 1894}}
+  }}
+* {{cite news
+  | title = The Indiana is Accepted; Capt. Evans Placed in Command&nbsp;– The Boston Goes to China
+  | newspaper = The New York Times
+  | date = 19 November 1895
+  | url = https://timesmachine.nytimes.com/timesmachine/1895/11/20/102481390.pdf
+  | access-date = 17 May 2010
+  | ref = {{sfnRef|''The New York Times''|19 November 1895}}
+  }}
+* {{cite news
+  | title = The North Atlantic Squadron; Programme of the Evolutions It Will Make This Summer
+  | newspaper = The New York Times
+  | date = 18 June 1896
+  | url = https://timesmachine.nytimes.com/timesmachine/1896/06/18/503196642.pdf
+  | access-date = 17 May 2010
+  | ref = {{sfnRef|''The New York Times''|18 June 1896}}
+  }}
+* {{cite news
+  | title = Defects in the Indiana; Her Turrets Got Loose Again on the Trip with Admiral Bunce's Squadron
+  | newspaper = The New York Times
+  | date = 5 February 1897
+  | url = https://timesmachine.nytimes.com/timesmachine/1897/02/06/101099619.pdf
+  | access-date = 17 May 2010
+  | ref = {{sfnRef|''The New York Times''|5 February 1897}}
+  }}
+* {{cite news
+  | title = Where Our Warships Are; The Positions of the Vessels of the Navy According to the Latest Reports
+  | newspaper = The New York Times
+  | date = 1 April 1898
+  | url = https://timesmachine.nytimes.com/timesmachine/1898/04/01/102109398.pdf
+  | access-date = 17 May 2010
+  | ref = {{sfnRef|''The New York Times''|1 April 1898}}
+  }}
+* {{cite news
+  | title = The Santiago Off; Gen. Shafter's Command Leaves Key West for Cuba, Convoyed by a Powerful Fleet
+  | newspaper = The New York Times
+  | date = 12 June 1898
+  | url = https://timesmachine.nytimes.com/timesmachine/1898/06/13/102562929.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|12 June 1898}}
+  }}
+* {{cite news
+  | title = The Indiana at Santiago; Admiral Sampson Assures Capt. Taylor that He Meant No Criticism in His Report
+  | newspaper = The New York Times
+  | date = 26 August 1898
+  | url = https://timesmachine.nytimes.com/timesmachine/1898/08/26/102121723.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|26 August 1898}}
+  }}
+* {{cite news
+  | title = Sampson's Story of the Battle; Official Report of the Destruction of Cervera's Squadron
+  | newspaper = The New York Times
+  | date = 26 July 1898
+  | url = https://timesmachine.nytimes.com/timesmachine/1898/07/27/102118110.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|26 July 1898}}
+  }}
+* {{cite news
+  | title = Navy Short of Officers; There Are Not Enough to Keep Warships in Commission
+  | newspaper = The New York Times
+  | date = 14 April 1900
+  | url = https://timesmachine.nytimes.com/timesmachine/1900/04/15/101056325.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|14 April 1900}}
+  }}
+* {{cite news
+  | title = Hurry Order to the Navy; Department Wants to Find Out What Can Be Done in an Emergency
+  | newspaper = The New York Times
+  | date = 6 June 1900
+  | url = https://timesmachine.nytimes.com/timesmachine/1900/06/06/102597394.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|6 June 1900}}
+  }}
+* {{cite news
+  | title = Warships to Be Laid Up
+  | newspaper = The New York Times
+  | date = 20 August 1900
+  | url = https://timesmachine.nytimes.com/timesmachine/1900/08/21/102611852.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|20 August 1900}}
+  }}
+* {{cite news
+  | title = Battleship Assigned to Cadets
+  | newspaper = The New York Times
+  | date = 26 March 1901
+  | url = https://timesmachine.nytimes.com/timesmachine/1901/03/27/118462975.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|26 March 1901}}
+  }}
+* {{cite news
+  | title = More Men for the Navy; Plan to Increase the Force of Seamen to 50,000
+  | newspaper = The New York Times
+  | date = 8 April 1902
+  | url = https://timesmachine.nytimes.com/timesmachine/1902/04/08/101945588.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|8 April 1902}}
+  }}
+* {{cite news
+  | title = Battleship Indiana's Overhauling
+  | newspaper = The New York Times
+  | date = 19 November 1903
+  | url = https://timesmachine.nytimes.com/timesmachine/1903/11/30/105068020.pdf
+  | access-date = 18 May 2010
+  | ref = {{sfnRef|''The New York Times''|19 November 1903}}
+  }}
+* {{cite news
+  | title = Reconstructed Indiana ready
+  | newspaper = The New York Times
+  | date = 8 January 1906
+  | url = https://timesmachine.nytimes.com/timesmachine/1906/01/08/101425504.pdf
+  | access-date = 19 May 2010
+  | ref = {{sfnRef|''The New York Times''|8 January 1906}}
+  }}
+* {{cite news
+  | title = Plans Completed for Naval Review; Maritime Pageant Will Surpass Anything of the Kind Seen in American Waters
+  | newspaper = The New York Times
+  | date = 10 November 1907
+  | url = https://timesmachine.nytimes.com/timesmachine/1907/11/10/106767012.pdf
+  | access-date = 19 May 2010
+  | ref = {{sfnRef|''The New York Times''|10 November 1907}}
+  }}
+* {{cite news
+  | title = Battleship for the Middies; Three Assigned to Them for Next Summer's Cruise
+  | newspaper = The New York Times
+  | date = 27 November 1909
+  | url = https://timesmachine.nytimes.com/timesmachine/1909/11/27/101042237.pdf
+  | access-date = 19 May 2010
+  | ref = {{sfnRef|''The New York Times''|27 November 1909}}
+  }}
+* {{cite news
+  | title = Old Battleships to Become Targets; Indiana Expected to be the Next to be Riddled by the Atlantic Fleet
+  | newspaper = The New York Times
+  | date = 31 March 1913
+  | url = https://timesmachine.nytimes.com/timesmachine/1913/03/31/100259784.pdf
+  | access-date = 19 May 2010
+  | ref = {{sfnRef|''The New York Times''|31 March 1913}}
+  }}
+* {{cite news
+  | title = G. B. Landenberger, Navy Captain, Dies: Retired Officer Served for 35 – Held Many Important Posts During Career
+  | newspaper = The New York Times
+  | date = 16 January 1936
+  | page = 21
+  | url = http://select.nytimes.com/gst/abstract.html?res=F70F16FF3D5F167B93C4A8178AD85F428385F9
+  | ref = {{sfnRef|''The New York Times''|16 January 1936}}
+  }}
+
+===Other===
+* {{cite journal| doi = 10.1111/j.1559-3584.1901.tb03372.x| last = Bryan| first = B. C.| year = 1901| title = The Steaming Radius of United States Naval Vessels| journal = Journal of the American Society for Naval Engineers| volume = 13| issue = 1| pages = 50–69}} {{subscription required}}
+* {{cite journal
+  | last = Correll
+  | first = John T
+  | date = June 2008
+  | title = Billy Mitchell and the Battleships
+  | journal = Air Force Magazine
+  | volume = 91
+  | issue = 6
+  | publisher = [[Air Force Association]]
+  | location = [[Arlington, Virginia]]
+  | url = https://www.airforcemag.com/article/0608mitchell/
+  }}
+* {{cite DANFS
+  | title = Indiana I (Battleship No.1): 1895-1919
+  | url = https://www.history.navy.mil/research/histories/ship-histories/danfs/i/indiana-battleship-no-1-i.html
+  | access-date = 13 January 2017
+  | ref = {{sfnRef|DANFS Indiana (BB-1)}}
+  }}
+* {{cite journal
+  | title   = The Speed Trial of the United States Battleship Massachusetts
+  | journal = [[Scientific American]]
+  | volume  = 74
+  | pages   = 297
+  | date    = 9 May 1896
+  | ref = {{sfnRef|''Scientific American''|1896}}
+  }}
+* {{Cite journal |date=2009-03-18 |orig-date=February 1916 |first=Wm. Strother |last=Smith |title=Results of Model-Tank Experiments to Determine the Action of a Ship Brake |url=https://onlinelibrary.wiley.com/doi/10.1111/j.1559-3584.1916.tb00630.x |journal=Journal of the American Society for Naval Engineers |language=en |volume=28 |issue=1 |pages=303–308 |doi=10.1111/j.1559-3584.1916.tb00630.x |ref={{Sfnref|Smith|1916}} }}
+* {{cite DANFS
+  | title = Williamson (Destroyer No. 244)
+  | url = https://www.history.navy.mil/research/histories/ship-histories/danfs/w/williamson.html
+  | access-date = 13 January 2017
+  | ref = {{sfnRef|DANFS Williamson}}
+  | link = off
+  }}
+
+==Further reading==
+* {{cite journal
+  | last = Hall
+  | first = Harry
+  | date = November 1985
+  | title = Contract trial of the United States Coast-Line Battle Ship Indiana
+  | journal = Journal of the American Society of Naval Engineers
+  | volume = 7
+  | issue = 4
+  | page = 41 (scan page n749)
+  | url = https://archive.org/stream/journalamerican04engigoog#page/n748/mode/1up
+  }}
+
+== External links ==
+{{Commons category}}
+* {{navsource|01/01a|Indiana}}
+* [http://www.maritimequest.com/warship_directory/us_navy_pages/uss_indiana_bb1.htm MaritimeQuest USS Indiana BB-1 Photo Gallery]
+* {{YouTube|IkG_S3h0dWg|Library of Congress film "U.S. Battleship ''Indiana''"}}
+
+{{Indiana class battleship}}
+{{1920 shipwrecks}}
+{{Portal bar|Battleships|War|World War I}}
+{{Authority control}}
+
+{{DEFAULTSORT:Indiana (BB-1)}}
+[[Category:Indiana-class battleships]]
+[[Category:Spanish–American War battleships of the United States]]
+[[Category:World War I battleships of the United States]]
+[[Category:Ships built by William Cramp & Sons]]
+[[Category:1893 ships]]
+[[Category:Ships sunk as targets]]
+[[Category:Maritime incidents in 1920]]
+[[Category:Shipwrecks in the Chesapeake Bay]]

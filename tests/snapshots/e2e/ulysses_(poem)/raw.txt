@@ -1,0 +1,211 @@
+{{Short description|Poem by Alfred, Lord Tennyson}}
+{{Use dmy dates|date=February 2020}}
+[[File:Alfred Tennyson, 1st Baron Tennyson by George Frederic Watts.jpg|thumb|right|[[Alfred, Lord Tennyson]], author of "Ulysses", portrayed by [[George Frederic Watts]]]]
+
+"'''Ulysses'''" is a poem in [[blank verse]] by the [[Victorian era|Victorian]] poet [[Alfred, Lord Tennyson]] (1809–1892), written in 1833 and published in 1842 in his well-received [[Poems (Tennyson, 1842)|second volume of poetry]]. An oft-quoted poem, it is a popular example of the [[dramatic monologue]]. Facing old age, mythical hero [[Odysseus|Ulysses]] describes his discontent and restlessness upon returning to his kingdom, [[Homer's Ithaca|Ithaca]], after his far-ranging travels. Despite his reunion with his wife [[Penelope]] and his son [[Telemachus]], Ulysses yearns to explore again.
+
+The character of Ulysses (in [[Greek language|Greek]], [[Odysseus]]) has been explored widely in literature. The adventures of Odysseus were first recorded in [[Homer]]'s ''[[Iliad]]'' and ''[[Odyssey]]'' (c. 800–700 BC), and Tennyson draws on Homer's narrative in the poem. Most critics, however, find that Tennyson's Ulysses recalls [[Dante Alighieri|Dante's]] Ulisse in his ''[[The Divine Comedy#Inferno|Inferno]]'' (c. 1320). In Dante's re-telling, Ulisse is condemned to hell among the false counsellors, both for his pursuit of knowledge beyond human bounds and for creating the deception of the Trojan horse.
+
+For much of this poem's history, readers viewed Ulysses as resolute and heroic, admiring him for his determination "To strive, to seek, to find, and not to yield".{{sfn|Pettigrew|1963|p=28}} The view that Tennyson intended a heroic character is supported by his statements about the poem, and by the events in his life—the death of his closest friend—that prompted him to write it. In the twentieth century, some new interpretations of "Ulysses" highlighted potential [[irony|ironies]] in the poem. They argued, for example, that Ulysses wishes to selfishly abandon his kingdom and family, and they questioned more positive assessments of Ulysses' character by demonstrating how he resembles flawed protagonists in earlier literature. 
+
+==Synopsis and structure==
+As the poem begins, Ulysses has returned to his kingdom, Ithaca, having made a long journey home after fighting in the [[Trojan War]]. Confronted again by domestic life, Ulysses expresses his lack of contentment, including his indifference toward the "savage race" (line 4) whom he governs. Ulysses contrasts his present restlessness with his heroic past, and contemplates his old age and eventual death—"Life piled on life / Were all too little, and of one to me / Little remains" (24–26)—and longs for further experience and knowledge. His son Telemachus will inherit the throne that Ulysses finds burdensome. While Ulysses thinks that Telemachus will be a good king—"Most blameless is he, centred in the sphere / Of common duties" (39)—he seems to have lost any connection to his son—"He works his work, I mine" (43)—and the conventional methods of governing—"by slow prudence" and "through soft degrees" (36, 37). In the final section, Ulysses turns to his fellow mariners and calls on them to join him on another quest, making no guarantees as to their fate but attempting to conjure their heroic past:
+
+<poem>
+                  ... Come, my friends,
+     'Tis not too late to seek a newer world.
+     Push off, and sitting well in order smite
+     The sounding furrows; for my purpose holds
+     To sail beyond the sunset, and the baths
+     Of all the western stars, until I die.
+     It may be that the gulfs will wash us down;
+     It may be we shall touch the Happy Isles,
+     And see the great Achilles, whom we knew. <small>(56–64)</small>
+</poem>
+
+=== Prosody ===
+
+The speaker's language is unelaborated but forceful, and it expresses Ulysses' conflicting moods as he searches for continuity between his past and future.  There is often a marked contrast between the sentiment of Ulysses' words and the sounds that express them.<ref>{{Cite book |title=Victorian Poetry: An Annotated Anthology |last=O'Gorman, Francis |publisher=Blackwell Publishing |year=2004 |isbn=0-631-23436-5 |page=85}}</ref> For example, the poem's insistent [[iambic pentameter]] is often interrupted by [[spondee]]s ([[metrical feet]] that consist of two long syllables); such laboured language slows the poem (and in other places may cast doubt upon the [[unreliable narrator|reliability]] of Ulysses' utterances):
+
+<poem>
+     Yet all experience is an arch wherethro'
+     Gleams that untravell'd world, whose margin fades
+     For ever and for ever when I move. <small>(19–21)</small>
+</poem>
+
+Observing their burdensome [[prosodic]] effect, the poet [[Matthew Arnold]] remarked, "these three lines by themselves take up nearly as much time as a whole book of the ''Iliad''."<ref>Quoted in {{harvnb|Markley|2004|p=125}}.</ref> Many of the poem's clauses carry over into the following line; these [[enjambment]]s emphasize Ulysses' restlessness and dissatisfaction.<ref>{{Cite journal |last=Ostriker, Alicia |date=May 1967 |title=The Three Modes in Tennyson's Prosody |journal=PMLA |volume=82 |issue=2 |pages=273–284 |doi=10.2307/461298 |jstor=461298|s2cid=163716851 }}</ref>
+
+=== Form ===
+
+The poem's seventy lines of [[blank verse]] are presented as a [[dramatic monologue]]. Scholars disagree on how Ulysses' speech functions in this format; it is not necessarily clear to whom Ulysses is speaking, if anyone, and from what location. Some see the verse turning from a [[soliloquy]] to a public address, as Ulysses seems to speak to himself in the first movement, then to turn to an audience as he introduces his son, and then to relocate to the seashore where he addresses his mariners.{{sfn|Hughes|1979|p=201}} In this interpretation, the comparatively direct and honest language of the first movement is set against the more politically minded tone of the last two movements. For example, the second paragraph (33–43) about Telemachus, in which Ulysses muses again about domestic life, is a "revised version [of lines 1–5] for public consumption": a "savage race" is revised to a "rugged people".{{sfn|Pettigrew|1963|p=41}}
+
+The ironic interpretations of "Ulysses" may be the result of the modern tendency to consider the narrator of a dramatic monologue as necessarily "[[unreliable narrator|unreliable]]". According to critic Dwight Culler, the poem has been a victim of revisionist readings in which the reader expects to reconstruct the truth from a misleading narrator's accidental revelations.{{sfn|Culler|1975|p=368}} (Compare the more obvious use of this approach in Robert Browning's "[[My Last Duchess]]".) Culler himself views "Ulysses" as a [[dialectic]] in which the speaker weighs the virtues of a contemplative and an active approach to life;{{sfn|Markley|2004|p=126}} Ulysses moves through four emotional stages that are self-revelatory, not ironic: beginning with his rejection of the barren life to which he has returned in Ithaca, he then fondly recalls his heroic past, recognizes the validity of Telemachus' method of governing, and with these thoughts plans another journey.{{sfn|Culler|1975|p=383}}
+
+=== Publication history ===
+
+Tennyson completed the poem on 20 October 1833,{{sfn|Tennyson|Day|1991|p=360}} but it was not published until 1842, in his second collection of ''[[Poems (Tennyson, 1842)|Poems]]''. Unlike many of Tennyson's other important poems, "Ulysses" was not revised after its publication.<ref>{{Cite journal |last=Cressman, Edmund D. |date=Nov 1928 |title=The Classical Poems of Tennyson |journal=The Classical Journal |volume=24 |issue=2 |pages=98–111}}</ref>
+
+Tennyson originally blocked out the poem in four paragraphs, broken before lines 6, 33 and 44. In this structure, the first and third paragraphs are thematically parallel, but may be read as interior and exterior [[monologue]]s, respectively. However, the poem is often printed with the first paragraph break omitted.{{sfn|Pettigrew|1963|p=41}}
+
+==Interpretations==
+
+===Autobiographical elements===
+[[File:Arthur Henry Hallam bust.jpg|thumb|upright=0.6|The death of [[Arthur Henry Hallam]], a young poet and close friend of Tennyson, was devastating for him.]]
+
+Tennyson penned "Ulysses" after the death of his close [[University of Cambridge|Cambridge]] friend, the poet [[Arthur Henry Hallam]] (1811–1833), with whom Tennyson had a strong emotional bond. The two friends had spent much time discussing poetry and philosophy, writing verse, and travelling in [[southern France]], the [[Pyrenees]], and Germany. Tennyson considered Hallam destined for greatness, perhaps as a statesman.{{sfn|Hughes|1979|p=197}}
+
+When Tennyson heard on 1 October 1833 of his friend's death, he was living in [[Somersby, Lincolnshire|Somersby]], Lincolnshire, in cramped quarters with his mother and nine of his ten siblings. His father had died in 1831, requiring Tennyson to return home and take responsibility for the family. Tennyson's friends were becoming increasingly concerned about his mental and physical health during this time. The family had little income, and three of Tennyson's brothers were mentally ill. Just as Tennyson's outlook was improving—he was adjusting to his new domestic duties, regaining contact with friends, and had published his 1832 book of poems—the news of Hallam's death arrived. Tennyson shared his grief with his sister, [[Emilia Tennyson|Emily]], who had been engaged to Hallam.
+
+According to Victorian scholar [[Linda K. Hughes|Linda Hughes]], the emotional gulf between the state of his domestic affairs and the loss of his special friendship informs the reading of "Ulysses"—particularly its treatment of domesticity.{{sfn|Hughes|1979|pp=192–203}} At one moment, Ulysses' discontent seems to mirror that of Tennyson, who would have been frustrated with managing the house in such a state of grief. At the next, Ulysses is determined to transcend his age and his environment by travelling again. It may be that Ulysses' determination to defy circumstance attracted Tennyson to the myth;{{sfn|Hughes|1979|p=199}} he said that the poem "gave my feeling about the need of going forward and braving the struggle of life".<ref>Widely quoted; see for example {{harvnb|Stanford|1993|p=202}}.</ref> On another occasion, the poet stated, "There is more about myself in ''Ulysses'', which was written under the sense of loss and that all had gone by, but that still life must be fought out to the end. It was more written with the feeling of his loss upon me than many poems in ''In Memoriam''."<ref>Quoted in {{harvnb|Hughes|1979|p=195}}.</ref> Hallam's death influenced much of Tennyson's poetry, including perhaps his most highly regarded work, ''[[In Memoriam A.H.H.]]'', begun in 1833 and completed seventeen years later.{{sfn|Hughes|1979|pp=192–203}}
+
+Other critics find stylistic incongruities between the poem and its author that make "Ulysses" exceptional. W. W. Robson writes, "Tennyson, the responsible social being, the admirably serious and 'committed' individual, is uttering strenuous sentiments in the accent of Tennyson the most un-strenuous, lonely and poignant of poets."{{sfn|Robson|1960|p=159}} He finds that Tennyson's two widely noted personae, the "responsible social being" and the melancholic poet, meet uniquely in "Ulysses", yet seem not to recognize each other within the text.{{sfn|Robson|1960|p=159}}
+
+===Literary context===
+[[File:Mosaïque d'Ulysse et les sirènes.jpg|thumb|A Roman [[mosaic]] depicting a maritime scene with [[Odysseus]] (Ulysses), from [[Carthage]], 2nd century AD]]
+
+Tennyson adopts aspects of the Ulysses character and narrative from many sources; his treatment of Ulysses is the first modern account.{{sfn|Stanford|1993|p=202}} The [[ancient Greek]] poet [[Homer]] introduced Ulysses ([[Odysseus]] in Greek<ref>The word "Ulysses" (more correctly "Ulixes") is the Latin form of the Greek "[[Odysseus]]", source of the word "odyssey".</ref>), and many later poets took up the character, including [[Euripides]],<ref>Tennyson wrote in the margin of [[Euripides]]' ''Hecabe'', "Ulysses is, as usual, crafty [and] unfeeling" ({{harvnb|Markley|2004|p=123}}).</ref> [[Horace]], [[Dante]], [[William Shakespeare]], and [[Alexander Pope]].  Homer's ''Odyssey'' provides the poem's narrative background: in its eleventh book the prophet [[Tiresias]] foretells that Ulysses will return to Ithaca after a difficult voyage, then begin a new, mysterious voyage, and later die a peaceful, "unwarlike" death that comes vaguely "from the sea". At the conclusion of Tennyson's poem, his Ulysses is contemplating undertaking this new voyage.
+
+Tennyson's character, however, is not the lover of public affairs seen in Homer's poems. Rather, "Ulisse" from [[Dante]]'s ''[[The Divine Comedy#Inferno|Inferno]]'' is Tennyson's main source for the character,{{sfn|Pettigrew|1963|p=31}} which has an important effect on the poem's interpretation. Ulisse recalls his voyage in the ''Inferno''{{'}}s 26th [[canto]], in which he is condemned to the Eighth Circle of false counsellors for misusing his gift of reason. Dante treats Ulisse, with his "zeal …/ T'explore the world", as an evil counsellor who lusts for adventure at the expense of his family and his duties in Ithaca.{{sfn|Rowlinson|1994|p=241}} Tennyson projects this zeal into Ulysses' unquenched desire for knowledge:<ref>{{Cite book |title=Reading Joyce's Ulysses |last=Schwarz |first=D. R. |date=1987 |publisher=St. Martin's Press |isbn=0-312-66458-3 |location=New York |page=[https://archive.org/details/readingjoycesuly00schw/page/39 39] |url=https://archive.org/details/readingjoycesuly00schw/page/39 }}</ref>
+
+<poem>
+     And this gray spirit yearning in desire
+     To follow knowledge like a sinking star,
+     Beyond the utmost bound of human thought. <small>(30–32)</small>
+</poem>
+
+The poet's intention to recall the Homeric character remains evident in certain passages. "I am become a name" (11) recalls an episode in the ''Odyssey'' in which [[Demodocus (Homer)|Demodocus]] sings about Odysseus' adventures in the king's presence, acknowledging his fame. With phrases such as "There gloom the dark broad seas" (45) and "The deep / Moans round with many voices" (55–56), Tennyson seems to be consciously invoking Homer.{{sfn|Markley|2004|p=124}}
+
+Critics have also noted the influence of Shakespeare in two passages. In the early movement, the savage race "That hoard, and sleep, and feed, and know not me" (5) echoes [[Prince Hamlet|Hamlet]]'s [[soliloquy]]: "What is a man, / If his chief good and market of his time / Be but to sleep and feed? A beast, no more."<ref>IV, iv. 32 ff., quoted in {{Cite journal |last=Bush |first=Douglas |date=Jan 1943 |title=Tennyson's 'Ulysses' and 'Hamlet' |journal=The Modern Language Review |volume=38 |issue=1 |page=38|doi=10.2307/3717372 |jstor=3717372 }}</ref> Tennyson's "How dull it is to pause, to make an end, / To rust unburnish’d, not to shine in use!" (22–23) recalls Shakespeare's Ulysses in ''[[Troilus and Cressida]]'' (c. 1602):<ref>''Troilus and Cressida'', Act III, Scene III, quoted in {{harvnb|Stanford|1993|p=203}}.</ref>
+<poem>
+                  perseverance, my dear lord,
+     Keeps honour bright: to have done is to hang
+     Quite out of fashion, like a rusty mail,
+     In monumental mockery.
+</poem>
+
+[[File:Blake Dante Hell XXVI Ulisses.jpg|thumb|right|150px|In one of [[William Blake]]'s [[watercolor painting|watercolors]] (1824–1827) illustrating [[Dante]]'s ''[[Inferno (Dante)|Inferno]]'', [[Odysseus|Ulysses]] and [[Diomedes]] are condemned to the [[Inferno (Dante)#Eighth Circle (Fraud)|Eighth Circle]].<ref>{{Cite web |url=http://www.ngv.vic.gov.au/collection/international/print/b/blake/ipd00062.html |title=Ulysses and Diomed Swathed in the Same Flame, 1824–182 |date=1999 |website=[[National Gallery of Victoria]] |access-date=21 October 2007}}</ref>]]
+
+The last movement of "Ulysses", which is among the most familiar passages in English poetry of the period, presents decisive evidence of the influence of Dante.{{sfn|Robson|1960|pp=155–163}}{{sfn|Stanford|1993|pp=203–204}} Ulysses turns his attention from himself and his kingdom and speaks of ports, seas, and his mariners. The strains of discontent and weakness in old age remain throughout the poem, but Tennyson finally leaves Ulysses "To strive, to seek, to find, and not to yield" (70), recalling the Dantesque damnable desire for knowledge beyond all bounds. The words of Dante's character as he exhorts his men to the journey find parallel in those of Tennyson's Ulysses, who calls his men to join him on one last voyage. Quoting Dante's Ulisse:
+
+<poem>
+     'O brothers', said I, 'who are come despite
+     Ten thousand perils to the West, let none,
+     While still our senses hold the vigil slight
+     Remaining to us ere our course is run,
+     Be willing to forgo experience
+     Of the unpeopled world beyond the sun.
+     Regard your origin,—from whom and whence!
+     Not to exist like brutes, but made were ye
+     To follow virtue and intelligence'.<ref>Dante, ''Inferno'' XXVI; quoted in {{harvnb|Robson|1960|pp=155–163}}.</ref>
+</poem>
+
+Critics note, however, that in the Homeric narrative, Ulysses' original mariners are dead. A tension may therefore be found in Ulysses' speech to his sailors ("Come, my friends,{{nbsp}}/ 'Tis not too late to seek a newer world{{nbsp}}/ ..." [56–57]). Since Dante's Ulisse has already undertaken this voyage and recounts it in the ''Inferno'', Ulysses' entire monologue can be envisioned as his recollection while situated in Hell.{{sfn|Rowlinson|1994|p=132}}
+
+===From affirmation to irony===
+
+[[File:Paradise Lost 2.jpg|right|thumb|"Satan rises from the burning lake" (1866) by [[Gustave Doré]]; a critical interpretation of the poem compares Ulysses' final sentiments with Satan's "courage never to submit or yield" in [[John Milton]]'s ''[[Paradise Lost]]''.]]
+
+The degree to which Tennyson identifies with Ulysses has provided one of the great debates among scholars of the poem.{{sfn|Hughes|1979|pp=192–203}} Critics who find that Tennyson identifies with the speaker read Ulysses' speech "affirmatively", or without [[irony]]. Many other interpretations of the poem have developed from the argument that Tennyson does not identify with Ulysses, and further criticism has suggested that the purported inconsistencies in Ulysses' character are the fault of the poet himself.
+
+Key to the affirmative reading of "Ulysses" is the biographical context of the poem.  Such a reading takes into account Tennyson's statements about writing the poem—"the need of going forward"—and considers that he would not undermine Ulysses' determination with irony when he needed a similar stalwartness to face life after Hallam's death. The passion and conviction of Tennyson's language—and even his own comments on the poem—signify that the poet, as was typical in the Victorian age, admired courage and persistence. Read straightforwardly, "Ulysses" promotes the questing spirit of youth, even in old age, and a refusal to resign and face life passively. Ulysses is thus seen as a heroic character whose determination to seek "some work of noble note" (52) is courageous in the face of a "still hearth" (2) and old age.<ref>Tennyson, however, discouraged an autobiographical interpretation of his monologues ({{harvnb|Campbell|1999|p=130}}).</ref>{{sfn|Hughes|1979|p=194}}
+
+Until the early twentieth century, readers reacted to "Ulysses" sympathetically. The meaning of the poem was increasingly debated as Tennyson's stature rose. After Paull F. Baum criticized Ulysses' inconsistencies and Tennyson's conception of the poem in 1948,<ref>{{Cite book |title=Tennyson Sixty Years After |last=Baum |first=Paull F. |date=1948 |publisher=University of North Carolina Press |location=Chapel Hill}}</ref> the ironic interpretation became dominant.{{sfn|Hughes|1979|p=200}} Baum finds in Ulysses echoes of [[Byronic hero|Lord Byron's flawed heroes]], who similarly display conflicting emotions, self-critical introspection, and a rejection of social responsibility. Even Ulysses' resolute final utterance—"To strive, to seek, to find, and not to yield"—is undercut by irony, when Baum and later critics compare this line to [[Satan]]'s "courage never to submit or yield" in [[John Milton]]'s ''[[Paradise Lost]]'' (1667).<ref>{{harvnb|Baum|1948}}, cited in {{harvnb|Pettigrew|1963|pp=27–45}}.</ref>
+
+Ulysses' apparent disdain for those around him is another facet of the ironic perspective. He declares that he is "matched with an aged wife" (3), indicates his weariness in governing a "savage race" (4), and suggests his philosophical distance from his son Telemachus. A skeptical reading of the second paragraph finds it a condescending tribute to Telemachus and a rejection of his "slow prudence" (36). However, the adjectives used to describe Telemachus—"blameless", "discerning", and "decent"—are words with positive connotations in other of Tennyson's poetry and within the classical tradition.{{sfn|Hughes|1979|p=194}}
+
+Other ironic readings have found Ulysses longing for withdrawal, even death, in the form of his proposed quest.  In noting the sense of passivity in the poem, critics highlight Tennyson's tendency toward the melancholic. "Ulysses" is found lacking in narrative action; the hero's goal is vague, and by the poem's famous last line, it is not clear for what he is "striving", or to what he refuses to yield. [[Goldwin Smith]] wrote in 1855 that Ulysses "intends to roam, but stands for ever a listless and melancholy figure on the shore".<ref>Quoted in {{Cite journal |last=Tate |first=Gregory |date=2009 |title=Tennyson and the Embodied Mind |journal=Victorian Poetry |volume=47 |issue=1 |pages=61–80|doi=10.1353/vp.0.0051 |jstor=40347426 |hdl=10023/7659 |s2cid=144631573 |hdl-access=free }}</ref> [[T. S. Eliot]], who praised the poem, still opined that "Tennyson could not tell a story at all";{{sfn|Eliot|1960|pp=207–218}} he found Dante's treatment of Ulysses exciting compared to Tennyson's "elegiac mood".{{sfn|Eliot|1960|p=210}} Victorian scholar Herbert Tucker suggests that the goal of Tennyson's characters is to be moved inwardly by moving through time and space.{{sfn|Tucker|1983|p=11}} Ulysses says he finds experience "somewhere out there",{{sfn|Tucker|1983|p=11}}
+
+<poem>
+      ... an arch wherethro'
+     Gleams that untravell'd world whose margin fades
+     For ever and for ever when I move. <small>(19–21)</small>
+</poem>
+
+==Legacy==
+
+[[File:Alfred Tennyson, 1st Baron Tennyson - Project Gutenberg eText 17768.jpg|thumb|left|upright|Tennyson, as [[Poet Laureate]], used verse to promote [[British Empire|Empire]]. "Ulysses" has been interpreted as anticipating the concept of [[imperialism]].]]
+
+===Contemporary appraisal and canonization===
+
+Contemporary reviews of "Ulysses" were positive and found no irony in the poem. Author [[John Sterling (author)|John Sterling]]—like Tennyson a member of the [[Cambridge Apostles]]—wrote in the ''[[Quarterly Review]]'' in 1842, "How superior is 'Ulysses'! There is in this work a delightful epic tone, and a clear impassioned wisdom quietly carving its sage words and graceful figures on pale but lasting marble."<ref name="MarkleyQ124">Quoted in {{harvnb|Markley|2004|p=124}}.</ref> Tennyson's 1842 volume of poetry impressed Scottish writer [[Thomas Carlyle]]. Quoting three lines of "Ulysses" in an 1842 letter to Tennyson—
+
+<poem>
+     It may be that the gulfs will wash us down,
+     It may be we shall touch the happy Isles
+     And see the great Achilles whom we knew! [sic] <small>(62–64)</small>
+</poem>
+
+—Carlyle remarked, "These lines do not make me weep, but there is in me what would fill whole Lachrymatories as I read."<ref>{{Cite journal |last=Sanders, Charles Richard |date=March 1961 |title=Carlyle and Tennyson |journal=PMLA |volume=76 |issue=1 |pages=82–97 |doi=10.2307/460317 |jstor=460317|s2cid=164191497 }}</ref>
+
+English theologian [[Richard Holt Hutton]] summarized the poem as Tennyson's "friendly picture of the insatiable craving for new experience, enterprise, and adventure, when under the control of a luminous reason and a self-controlled will."<ref name="qstorch">Quoted in {{harvnb|Storch|1971|p=283}}.</ref> The contemporary poet [[Matthew Arnold]] was early in observing the narrative irony of the poem: he found Ulysses' speech "the least ''plain'', the most ''un-Homeric'', which can possibly be conceived. Homer presents his thought to you just as it wells from the source of his mind: Mr. Tennyson carefully distils his thought before he will part with it. Hence comes ... a heightened and elaborate air."<ref name="MarkleyQ124" />
+
+Despite the early critical acclaim of "Ulysses", its rise within the Tennyson canon took decades. Tennyson did not usually select it for publication in poetry anthologies; in teaching anthologies, however, the poem was usually included—and it remains a popular teaching poem today. Its current prominence in Tennyson's oeuvre is the result of two trends, according to Tennyson scholar [[Matthew Rowlinson]]: the rise of formal English poetry studies in the late nineteenth century, and the [[Victorian era|Victorian]] effort to articulate a British culture that could be exported.{{sfn|Rowlinson|1992|p=267}} He argues that "Ulysses" forms part of the prehistory of [[imperialism]]—a term that only appeared in the language in 1851. The protagonist sounds like a "colonial administrator", and his reference to seeking a newer world (57) echoes the phrase "[[New World]]", which became common during the [[Renaissance]]. While "Ulysses" cannot be read as overtly imperialistic, Tennyson's later work as [[Poet Laureate]] sometimes argues for the value of Britain's colonies, or was accused of jingoism.{{sfn|Rowlinson|1992|p=265–276}}
+
+===Literary and cultural legacy===
+
+In a 1929 essay, [[T. S. Eliot]] called "Ulysses" a "perfect poem".<ref name="eliot2">{{Cite book |title=Selected Essays, 1917–1932 |last=Eliot, T. S. |date=1950 |publisher=Harcourt Brace Jovanovich |isbn=0-15-180387-0 |location=New York |page=210}}</ref> An analogue of Ulysses is found in Eliot's "[[Gerontion]]" (1920). Both poems are narrated by an aged man contemplating life's end. An excerpt from "Gerontion" reads as an ironic comment on the introductory lines of "Ulysses":{{sfn|Fulweiler|1993|p=170}}
+
+<poem>
+     Rocks, moss, stonecrop, iron, merds.
+     The woman keeps the kitchen, makes tea,
+     Sneezes at evening, poking the peevish gutter.
+
+                 I am an old man,
+     A dull head among windy places. <small>(13–17)</small>
+</poem>
+
+The Italian poet [[Giovanni Pascoli]] (1855–1912) stated that his long lyric poem ''L'ultimo viaggio'' was an attempt to reconcile the portrayals of Ulysses in Dante and Tennyson with [[Tiresias]]'s prophecy that Ulysses would die "a mild death off the sea".{{sfn|Stanford|1993|p=205}} Pascoli's Ulysses leaves Ithaca to retrace his epic voyage rather than begin another.
+
+"Ulysses" remains much admired, even as the twentieth century brought new interpretations of the poem.{{sfn|Pettigrew|1963|p=27}} Professor of literature [[Basil Willey]] commented in 1956, "In 'Ulysses' the sense that he must press on and not moulder in idleness is expressed objectively, through the classical story, and not subjectively as his own experience. [Tennyson] comes here as near perfection in the grand manner as he ever did; the poem is flawless in tone from beginning to end; spare, grave, free from excessive decoration, and full of firmly controlled feeling."<ref name="qstorch" /> In the fifteenth edition of ''[[Bartlett's Familiar Quotations]]'' (1980), nine sections of "Ulysses", comprising 36 of the poem's 70 lines, are quoted,<ref>{{Cite book |title=[[Bartlett's Familiar Quotations]] |last=Bartlett, John |author-link=John Bartlett (publisher) |publisher=[[Little, Brown and Company]] |year=1980 |isbn=0-316-08275-9 |editor-last=Beck, Emily |edition=Fifteenth |page=529}}</ref> compared to only six in the ninth edition of 1891.
+
+Many readers have found the acclaimed last lines of the poem inspirational. The final line has been used as a motto by schools and other organisations; cited in a number of speeches; was used in the final episode of the original run of the TV show ''[[Frasier]]'', "[[Goodnight, Seattle]]";<ref>{{Citation |title="Goodnight Seattle" - Frasier Finale |url=https://www.youtube.com/watch?v=YgZ5uDfrYYs |access-date=2023-04-30 |language=en}}</ref><ref>{{Citation |title=Frasier's Speech - Alfred Lord Tennyson's Ulysses |url=https://www.youtube.com/watch?v=5Dj6cjvPpps |access-date=2023-04-30 |language=en}}</ref> and is inscribed on a cross at [[Observation Hill (McMurdo Station)|Observation Hill]], Antarctica, to commemorate explorer [[Robert Falcon Scott]] and his party, who died on their [[Terra Nova Expedition|return trek]] from the [[South Pole]] in 1912.<ref>{{Cite journal |last=Maher, Patrick |year=2005 |title=A Ulysses Connection: Examining Experiences in the Ross Sea Region, Antarctica |journal=Journal of Experiential Education |volume=27 |issue=3 |pages=311–313 |doi=10.1177/105382590502700313|s2cid=150897764 }}</ref><ref name=":0">{{Cite journal |last=Tate |first=Gregory |date=2012 |title=The Last Lines of 'Ulysses' |url=https://www.jstor.org/stable/45288572 |journal=Tennyson Research Bulletin |volume=10 |issue=1 |pages=66–70 |jstor=45288572 |issn=0082-2841}}</ref> The line was included on a wall in the [[Athletes Village, London|athletes village]] at the [[2012 Summer Olympics]] in London.<ref name=":0" /> "Ulysses"{{nbsp}}concludes:
+<!--** This article is a Featured Article. Other mentions of the poem's use need to be substantive - not a quick gloss - and need be sourced to substantive secondary references. See [[WP:TRIVIA]]. No James Bond speech unless there is critical commentary; no book titles. **-->
+
+<poem>
+     Tho' much is taken, much abides; and tho'
+     We are not now that strength which in old days
+     Moved earth and heaven; that which we are, we are;
+     One equal temper of heroic hearts,
+     Made weak by time and fate, but strong in will
+     To strive, to seek, to find, and not to yield. <small>(65–70)</small>
+</poem>
+
+==Notes==
+
+{{Reflist|30em}}
+
+==References==
+
+''Excerpts from "Ulysses" are given line numbers in parentheses, and are sourced from Tennyson, A. T., & Day, A. (1991). References to paragraph (stanza) numbers correspond to the more common, three-paragraph printing of the poem.''
+*{{Cite book |url=https://archive.org/details/rhythmwillinvict0000camp |title=Rhythm & Will in Victorian Poetry |last=Campbell |first=Matthew |publisher=Cambridge University Press |year=1999 |isbn=0-521-64295-7 |url-access=registration}}
+*{{Cite journal |last=Culler |first=A. Dwight |date=1975 |title=Monodrama and the Dramatic Monologue |journal=PMLA  |volume=90 |issue=3 |pages=366–385 |doi=10.2307/461625 |jstor=461625|s2cid=163661689 }}
+*{{Cite book |title=Critical Essays on the Poetry of Tennyson |last=Eliot |first=T. S. |publisher=Routledge & Kegan Paul |year=1960 |editor-last=Killham, John |location=London |pages=207–218 |chapter=In Memoriam |oclc=284354}} 
+*{{Cite book |title="Here a Captive Heart Busted": Studies in the Sentimental Journey of Modern Literature |last=Fulweiler |first=H. W. |date=1993 |publisher=Fordham University Press |isbn=0-8232-1496-6 |location=New York}}
+*{{Cite journal |last=Hughes |first=Linda K. |year=1979 |title=Dramatis and Private Personae: 'Ulysses' Revisited |journal=Victorian Poetry |volume=17 |issue=3 |pages=192–203}}
+*{{Cite book |url=https://archive.org/details/stateliestmeasur0000mark |title=Stateliest Measures: Tennyson and the Literature of Greece and Rome |last=Markley |first=A. A. |publisher=University of Toronto Press |year=2004 |isbn=0-8020-8937-2 |url-access=registration}}
+*{{Cite journal |last=Pettigrew |first=John |year=1963 |title=Tennyson's 'Ulysses': A Reconciliation of Opposites |journal=Victorian Poetry |volume=1 |pages=27–45}}
+*{{Cite book |title=Critical Essays on the Poetry of Tennyson |last=Robson |first=W. W. |publisher=Routledge & Kegan Paul |year=1960 |editor-last=Killham, John |location=London |pages=155–163 |chapter=The Dilemma of Tennyson |oclc=284354}}
+*{{Cite journal |last=Rowlinson |first=Matthew |year=1992 |title=The Ideological Moment of Tennyson's 'Ulysses' |journal=Victorian Poetry |volume=30 |issue=3/4 |pages=265–276}}
+*{{Cite book |title=Tennyson's Fixations: Psychoanalysis and the Topics of the Early Poetry |last=Rowlinson |first=M. C. |date=1994 |publisher=University Press of Virginia |isbn=0-8139-1478-7 |series=Victorian literature and culture |location=Charlottesville |url-access=registration |url=https://archive.org/details/tennysonsfixatio0000rowl }}
+*{{Cite book |title=The Ulysses Theme: a Study in the Adaptability of a Traditional Hero |last=Stanford |first=W. B. |publisher=Spring Publications |year=1993 |isbn=0-88214-355-7 |location=Dallas, TX |orig-year=1955}}
+*{{Cite journal |last=Storch |first=R. F. |year=1971 |title=The Fugitive from the Ancestral Hearth: Tennyson's 'Ulysses' |journal=Texas Studies in Literature and Language |volume=13 |issue=2 |pages=281–297}}
+*{{Cite book |title=Alfred Lord Tennyson: Selected Poems |last1=Tennyson |first1=A. T. |last2=Day |first2=A. |date=1991 |publisher=Penguin Books |isbn=0-14-044545-5 |location=London}}
+*{{Cite journal |last=Tucker |first=Herbert F. Jr. |date=January 1983 |title=Tennyson and the Measure of Doom |journal=PMLA |volume=98 |issue=1 |pages=8–20 |doi=10.2307/462069 |jstor=462069|s2cid=163566360 }}
+
+==External links==
+{{wikisource|Poems (Tennyson, 1843)/Volume 2/Ulysses|"Ulysses"}}
+{{Spoken Wikipedia|En-Ulysses (poem)-article.ogg|date=2016-08-21}}
+*[http://rpo.library.utoronto.ca/poems/ulysses Text of "Ulysses"] with annotations at Representative Poetry Online.
+*[https://web.archive.org/web/20060610050749/http://charon.sfsu.edu/TENNYSON/ULYSSES.HTML A reading of "Ulysses"] by Sir [[Lewis Casson]] (1875–1969).
+*Landow, George P. "[http://www.victorianweb.org/authors/tennyson/ulysses.html Alfred Tennyson's "Ulysses"]". ''The Victorian Web''.
+
+{{Alfred Tennyson}}
+{{Odyssey navbox}}
+
+{{featured article}}
+
+{{DEFAULTSORT:Ulysses (poem)}}
+[[Category:1833 poems]]
+[[Category:1842 poems]]
+[[Category:Poetry by Alfred, Lord Tennyson]]
+[[Category:Poetry based on the Odyssey]]

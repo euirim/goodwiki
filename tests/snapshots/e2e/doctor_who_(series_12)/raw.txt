@@ -1,0 +1,704 @@
+{{good article}}
+{{short description|2020 series of Doctor Who}} 
+{{About|the 2020 series|the 1974–75 season|Doctor Who (season 12)}}
+{{Use dmy dates|date=November 2018}}
+{{Use British English|date=November 2018}}
+{{Infobox television season
+| bgcolour             = #454CB8
+| image                = Doctor Who Series 12.png
+| caption              = DVD box set cover art
+| starring             = {{Plainlist|
+* [[Jodie Whittaker]]
+* [[Bradley Walsh]]
+* [[Tosin Cole]]
+* [[Mandip Gill]]
+}}
+| country              = United Kingdom
+| num_stories          = 8
+| num_episodes         = 10
+| network              = [[BBC One]]
+| first_aired          = {{Start date|2020|1|1|df=y}}
+| last_aired           = {{End date|2020|3|1|df=y}}
+| episode_list         = List of Doctor Who episodes (2005–present)
+}}
+
+The twelfth series of the [[British television|British]] [[science fiction on television|science fiction television]] programme ''[[Doctor Who]]'' premiered on 1 January 2020 and aired until 1 March 2020. It is the second series to be led by [[Chris Chibnall]] as head writer and executive producer, alongside executive producer Matt Strevens, the twelfth to air after the programme's revival in 2005, and the thirty-eighth season overall. The twelfth series was broadcast on Sundays, except for the premiere episode, continuing the trend from the [[Doctor Who (series 11)|eleventh series]]. Prior to the eleventh series, regular episodes of the revived era were commonly broadcast on Saturdays. The series was followed by the 2021 New Year's Day special, "[[Revolution of the Daleks]]".
+
+[[Jodie Whittaker]] returns for her second series as the [[Thirteenth Doctor]], an incarnation of [[The Doctor (Doctor Who)|the Doctor]], an alien [[Time Lord]] who travels through time and space in her [[TARDIS]], which appears from the outside to be an old fashioned British [[police box]]. It also stars [[Bradley Walsh]], [[Tosin Cole]] and [[Mandip Gill]] as the Doctor's travelling [[Companion (Doctor Who)|companions]], playing [[Graham O'Brien]], [[Ryan Sinclair]] and [[Yasmin Khan (Doctor Who)|Yasmin Khan]], respectively. The series follows the Thirteenth Doctor and her companions as they meet a new incarnation of the [[Master (Doctor Who)|Master]], and his destruction of [[Gallifrey]], the return of [[Jack Harkness]], the appearance of an unknown incarnation of the Doctor, the [[Cybermen]], and the secret of the "Timeless Child".
+
+The ten episodes were directed by [[Jamie Magnus Stone]], Lee Haven Jones, [[Nida Manzoor]] and Emma Sullivan. Alongside Chibnall, who wrote four of the scripts and co-wrote a further three, the writers include [[Ed Hime]], [[Pete McTighe]] and [[Vinay Patel]], who return from writing the previous series, as well as new contributors [[Nina Metivier]], [[Maxine Alderton]] and [[Charlene James]]. Filming commenced in January 2019 and had concluded by November 2019.
+
+==Episodes==
+{{See also|List of Doctor Who episodes (2005–present)}}
+The twelfth series included two-part stories for the first time since the [[Doctor Who (series 10)|tenth series]], and more than one two-part story for the first time since the [[Doctor Who (series 9)|ninth series]].<ref name="TwoParters" /> "[[Spyfall (Doctor Who)|Spyfall]]" is the first two-part story not to use separate titles for its episodes since "[[The End of Time (Doctor Who)|The End of Time]]" (2009–10).<ref>{{cite web |url=https://www.blogtorwho.com/doctor-who-will-return-in-spyfall/ |title=Doctor Who will return in… "Spyfall" |work=Blogtor Who |first=Peter |last=Nolan |date=2 December 2019 |access-date=4 December 2019 |archive-date=3 December 2019 |archive-url=https://web.archive.org/web/20191203015706/https://www.blogtorwho.com/doctor-who-will-return-in-spyfall/ |url-status=live }}</ref>
+
+<onlyinclude>{{Episode table |background = #454CB8 |overall = 6 |series = 6 |title = 20 |director = 14 |writer = 23 |airdate = 16 |viewers = 9 |aux4 = 6 |country = UK
+| overallT   = {{Abbr|No.|Number}}<br />story
+| aux4T      = [[Appreciation Index|{{abbr|AI|Appreciation Index|style=color:white}}]]
+| aux4R      = <ref name="AllRatings" />
+| viewersR   = <ref name="AllRatings" />
+| episodes   =
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 288a
+| EpisodeNumber2     = 1
+| Title              = [[Spyfall (Doctor Who)|Spyfall, Part 1]]<!--In the case of differing titles between in-episode titles and official episode listings, WP:TV has always deferred to the official episode listings by the series' original broadcast network (i.e. the BBC's website episode guide).-->
+| DirectedBy         = [[Jamie Magnus Stone]]
+| WrittenBy          = [[Chris Chibnall]]
+| OriginalAirDate    = {{Start date|2020|1|1|df=y}}
+| Viewers            = 6.89
+| Aux4               = 82
+| ShortSummary       = The Doctor, Yaz, Graham, and Ryan are called into [[MI6]] by [[Chief of the Secret Intelligence Service|C]] to investigate mysterious deaths. Their only lead is Daniel Barton, the CEO of a media company. The Doctor contacts Agent O, who was tasked with monitoring extraterrestrial activities. An alien Kasaavin kills C, but the Doctor and her companions escape. Yaz and Ryan investigate Barton, who invites them to his birthday party. Graham and the Doctor find O in the [[Outback|Australian outback]]. Both groups encounter the Kasaavin, though the Doctor is able to capture one of them, discovering their hostile intentions. While sneaking into Barton's headquarters with Ryan, Yaz is captured by a Kasaavin, and the Doctor's captured Kasaavin frees itself by replacing itself with Yaz. Joined by O, the four investigate Barton at his party. After the Doctor reveals him, Barton tries to escape, so the Doctor and her companions pursue on motorbikes to Barton's private jet. Leaping aboard the jet, O reveals he is actually [[the Master (Doctor Who)|The Master]] &ndash; having been in control of Barton and the Kasaavins the whole time. A bomb detonates, and the Master escapes while the Doctor is captured by one of the aliens, leaving her companions in the falling plane.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 288b
+| EpisodeNumber2     = 2
+| Title              = [[Spyfall (Doctor Who)|Spyfall, Part 2]]<!--In the case of differing titles between in-episode titles and official episode listings, WP:TV has always deferred to the official episode listings by the series' original broadcast network (i.e. the BBC's website episode guide).-->
+| DirectedBy         = Lee Haven Jones
+| WrittenBy          = Chris Chibnall
+| OriginalAirDate    = {{Start date|2020|1|5|df=y}}
+| Viewers            = 6.07
+| Aux4               = 82
+| ShortSummary       = In the aliens' dimension, the Doctor meets [[Ada Lovelace]], and they are both transported to 1834. The Doctor summons a Kasaavin, hoping it will take her back to the 21st century, but Ada abruptly joins her. In the present, Ryan discovers how to safely land the plane after finding a recording of the Doctor, but Barton brands the companions as fugitives. The Doctor and Ada accidentally land in Paris during [[World War II]], but are rescued by [[Noor Inayat Khan]]. The Master tracks the Doctor disguised as a Nazi, though she arranges a meeting between them. The Master claims [[Gallifrey]] has been destroyed before the Doctor blows his cover and escapes with Ada and Noor to the present in the Master's TARDIS. Barton speaks at a conference, revealing that the Kasaavin will rewrite humanity's DNA. The Master arrives to see the device activate, only for it to fail. The Doctor exposes the Master's machinations to the Kasaavin, provoking them into taking him with them as they're forced back to their dimension. The Doctor visits a destroyed Gallifrey to confirm the Master's claim, and learns from a recording of him that their lives were based on lies.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 289
+| EpisodeNumber2     = 3
+| Title              = [[Orphan 55]]
+| DirectedBy         = Lee Haven Jones
+| WrittenBy          = [[Ed Hime]]
+| OriginalAirDate    = {{Start date|2020|1|12|df=y}}
+| Viewers            = 5.38
+| Aux4               = 77
+| ShortSummary       = The Doctor, Ryan, Yaz and Graham are transported to Tranquility Spa, a vacation facility built in a dome on a desolate uninhabitable world. Seemingly peaceful at first, the facility is quickly overrun by Dregs, humanoid monsters, due to an intentional disruption of the security systems. Several guests and facility workers are killed before the Doctor re-establishes the security fields. The survivors leave the dome to save a fellow survivor, but the Dregs lead them into a trap, and they retreat to a tunnel to return to the facility. One of the guests, Bella, reveals she purposely disrupted the security field as revenge against her mother Kane, who built Tranquility Spa and ignored her childhood. The Doctor discovers the orphan planet is really Earth after years of climate change and war, and the Dregs are mutated human survivors. Kane and Bella sacrifice themselves to destroy the facility and protect the others as the Doctor safely transports them to their original planets.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 290
+| EpisodeNumber2     = 4
+| Title              = [[Nikola Tesla's Night of Terror]]
+| DirectedBy         = [[Nida Manzoor]]
+| WrittenBy          = [[Nina Metivier]]
+| OriginalAirDate    = {{Start date|2020|1|19|df=y}}
+| Viewers            = 5.20
+| Aux4               = 79
+| ShortSummary       = In 1903, [[Nikola Tesla]] works on his wireless power transmission system. He comes across a floating orb and runs away as a cloaked figure shoots at him. The Doctor arrives and they escape aboard a train headed to [[New York City]], where they find protesters waiting outside Tesla's lab, believing negative stories about Tesla circulated by [[Thomas Edison]]. The Doctor, Graham and Ryan visit Edison's workshop. The cloaked figure arrives at Edison's lab and pursues Edison. The Doctor tries to warn Tesla and Yaz back at his lab, but they are captured and transported to an invisible alien ship, belonging to the Queen of the Skithra, a scorpion-like alien, who demands help to fix it. The Doctor transports herself, Tesla and Yaz back to Tesla's lab. The Queen refuses to leave, threatening to destroy Earth if Tesla is not surrendered. Tesla and the Doctor hook up the TARDIS to help power Tesla's [[Wardenclyffe Tower]], which activates, shooting electrical bolts through the ship, forcing it to leave Earth. Yaz learns that Tesla's future reputation remains unchanged by his involvement.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 291
+| EpisodeNumber2     = 5
+| Title              = [[Fugitive of the Judoon]]
+| DirectedBy         = Nida Manzoor
+| WrittenBy          = [[Vinay Patel]] and Chris Chibnall
+| OriginalAirDate    = {{Start date|2020|1|26|df=y}}
+| Viewers            = 5.57
+| Aux4               = 83
+| ShortSummary       = The [[Judoon]] search [[Gloucester]] for a fugitive. The Doctor questions Lee and Ruth Clayton, a married couple. Graham, Ryan, and Yaz are transported to a spaceship piloted by [[Jack Harkness]]. Lee surrenders and is killed by Gat, the Judoon's employer, for being Ruth's accomplice. When Judoon surround the Doctor and Ruth, Ruth subdues them with sudden inexplicable power. A text from Lee triggers Ruth's memories, which leads them to a lighthouse. Unable to teleport the Doctor, Harkness gives the companions a message from the future and is forced to teleport away, returning them to Gloucester. Ruth finds an alarm box outside, breaks it, and is engulfed in energy; the Doctor discovers a buried TARDIS, which Ruth claims is hers, introducing herself as [[Fugitive Doctor|the Doctor]]. In Ruth's TARDIS, the Doctor and Ruth discover that neither of them remembers the other. Ruth once worked for Gat and hid her identity with a chameleon arch. The TARDIS is brought aboard the Judoon ship. Under orders to bring Ruth back to Gallifrey, Gat is shown a vision of a destroyed Gallifrey by the Doctor. Gat shoots at Ruth but the gun backfires. Ruth returns the Doctor to Gloucester; the mystery of the two Doctors remains unexplained.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 292
+| EpisodeNumber2     = 6
+| Title              = [[Praxeus]]
+| DirectedBy         = Jamie Magnus Stone
+| WrittenBy          = [[Pete McTighe]] and Chris Chibnall
+| OriginalAirDate    = {{Start date|2020|2|2|df=y}}
+| Viewers            = 5.22
+| Aux4               = 78
+| ShortSummary       = The Doctor and her companions investigate a bacterium that covers human bodies in a crystalline substance before disintegrating them. Aided by ex-police officer Jake, blogger Gabriela, and medical researcher Suki, they find Jake's husband Adam in the early stages of infection, and take him to Suki's lab to evaluate him while Yaz and Gabriela explore the site where they found Jake, eventually finding a teleport to an alien location. The Doctor determines the bacterium is drawn to [[microplastics]]. Suki reveals she is from an alien race devastated by this bacterium, which they called Praxeus, and had come to Earth to evaluate it further for a cure. While the Doctor finds a cure for humans, using it on the willing Adam to test it, it cannot stop Praxeus from affecting Suki and soon disintegrates her. Travelling to Yaz's location, they find they are under the [[Indian Ocean garbage patch]], where Suki's ship is located. They load the ship's reserves with the antidote and set the ship to self-destruct in the atmosphere to disperse it, but Jake willingly pilots the vessel when the auto-pilot fails. The Doctor materialises the [[TARDIS]] around Jake, saving him moments before the explosion. With Praxeus stopped, the Doctor suggests Jake, Adam, and Gabriela travel the world together.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 293
+| EpisodeNumber2     = 7
+| Title              = [[Can You Hear Me? (Doctor Who)|Can You Hear Me?]]
+| DirectedBy         = Emma Sullivan
+| WrittenBy          = [[Charlene James]] and Chris Chibnall
+| OriginalAirDate    = {{Start date|2020|2|9|df=y}}
+| Viewers            = 4.90
+| Aux4               = 78
+| ShortSummary       = The Doctor returns her companions home, where they simultaneously begin to experience supernatural events. Graham sees visions of an imprisoned girl telling him to find her, Ryan sees a mysterious figure cause his friend to vanish, and Yaz sees an unfamiliar woman among memories of her past. The Doctor, still in the TARDIS, receives a signal from 14th century [[Aleppo]], where she meets a young woman named Tahira, who has a mental health condition. Following their strange experiences, the companions contact the Doctor, who uses Graham's visions to track the source of the nightmares with the TARDIS. They are led to a ship in the future piloted by Zellin, who claims to be immortal and omnipotent. After putting the companions and Tahira out of action, Zellin uses the Doctor's instincts to free the imprisoned girl, Rakaya, another immortal being like himself, who has been feeding on their dreams. The Doctor tricks Zellin and Rakaya back into their imprisonment. 
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 294
+| EpisodeNumber2     = 8
+| Title              = [[The Haunting of Villa Diodati]]
+| DirectedBy         = Emma Sullivan
+| WrittenBy          = [[Maxine Alderton]]
+| OriginalAirDate    = {{Start date|2020|2|16|df=y}}
+| Viewers            = 5.07
+| Aux4               = 80
+| ShortSummary       = The Doctor takes her companions to 1816 to [[Villa Diodati]] on [[Lake Geneva]] to witness [[Mary Shelley]] gain the inspiration to write ''[[Frankenstein]]''. However, they found the villa seemingly haunted, and Mary's future husband [[Percy Bysshe Shelley|Percy Shelley]] has gone missing. A spectral figure appears and reveals itself as a [[Cyberman]] named Ashad seeking the missing Cyberium, the collected knowledge of the Cybermen. The Doctor discovers Percy, finding he had found the Cyberium earlier and had gone crazy from it, with the Cyberium creating haunted imagery to prevent discovery. Despite knowing of Jack's previous warning of the lone Cyberman, the Doctor extracts the Cyberium from Percy and, under threat, gives it to Ashad, who returns to the future. The Doctor and her companions pursue, while Mary was inspired by Ashad, "this modern Prometheus," to write a story.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 295a
+| EpisodeNumber2     = 9
+| Title              = [[Ascension of the Cybermen]]
+| DirectedBy         = Jamie Magnus Stone
+| WrittenBy          = Chris Chibnall
+| OriginalAirDate    = {{Start date|2020|2|23|df=y}}
+| Viewers            = 4.99
+| Aux4               = 81
+| ShortSummary       = The Doctor and companions arrive at the last outpost of humanity in the far future, in time to protect them from an attacking wave of Cybermen drones, though some humans are killed. The Doctor has Graham and Yaz take the others in their ship to safety while she, Ryan and Ethan, one of the survivors, travel to Ko Sharmus, known as humanity's last hope. They discover Ko Sharmus is a person acting as a ferryman for other humans to escape through a portal to the other side of the universe for safety. Aboard the humans' ship, they pass through a battlefield with debris of dead Cybermen and board a seemingly-abandoned Cyber carrier. However, too late they discover that Ashad and a group of Cyberwarriors have arrived, and have since seized the control deck and directed the ship towards the Doctor, and are waking the other Cybermen in stasis. Yaz contacts the Doctor about their impending arrival, just as Ko Sharmus opens the portal. The portal is revealed to be the new location of the ruins of Gallifrey, much to the Doctor's surprise. The Master jumps through and tells the Doctor that she should be afraid because everything is about to change forever.
+| LineColor          = 454CB8
+}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 295b
+| EpisodeNumber2     = 10
+| Title              = [[The Timeless Children]]
+| DirectedBy         = Jamie Magnus Stone
+| WrittenBy          = Chris Chibnall
+| OriginalAirDate    = {{Start date|2020|3|1|df=y}}
+| Viewers            = 4.69
+| Aux4               = 82
+| ShortSummary       = The Master forcibly teleports the Doctor to Gallifrey, where he imprisons her in the Matrix. While in the Matrix, the Master reveals that the Doctor was an orphaned female child from another dimension founded and experimented on by a Shobogan woman named Tecteun. After many years, Tecteun eventually discovers how the Child can regenerate thus leading to the creation of the Time Lords. Meanwhile, the Master contacts Ashad to lead the Cybermen to Gallifrey but realises that he cannot have the Cyberium if Ashad is alive, prompting him to shrink Ashad and absorb the Cyberium. He then uses the Cyberium to convert the dead Time Lords into Cybermen, which he dubbed the "CyberMasters". Yaz and Graham safely reunite with Ryan and the others then follow the Cybermen to Gallifrey. Ruth helps the Doctor escape the Matrix by transmitting her old and new memories. Back in the chamber, the Doctor plans to detonate the death particle from Ashad's remains to stop the Master, but Ko Sharmus arrives and takes her place as his penance so the Doctor can escape, detonating the particle in his final moments. Before it detonated, the Master ordered the CyberMasters to follow him elsewhere. The companions return to Earth in a house disguised TARDIS and the Doctor makes her way back to her own TARDIS. Suddenly, the Judoon appear to arrest the Doctor and take her to a distant prison elsewhere in space. 
+| LineColor          = 454CB8
+}}
+{{Episode table/part|c=#454CB8|subtitle=Special}}
+{{Episode list/sublist|Doctor Who (series 12)
+| EpisodeNumber      = 296
+| EpisodeNumber2     = –
+| Title              = [[Revolution of the Daleks]]
+| DirectedBy         = Lee Haven Jones
+| WrittenBy          = Chris Chibnall
+| OriginalAirDate    = {{Start date|2021|1|1|df=y}}
+| Viewers            = 6.36
+| Aux4               = 79
+| ShortSummary       = The shell of the reconnaissance Dalek{{efn|As shown in "[[Resolution (Doctor Who)|Resolution]]".}} is intercepted by Jack Robertson, who has funded a defence drone. Graham and Ryan meet at a disguised TARDIS, where Yaz is trying to find the Doctor. Graham shows her a video of the defence drone and they confront Robertson. Jo Patterson, projected to be elected the Prime Minister, requests Robertson to increase the drone production. Scientist Leo discovers organic cells in the Dalek remnants and clones the cells into a creature, that escapes and takes control of Leo. Leo travels to [[Osaka, Japan]], where Dalek clones are being grown. The Doctor has been imprisoned for a number of decades and comes across Jack Harkness who breaks her free. They rejoin with her companions. Jack and Yaz investigate the facility while the Doctor, Graham, and Ryan confront Robertson. The Dalek reveals its plan to take over Earth. Using [[ultraviolet]] light, the Dalek clones transport themselves into the defence drones. The Doctor sends out a signal to a death squad of Daleks, who eliminate the reconnaissance Daleks. Roberston makes an alliance with the Daleks. Jack, Graham, and Ryan rig the Dalek ship with explosives. The Doctor tricks the Daleks into the other TARDIS where it is set to be transported to the Void to be destroyed. Ryan and Graham decide to stay on Earth.
+| LineColor          = 454CB8
+}}
+}}</onlyinclude>
+
+==Casting==
+{{See also|List of Doctor Who cast members}}
+The series is the second to feature [[Jodie Whittaker]] as the [[Thirteenth Doctor]].<ref name="ProductionStarts">{{cite web |url=https://www.digitalspy.com/tv/a25433512/jodie-whittaker-doctor-who-series-12/ |title=Jodie Whittaker confirms she'll be back for Doctor Who series 12 |work=Digital Spy |first=Morgan |last=Jeffrey |date=7 December 2018 |access-date=7 December 2018 |archive-date=9 December 2018 |archive-url=https://web.archive.org/web/20181209123826/https://www.digitalspy.com/tv/a25433512/jodie-whittaker-doctor-who-series-12/ |url-status=live }}</ref> [[Bradley Walsh]], [[Tosin Cole]] and [[Mandip Gill]] also reprise their roles as [[Graham O'Brien]], [[Ryan Sinclair]] and [[Yasmin Khan (Doctor Who)|Yasmin Khan]], respectively.<ref name="BBC2020"/>
+
+[[Stephen Fry]] and [[Lenny Henry]] appeared in the two-part premiere episode "[[Spyfall (Doctor Who)|Spyfall]]".<ref>{{cite web|url=https://www.bbc.co.uk/blogs/doctorwho/entries/5fe6b944-ab4f-4d5c-9499-4915c19e6d10|title=Stephen Fry and Sir Lenny Henry CBE to appear in series 12!|date=20 November 2019|publisher=BBC|access-date=20 November 2019|archive-date=21 November 2019|archive-url=https://web.archive.org/web/20191121094523/https://www.bbc.co.uk/blogs/doctorwho/entries/5fe6b944-ab4f-4d5c-9499-4915c19e6d10|url-status=live}}</ref> Dominique Maher and Darron Meyer portrayed Agent Browning and Seesay respectively in "Spyfall".<ref>{{Cite web|url=https://cultbox.co.uk/general/doctor-who-series-12-episode-1-casting-news|title=Doctor Who Series 12: Episode 1 casting news|date=13 September 2019|website=CultBox|access-date=14 September 2019|archive-date=5 November 2019|archive-url=https://web.archive.org/web/20191105234247/https://cultbox.co.uk/general/doctor-who-series-12-episode-1-casting-news|url-status=live}}</ref> [[Sacha Dhawan]] appeared unannounced in "Spyfall, Part 1", and was revealed at the end of the episode to be the [[The Master (Doctor Who)|Master]].<ref>{{cite web|url=https://www.radiotimes.com/news/2020-01-01/doctor-who-foe/|title=Doctor Who sees the shock return of a classic foe in opening episode|date=1 January 2020|access-date=1 January 2020|publisher=BBC|archive-date=2 January 2020|archive-url=https://web.archive.org/web/20200102030551/https://www.radiotimes.com/news/2020-01-01/doctor-who-foe/|url-status=live}}</ref> [[Aurora Marion]] portrayed [[Noor Inayat Khan]] in "Spyfall, Part 2".<ref>{{Cite web|url=https://cultbox.co.uk/features/doctor-who-series-12-episode-2-features-french-resistance-heroine|title=Doctor Who Series 12: Episode 2 features French Resistance heroine|date=20 June 2019|website=CultBox|access-date=20 June 2019|archive-date=20 June 2019|archive-url=https://web.archive.org/web/20190620152407/https://cultbox.co.uk/features/doctor-who-series-12-episode-2-features-french-resistance-heroine|url-status=live}}</ref> [[James Buckley (actor)|James Buckley]] appeared in "[[Orphan 55]]" as Nevi.<ref name="Nevi">{{cite web|url=https://cultbox.co.uk/news/doctor-who-series-12-james-buckley-to-to-star-in-block-2-episode|title=Doctor Who Series 12: James Buckley to star in Block 2 episode|date=27 June 2019|website=CultBox|access-date=27 June 2019|archive-date=30 June 2019|archive-url=https://web.archive.org/web/20190630150727/https://cultbox.co.uk/news/doctor-who-series-12-james-buckley-to-to-star-in-block-2-episode|url-status=live}}</ref><ref>{{Cite web|url=https://cultbox.co.uk/news/doctor-who-episode-3-title-synopsis-cast-and-writer|title=Doctor Who Episode 3: title, synopsis, cast and writer|date=21 December 2019|website=CultBox|access-date=8 November 2021|archive-date=24 September 2020|archive-url=https://web.archive.org/web/20200924082039/https://cultbox.co.uk/news/doctor-who-episode-3-title-synopsis-cast-and-writer|url-status=live}}</ref> [[Laura Fraser]] also appeared in "Orphan 55" as Kane, as did [[Julia Foster]] as Vilma.<ref>{{cite web|url=https://www.radiotimes.com/tv-programme/e/kvfx5v/doctor-who--s12-e3-orphan-55/|title=Series 12 - Episode 3 Orphan 55|website=[[Radio Times]]|access-date=3 January 2019|archive-date=3 January 2020|archive-url=https://web.archive.org/web/20200103130140/https://www.radiotimes.com/tv-programme/e/kvfx5v/doctor-who--s12-e3-orphan-55/|url-status=live}}</ref> [[Goran Višnjić]] and [[Robert Glenister]] were also cast as [[Nikola Tesla]] and [[Thomas Edison]] respectively.<ref>{{cite web|url=https://www.digitalspy.com/tv/a30157086/doctor-who-series-12-thomas-edison-nikola-tesla/|title=Doctor Who series 12 confirms who will play Thomas Edison and Nikola Tesla|date=7 December 2019|publisher=Digital Spy|access-date=9 December 2019|archive-date=25 December 2019|archive-url=https://web.archive.org/web/20191225194839/https://www.digitalspy.com/tv/a30157086/doctor-who-series-12-thomas-edison-nikola-tesla/|url-status=live}}</ref> They appeared in "[[Nikola Tesla's Night of Terror]]", as well.<ref name="Episodes3-6" /> [[Anjli Mohindra]], who had previously portrayed [[Rani Chandra (The Sarah Jane Adventures)|Rani Chandra]] in the ''Doctor Who'' spin-off ''[[The Sarah Jane Adventures]]'', played Queen Skithra in "Nikola Tesla's Night of Terror".<ref name="Anjli" >{{cite web|last1=Laford|first1=Andrea|title=Doctor Who Series 12: new director, actor, character discovered|url=https://cultbox.co.uk/general/doctor-who-series-12-new-director-actor-character-discovered|website=Cultbox|date=10 June 2019|access-date=10 June 2019|archive-date=19 June 2019|archive-url=https://web.archive.org/web/20190619155158/https://cultbox.co.uk/general/doctor-who-series-12-new-director-actor-character-discovered|url-status=live}}</ref><ref name="Episodes3-6">{{cite web |url=https://cultbox.co.uk/general/doctor-who-series-12-new-episode-titles-writers-and-descriptions |title=Doctor Who Series 12: new episode titles, writers and descriptions |work=Cult Box |first=Andrea |last=Laford |date=9 January 2020 |access-date=9 January 2020 |archive-date=11 January 2020 |archive-url=https://web.archive.org/web/20200111144801/https://cultbox.co.uk/general/doctor-who-series-12-new-episode-titles-writers-and-descriptions |url-status=live }}</ref>
+
+[[John Barrowman]] returned to his role as [[Jack Harkness]] in "[[Fugitive of the Judoon]]" and also for "[[Revolution of the Daleks]]".<ref>{{cite web | url = https://variety.com/2020/tv/news/john-barrowman-doctor-who-holiday-special1234838469-1234838469/ | title = John Barrowman to Return as Captain Jack Harkness in 'Doctor Who' Holiday Special | first = Natalie | last = Oganesyan | date = 23 November 2020 | access-date = 23 November 2020 | work = [[Variety (magazine)|Variety]] | archive-date = 23 November 2020 | archive-url = https://web.archive.org/web/20201123210822/https://variety.com/2020/tv/news/john-barrowman-doctor-who-holiday-special1234838469-1234838469/ | url-status = live }}</ref> This is his first appearance on the show since "[[The End of Time (Doctor Who)|The End of Time - Part Two]]" in 2010.<ref>{{Cite web|url=https://www.radiotimes.com/news/tv/2020-01-26/john-barrowman-captain-jack-doctor-who-return/|title=Exclusive: John Barrowman on his shock Doctor Who TV return – "It's about time"|website=Radio Times|language=en|access-date=2020-01-26|archive-date=26 January 2020|archive-url=https://web.archive.org/web/20200126200440/https://www.radiotimes.com/news/tv/2020-01-26/john-barrowman-captain-jack-doctor-who-return/|url-status=live}}</ref> [[Jo Martin]] appeared as a previously unknown incarnation of the Doctor using the alias 'Ruth Clayton' in "Fugitive of the Judoon".<ref name="Episodes3-6" /><ref>{{Cite web|url=https://cultbox.co.uk/news/doctor-who-costume-designer-describes-references-to-past-doctors-in-fugitive-doctor|title=Doctor Who costume designer describes references to past Doctors in Fugitive Doctor|date=5 March 2020|website=CultBox|access-date=8 November 2021|archive-date=25 January 2021|archive-url=https://web.archive.org/web/20210125010235/https://cultbox.co.uk/news/doctor-who-costume-designer-describes-references-to-past-doctors-in-fugitive-doctor|url-status=live}}</ref> [[Neil Stuke]] appeared in "Fugitive of the Judoon", and [[Nicholas Briggs]] provided the voice of the [[Judoon]].<ref name="Episodes3-6" /> Molly Harris appeared as Suki Cheng in "[[Praxeus]]".<ref name="JamieStone">{{cite web |url=http://cultbox.co.uk/news/doctor-who-series-12-block-1-actress-discovered |title=Doctor Who Series 12: Block 1 actress discovered |work=Cultbox |first=Andrea |last=Laford |date=20 March 2019 |access-date=22 March 2019 |archive-date=18 July 2019 |archive-url=https://web.archive.org/web/20190718235208/https://cultbox.co.uk/news/doctor-who-series-12-block-1-actress-discovered |url-status=live }}</ref> [[Warren Brown (actor)|Warren Brown]] was also cast in that episode.<ref name="BrownMcNulty">{{cite web |url=https://cultbox.co.uk/general/warren-brown-and-matthew-mcnulty-to-guest-star-in-doctor-who-praxeus |title=Warren Brown and Matthew McNulty to guest star in Doctor Who, Praxeus |work=CultBox |first=Andrea |last=Laford |date=10 January 2020 |access-date=10 January 2020 |archive-date=11 January 2020 |archive-url=https://web.archive.org/web/20200111141635/https://cultbox.co.uk/general/warren-brown-and-matthew-mcnulty-to-guest-star-in-doctor-who-praxeus |url-status=live }}</ref>
+
+[[Sharon D. Clarke]] reprises her role as Graham's late wife, Grace, in "[[Can You Hear Me? (Doctor Who)|Can You Hear Me?]]".<ref name="Clarke">{{cite news|url=https://www.theguardian.com/tv-and-radio/2020/feb/09/doctor-who-recap-series-38-episode-seven-can-you-hear-me|title=Doctor Who recap: series 38, episode seven – Can You Hear Me?|work=The Guardian|date=9 February 2020|access-date=10 February 2020|archive-date=9 February 2020|archive-url=https://web.archive.org/web/20200209204440/https://www.theguardian.com/tv-and-radio/2020/feb/09/doctor-who-recap-series-38-episode-seven-can-you-hear-me|url-status=live}}</ref> [[Maxim Baldry]] appeared as Dr John Polidori in "[[The Haunting of Villa Diodati]]".<ref name="Episode 8">{{cite web |url=https://www.bbc.co.uk/programmes/m000fjf1 |title=Doctor Who Series 12 Episode 8 |work=BBC |date=5 February 2020 |access-date=5 February 2020 |archive-date=13 February 2020 |archive-url=https://web.archive.org/web/20200213062542/https://www.bbc.co.uk/programmes/m000fjf1 |url-status=live }}</ref> [[Jacob Collins-Levy]] also appeared as Lord Byron in the same episode.<ref name="Episode 8" /> [[Julie Graham]], [[Ian McElhinney]] and [[Steve Toussaint]] guest star in the two-part finale, "[[Ascension of the Cybermen]]" / "[[The Timeless Children]]".<ref name="DWM 548">{{cite web |url=https://cultbox.co.uk/general/doctor-who-magazine-reveals-titles-of-two-part-series-finale |title=Doctor Who Magazine reveals titles of two-part series finale |last=Laford |first=Andrew |publisher=Cultbox |date=6 February 2020 |access-date=6 February 2020 |archive-date=6 February 2020 |archive-url=https://web.archive.org/web/20200206034609/https://cultbox.co.uk/general/doctor-who-magazine-reveals-titles-of-two-part-series-finale |url-status=live }}</ref><ref name="Toussaint">{{cite web|url= https://cultbox.co.uk/news/ian-mcelhinney-and-steve-toussaint-to-guest-star-in-doctor-who-series-finale|title= Doctor Who Series 12: Ian McElhinney and Steve Toussaint to star in Doctor Who|date= 6 February 2020|website= CultBox|access-date= 8 February 2020|archive-date= 23 February 2020|archive-url= https://web.archive.org/web/20200223201410/https://cultbox.co.uk/news/ian-mcelhinney-and-steve-toussaint-to-guest-star-in-doctor-who-series-finale|url-status= live}}</ref>
+
+In ''[[SFX (magazine)|SFX]]'' #355, it was confirmed that "Revolution of the Daleks" would be the final appearances by Walsh and Cole, [[Chris Noth]] would return as Jack Robertson from "[[Arachnids in the UK]]" (2018), and that [[Harriet Walter]] had been cast.<ref>{{cite web |url=https://www.doctorwhotv.co.uk/revolution-of-the-daleks-preview-confirms-major-cast-exits-a-series-11-character-return-more-94335.htm |title="Revolution of the Daleks" Preview Confirms Major Cast Exits, A Series 11 Character Return & More |work=Doctor Who TV |date=27 November 2020 |access-date=28 November 2020 |archive-date=27 November 2020 |archive-url=https://web.archive.org/web/20201127185411/https://www.doctorwhotv.co.uk/revolution-of-the-daleks-preview-confirms-major-cast-exits-a-series-11-character-return-more-94335.htm |url-status=live }}</ref>
+
+==Production==
+
+===Development===
+In April 2015, [[Steven Moffat]] confirmed that ''Doctor Who'' would run for at least another five years, extending the show until 2020.<ref>{{cite web |title=Doctor Who 'to remain on-screen until at least 2020' |url=https://www.bbc.com/news/entertainment-arts-32202633 |publisher=BBC |date=7 April 2015 |access-date=8 April 2015 |archive-date=9 April 2015 |archive-url=https://web.archive.org/web/20150409201703/http://www.bbc.com/news/entertainment-arts-32202633 |url-status=live }}</ref> In May 2017, it was announced that due to the terms of a deal between [[BBC Worldwide]] and [[Shanghai Media Group|SMG Pictures]] in [[People's Republic of China|China]], SMG has first [[Right of first refusal|right of refusal]] on the purchase for the Chinese market of future series of the programme until and including Series 15.<ref>{{cite web |last=Fullerton |first=Huw |url=http://www.radiotimes.com/news/2017-06-03/the-bbc-is-already-preparing-for-at-least-five-more-series-of-doctor-who |title=The BBC is already preparing for at least FIVE more series of Doctor Who |website=RadioTimes |publisher=Immediate Media Company |date=3 June 2017 |access-date=19 June 2017 |archive-date=8 June 2017 |archive-url=https://web.archive.org/web/20170608210206/http://www.radiotimes.com/news/2017-06-03/the-bbc-is-already-preparing-for-at-least-five-more-series-of-doctor-who |url-status=live }}</ref><ref>{{Cite press release |url=https://www.bbc.co.uk/mediacentre/worldwide/2017/doctor-who-china |title=Doctor Who Gets Brand Boost in China |publisher=BBC |date=25 May 2017 |access-date=19 June 2017 |archive-date=21 June 2019 |archive-url=https://web.archive.org/web/20190621052159/https://www.bbc.co.uk/mediacentre/worldwide/2017/doctor-who-china |url-status=live }}</ref>
+
+[[Chris Chibnall]] returned as the series's showrunner, the role he took on following Steven Moffat's departure after the [[Doctor Who (series 10)|tenth series]].<ref name="ProductionStarts" /><ref>{{cite web|url=http://www.radiotimes.com/news/2016-01-22/doctor-who-showrunner-steven-moffat-quits-to-be-replaced-by-broadchurch-creator-chris-chibnall|title=Doctor Who showrunner Steven Moffat quits to be replaced by Broadchurch creator Chris Chibnall|first=Ben|last=Dowell|work=[[Radio Times]]|date=22 January 2016|access-date=22 January 2016|archive-date=14 July 2018|archive-url=https://web.archive.org/web/20180714153522/https://www.radiotimes.com/news/2016-01-22/doctor-who-showrunner-steven-moffat-quits-to-be-replaced-by-broadchurch-creator-chris-chibnall/|url-status=live}}</ref> Matt Strevens also returned to serve as executive producer alongside Chibnall.<ref>{{cite web |url=https://www.blogtorwho.com/doctor-who-series-12-team-tardis-back-in-action/ |title=Doctor Who Series 12: Team TARDIS Back in Action! |work=Blogtor Who |first=Peter |last=Nolan |date=24 January 2019 |access-date=22 November 2019 |archive-date=3 December 2019 |archive-url=https://web.archive.org/web/20191203015647/https://www.blogtorwho.com/doctor-who-series-12-team-tardis-back-in-action/ |url-status=live }}</ref>
+
+===Writing===
+[[Ed Hime]] (who wrote the [[It Takes You Away|penultimate episode]] of the previous series) wrote "Orphan 55".<ref name="Hime">{{cite web |url=https://www.unitedagents.co.uk/ed-hime |title=Ed Hime |work=United Agents |access-date=10 December 2018 |archive-url=https://web.archive.org/web/20181210133858/https://www.unitedagents.co.uk/ed-hime |archive-date=10 December 2018 |url-status=live}}</ref> Nina Metivier, who served as [[script editor]] on the previous series, also wrote "[[Nikola Tesla's Night of Terror]]".<ref>{{Cite web|url=https://www.berlinassociates.com/clients/nina-metivier/|title=Berlin Associates » Nina Metivier|access-date=5 August 2019|archive-date=20 October 2019|archive-url=https://web.archive.org/web/20191020052804/https://www.berlinassociates.com/clients/nina-metivier/|url-status=live}}</ref><ref name="Episodes3-6" /> In November 2019, ''[[Doctor Who Magazine]]'' revealed the writers for the twelfth series, including [[Vinay Patel]], [[Pete McTighe]], [[Maxine Alderton]] and [[Charlene James]], as well as Hime, Métivier and Chibnall. Chibnall wrote four episodes and co-wrote a further three.<ref name="WritersAnnounced">{{Cite web|url=https://cultbox.co.uk/news/headlines/doctor-who-series-12-writers-announced|title=Doctor Who Series 12: writers announced|date=13 November 2019|website=CultBox|access-date=13 November 2019|archive-date=13 November 2019|archive-url=https://web.archive.org/web/20191113160017/https://cultbox.co.uk/news/headlines/doctor-who-series-12-writers-announced|url-status=live}}</ref> In a ''[[Radio Times]]'' article, Chibnall confirmed that Series 12 would feature the return of two-part stories.<ref name="TwoParters">{{Cite web|url=https://www.radiotimes.com/news/tv/2019-11-30/doctor-who-bringing-back-multi-part-episodes/|title=Doctor Who to bring back multi-part episodes for new series|work=[[Radio Times]]|first=Huw|last=Fullerton|date=30 November 2019|access-date=30 November 2019|archive-date=12 December 2019|archive-url=https://web.archive.org/web/20191212184224/https://www.radiotimes.com/news/tv/2019-11-30/doctor-who-bringing-back-multi-part-episodes/|url-status=live}}</ref>
+
+===Design changes===
+The twelfth series introduced changes to the design of the [[TARDIS]], with the differences including a modified column above the time rotor, an updated pathway from the TARDIS's doors, the inclusion of stairs, and modifications to the central console. These changes were introduced by production designer Dafydd Shurmer.<ref>{{Cite web|url=https://cultbox.co.uk/news/doctor-who-series-12-new-tardis-images-emerge|title=Doctor Who Series 12: new TARDIS images emerge|date=15 December 2019|website=CultBox|access-date=18 December 2019|archive-date=18 December 2019|archive-url=https://web.archive.org/web/20191218064719/https://cultbox.co.uk/news/doctor-who-series-12-new-tardis-images-emerge|url-status=live}}</ref> Some episodes feature [[cold openings]], which had been consistently used in the revived era but were entirely absent in the eleventh series.<ref>{{Cite web|url=https://www.radiotimes.com/news/tv/2019-12-07/doctor-who-cold-opens-returning/|title=Doctor Who to bring back the iconic "cold open" for Jodie Whittaker's second series|website=Radio Times|access-date=18 December 2019|archive-date=18 December 2019|archive-url=https://web.archive.org/web/20191218063219/https://www.radiotimes.com/news/tv/2019-12-07/doctor-who-cold-opens-returning/|url-status=live}}</ref>
+
+===Filming===
+Costume designer Ray Holman listed the twelfth series as being in pre-production in November 2018.<ref>{{cite web |last1=Bone |first1=Christian |title=Doctor Who Season 12 Has Already Begun Pre-Production |url=https://wegotthiscovered.com/tv/doctor-who-season-12-pre-production/ |website=WeGotThisCovered.com |date=12 November 2018 |access-date=17 November 2018 |archive-date=18 November 2018 |archive-url=https://web.archive.org/web/20181118081813/https://wegotthiscovered.com/tv/doctor-who-season-12-pre-production/ |url-status=live }}</ref> By 17 November, BBC confirmed that Series 12 had begun production.<ref name="ProductionStarts"/> [[Jamie Magnus Stone]], who previously directed the fiftieth-anniversary mini-episode "[[The Last Day (Doctor Who)|The Last Day]]", directed the first block, which comprised the first and sixth episodes of the series.<ref>{{cite web|url=http://darrylhammer.com/cv/|title=CV|date=2017-08-09|website=Darryl Hammer|language=en-US|access-date=2019-02-14|archive-date=18 August 2018|archive-url=https://web.archive.org/web/20180818161636/http://darrylhammer.com/cv/|url-status=live}}</ref><ref name="JamieStone" /> Lee Haven Jones directed the second and third episodes in the second block. [[Nida Manzoor]] directed the third block of the fourth and fifth episodes.<ref name="NidaManzoor">{{cite web |url=https://cultbox.co.uk/news/headlines/goran-visnjic-and-robert-glenister-to-appear-in-doctor-who-series-12-episode |title=Goran Višnjić and Robert Glenister to appear in Doctor Who series 12 episode |work=Cultbox |first=Andrea |last=Laford |date=22 November 2019 |access-date=27 November 2019 |archive-date=27 November 2019 |archive-url=https://web.archive.org/web/20191127210502/https://cultbox.co.uk/news/headlines/goran-visnjic-and-robert-glenister-to-appear-in-doctor-who-series-12-episode |url-status=live }}</ref> Emma Sullivan directed the fourth block of the seventh and eighth episodes.<ref name="SullivanEpisodes">{{cite web |url=https://www.gemsagency.co.uk/cv_profile/guy-murray-brown/1052 |title=Guy Murray-Brown |work=Gems Agency |access-date=1 November 2019 |archive-date=1 November 2019 |archive-url=https://web.archive.org/web/20191101115330/https://www.gemsagency.co.uk/cv_profile/guy-murray-brown/1052 |url-status=live }}</ref> Stone directed the fifth block of the ninth and tenth episodes.<ref name="Directors">{{cite web|url=http://cultbox.co.uk/news/doctor-who-series-12-new-directors-discovered|title=Doctor Who Series 12: new directors discovered|date=20 May 2019|website=CultBox|access-date=21 May 2019|archive-date=18 July 2019|archive-url=https://web.archive.org/web/20190718235207/https://cultbox.co.uk/news/doctor-who-series-12-new-directors-discovered|url-status=live}}</ref>
+
+Filming commenced on 23 January 2019<ref>{{cite web |url=https://www.digitalspy.com/tv/a26014385/doctor-who-series-12-first-look-photo-filming-starts/ |title=Doctor Who kicks off series 12 filming with first-look at Jodie Whittaker and cast |work=Digital Spy |first=Justin |last=Harp |date=24 January 2019 |access-date=24 January 2019 |archive-date=24 January 2019 |archive-url=https://web.archive.org/web/20190124030816/https://www.digitalspy.com/tv/a26014385/doctor-who-series-12-first-look-photo-filming-starts/ |url-status=live }}</ref> in [[South Africa]],<ref>{{cite web|url=https://www.radiotimes.com/news/2019-01-24/doctor-who-series-12-filming-starts/|title=Doctor Who series 12 has officially started filming|author=24 January 2019|date=24 January 2019|website=RadioTimes|access-date=22 March 2019|archive-date=22 March 2019|archive-url=https://web.archive.org/web/20190322085555/https://www.radiotimes.com/news/2019-01-24/doctor-who-series-12-filming-starts/|url-status=live}}</ref> and concluded on 7 February, taking place at [[Western Cape]], [[Hopefield, Western Cape|Hopefield]],<ref>{{cite web|url=http://cultbox.co.uk/news/doctor-who-filming-wraps-in-south-africa|title=Doctor Who filming wraps in South Africa|date=7 February 2019|website=CultBox|access-date=22 March 2019|archive-date=22 March 2019|archive-url=https://web.archive.org/web/20190322085551/http://cultbox.co.uk/news/doctor-who-filming-wraps-in-south-africa|url-status=live}}</ref> [[Lion's Head (Cape Town)|Lion's Head]],<ref>{{Cite news|url=https://cultbox.co.uk/news/doctor-who-series-12-tosin-cole-posts-playful-video-from-south-africa-location-filming|title=Doctor Who Series 12: Tosin Cole posts playful video from South Africa location filming|date=19 July 2019|website=CultBox|access-date=27 July 2019|archive-date=27 July 2019|archive-url=https://web.archive.org/web/20190727172152/https://cultbox.co.uk/news/doctor-who-series-12-tosin-cole-posts-playful-video-from-south-africa-location-filming|url-status=live}}</ref> and [[Taal Monument]].<ref>{{Cite web|url=https://cultbox.co.uk/general/doctor-who-series-12-new-photos-of-jodie-whittaker-and-the-tardis-in-south-africa|title=Doctor Who Series 12: new photos of Jodie Whittaker and the TARDIS in South Africa|date=26 July 2019|website=CultBox|access-date=27 July 2019|archive-date=27 July 2019|archive-url=https://web.archive.org/web/20190727172151/https://cultbox.co.uk/general/doctor-who-series-12-new-photos-of-jodie-whittaker-and-the-tardis-in-south-africa|url-status=live}}</ref> Filming took place in [[Cardiff]] and [[Wales]] between February and October 2019.<ref>Multiple sources:
+* {{cite web|url=http://cultbox.co.uk/news/doctor-who-filming-in-cardiff|title=Doctor Who filming in Cardiff|date=12 February 2019|website=CultBox|access-date=22 March 2019|archive-date=22 March 2019|archive-url=https://web.archive.org/web/20190322145524/http://cultbox.co.uk/news/doctor-who-filming-in-cardiff|url-status=live}}
+* {{cite web|url=http://cultbox.co.uk/news/doctor-who-filming-at-swansea-guildhall-wales|title=Doctor Who filming at Swansea Guildhall, Wales|date=19 February 2019|website=CultBox|access-date=22 March 2019|archive-date=22 March 2019|archive-url=https://web.archive.org/web/20190322091100/http://cultbox.co.uk/news/doctor-who-filming-at-swansea-guildhall-wales|url-status=live}}
+* {{cite web|url=http://cultbox.co.uk/news/doctor-who-series-12-back-to-sheffield|title=Doctor Who Series 12: back to "Sheffield"|date=11 March 2019|website=CultBox|access-date=22 March 2019|archive-date=22 March 2019|archive-url=https://web.archive.org/web/20190322152549/http://cultbox.co.uk/news/doctor-who-series-12-back-to-sheffield|url-status=live}}
+* {{cite web|url=http://cultbox.co.uk/news/doctor-who-series-12-jodie-whittaker-confronts-the-judoon-in-cardiff|title=Doctor Who Series 12: Jodie Whittaker confronts the Judoon in Cardiff|date=30 May 2019|website=CultBox|access-date=30 May 2019|archive-date=31 May 2019|archive-url=https://web.archive.org/web/20190531034604/http://cultbox.co.uk/news/doctor-who-series-12-jodie-whittaker-confronts-the-judoon-in-cardiff|url-status=live}}
+* {{Cite web|url=https://cultbox.co.uk/general/doctor-who-series-12-companion-actors-filming-in-cardiff|title=Doctor Who Series 12: companion actors filming in Cardiff|date=3 October 2019|website=CultBox|access-date=23 October 2019|archive-date=12 October 2019|archive-url=https://web.archive.org/web/20191012193857/https://cultbox.co.uk/general/doctor-who-series-12-companion-actors-filming-in-cardiff|url-status=live}}
+* {{Cite web|url=https://cultbox.co.uk/news/headlines/doctor-who-series-12-more-filming-with-the-companion-actors-in-cardiff|title=Doctor Who Series 12: more filming with the companion actors in Cardiff|date=11 October 2019|website=CultBox|access-date=12 October 2019|archive-date=12 October 2019|archive-url=https://web.archive.org/web/20191012192335/https://cultbox.co.uk/news/headlines/doctor-who-series-12-more-filming-with-the-companion-actors-in-cardiff|url-status=live}}
+* {{Cite web|url=https://cultbox.co.uk/news/doctor-who-series-12-filming-with-new-dalek-design-in-bristol|title=Doctor Who Series 12: filming with new Dalek design in Bristol|date=23 October 2019|website=CultBox|access-date=23 October 2019|archive-date=23 October 2019|archive-url=https://web.archive.org/web/20191023102302/https://cultbox.co.uk/news/doctor-who-series-12-filming-with-new-dalek-design-in-bristol|url-status=live}}
+* {{Cite web|url=https://cultbox.co.uk/news/doctor-who-series-12-mandip-gill-filming-in-cardiff|title=Doctor Who Series 12: Mandip Gill filming in Cardiff|date=23 July 2019|website=CultBox|access-date=23 July 2019|archive-date=23 July 2019|archive-url=https://web.archive.org/web/20190723192822/https://cultbox.co.uk/news/doctor-who-series-12-mandip-gill-filming-in-cardiff|url-status=live}}
+* {{Cite web|url=https://cultbox.co.uk/news/doctor-who-series-12-filming-with-aliens-in-cardiff|title=Doctor Who Series 12: filming with aliens in Cardiff|date=6 August 2019|website=CultBox|access-date=6 August 2019|archive-date=6 August 2019|archive-url=https://web.archive.org/web/20190806211226/https://cultbox.co.uk/news/doctor-who-series-12-filming-with-aliens-in-cardiff|url-status=live}}
+* {{Cite web|url=https://cultbox.co.uk/general/doctor-who-series-12-filming-at-nash-point|title=Doctor Who Series 12: filming at Nash Point|date=21 August 2019|website=CultBox|access-date=21 August 2019|archive-date=21 August 2019|archive-url=https://web.archive.org/web/20190821122451/https://cultbox.co.uk/general/doctor-who-series-12-filming-at-nash-point|url-status=live}}</ref><ref name="Nazi">{{Cite web|url=https://cultbox.co.uk/features/doctor-who-series-12-block-2-actress-discovered|title=Doctor Who Series 12: Block 2 actress discovered|date=19 June 2019|website=CultBox|access-date=19 June 2019|archive-date=19 June 2019|archive-url=https://web.archive.org/web/20190619215506/https://cultbox.co.uk/features/doctor-who-series-12-block-2-actress-discovered|url-status=live}}</ref> Filming also took place in [[Tenerife]],<ref>{{cite web|url=http://cultbox.co.uk/general/doctor-who-series-12-completion-of-filming-in-tenerife|title=Doctor Who filming in Tenerife|date=6 April 2019|website=CultBox|access-date=12 April 2019|archive-date=8 April 2019|archive-url=https://web.archive.org/web/20190408153325/http://cultbox.co.uk/general/doctor-who-series-12-completion-of-filming-in-tenerife|url-status=live}}</ref> [[Gloucester]],<ref>{{cite web|url=https://www.bbc.co.uk/news/uk-england-gloucestershire-48353262|title=Doctor Who: Judoon to return as Gloucester hosts filming|date=21 May 2019|website=BBC|access-date=21 May 2019|archive-date=21 May 2019|archive-url=https://web.archive.org/web/20190521221642/https://www.bbc.co.uk/news/uk-england-gloucestershire-48353262|url-status=live}}</ref> and [[Merthyr Mawr]].<ref name="Maxim">{{cite web|url= https://cultbox.co.uk/spoilers/years-and-years-actor-maxim-baldry-to-appear-in-doctor-who-historical-episode|title= Doctor Who Series 12: Maxim Baldry to star in historical episode|date= 3 July 2019|website= CultBox|access-date= 3 July 2019|archive-date= 3 July 2019|archive-url= https://web.archive.org/web/20190703145211/https://cultbox.co.uk/spoilers/years-and-years-actor-maxim-baldry-to-appear-in-doctor-who-historical-episode|url-status= live}}</ref> Filming concluded by 19 November 2019.<ref name="FilmingEnds">{{cite web |url=https://cultbox.co.uk/news/headlines/doctor-who-series-12-glimpses-of-filming-from-new-video-release |title=Doctor Who Series 12: glimpses of filming from new video release |work=Cultbox |first=Andrea |last=Laford |date=19 November 2019 |access-date=27 November 2019 |archive-date=22 December 2019 |archive-url=https://web.archive.org/web/20191222122902/https://cultbox.co.uk/news/headlines/doctor-who-series-12-glimpses-of-filming-from-new-video-release |url-status=live }}</ref>
+
+The 2021 New Year's Day special, "Revolution of the Daleks", was filmed by Lee Haven Jones.<ref name="ExtraFilming">{{Cite web|url=https://cultbox.co.uk/news/doctor-who-series-12-news-on-a-special|title=Doctor Who Series 12: news on a special|date=2019-10-09|website=CultBox|language=en-US|access-date=2019-10-19|archive-date=12 October 2019|archive-url=https://web.archive.org/web/20191012193849/https://cultbox.co.uk/news/doctor-who-series-12-news-on-a-special|url-status=live}}</ref><ref>{{Cite web|url=https://cultbox.co.uk/news/headlines/revolution-of-the-daleks-2020-filmed-scene-inserted-into-doctor-who-new-years-special|title=Revolution of the Daleks: 2020-filmed scene inserted into Doctor Who New Year's special|date=22 December 2020|website=CultBox|access-date=8 November 2021|archive-date=18 January 2021|archive-url=https://web.archive.org/web/20210118193640/https://cultbox.co.uk/news/headlines/revolution-of-the-daleks-2020-filmed-scene-inserted-into-doctor-who-new-years-special|url-status=live}}</ref> In April 2020, Chibnall confirmed that post-production was continuing on "Revolution of the Daleks" remotely throughout the [[COVID-19 pandemic]].<ref name="Christmas&S13">{{cite web |url=https://www.radiotimes.com/news/tv/2020-04-30/doctor-who-series-13-coronavirus/ |title=Doctor Who boss gives an update on Christmas special and series 13 filming |work=RadioTimes |first=Patrick |last=Cremona |date=30 April 2020 |access-date=1 May 2020 |archive-date=2 May 2020 |archive-url=https://web.archive.org/web/20200502044432/https://www.radiotimes.com/news/tv/2020-04-30/doctor-who-series-13-coronavirus/ |url-status=live }}</ref> 
+
+Production blocks were arranged as follows:<ref>{{cite web |url=https://cultbox.co.uk/news/doctor-who-series-12-new-directors-discovered |title=Doctor Who Series 12: new directors discovered |last=Laford |first=Andrea |work=CultBox |date=20 May 2019 |access-date=10 November 2021 |archive-url=https://web.archive.org/web/20190522145855/https://cultbox.co.uk/news/doctor-who-series-12-new-directors-discovered |archive-date=22 May 2019 |url-status=live }}</ref>
+
+{| class="wikitable" style="width:100%; margin-right:0;"
+|-
+! style="width:8%" | Block !! Episode(s) !! Director !! Writer(s) !! Producer
+|-
+! rowspan="2" | 1
+| "[[Spyfall (Doctor Who)|Spyfall, Part 1]]"
+| rowspan="2" | [[Jamie Magnus Stone]]
+| [[Chris Chibnall]]
+| rowspan="2" | [[Nikki Wilson]]
+|-
+| "[[Praxeus]]"
+| [[Pete McTighe]] and Chris Chibnall
+|-
+! rowspan="2" | 2
+| "[[Spyfall (Doctor Who)|Spyfall, Part 2]]"
+| rowspan="2" | Lee Haven Jones
+| Chris Chibnall
+| rowspan="2" | Alex Mercer
+|-
+| "[[Orphan 55]]"
+| [[Ed Hime]]
+|-
+! rowspan="2" | 3
+| "[[Nikola Tesla's Night of Terror]]"
+| rowspan="2" | [[Nida Manzoor]]
+| Nina Metivier
+|  rowspan="2" | Nikki Wilson
+|-
+| "[[Fugitive of the Judoon]]"
+| [[Vinay Patel]] and Chris Chibnall
+|-
+! rowspan="2" | 4
+| "[[Can You Hear Me? (Doctor Who)|Can You Hear Me?]]"
+| rowspan="2" | Emma Sullivan
+| [[Charlene James]] and Chris Chibnall
+| rowspan="2" | Alex Mercer
+|-
+| "[[The Haunting of Villa Diodati]]"
+| Maxine Alderton
+|-
+! rowspan="2" | 5
+| "[[Ascension of the Cybermen]]"
+| rowspan="2" | Jamie Magnus Stone
+| rowspan="3" | Chris Chibnall
+| rowspan="2" | Nikki Wilson
+|-
+| "[[The Timeless Children]]"
+|-
+! X
+| "[[Revolution of the Daleks]]"
+| Lee Haven Jones
+| Alex Mercer
+|}
+
+===Music===
+[[Segun Akinola]] returned to compose for the twelfth series.<ref>{{Cite web|url=https://www.segunakinola.com/index.php/blog/item/50-doctor-who-series-12-begins-new-years-day-2020|title=Doctor Who Series 12 begins New Year's Day 2020|website=www.segunakinola.com|access-date=18 December 2019|archive-date=18 December 2019|archive-url=https://web.archive.org/web/20191218063217/https://www.segunakinola.com/index.php/blog/item/50-doctor-who-series-12-begins-new-years-day-2020|url-status=live}}</ref>
+
+==Release==
+===Promotion===
+A poster for the twelfth series was released on 21 November 2019.<ref>{{cite web |url=https://www.facebook.com/DoctorWho/photos/a.182096918471010/3732363690110964/ |title=Space. For all. Coming soon. |website=Facebook |date=21 November 2019 |access-date=22 November 2019 |archive-date=22 December 2019 |archive-url=https://web.archive.org/web/20191222122909/https://www.facebook.com/DoctorWho/photos/a.182096918471010/3732363690110964/ |url-status=live }}</ref> The first trailer for the series was released on 23 November 2019, coinciding with the programme's fifty-sixth anniversary.<ref>{{cite web |url=https://www.radiotimes.com/news/tv/2019-11-22/doctor-who-series-12-teaser-first-look/ |title=Doctor Who series 12 trailer is confirmed for Saturday, 23rd November – watch first-look teaser |work=RadioTimes |first=Morgan |last=Jeffery |date=22 November 2019 |access-date=23 November 2019 |archive-date=22 December 2019 |archive-url=https://web.archive.org/web/20191222122914/https://www.radiotimes.com/news/tv/2019-11-22/doctor-who-series-12-teaser-first-look/ |url-status=live }}</ref><ref name="FirstTrailer">{{cite web |url=https://www.vitalthrills.com/2019/11/23/make-space-for-the-doctor-who-series-12-trailer-and-art/ |title=Make Space for the Doctor Who Series 12 Trailer and Art! |work=vitalthrills.com |first=Mirko |last=Mirko Parlevliet |date=23 November 2019 |access-date=23 November 2019 |archive-date=27 November 2019 |archive-url=https://web.archive.org/web/20191127203915/https://www.vitalthrills.com/2019/11/23/make-space-for-the-doctor-who-series-12-trailer-and-art/ |url-status=dead }}</ref> Another trailer was released on 2 December 2019 alongside news of the series's premiere date.<ref name="PremiereDate">{{cite web |url=https://www.bbc.co.uk/blogs/doctorwho/entries/dd109a21-7077-44d4-bcf2-c7805e29f1f8 |title=Doctor Who lands on Who Year's Day in Spyfall |publisher=[[BBC]] |date=2 December 2019 |access-date=2 December 2019 |archive-date=9 December 2019 |archive-url=https://web.archive.org/web/20191209011324/https://www.bbc.co.uk/blogs/doctorwho/entries/dd109a21-7077-44d4-bcf2-c7805e29f1f8 |url-status=live }}</ref> [[Forbidden Planet (bookstore)|Forbidden Planet]] released shirts weekly with themes that corresponded to each week's broadcast episode of Series 12.<ref>{{cite web |url=http://www.doctorwhonews.net/2019/12/doctor-who-series-12-t-shirts.html |title=Doctor Who Series 12 T-Shirts |work=DoctorWhoNews |last=Marcus |date=30 December 2019 |access-date=6 January 2020 |archive-date=22 January 2020 |archive-url=https://web.archive.org/web/20200122164621/http://www.doctorwhonews.net/2019/12/doctor-who-series-12-t-shirts.html |url-status=live }}</ref> Two new trailers were released mid-series on 20 January and 7 February 2020.<ref>{{cite web |url=https://www.radiotimes.com/news/tv/2020-01-20/doctor-who-series-12-new-trailer/ |title=Darkness, despair and deadly monsters in brand-new Doctor Who trailer |work=Radio Times |first=Huw |last=Fullerton |date=20 January 2020 |access-date=21 January 2020 |archive-date=22 February 2020 |archive-url=https://web.archive.org/web/20200222155928/https://www.radiotimes.com/news/tv/2020-01-20/doctor-who-series-12-new-trailer/ |url-status=live }}</ref><ref>{{cite web|last=Fullerton|first=Huw|date=7 February 2020|title=Revamped Cyberman design revealed in new Doctor Who trailer|url=https://www.radiotimes.com/news/tv/2020-02-07/doctor-who-new-cyberman-design/|url-status=live|archive-url=https://web.archive.org/web/20200214050627/https://www.radiotimes.com/news/tv/2020-02-07/doctor-who-new-cyberman-design/|archive-date=14 February 2020|access-date=7 February 2020|work=Radio Times}}</ref>
+
+===Broadcast===
+The BBC confirmed after the [[Doctor Who (series 11)|eleventh series']]s finale that the twelfth series would premiere in "very early" 2020.<ref name="BBC2020">{{cite news|url=https://www.bbc.com/news/entertainment-arts-46501393|title=Doctor Who: Jodie Whittaker won't return for a new series until 2020|website=BBC|date=9 December 2018|access-date=9 December 2018|archive-date=11 December 2018|archive-url=https://web.archive.org/web/20181211102802/https://www.bbc.com/news/entertainment-arts-46501393|url-status=live}}</ref><ref name="Filming&Early2020">{{cite web |url=https://www.digitalspy.com/tv/a25642732/doctor-who-series-12-release-date/ |title=Doctor Who series 12 will air on BBC One in "very early" 2020 |work=Digital Spy |first=Morgan |last=Jeffrey |date=31 December 2018 |access-date=31 December 2018 |archive-date=31 December 2018 |archive-url=https://web.archive.org/web/20181231073913/https://www.digitalspy.com/tv/a25642732/doctor-who-series-12-release-date/ |url-status=live }}</ref> BBC confirmed on 2 December 2019 that the series was set to premiere on 1 January 2020,<ref name="PremiereDate" /> and would air through 1 March 2020.<ref>{{cite web |url=https://comicyears.com/tv-shows/doctor-who-new-years-day-premiere/ |title=Doctor Who To Return in 12th Season in New Year's Day Premiere |work=Comic Years |date=2 December 2019 |access-date=4 December 2019 |archive-date=4 December 2019 |archive-url=https://web.archive.org/web/20191204022050/https://comicyears.com/tv-shows/doctor-who-new-years-day-premiere/ |url-status=live }}</ref><ref name="DWM 548" /> The twelfth series was broadcast on Sundays, bar the premiere episode which aired on a Wednesday, continuing on from the format of the eleventh series, after regular episodes of the revived era had previously been broadcast on Saturdays.<ref name="PremiereDate" /><ref>{{cite web |url=https://www.radiotimes.com/news/tv/2018-09-14/doctor-who-moving-to-sundays-jodie-whittaker-new-series/ |title=Doctor Who to move from Saturdays to Sundays for new era |work=Radio Times |first=Huw |last=Fullerton |date=5 September 2018 |access-date=22 March 2019 |archive-date=22 March 2019 |archive-url=https://web.archive.org/web/20190322084635/https://www.radiotimes.com/news/tv/2018-09-14/doctor-who-moving-to-sundays-jodie-whittaker-new-series/ |url-status=live }}</ref>
+
+The "Spyfall" two-part episode was released in cinemas in the United States on 5 January 2020.<ref name="SpyfallCinema">{{cite web |url=https://www.cinemablend.com/television/2485860/doctor-who-season-12-premiere-date-reveal-makes-the-wait-less-agonizing |title=Doctor Who Season 12 Premiere Date Reveal Makes The Wait Less Agonizing |work=CinemaBlend |first=Mick |last=Joest |date=2 December 2019 |access-date=2 December 2019 |archive-date=3 December 2019 |archive-url=https://web.archive.org/web/20191203112723/https://www.cinemablend.com/television/2485860/doctor-who-season-12-premiere-date-reveal-makes-the-wait-less-agonizing |url-status=live }}</ref> The series was followed by a special episode, "Revolution of the Daleks", on New Year's Day in 2021.<ref name="SpecialEpisode">{{cite web |url=https://www.radiotimes.com/news/tv/2019-11-22/doctor-who-christmas-special-2020/ |title=Doctor Who will have a festive special… but not until later next year, says series boss |work=RadioTimes |first=Huw |last=Fullerton |date=22 November 2019 |access-date=22 November 2019 |archive-date=22 December 2019 |archive-url=https://web.archive.org/web/20191222122852/https://www.radiotimes.com/news/tv/2019-11-22/doctor-who-christmas-special-2020/ |url-status=live }}</ref>
+
+===Home media===
+{{See also|List of Doctor Who home video releases}}
+The twelfth series was released on 4 May 2020 in Region 2, and included the 2019 special "[[Resolution (Doctor Who)|Resolution]]" in the boxset.<ref>{{cite web |url=https://www.amazon.co.uk/Doctor-Who-Complete-12-Blu-ray/dp/B082VVJZ3M/ |title=Doctor Who - Complete Series 12 [Blu-ray] [2020] |via=Amazon |access-date=7 March 2020 |archive-date=22 July 2020 |archive-url=https://web.archive.org/web/20200722165428/https://www.amazon.co.uk/Doctor-Who-Complete-12-Blu-ray/dp/B082VVJZ3M |url-status=live }}</ref> 
+{{#lst:List of Doctor Who home video releases|Series12}}
+
+==Reception==
+===Ratings===
+The series gained the lowest ratings since the revival of the show in 2005, containing six of the show's ten least-watched episodes. The average viewing figure for this series was 5.40 million UK viewers. The series finale was the least-watched episode of the show since 2005, at 4.69 million viewers.<ref>{{Cite web|last=Rosseinsky|first=Katie|date=2020-03-09|title=Doctor Who suffers lowest ratings since 2005 revival|url=https://www.standard.co.uk/stayingin/tvfilm/doctor-who-series-12-ratings-low-a4382666.html|url-status=live|archive-url=https://web.archive.org/web/20200311165034/https://www.standard.co.uk/stayingin/tvfilm/doctor-who-series-12-ratings-low-a4382666.html|archive-date=11 March 2020|access-date=2020-10-28|website=Evening Standard}}</ref> Nielsen ratings of the show on BBC America for the key demographic, people aged 18 to 34, dropped by 52.5% compared to the previous series, down to 0.13.<ref>{{Cite web|date=3 March 2020|title=Doctor Who: Season 12 Ratings|url=https://tvseriesfinale.com/tv-show/doctor-who-season-12-ratings/|access-date=1 November 2020|website=TV Series Finale|archive-date=6 September 2021|archive-url=https://web.archive.org/web/20210906023304/https://tvseriesfinale.com/tv-show/doctor-who-season-12-ratings/|url-status=live}}</ref>
+{{Television episode ratings/consolidated
+| backgroundcolour = #454CB8
+| width        = 99
+
+| hidetimeslot = yes
+| unit         = millions
+| show_auxC    = yes
+| show_auxD    = yes
+| auxC         = 28-day<br />viewers<br />(millions)
+| auxD         = [[Appreciation Index|{{white|1={{abbr|AI|Appreciation Index}}}}]]
+
+| title1       = [[#ep288a|Spyfall, Part 1]]
+| date1        = 1 January 2020
+| OVviewers1   = 4.88
+| OVrank1      = 2
+| CONviewers1  = {{#expr:{{#expr:6.887 round 2}}-4.88}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank1     = 8
+| total1       = 6.886{{efn|Episode 1, total viewers: 6.699m on TV, 101k on PC, 49k on Tablet, 37k on Smartphone}}
+| auxC1        = 7.396{{efn|Episode 1, 28-day viewers: 7.161m on TV, 124k on PC, 61k on Tablet, 49k on Smartphone}}
+| auxD1        = 82
+| ref1         = <ref name="AllRatings" /><ref name="BARB4">{{cite web |url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/ |title=Four-screen dashboard |publisher=[[Broadcasters' Audience Research Board]] |access-date=4 December 2019 |archive-date=2 February 2019 |archive-url=https://web.archive.org/web/20190202221734/https://www.barb.co.uk/viewing-data/four-screen-dashboard/ |url-status=live }}</ref><ref>{{cite web |url=http://www.doctorwhonews.net/2020/01/spyfall-overnight-viewing-figures.html |title=Spyfall - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=2 January 2020 |access-date=2 January 2020 |archive-date=5 January 2020 |archive-url=https://web.archive.org/web/20200105164547/http://www.doctorwhonews.net/2020/01/spyfall-overnight-viewing-figures.html |url-status=live }}</ref>
+
+| title2       = [[#ep288b|Spyfall, Part 2]]
+| date2        = 5 January 2020
+| OVviewers2   = 4.60
+| OVrank2      = 5
+| CONviewers2  = {{#expr:{{#expr:6.074 round 2}}-4.60}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank2     = 16
+| total2       = 6.072{{efn|Episode 2, total viewers: 5.909m on TV, 84k on PC, 45k on Tablet, 34k on Smartphone}}
+| auxC2        = 6.694{{efn|Episode 2, 28-day viewers: 6.480m on TV, 108k on PC, 58k on Tablet, 47k on Smartphone}}
+| auxD2        = 82
+| ref2         = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/01/spyfall-part-two-overnight-viewing.html |title=Spyfall - Part Two - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=6 January 2020 |access-date=6 January 2020 |archive-date=13 January 2020 |archive-url=https://web.archive.org/web/20200113103054/http://www.doctorwhonews.net/2020/01/spyfall-part-two-overnight-viewing.html |url-status=live }}</ref>
+
+| title3       = [[#ep289|Orphan 55]]
+| date3        = 12 January 2020
+| OVviewers3   = 4.19
+| OVrank3      = 5
+| CONviewers3  = {{#expr:{{#expr:5.378 round 2}}-4.19}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank3     = 25
+| total3       = 5.376{{efn|Episode 3, total viewers: 5.246m on TV, 64k on PC, 37k on Tablet, 29k on Smartphone}}
+| auxC3        = 5.889{{efn|Episode 3, 28-day viewers: 5.706m on TV, 90k on PC, 50k on Tablet, 43k on Smartphone}}
+| auxD3        = 77
+| ref3         = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/01/orphan-55-overnight-viewing-figures.html |title=Orphan 55 - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=13 January 2020 |access-date=13 January 2020 |archive-date=13 January 2020 |archive-url=https://web.archive.org/web/20200113103048/http://www.doctorwhonews.net/2020/01/orphan-55-overnight-viewing-figures.html |url-status=live }}</ref>
+
+| title4       = [[#ep290|Nikola Tesla's Night of Terror]]
+| date4        = 19 January 2020
+| OVviewers4   = 4.04
+| OVrank4      = 6
+| CONviewers4  = {{#expr:{{#expr:5.201 round 2}}-4.04}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank4     = 28
+| total4       = 5.201{{efn|Episode 4, total viewers: 5.071m on TV, 63k on PC, 37k on Tablet, 30k on Smartphone}}
+| auxC4        = 5.795{{efn|Episode 4, 28-day viewers: 5.619m on TV, 84k on PC, 49k on Tablet, 43k on Smartphone}}
+| auxD4        = 79
+| ref4         = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/01/doctor-who-overnight-viewing-figures.html |title=Nikola Tesla's Night of Terror - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=20 January 2020 |access-date=20 January 2020 |archive-date=23 January 2020 |archive-url=https://web.archive.org/web/20200123155528/http://www.doctorwhonews.net/2020/01/doctor-who-overnight-viewing-figures.html |url-status=live }}</ref>
+
+| title5       = [[#ep291|Fugitive of the Judoon]]
+| date5        = 26 January 2020
+| OVviewers5   = 4.21
+| OVrank5      = 6
+| CONviewers5  = {{#expr:{{#expr:5.573 round 2}}-4.21}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank5     = 23
+| total5       = 5.573{{efn|Episode 5, total viewers: 5.419m on TV, 73k on PC, 43k on Tablet, 37k on Smartphone}}
+| auxC5        = 6.114{{efn|Episode 5, 28-day viewers: 5.921m on TV, 91k on PC, 54k on Tablet, 49k on Smartphone}}
+| auxD5        = 83
+| ref5         = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/01/judoon-overnight-viewing-figures.html |title=Fugitive of the Judoon - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=27 January 2020 |access-date=27 January 2020 |archive-date=27 January 2020 |archive-url=https://web.archive.org/web/20200127173548/http://www.doctorwhonews.net/2020/01/judoon-overnight-viewing-figures.html |url-status=live }}</ref>
+
+| title6       = [[#ep292|Praxeus]]
+| date6        = 2 February 2020
+| OVviewers6   = 3.97
+| OVrank6      = 4
+| CONviewers6  = {{#expr:{{#expr:5.223 round 2}}-3.97}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank6     = 28
+| total6       = 5.223{{efn|Episode 6, total viewers: 5.092m on TV, 63k on PC, 38k on Tablet, 30k on Smartphone}}
+| auxC6        = 5.677{{efn|Episode 6, 28-day viewers: 5.509m on TV, 80k on PC, 47k on Tablet, 40k on Smartphone}}
+| auxD6        = 78
+| ref6         = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/02/praxeus-overnight-viewing-figures.html |title=Praxeus - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=3 February 2020 |access-date=3 February 2020 |archive-date=3 February 2020 |archive-url=https://web.archive.org/web/20200203152624/http://www.doctorwhonews.net/2020/02/praxeus-overnight-viewing-figures.html |url-status=live }}</ref>
+
+| title7       = [[#ep293|Can You Hear Me?]]
+| date7        = 9 February 2020
+| OVviewers7   = 3.81
+| OVrank7      = 7
+| CONviewers7  = {{#expr:{{#expr:4.895 round 2}}-3.81}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank7     = 35
+| total7       = 4.895{{efn|Episode 7, total viewers: 4.771m on TV, 58k on PC, 35k on Tablet, 29k on Smartphone}}
+| auxC7        = 5.412{{efn|Episode 7, 28-day viewers: 5.250m on TV, 76k on PC, 46k on Tablet, 40k on Smartphone}}
+| auxD7        = 78
+| ref7         = <ref name="AllRatings" /><ref name="12.07Consolidated">{{cite web |url=http://www.doctorwhonews.net/2020/02/can-you-hear-me-official-ratings.html |title=Can You Hear Me? - Official Ratings |work=Doctor Who News |last=Marcus |date=17 February 2020 |access-date=17 February 2020 |archive-date=18 February 2020 |archive-url=https://web.archive.org/web/20200218012416/http://www.doctorwhonews.net/2020/02/can-you-hear-me-official-ratings.html |url-status=live }}</ref><ref>{{cite web |url=http://www.doctorwhonews.net/2020/02/can-you-hear-me-overnight-viewing.html |title=Can You Hear Me? - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=10 February 2020 |access-date=10 February 2020 |archive-date=14 February 2020 |archive-url=https://web.archive.org/web/20200214050619/http://www.doctorwhonews.net/2020/02/can-you-hear-me-overnight-viewing.html |url-status=live }}</ref>
+
+| title8       = [[#ep294|The Haunting of Villa Diodati]]
+| date8        = 16 February 2020
+| OVviewers8   = 3.86
+| OVrank8      = 7
+| CONviewers8  = {{#expr:{{#expr:5.073 round 2}}-3.86}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank8     = 31
+| total8       = 5.073{{efn|Episode 8, total viewers: 4.945m on TV, 61k on PC, 36k on Tablet, 31k on Smartphone}}
+| auxC8        = 5.565{{efn|Episode 8, 28-day viewers: 5.398m on TV, 79k on PC, 46k on Tablet, 41k on Smartphone}}
+| auxD8        = 80
+| ref8         = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/02/the-haunting-of-villa-diodati-overnight.html |title=The Haunting of Villa Diodati - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=17 February 2020 |access-date=17 February 2020 |archive-date=17 February 2020 |archive-url=https://web.archive.org/web/20200217132112/http://www.doctorwhonews.net/2020/02/the-haunting-of-villa-diodati-overnight.html |url-status=live }}</ref>
+
+| title9       = [[#ep295a|Ascension of the Cybermen]]
+| date9        = 23 February 2020
+| OVviewers9   = 3.71
+| OVrank9      = 8
+| CONviewers9  = {{#expr:{{#expr:4.987 round 2}}-3.71}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank9     = 25
+| total9       = 4.987{{efn|Episode 9, total viewers: 4.847m on TV, 68k on PC, 38k on Tablet, 33k on Smartphone}}
+| auxC9        = 5.551{{efn|Episode 9, 28-day viewers: 5.374m on TV, 85k on PC, 48k on Tablet, 44k on Smartphone}}
+| auxD9        = 81
+| ref9         = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/02/ascension-of-cybermen-overnight-viewing.html |title=Ascension of the Cybermen - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=24 February 2020 |access-date=24 February 2020 |archive-date=24 February 2020 |archive-url=https://web.archive.org/web/20200224100401/http://www.doctorwhonews.net/2020/02/ascension-of-cybermen-overnight-viewing.html |url-status=live }}</ref>
+
+| title10      = [[#ep295b|The Timeless Children]]
+| date10       = 1 March 2020
+| OVviewers10  = 3.78
+| OVrank10     = 7
+| CONviewers10 = {{#expr:{{#expr:4.694 round 2}}-3.78}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank10    = 30
+| total10      = 4.694{{efn|Episode 10, total viewers: 4.550m on TV, 70k on PC, 39k on Tablet, 34k on Smartphone}}
+| auxC10       = 5.173{{efn|Episode 10, 28-day viewers: 4.999m on TV, 83k on PC, 47k on Tablet, 43k on Smartphone}}
+| auxD10       = 82
+| ref10        = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=http://www.doctorwhonews.net/2020/03/doctor-who-timeless-children-was.html |title=The Timeless Children - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=2 March 2020 |access-date=2 March 2020 |archive-date=2 March 2020 |archive-url=https://web.archive.org/web/20200302104439/http://www.doctorwhonews.net/2020/03/doctor-who-timeless-children-was.html |url-status=live }}</ref>
+
+| n11          = –
+| title11      = [[#ep296|Revolution of the Daleks]]
+| date11       = 1 January 2021
+| OVviewers11  = 4.69
+| OVrank11     = 3
+| CONviewers11 = {{#expr:{{#expr:6.355 round 2}}-4.69}}<!--Listed as expression, calculated per WP:CALC-->
+| CONrank11    = 10
+| total11      = 6.355{{efn|Special episode, total viewers: 6.246m on TV, 45k on PC, 36k on Tablet, 28k on Smartphone}}
+| auxC11       = 6.599{{efn|Special episode, total viewers: 6.459m on TV, 56k on PC, 48k on Tablet, 35k on Smartphone}}
+| auxD11       = 79
+| ref11        = <ref name="AllRatings" /><ref name="BARB4" /><ref>{{cite web |url=https://www.doctorwhonews.net/2021/01/revolution_overnight_viewing_figures.html |title=Revolution of the Daleks - Overnight Viewing Figures |work=Doctor Who News |last=Marcus |date=2 January 2021 |access-date=2 January 2021 |archive-date=2 January 2021 |archive-url=https://web.archive.org/web/20210102101734/https://www.doctorwhonews.net/2021/01/revolution_overnight_viewing_figures.html |url-status=live }}</ref>
+}}
+
+===Critical reception===
+<!--AUDIENCE RECEPTION AND RATINGS: Do not include them! Wikipedia does not support user-generated content in its articles, and thus audience ratings cannot be included. Please refer to the talk page before proceeding to edit this section, and view the multiple discussions raised on the topic. No consensus has been formed to allow this article to differ from Wikipedia's guidelines and policies by including such content. Additions of audience ratings will be reverted.-->
+
+''Doctor Who''{{'}}s twelfth series received positive reviews from critics. Series 12 holds a 78% approval rating on online review aggregation site [[Rotten Tomatoes]] with an average score of 6.55/10, based on 179 critic reviews<!--Do NOT add the "audience score" from Rotten Tomatoes, per WP:UGC. Doing so will be reverted. Read the above note.-->. The site's consensus reads "''Doctor Who''{{'}}s twelfth outing adds welcome nuances to Jodie Whittaker's Doctor and some scary new layers of horror to some of the series' most terrifying villains."<ref name="RottenTomatoes">{{cite Rotten Tomatoes|title=Doctor Who: Season 12|id=doctor-who/s12/ |access-date=<!--UPDATE-->13 April 2022 |type=tv |archive-date=18 November 2020|archive-url=https://web.archive.org/web/20201118141843/https://www.rottentomatoes.com/tv/doctor-who/s12|url-status=live}}</ref> [[Metacritic]] calculated a weighted average score of 80 out of 100 from 4 reviews of the series premiere, indicating "generally favorable reviews".<ref>{{cite Metacritic |id=doctor-who/season-12 |type=tv |title=Doctor Who - Season 12 Reviews||access-date=<!--UPDATE-->29 February 2020|archive-date=8 January 2020|archive-url=https://web.archive.org/web/20200108131237/https://www.metacritic.com/tv/doctor-who/season-12|url-status=live}}</ref>
+
+{{Television Rotten Tomatoes scores
+| color = #454CB8
+| title = Doctor Who
+| label = Series 12
+| year  = 2020
+| ref   = <ref name="RottenTomatoes" />
+| 93 | 82 | 47 | 89 | 100 | 71 | 67 | 94 | 93 | 71 }}
+
+=== Awards and nominations ===
+{{See also|List of awards and nominations received by Doctor Who}}
+{| class="wikitable sortable"
+|-
+! Year
+! Award
+! Category
+! Nominee(s)
+! Result
+! class="unsortable|{{abbr|Ref(s)|Reference(s)}}
+|-
+| rowspan="5" |2020
+| rowspan="2" |BAFTA Cymru Awards
+| Best Director
+| Lee Haven Jones for "[[Spyfall (Doctor Who)|Spyfall, Part{{nbsp}}2]]"
+| {{nom}}
+| <ref>{{Cite web|url=http://awards.bafta.org/award/2020/cymru/director-fiction|title=2020 Cymru Director: Fiction &#124; BAFTA Awards|website=awards.bafta.org|access-date=6 September 2021|archive-date=26 February 2021|archive-url=https://web.archive.org/web/20210226035049/http://awards.bafta.org/award/2020/cymru/director-fiction|url-status=live}}</ref>
+|-
+| Best Editing
+| Rebecca Trotman
+| {{won}}
+| <ref>{{Cite web|url=http://awards.bafta.org/award/2020/cymru/editing|title=2020 Cymru Editing &#124; BAFTA Awards|website=awards.bafta.org|access-date=6 September 2021|archive-date=26 February 2021|archive-url=https://web.archive.org/web/20210226034641/http://awards.bafta.org/award/2020/cymru/editing|url-status=live}}</ref>
+|-
+| Critics Choice Super Awards
+| Best Actress in a Science Fiction/Fantasy Series
+| [[Jodie Whittaker]]
+| {{nom}}
+| <ref>{{Cite web|url=https://criticschoice.com/2020/11/nominations-announced-for-the-inaugural-critics-choice-super-awards/|title=Nominations Announced for the Inaugural 'Critics Choice Super Awards' &#124; Critics Choice Awards|access-date=6 September 2021|archive-date=16 July 2021|archive-url=https://web.archive.org/web/20210716185129/https://www.criticschoice.com/2020/11/nominations-announced-for-the-inaugural-critics-choice-super-awards/|url-status=live}}</ref>
+|-
+| Saturn Awards
+| Best Science Fiction Television Series
+| ''Doctor Who''
+| {{nom}}
+| <ref>{{Cite web|url=https://www.saturnawards.org/The-Saturn-Awards-Annual-Nominations.php|title=The Saturn Awards and The Academy of Science Fiction Fantasy and Horror|website=www.saturnawards.org|access-date=6 September 2021|archive-date=8 February 2021|archive-url=https://web.archive.org/web/20210208192228/https://www.aarp.org/entertainment/movies-for-grownups/info-2021/awards-nominations.html|url-status=live}}</ref>
+|-
+| TV Choice Awards
+| Best Family Drama
+| ''Doctor Who''
+| {{nom}}
+| <ref>{{Cite web|url=https://thedoctorwhocompanion.com/2020/07/11/doctor-who-nominated-for-best-family-drama-in-tv-choice-awards-2020/|title=Doctor Who Nominated for Best Family Drama in TV Choice Awards 2020|date=July 11, 2020|access-date=6 September 2021|archive-date=3 March 2021|archive-url=https://web.archive.org/web/20210303062942/https://thedoctorwhocompanion.com/2020/07/11/doctor-who-nominated-for-best-family-drama-in-tv-choice-awards-2020/|url-status=live}}</ref>
+|-
+| 2021
+| Hugo Awards
+| [[Hugo Award for Best Dramatic Presentation#Short Form|Best Dramatic Presentation, Short Form]]
+| [[Vinay Patel]] and [[Chris Chibnall]] for "[[Fugitive of the Judoon]]"
+| {{nom}}
+| <ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/2021-hugo-awards/|title=2021 Hugo Awards|date=January 1, 2021|access-date=6 September 2021|archive-date=6 May 2021|archive-url=https://web.archive.org/web/20210506205231/http://www.thehugoawards.org/hugo-history/2021-hugo-awards/|url-status=live}}</ref>
+|}
+
+==Soundtrack==
+48 selected pieces of score from this series as composed by Segun Akinola were released in a 2-CD set on 3 April 2020 by Silva Screen Records.<ref>{{cite web |url=http://www.doctorwhonews.net/2020/03/series-12-ost-0503200645.html |title=Doctor Who Series 12 - Official Soundtrack |work=Doctor Who News |last=Foster |first=Chris |date=5 March 2020 |access-date=5 March 2020 |archive-date=22 March 2020 |archive-url=https://web.archive.org/web/20200322143429/http://www.doctorwhonews.net/2020/03/series-12-ost-0503200645.html |url-status=live }}</ref> Twelve selected pieces of score from "Revolution of the Daleks" as composed by Segun Akinola were released on digital music platforms on 2 January 2021 by Silva Screen Records,<ref>{{Cite web|url=https://music.apple.com/gb/album/doctor-who-series-12-revolution-daleks-original-television/1545203031|title=Doctor Who Series 12 - Revolution of the Daleks (Original Television Soundtrack) by Segun Akinola|via=music.apple.com|access-date=2 January 2021|archive-date=22 January 2021|archive-url=https://web.archive.org/web/20210122205001/https://music.apple.com/gb/album/doctor-who-series-12-revolution-daleks-original-television/1545203031|url-status=live}}</ref> which were also released on CD 11 November 2022 as a bonus disc to the ''[[Doctor Who: Series 13 – Flux (soundtrack)|Series 13 – Flux]]'' soundtrack release.<ref name="Series13OST">{{cite web |url=https://www.silvascreen.com/silcd1680-doctor-who-series-13-flux/ |title=SILCD1680 Doctor Who – Series 13 Flux |website=Silva Screen Records |accessdate=17 September 2022}}</ref>
+
+{{Infobox album
+| name       = Doctor Who: Series 12
+| type       = soundtrack
+| artist     = [[Segun Akinola]]
+| released   = {{Start date|2020|4|3|df=y}}
+| recorded   = 2019
+| genre      = [[Soundtrack]]
+| length     = {{Track listing total length|76:39|75:40}}
+| label      = Silva Screen Records
+| producer   = Segun Akinola
+| chronology = [[List of Doctor Who music releases|''Doctor Who'' soundtrack]]
+| prev_title = [[Doctor Who: Series 11 (soundtrack)|Doctor Who: Series 11]]
+| prev_year  = 2019
+| next_title = [[The Sun Makers#Soundtrack|Doctor Who: The Sun Makers]]
+| next_year  = 2020
+}}
+{{Track listing
+| width = 60%
+| extra_column = Episode
+| all_writing=[[Segun Akinola]], except where noted
+| headline = Disc 1
+
+| title1  = Series 12 Opening Titles
+| length1 = 0:40
+| extra1  = Various episodes
+| note1   = [[Ron Grainer]] arr. Segun Akinola
+
+| title2  = The Attacks
+| length2 = 2:28
+| extra2  = "[[Spyfall (Doctor Who)|Spyfall, Part 1]]"
+
+| title3  = Hold On
+| length3 = 0:53
+
+| title4  = MI6
+| length4 = 5:09
+
+| title5  = Beyond Your Understanding
+| length5 = 1:28
+
+| title6  = Doctor, The Doctor
+| length6 = 1:02
+
+| title7  = Going Undercover
+| length7 = 4:04
+
+| title8  = The Spy Master
+| length8 = 5:51
+
+| title9  = Don’t Panic
+| length9 = 3:41
+| extra9  = "[[Spyfall (Doctor Who)|Spyfall, Part 2]]"
+
+| title10  = The Incredible Shrinking Device
+| length10 = 3:07
+
+| title11  = Thank You
+| length11 = 2:11
+
+| title12  = The Lie
+| length12 = 3:10
+
+| title13  = Tranquility Spa
+| length13 = 3:05
+| extra13  = "[[Orphan 55]]"
+
+| title14  = Stay Alive
+| length14 = 2:48
+
+| title15  = One Possible Future
+| length15 = 6:59
+
+| title16  = Big Fat Liar
+| length16 = 2:17
+| extra16  = "[[Nikola Tesla's Night of Terror]]"
+
+| title17  = The American Sense of Humour
+| length17 = 2:22
+
+| title18  = Official Eviction Notice
+| length18 = 1:38
+
+| title19  = Superior Minds
+| length19 = 3:21
+
+| title20  = The Future Is Mine
+| length20 = 5:01
+
+| title21  = Judoon Warning Transmission
+| length21 = 2:51
+| extra21  = "[[Fugitive of the Judoon]]"
+
+| title22  = You Missed Me, Right?
+| length22 = 0:50
+
+| title23  = Fugitive Identified
+| length23 = 2:44
+
+| title24  = The Lighthouse
+| length24 = 5:05
+
+| title25  = Something Is Coming for Me
+| length25 = 3:54
+
+| total_length = {{Track listing total length|0:40|2:28|0:53|5:09|1:28|1:02|4:04|5:51|3:41|3:07|2:11|3:10|3:05|2:48|6:59|2:17|2:22|1:38|3:21|{{Track listing total length|5:01|2:51|0:50|2:44|5:05|3:54}}}}
+}}
+{{Track listing
+| width = 60%
+| extra_column = Episode
+| headline = Disc 2
+
+| title1  = Together and Alone
+| length1 = 3:29
+| extra1  = "[[Praxeus]]"
+
+| title2  = Praxeus
+| length2 = 6:39
+
+| title3  = Three Idiots Roaming
+| length3 = 5:17
+
+| title4  = Get Everyone Out
+| length4 = 2:45
+| extra4  = "[[Can You Hear Me? (Doctor Who)|Can You Hear Me?]]"
+
+| title5  = The Bloke Watching Your Dreams
+| length5 = 1:57
+
+| title6  = His Eternal Partner
+| length6 = 3:31
+
+| title7  = It’s Not Just You
+| length7 = 5:31
+
+| title8  = Tales of The Dead
+| length8 = 2:04
+| extra8  = "[[The Haunting of Villa Diodati]]"
+
+| title9  = A Traveller Moving Through Time
+| length9 = 2:15
+
+| title10  = Quicksilver
+| length10 = 2:32
+
+| title11  = She Was the Universe
+| length11 = 3:21
+
+| title12  = Brendan
+| length12 = 2:35
+| extra12  = "[[Ascension of the Cybermen]]"
+
+| title13  = Be Afraid
+| length13 = 3:46
+
+| title14  = The Fall
+| length14 = 2:02
+
+| title15  = The Ascension Shall Begin
+| length15 = 4:11
+
+| title16  = Everything Is About to Change
+| length16 = 2:49
+
+| title17  = Tecteun
+| length17 = 3:10
+| extra17  = "[[The Timeless Children]]"
+
+| title18  = Time Lords
+| length18 = 2:49
+
+| title19  = The Division
+| length19 = 1:11
+
+| title20  = CyberMasters
+| length20 = 5:08
+
+| title21  = My Penance
+| length21 = 6:03
+
+| title22  = Home Sweet Home
+| length22 = 1:25
+
+| title23  = Ascension of the Cybermen End Credits
+| length23 = 1:10
+| note23   = Ron Grainer arr. Segun Akinola
+
+| total_length = {{Track listing total length|3:29|6:39|5:17|2:45|1:57|3:31|5:31|2:04|2:15|2:32|3:21|2:35|3:46|2:02|4:11|2:49|3:10|2:49|1:11|{{Track listing total length|5:08|6:03|1:25|1:10}}}}
+}}
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist|refs=
+<ref name="AllRatings">{{cite web|title=Ratings Guide|url=http://guide.doctorwhonews.net/info.php?detail=ratings&type=date|website=Doctor Who News|access-date=5 December 2018|archive-date=11 September 2019|archive-url=https://web.archive.org/web/20190911235252/https://guide.doctorwhonews.net/info.php?detail=ratings&type=date|url-status=live}}</ref>
+}}
+
+==External links==
+{{Portal|Doctor Who|BBC}}
+* {{IMDb episodes|0436992|Doctor Who}}
+
+{{Doctor Who episodes|N12}}
+{{navboxes|list1=
+{{Doctor Who episodes by Chris Chibnall}}
+{{Thirteenth Doctor stories}}
+{{Doctor Who soundtracks}}
+}}
+
+[[Category:2020 British television seasons]]
+[[Category:Doctor Who lists|Series 12]]
+[[Category:Doctor Who series|Series 12]]
+[[Category:Thirteenth Doctor episodes| ]]

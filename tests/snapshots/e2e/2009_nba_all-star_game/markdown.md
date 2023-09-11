@@ -1,0 +1,176 @@
+The 2009 NBA All-Star Game was an exhibition basketball game that was played on February 15, 2009, during the National Basketball Association's (NBA) 2008–09 season. It was the 58th edition of the NBA All-Star Game, and was played at the US Airways Center in Phoenix, Arizona, home of the Phoenix Suns. The Western Conference defeated the Eastern Conference, 146–119. The West's Kobe Bryant and Shaquille O'Neal were named joint winners of the All-Star Game Most Valuable Player Award. This was the third time that Phoenix had hosted the All-Star Game; the city had previously hosted the event in 1975 and 1995. Phoenix was awarded the All-Star Game in an announcement by commissioner David Stern on November 8, 2007. The other reported contenders for the 2009 contest were Air Canada Centre at Toronto, Madison Square Garden at New York City, Oracle Arena at Oakland and Bradley Center at Milwaukee.
+
+The All-Star Weekend began on Friday, February 13, 2009 with the Celebrity Game and the Rookie Challenge, a game between the league's best rookies and second-year players. On Saturday, the event continued with the All-Star Saturday Night, which featured the Shooting Stars Competition, Skills Challenge, Three-Point Shootout and Slam Dunk Contest. The H–O–R–S–E Competition was first introduced and was played before the All-Star Saturday Night. The third D-League All-Star Game and the second D-League Dream Factory Friday Night, the latter of which was modeled after the NBA All-Star Saturday Night, also took place during the All-Star Weekend. The D-League Dream Factory Friday Night was held on Friday and the D-League All-Star Game was held on Saturday.
+
+In the Rookie Challenge, the Sophomores defeated the Rookies, with Sophomores' Kevin Durant named as the game MVP. In the All-Star Saturday Night events, Nate Robinson won his second Slam Dunk Contest while Daequan Cook and Derrick Rose won the Three-Point Shootout and Skills Challenge respectively. Team Detroit won their second Shootings Stars Competition, beating the home team, Team Phoenix in the final round. Kevin Durant also took home another trophy by winning the inaugural H–O–R–S–E Competition.
+
+## All-Star Game
+
+### Coaches
+
+The coaches for the All-Star game are the head coaches who currently lead the teams with the best winning percentage in their conference through the Sunday two weeks before the All-Star game. The head coaches from the previous year, Doc Rivers and Byron Scott were not eligible for selection.
+
+The coach for the Western Conference team was Los Angeles Lakers head coach Phil Jackson. This was the fourth time Jackson was selected to be an All-Star coach, after previously selected in 1992, 1996 and 2000. The Lakers entered the All-Star break with 42–10 record, the best winning percentage in the Western Conference and in the league.
+
+The coach for the Eastern Conference team was Cleveland Cavaliers head coach Mike Brown. This was the first time Brown was selected to be an All-Star coach. He became only the second Cavaliers coach to lead an All-Star team, after Lenny Wilkens in 1989. The Cavaliers entered the All-Star break with 40–11 record, the second best winning percentage in the Eastern Conference, behind Doc Rivers' Boston Celtics.
+
+### Players
+
+The rosters for the All-Star Game is chosen in two ways. The starters were chosen via a fan ballot. Two guards, two forwards and one center who receive the highest vote were named the All-Star starters. The reserves were chosen by votes among the NBA head coaches in their respective conferences. The coaches were not permitted to vote for their own players. The reserves consists of two guards, two forwards, one center and two players regardless of position. If a player is unable to participate due to injury, the commissioner will select a replacement.
+
+Dwight Howard of the Orlando Magic topped the All-Star Ballots with 3,150,181 votes, which earned him a starting position in the Eastern Conference team. He became the first player to get more than 3 million votes from the fans. LeBron James, Dwyane Wade, Kevin Garnett and Allen Iverson completed the Eastern Conference starting position. The Eastern Conference reserves includes 4 first-time selections, Danny Granger, Devin Harris, Jameer Nelson and Mo Williams, who was named as a replacement for the injured Chris Bosh. Jameer Nelson was unable to participate due to injury and Ray Allen was named to replace him. Both Boston Celtics and Orlando Magic were represented by three players on the roster.
+
+The Western Conference leading vote-getter was Kobe Bryant with 2,805,397 votes. Yao Ming, Tim Duncan, Amar'e Stoudemire and Chris Paul completed the Western Conference starting position. The Western Conference roster includes five international players in Yao Ming (China), Tim Duncan (U.S. Virgin Islands), Pau Gasol (Spain), Dirk Nowitzki (Germany) and Tony Parker (France). Shaquille O'Neal returned to the All-Star game after one-year absence with his 15th selection, the second most selections in NBA history, behind Kareem Abdul-Jabbar with 19 All-Star selections. This also marked the first time O'Neal and Bryant were in the same team since their much publicized feud. Bryant and O'Neal also reunited with coach Phil Jackson. The three of them won three successive NBA championship together with the Los Angeles Lakers in early 2000s. Four teams, Los Angeles Lakers, Phoenix Suns, New Orleans Hornets, and San Antonio Spurs, had two representations at the All-Star Game with Bryant/Gasol, Stoudemire/O'Neal, Paul/West, and Duncan/Parker.
+
+### Roster
+
+### Game
+
+Phoenix Suns' Shaquille O'Neal marked his return to the NBA All-Star Game after one-year absence with an unusual entry to the game. O'Neal, the last reserve called during the player introduction, came out with a white mask and began dancing with the dance group JabbaWockeeZ before finally opening his mask and joining the rest of the players on the court. O'Neal and previous year's regular season MVP Kobe Bryant led the West to a 146–119 victory and were named co-MVPs. This was the third All-Star Game MVP award for both players.
+
+The East led 20–10 early in the game before West coach, Phil Jackson decided to send O'Neal to the court. With O'Neal and Bryant on the court for the first time since 2004 NBA Finals, the West embarked on a 19–0 run to take the lead. The West continued to extend the lead in the second half and finally won the game by 27 points. Bryant finished with 27 points while Chris Paul added a game high 14 assists. Previous year's All-Star Game MVP LeBron James led the East with 20 points, but was unable to prevent the loss.
+
+### Guest performances
+
+Five-time Grammy Award-winning singer and songwriter John Legend and 17-time Latin Grammy winner Juanes performed during the halftime. Both singers collaborated in the extended version of Legend's song "If You're Out There", a song about hope and inspiration. The extended version includes Spanish lyrics which was sung by Juanes. A special taped message from the United States President, Barack Obama, also aired during the halftime. In the message, President Obama encouraged people to do more public service for the community. A ring ceremony to honor the gold medalists at the 2008 Olympics was also held during the halftime. Six members of USA men's national basketball team, Chris Bosh, Kobe Bryant, Dwight Howard, LeBron James, Chris Paul and Dwyane Wade, and two members of USA women's national basketball team, Lisa Leslie and Tina Thompson were awarded with their ring at the ceremony.
+
+The national anthem of both the United States and Canada were sung before the game. Arizona native and American Idol winner Jordin Sparks sang U.S. national anthem, "The Star-Spangled Banner". The Canadian national anthem, "O Canada" were sung by Tamia, Canadian singer who is also the wife of Phoenix Suns player Grant Hill. The pre-game introduction included a dance performance by the America's Best Dance Crew winner, the Jabbawockeez. Grammy-nominated singer Chris Brown was originally scheduled to appear during the pre-game introductions. He, however, withdrew from the performance due to an ongoing domestic violence case against him.
+
+Other musical guests during the All-Star Weekend were singers Corbin Bleu and Kevin Rudolf. Bleu performed "Moments That Matter" at the halftime of the Rookie Challenge on Friday while Rudolf performed "Let It Rock" during the NBA All-Star Saturday Night.
+
+## All-Star Weekend
+
+### Rookie Challenge
+
+The T-Mobile Rookie Challenge featured a team of standout first-year players ('Rookies') against a team of standout second-year players ('Sophomores'). The game was divided into two twenty-minute halves, similar to college basketball. The participating players were chosen by voting among the league's assistant coaches. The Rookies team includes the first overall draft pick in 2008 NBA draft, Derrick Rose. The rest of the Rookies team consists of five of the top ten pick in the 2008 Draft and three players from the 2007 NBA draft who were in their first NBA season. The three players are the first overall draft pick Greg Oden and two Spanish players Rudy Fernández and Marc Gasol. The Sophomores team features four players from the previous Rookie Challenge game which are Kevin Durant, Jeff Green, Al Horford and Luis Scola.
+
+The head coaches for the Rookies and Sophomores teams were the lead assistants from the 2009 NBA All-Star Game coaching staffs, Kurt Rambis from the Los Angeles Lakers and John Kuester from the Cleveland Cavaliers. For the first time in the game's history, two active NBA players were selected as leading assistant coach. Two All-Star starters Dwyane Wade and Dwight Howard were selected as the assistant coaches for the Rookies and Sophomores team respectively.
+
+This year, the first ever EA Sports Jersey Creator Contest was held to design the jerseys for both the rookie and the sophomore team. The contest called for the participants to come up with a computer-generated jersey design that would replace the individual team jerseys worn by the players during the Rookie Challenge. Of 12,000 participants, 18-year-old Tim Ahmed, a freshman at Baruch College, won the contest. Ahmed won a free trip to Phoenix and a chance to meet players. This marks the first time that a fan-designed uniform has ever been worn during an NBA game or NBA event. The Sophomores wore fan-designed white jerseys and the Rookies wore fan-designed purple jerseys in the game.
+
+The Sophomores won the game 122–116 with Sophomore Kevin Durant named as the Rookie Challenge MVP. Durant scored a record 46 points in the game, breaking Amar'e Stoudemire's 36-point record from 2004. The Rookies led by 3 at halftime, but then Durant took over, scoring 30 of his 46 points in the second half as the Sophomores outscored the Rookies by 6 points to win the game. The game marked the seventh consecutive loss for the Rookies team.
+
+### Slam Dunk Contest
+
+The Sprite Slam Dunk Contest was contested by defending champion Dwight Howard, 2006 champion Nate Robinson, 2005 contestant J. R. Smith and rookie Rudy Fernández. Fernández won the online voting on NBA.com to determine the fourth contestants, beating fellow rookies Joe Alexander and Russell Westbrook. This was the first time a dunk contestant was chosen by the fans. Fernández also became the first ever international player to participate in the contest. Smith was named as a late replacement for Rudy Gay, who was forced to withdraw from the contest due to injury.
+
+Each contestant performed two slam dunks in each round. The two best contestants in the first round, as rated by the panel of judges, advanced to the final round, where the winner was determined by fan voting. The panel of judges for this year contest consists of five former Phoenix Suns players, the inaugural Slam Dunk champion Larry Nance, 1992 champion Cedric Ceballos, 1987 All-Star Game MVP Tom Chambers and three-time All-Stars, Kevin Johnson and Dan Majerle.
+
+Dwight Howard began his title defence with two 50-point dunks to advance to the final round with a perfect score. One of his dunks employed a 12-foot high hoop. Howard also used a prop phone booth to change into his Superman cape before completing the dunk on the 12-foot hoop. Nate Robinson also advanced to the final round with 87 points, beating Smith and Fernández who had 85 and 84 points respectively.
+
+In the final round, Robinson changed his uniform into the New York Knicks' green uniform originally designed for Saint Patrick's Day. The green uniform symbolized Kryptonite, a fictional substance known to have detrimental effects on Superman. The Krypto-Nate vs. Superman theme continued when Robinson, in his final dunk, used a green basketball and leaped over the 6'11" Howard who wore his Superman cape. Robinson ended up with 52% of fan vote to win his second dunk title. He joined Michael Jordan, Dominique Wilkins, Harold Miner and Jason Richardson as the only two-time winners of the contest.
+
+### Three-Point Shootout
+
+The Foot Locker Three-Point Shootout was contested by six players. Two-time winner Jason Kapono returned to defend his title along with two former contestants, Rashard Lewis and Mike Bibby. They were joined by three first-time contestants, Daequan Cook, Danny Granger and Roger Mason. In this contest, contestants attempt to make as many three-point field goals as possible from five shooting stations behind the three-point arc in one minute. Players begin shooting from one corner of the court, and move from station to station along the three-point arc until they reach the other corner. Each station has four standard balls, worth one point each, and one specially colored "money ball", worth two points.
+
+Cook won the first round with 18 points as he advanced to the final round along with Lewis and Kapono. The second round was a tight contest between Cook and Lewis, both tied at 15 points, and Kapono, with 14. Because of the tied score, Cook and Lewis played an extra tiebreaker round. Cook went on to beat his first round score with 19 points, while Lewis finished with 7 points.
+
+### Skills Challenge
+
+The PlayStation Skills Challenge was contested by four players. Derrick Rose, the first overall draft pick in 2008 NBA draft, was joined by three All-Star guards, Devin Harris, Jameer Nelson and Tony Parker. However, Nelson was injured and was subsequently replaced by All-Star Mo Williams. In this contest, the contestants have to complete an "obstacle course" consisting of dribbling, passing and shooting stations. A contestant who finish the course with the fastest time wins the contest. All contestants must comply with basic NBA ball-handling rules while completing the course.
+
+Rose led all the contestants with 33.3 seconds in the first round, 3.3 seconds ahead of Harris. Williams was eliminated after recording 37.5 seconds, 4.2 seconds behind the lead. Parker was eliminated with the slowest time in the Skills Challenge history with 50.8 seconds. He previously held the slowest time of 45.5 points during the 2003 competition. In the second round, Harris went first and finished the course with 39.6 seconds, 3.1 seconds worse than his previous attempt. Rose went on to win the contest by recording a 35.3 seconds time while finishing the course with a dunk. Rose also became the first rookie winner of the Skills Challenge competition.
+
+### Shooting Stars Competition
+
+The Haier Shooting Stars Competition was competed between four teams of three players, with each team representing a city which has both NBA and WNBA teams. Each team consisted of one current NBA player, one current WNBA player, and one NBA legend. Team San Antonio, the defending champion, was joined by the inaugural champion, Team Los Angeles, 2005 champion, Team Phoenix and 2007 champion, Team Detroit. In this competition, each team must make six shots from six shooting locations of increasing difficulties. The team who makes all six shots with the fastest time wins the competition.
+
+In the first round, the defending champion, Team San Antonio was eliminated along with Team Los Angeles. Both teams took over 15 shots from the half court location to score. Team Detroit and Team Phoenix both advanced to the final round. Team Phoenix recorded the fastest completion time in the first round with 53.3 seconds, six seconds faster than Team Detroit. In the final round, Team Detroit made the first five shots in 13 attempts and used only 7 attempts to make the half court shot with a time of 58.4 seconds. Team Phoenix responded by making their first five shots in a single attempt each. However, they needed 22 attempts to make the half-court shot, finishing with a time of 1 minute and 19 seconds. Team Detroit won their second Shooting Stars title, joining Team San Antonio as the only two-time winners of the competition. Detroit Pistons legend and Detroit Shock head coach, Bill Laimbeer also became the first person to win the Shooting Stars Competition twice; he won his first title with Team Detroit in 2007.
+
+### H–O–R–S–E Competition
+
+On February 5, 2009, TNT announced the addition of H–O–R–S–E to its All-Star Weekend coverage. The competition was held outdoors on a half-sized court during the special Inside the NBA show prior to the All-Star Saturday Night events. The objective of this competition is to accrue as few of the five letters as possible. A player is given a letter every time they fail to duplicate the shot of another player. Each player was given 24 seconds to make or duplicate the shot (dunking was prohibited). Each player who fails to duplicate five shots was eliminated from the competition. An NBA referee was assigned to rule whether the shot was done properly.
+
+The inaugural H–O–R–S–E Competition was sponsored by American auto insurance company GEICO and hence the word G–E–I–C–O was used in replacement of H–O–R–S–E. Three NBA players, Kevin Durant, Joe Johnson and O. J. Mayo were selected to compete in the H–O–R–S–E competition.
+
+`Johnson was the first to be eliminated, having failed to duplicate Mayo's shot from the free-throw line. Durant then made a series of three-point shots to eliminate Mayo to win the inaugural H–O–R–S–E Competition.`
+
+### Celebrity Game
+
+The 2009 McDonald's NBA All-Star Celebrity Game was played on Friday, February 13 at the Phoenix Convention Center. A total of 16 celebrities took part in the game, including several former NBA players. Basketball Hall of Famers Magic Johnson and Julius Erving, who combined for 23 NBA All-Star appearances, served as coaches for the celebrity teams. NBA legends, Dominique Wilkins and Clyde Drexler, were joined by former players, Dan Majerle and Rick Fox, in the celebrity team roster. WNBA stars Lisa Leslie and Kara Lawson also participated in the game along with four Harlem Globetrotters players.
+
+Previous year's MVP, Terrell Owens scored a game-high 17 points and led the East Sunrisers to a 60–57 victory over the West Sunsetters. Owens, an American football star for Dallas Cowboys, was also named as the Celebrity Game MVP for the second successive year. The game was marked by a surprise appearance by another Hall of Famer Nancy Lieberman in the middle of the game, where she joined and played with the East Sunrisers. ESPN play-by-play commentator Mike Breen also made a surprise appearance as the referee for the game.
+
+## D-League All-Star
+
+### D-League All-Star Game
+
+Twenty of the NBA Development League's top players were selected to the D-League All-Star Game rosters by a combination of fan balloting on the official D-League website and voting by the 16 head coaches of D-League teams. The selections were divided up into two teams, the Red Team and the Blue Team, by members of the NBA and NBA D-League's Basketball Operations staff. Players who have been selected by coaches and fans must be on an active roster of a D-League team. Iowa Energy head coach Nick Nurse and Austin Toros head coach Quin Snyder were selected as the coach for the Red Team and the Blue Team respectively. Both coaches earned the honor by securing the best records in the D-League through January 27.
+
+In the third annual D-League All-Star Game, the Red Team defeated the Blue team 113–103. The Red Team trailed by 8 points at the half, but managed to outscore the Blue Team 70–52 in the second half to secure the win. Dakota's guard Blake Ahearn scored 13 points and dished 13 assists while Iowa's center Courtney Sims scored 15 points and grabbed 8 rebounds. Both players were named Co-MVPs of the D-League All-Star Game.
+
+### D-League Dream Factory Friday Night
+
+#### Slam Dunk Contest
+
+James White won the second annual D-League Slam Dunk Contest, beating Keith Clark in the final round with a perfect score of 100. Defending champion Brent Petway was unable to repeat his last year's performance and was eliminated in the first round along with Othyus Jeffers.
+
+#### Three-Point Shootout
+
+Blake Ahearn won the second annual D-League Three-Point Shootout, beating Ernest Scott in the final round by a score of 22–19. Ahearn scored four of the five money balls in the last stations. For the first time, the last station consists of five "money balls", instead of four standard balls and one "money ball". Gary Forbes and Trey Johnson were eliminated in the first round.
+
+#### H–O–R–S–E Competition
+
+Will Conroy won the second annual D-League H–O–R–S–E Competition, beating the defending champion Lance Allred with a through-the-legs-off-the-backboard lay-up.
+
+## Broadcast
+
+Turner Broadcasting Network (TNT) broadcast the All-Star Game for the sixth straight year in the United States while The Sports Network (TSN) broadcast the All-Star Game in Canada. TNT also broadcast the Rookie Challenge and the All-Star Saturday Night events. The Celebrity Game was broadcast by ESPN and the D-League All-Star events were broadcast by NBA TV.
+
+### International
+
+Aside from TNT and TSN in United States and Canada, the following television channels also broadcast the All-Star game all around the world.
+
+- Africa: Canal+ Horizons, ESPN Africa
+- Angola: TPA
+- Nigeria: Silverbird TV
+- Asia-Pacific: ESPN Asia
+- Australia: ESPN Australia
+- China: CCTV-5, Guangdong TV, Shanghai TV
+- Hong Kong: ESPN Hong Kong, TVB HD Jade, TVB Pearl
+- India: ESPN India
+- Indonesia: JakTV
+- Japan: J Sports, NHK BS-1, NHK Digital Hivision, NBA League Pass (SKY PerfectTV!
+- Lebanon: ShowSports
+- Malaysia: ESPN Malaysia
+- Philippines: C/S 9, Basketball TV
+- Republic of China: Star Sports Taiwan
+- South Korea: MBC-ESPN
+- Europe
+- Albania: Telesport
+- Armenia: AR TV
+- Belgium: Be 1, Prime Sport 1
+- Bosnia and Herzegovina: OBN TV
+- Bulgaria: TV7
+- Cyprus: Alfa TV
+- Czech Republic: Nova Sport
+- Denmark: dk4
+- Finland: Urheilu+Kanava
+- France: Canal+, Orange Sport
+- Germany: ZDF
+- Greece: ET1
+- Hungary: Sport 1
+- Iceland: Stöð 2 Sport
+- Italy: SKY Sport 2, SKY Sport HD
+- Latvia: LTV 7
+- Macedonia: Alfa TV
+- Malta: Melita Sports 1
+- Netherlands: Sport1, Sport1 HD
+- Poland: Canal+ Sport, Orange Sport
+- Portugal: Sport TV 1, Sport TV HD
+- Romania: Boom Sport One
+- Russia: NTV Plus Sport, NTV Plus HD
+- Slovenia: Sport TV
+- Spain: Canal+, Canal+ Deportes, Cuatro
+- Turkey: NTV, NTV Spor
+- United Kingdom: Five
+- Latin America: ESPN Latin America, DirecTV South America
+- Argentina: Canal 7
+- Brazil: ESPN Brasil
+- Jamaica: CVM
+- Mexico: Cadena 3
+- Panama: Cable Onda
+- Peru: CMD
+- Suriname: SCCN
+- Venezuela: Sport Plus
