@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from src.mwp_utils import replace_obj, remove_obj
+from goodwiki.mwp_utils import replace_obj, remove_obj
 
 
 @dataclass

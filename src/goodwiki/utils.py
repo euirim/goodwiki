@@ -8,7 +8,7 @@ import mwparserfromhell as mwp
 import pyarrow.parquet as pq
 from tqdm import tqdm
 
-from src.constants import removed_sections, big_templates_to_remove
+from goodwiki.constants import removed_sections, big_templates_to_remove
 
 
 def get_batch(filename: str, batch_size: int) -> Generator[list[dict], None, None]:

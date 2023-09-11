@@ -12,9 +12,9 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 from tqdm import tqdm
 
-from src.client import GoodwikiClient, WikiPage
-from src.errors import CorruptWikitextError
-from src.utils import get_batch, count_rows
+from goodwiki.client import GoodwikiClient, WikiPage
+from goodwiki.errors import CorruptWikitextError
+from goodwiki.utils import get_batch, count_rows
 
 
 PQ_SCHEMA = pa.schema(

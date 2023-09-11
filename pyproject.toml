@@ -4,8 +4,15 @@ version = "1.0.0"
 description = "Utility that converts Wikipedia pages into GitHub-flavored Markdown."
 authors = ["Euirim Choi <euirim@gmail.com>"]
 license = "MIT"
-readme = "README.md"
-packages = [{ include = 'src' }]
+repository = "https://github.com/euirim/goodwiki"
+keywords = ["wikipedia", "markdown", "dataset", "wikitext", "wikicode"]
+classifiers = [
+	"Topic :: Text Processing",
+	"Topic :: Text Processing :: Filters",
+	"Topic :: Text Processing :: Markup :: Markdown",
+]
+readme = "PYPI_README.md"
+packages = [{ include = 'goodwiki', from = "src" }]
 include = ['src/**/*']
 
 [tool.poetry.dependencies]

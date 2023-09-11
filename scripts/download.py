@@ -8,7 +8,7 @@ import pyarrow as pa
 from pyarrow import parquet
 from tqdm import tqdm
 
-from src.client import GoodwikiClient
+from goodwiki.client import GoodwikiClient
 
 
 PQ_SCHEMA = pa.schema(

@@ -1,6 +1,8 @@
-# GoodWiki Dataset
+# GoodWiki
 
-GoodWiki is a 179 million token dataset of English Wikipedia articles collected on **September 4, 2023**, that have been marked as [Good](https://en.wikipedia.org/wiki/Wikipedia:Good_articles) or [Featured](https://en.wikipedia.org/wiki/Wikipedia:Featured_articles) by Wikipedia editors. The dataset provides these articles in [GitHub-flavored Markdown](https://github.github.com/gfm/) format, preserving layout features like lists, code blocks, math, and block quotes, unlike many other public Wikipedia datasets. Articles are accompanied by a short description of the page as well as any associated categories.
+This repository contains the code used to produce the GoodWiki dataset. A subset of the code is published in the `goodwiki` Python package that converts Wikipedia pages into markdown.
+
+The GoodWiki dataset is a 179 million token corpus of English Wikipedia articles collected on **September 4, 2023**, that have been marked as [Good](https://en.wikipedia.org/wiki/Wikipedia:Good_articles) or [Featured](https://en.wikipedia.org/wiki/Wikipedia:Featured_articles) by Wikipedia editors. The dataset provides these articles in [GitHub-flavored Markdown](https://github.github.com/gfm/) format, preserving layout features like lists, code blocks, math, and block quotes, unlike many other public Wikipedia datasets. Articles are accompanied by a short description of the page as well as any associated categories.
 
 Thanks to a careful conversion process from wikicode, the markup language used by Wikipedia, articles in GoodWiki are generally faithful reproductions of the corresponding original Wikipedia pages, minus references, files, infoboxes, and tables. Curated template transclusion and HTML tag handling have minimized instances where entire words and phrases are missing mid-sentence like in other public Wikipedia datasets.
 
@@ -10,18 +12,86 @@ GoodWiki is more than 1.5 times larger (when compared using the same tokenizer) 
 
 ## Table of Contents
 
-* [Composition](#composition)
-	* [Languages](#languages)
-	* [Markdown Details](#markdown-details)
-* [Methodology](#methodology)
-	* [Alternatives Considered](#alternatives-considered)
-* [Limitations](#limitations)
-* [Future Work](#future-work)
-* [License](#license)
+* [Usage](#usage)
+	* [Python Package](#python-package)
+	* [Dataset Scripts](#dataset-scripts)
+* [Dataset](#dataset)
+	* [Download](#download)
+	* [Composition](#composition)
+		* [Languages](#languages)
+		* [Markdown Details](#markdown-details)
+	* [Methodology](#methodology)
+		* [Alternatives Considered](#alternatives-considered)
+	* [Limitations](#limitations)
+	* [Future Work](#future-work)
 * [Citation](#citation)
+* [License](#license)
 * [Feedback and Contributions](#feedback-and-contributions)
 
-## Composition
+## Usage
+
+### Python Package
+
+Requires Python 3.11+.
+
+1. Install via pip.
+
+```bash
+pip install goodwiki
+```
+
+2. Install pandoc. Follow instructions [here](https://pandoc.org/installing.html).
+
+3. Example usage:
+
+```python
+import asyncio
+from goodwiki import GoodwikiClient
+
+client = GoodwikiClient()
+page = asyncio.run(client.get_page("Usain Bolt"))
+print(page)
+```
+
+You can find full details on how to use the package in the package-specific [README](https://github.com/euirim/goodwiki/blob/main/PYPI_README.md).
+
+### Dataset Scripts
+
+To compile the dataset yourself, first ensure that [Poetry](https://python-poetry.org/docs/) and [Pandoc](https://pandoc.org/installing.html) is installed.
+
+Then setup your local environment.
+
+```bash
+poetry install
+poetry shell
+```
+
+Now download the raw Good and Featured pages. Note the location of the generated parquet file.
+
+```bash
+python -m scripts.download ./data
+```
+
+Finally, process and compile the dataset.
+
+```bash
+python -m scripts.generate ${RAW_DATA_FILENAME} ${OUT_FILENAME}
+```
+
+**Note:** Both scripts are relatively slow for two reasons:
+
+1. Both scripts require network requests to the Wikipedia API. In order to be courteous consumers, these scripts rate limit requests.
+
+2. The generate script is not parallelized, only relying on asyncio.
+
+## Dataset
+
+
+### Download
+
+You can download the dataset via the [HuggingFace Hub](https://huggingface.co/datasets/euirim/goodwiki).
+
+### Composition
 
 The dataset consists of **44,754 rows** in a **482.7 MB** snappy-compressed Parquet file. Each row consists of the following fields:
 
@@ -53,17 +123,17 @@ The markdown field contains a total of **179,198,101 tokens** tokenized using Hu
 
 Even with the markdown formatting, GoodWiki can also be used as a plaintext dataset as markdown formatting syntax is fairly minimal.
 
-### Languages
+#### Languages
 
 While articles are taken exclusively from English Wikipedia, they sometimes contain small snippets from other languages as well as recurring use of the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) in article ledes. Some articles include code blocks in pseudocode as well as in popular programming languages.
 
-### Markdown Details
+#### Markdown Details
 
 GoodWiki articles follow the GitHub-flavored Markdown spec, including for blockquotes, code blocks, and lists. Bolding, italicizing, underlining, and strikethroughs have been removed as they introduce a lot of noise especially in math/computing articles.
 
 Some markdown details are worth highlighting:
 
-#### Math
+##### Math
 
 Content in math templates and XML tags are enclosed in markdown with `$` delimiters. For example,
 
@@ -73,15 +143,15 @@ Content in math templates and XML tags are enclosed in markdown with `$` delimit
 
 becomes: `$O(n^2)$`.
 
-#### Super/Subscript
+##### Super/Subscript
 
 Superscripts and subscripts are denoted using `<sup></sup>` and `<sub></sub>` tags respectively.
 
-#### \$ and \#
+##### \$ and \#
 
 Dollar signs and hashes are escaped with `\` to avoid interfering with math and heading syntax.
 
-## Methodology
+### Methodology
 
 On the evening of September 4, 2023 PT, we downloaded the wikicode of articles associated with the [Good](https://en.wikipedia.org/wiki/Category:Good_articles) and [Featured](https://en.wikipedia.org/wiki/Category:Featured_articles) categories in the main namespace (`ns=0`) on Wikipedia via the [Query API](https://www.mediawiki.org/wiki/API:Query).
 
@@ -91,25 +161,25 @@ The Expandtemplates output is then postprocessed. During this phase, we remove s
 
 The markdown output is then cleaned using regular expressions to remove excessive spacing, empty list items, unnecessary escaping, and resolve other problems with Pandoc's conversion. We normalized the markdown output unicode to a composed form (NFKC).
 
-### Alternatives Considered
+#### Alternatives Considered
 
-#### Converting End-To-End Using Pandoc
+##### Converting End-To-End Using Pandoc
 
 While Pandoc can in theory convert raw wikicode to markdown, it is **not** a complete wikicode parser and therefore often produces errant output without preprocessing. Furthermore, direct conversion of raw wikicode would lose a lot of the content attached to wikicode templates as Pandoc cannot perform transclusion.
 
-#### Using TextExtracts API
+##### Using TextExtracts API
 
 Wikipedia has a [TextExtracts](https://www.mediawiki.org/wiki/Extension:TextExtracts#API) API that directly outputs a limited HTML or plaintext output of a page given that page's title. In practice, I've found the HTML output generated by this endpoint to often contain malformed or incomplete HTML with injected references that are difficult to parse. The plaintext output was also often poor, including reference artifacts and missing content.
 
 Other caveats are listed [here](https://www.mediawiki.org/wiki/Extension:TextExtracts#API) and were the reasons why this approach was discarded.
 
-#### Transcluding All Templates
+##### Transcluding All Templates
 
 During the preprocessing process, we eliminate templates outside of a given subset. We did this because we found that transcluding all templates injected a lot of noise in the output, including janky HTML, styles, references, and unnecessary content. This noise made parsing difficult and error-prone, resulting in poor quality markdown littered with artifacts similar to those visible in the TextExtracts output.
 
 Transcluding a subset largely solved these issues while still preserving as much content as possible.
 
-## Limitations
+### Limitations
 
 * Chemical equations sometimes include formatting issues like unnecessary line-breaks. These equations, however, are rare.
 * In articles about ancient civilizations and languages, rare Unicode characters are occasionally included in the markdown. It might be worth removing these characters during the tokenization process.
@@ -119,7 +189,7 @@ Transcluding a subset largely solved these issues while still preserving as much
 * Some code blocks are denoted using indents instead of formal code blocks. This is due to the original wikicode not denoting them as such.
 * Template subset allowing transclusion will probably need to be updated for use in future data dumps. The list of templates used on Wikipedia is constantly evolving.
 
-## Future Work
+### Future Work
 
 Time permitting, we hope to apply this careful conversion/generation process on all of English Wikipedia which will require our conversion script to be much faster and better parallelized. We also hope to extract other information from pages like entries in infoboxes that could be useful for question answering and instruction tuning applications.
 
@@ -133,7 +203,7 @@ While this project is permissively licensed, we hope that you contribute any imp
 
 ## Citation
 
-If you use the GoodWiki Dataset in your research or projects, please cite it using the following citation:
+If you use the GoodWiki Dataset or code in your research or projects, please cite it using the following citation:
 
 ```tex
 @misc{GoodWiki,

@@ -8,9 +8,9 @@ import mwparserfromhell as mwp
 import pypandoc
 from wikipediaapi import Wikipedia
 
-from src.constants import removed_sections, templates_to_keep, country_templates
-from src.errors import CorruptWikitextError
-from src.mwp_utils import (
+from goodwiki.constants import removed_sections, templates_to_keep, country_templates
+from goodwiki.errors import CorruptWikitextError
+from goodwiki.mwp_utils import (
     try_remove_obj,
     is_media_wikilink,
     RE_CLEAN_WIKILINK,
@@ -24,7 +24,7 @@ from src.mwp_utils import (
     get_template_name,
     is_parser_function,
 )
-from src.tags import TagTranscluder
+from goodwiki.tags import TagTranscluder
 
 
 @dataclass

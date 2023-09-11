@@ -1,6 +1,6 @@
 import re
 
-from src.constants import parser_functions
+from goodwiki.constants import parser_functions
 
 
 # Filters for magic words that are parser instructions -- e.g., __NOTOC__
