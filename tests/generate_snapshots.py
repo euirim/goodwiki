@@ -4,7 +4,7 @@ import os
 
 import click
 
-from src.client import GoodwikiClient
+from goodwiki.client import GoodwikiClient
 
 
 def get_title_from_dirname(dirname: str) -> str:

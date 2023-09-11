@@ -4,7 +4,7 @@ import os
 
 from tqdm import tqdm
 
-from src.client import GoodwikiClient
+from goodwiki.client import GoodwikiClient
 
 
 FILE_DIR = os.path.dirname(os.path.realpath(__file__))
